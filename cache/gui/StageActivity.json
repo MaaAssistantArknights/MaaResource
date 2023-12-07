@@ -1,6 +1,19 @@
 {
     "Official": {
         "sideStoryStage": [
+           {
+                "Display": "RS-5",
+                "Value": "RS-5",
+                "Drop": "效率很低，仅限搓玉玩家兼顾搬商店",
+                "MinimumRequired": "v4.27.0",
+                "Activity": {
+                    "Tip": "SideStory「银心湖列车」",
+                    "StageName": "RS",
+                    "UtcStartTime": "2023/12/05 16:00:00",
+                    "UtcExpireTime": "2023/12/19 03:59:59",
+                    "TimeZone": 8
+                }
+            },
             {
                 "Display": "RS-6",
                 "Value": "RS-6",

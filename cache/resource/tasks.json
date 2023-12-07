@@ -29,6 +29,16 @@
             "RS-6@SwipeToStage"
         ]
     },
+    "RS-5": {
+        "algorithm": "JustReturn",
+        "sub": [
+            "RS-OpenOcr"
+        ],
+        "next": [
+            "RS-5@SideStoryStage",
+            "RS-5@SwipeToStage"
+        ]
+    },
     "RS-OpenOcr": {
         "action": "ClickSelf",
         "algorithm": "OcrDetect",
@@ -76,9 +86,14 @@
             "RS-7"
         ]
     },
-    "RS-9@SideStoryStage": {
+    "RS-6@SideStoryStage": {
         "text": [
-            "RS-9"
+            "RS-6"
+        ]
+    },
+    "RS-5@SideStoryStage": {
+        "text": [
+            "RS-5"
         ]
     }
 }
