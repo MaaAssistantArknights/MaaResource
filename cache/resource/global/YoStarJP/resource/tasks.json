@@ -1,2 +1,5 @@
 {
+    "StageEntries": {
+        "templThreshold": 0.7
+    }
 }
