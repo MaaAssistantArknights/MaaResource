@@ -1,4 +1,16 @@
 {
+    "HE-Open": {
+        "text": [
+            "空想の花庭",
+            "開催中"
+        ]
+    },
+    "HEChapterToHE": {
+        "text": [
+            "アンブロシウス",
+            "修道院"
+        ]
+    },
     "StageEntries": {
         "templThreshold": 0.7
     }
