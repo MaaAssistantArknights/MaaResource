@@ -165,41 +165,41 @@
     "YoStarEN": {
         "sideStoryStage": [
             {
-                "Display": "SN-8",
-                "Value": "SN-8",
+                "Display": "HE-6",
+                "Value": "HE-6",
                 "Drop": "30043",
-                "MinimumRequired": "v4.27.0",
+                "MinimumRequired": "v4.28.3",
                 "Activity": {
-                    "Tip": "Stultifera Navis - Rerun",
-                    "StageName": "SN",
-                    "UtcStartTime": "2023/11/28 10:00:00",
-                    "UtcExpireTime": "2023/12/08 03:59:59",
+                    "Tip": "Hortus de Escapismo",
+                    "StageName": "HE",
+                    "UtcStartTime": "2023/12/21 10:00:00",
+                    "UtcExpireTime": "2024/01/11 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "SN-9",
-                "Value": "SN-9",
-                "Drop": "30083",
-                "MinimumRequired": "v4.27.0",
+                "Display": "HE-7",
+                "Value": "HE-7",
+                "Drop": "31013",
+                "MinimumRequired": "v4.28.3",
                 "Activity": {
-                    "Tip": "Stultifera Navis - Rerun",
-                    "StageName": "SN",
-                    "UtcStartTime": "2023/11/28 10:00:00",
-                    "UtcExpireTime": "2023/12/08 03:59:59",
+                    "Tip": "Hortus de Escapismo",
+                    "StageName": "HE",
+                    "UtcStartTime": "2023/12/21 10:00:00",
+                    "UtcExpireTime": "2024/01/11 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "SN-10",
-                "Value": "SN-10",
-                "Drop": "31053",
-                "MinimumRequired": "v4.27.0",
+                "Display": "HE-8",
+                "Value": "HE-8",
+                "Drop": "30103",
+                "MinimumRequired": "v4.28.3",
                 "Activity": {
-                    "Tip": "Stultifera Navis - Rerun",
-                    "StageName": "SN",
-                    "UtcStartTime": "2023/11/28 10:00:00",
-                    "UtcExpireTime": "2023/12/08 03:59:59",
+                    "Tip": "Hortus de Escapismo",
+                    "StageName": "HE",
+                    "UtcStartTime": "2023/12/21 10:00:00",
+                    "UtcExpireTime": "2024/01/11 03:59:59",
                     "TimeZone": -7
                 }
             }
