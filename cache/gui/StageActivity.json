@@ -4,7 +4,7 @@
            {
                 "Display": "SSReopen-FC",
                 "Value": "SSReopen-FC",
-                "Drop": "自动复刻（需代理）（此功能暂时无法使用理智药，请确保开始前理智超过115点足够完全复刻，待后续更新修复）",
+                "Drop": "详情见公告，暂不推荐使用，待后续更新修复",
                 "MinimumRequired": "v4.27.0",
                 "Activity": {
                     "Tip": "SideStory「照我以火」复刻",
