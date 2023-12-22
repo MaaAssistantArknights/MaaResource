@@ -2,54 +2,54 @@
     "Official": {
         "sideStoryStage": [
            {
-                "Display": "RS-5",
-                "Value": "RS-5",
-                "Drop": "效率很低，仅限搓玉玩家兼顾搬商店",
+                "Display": "SSReopen-FC",
+                "Value": "SSReopen-FC",
+                "Drop": "自动复刻（需代理）（此功能占时无法使用理智药，请确保开始前理智超过115点足够完全复刻，待后续更新修复）",
                 "MinimumRequired": "v4.27.0",
                 "Activity": {
-                    "Tip": "SideStory「银心湖列车」",
-                    "StageName": "RS",
-                    "UtcStartTime": "2023/12/05 16:00:00",
-                    "UtcExpireTime": "2023/12/19 03:59:59",
+                    "Tip": "SideStory「照我以火」复刻",
+                    "StageName": "FC",
+                    "UtcStartTime": "2023/12/22 16:00:00",
+                    "UtcExpireTime": "2024/01/01 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "RS-6",
-                "Value": "RS-6",
-                "Drop": "30033",
+                "Display": "FC-5",
+                "Value": "FC-5",
+                "Drop": "30023",
                 "MinimumRequired": "v4.27.0",
                 "Activity": {
-                    "Tip": "SideStory「银心湖列车」",
-                    "StageName": "RS",
-                    "UtcStartTime": "2023/12/05 16:00:00",
-                    "UtcExpireTime": "2023/12/19 03:59:59",
+                    "Tip": "SideStory「照我以火」复刻",
+                    "StageName": "FC",
+                    "UtcStartTime": "2023/12/22 16:00:00",
+                    "UtcExpireTime": "2024/01/01 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "RS-7",
-                "Value": "RS-7",
-                "Drop": "30083",
+                "Display": "FC-6",
+                "Value": "FC-6",
+                "Drop": "30043",
                 "MinimumRequired": "v4.27.0",
                 "Activity": {
-                    "Tip": "SideStory「银心湖列车」",
-                    "StageName": "RS",
-                    "UtcStartTime": "2023/12/05 16:00:00",
-                    "UtcExpireTime": "2023/12/19 03:59:59",
+                    "Tip": "SideStory「照我以火」复刻",
+                    "StageName": "FC",
+                    "UtcStartTime": "2023/12/22 16:00:00",
+                    "UtcExpireTime": "2024/01/01 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "RS-8",
-                "Value": "RS-8",
-                "Drop": "晶体元件 杂鱼❤",
+                "Display": "FC-7",
+                "Value": "FC-7",
+                "Drop": "31043",
                 "MinimumRequired": "v4.27.0",
                 "Activity": {
-                    "Tip": "SideStory「银心湖列车」",
-                    "StageName": "RS",
-                    "UtcStartTime": "2023/12/05 16:00:00",
-                    "UtcExpireTime": "2023/12/19 03:59:59",
+                    "Tip": "SideStory「照我以火」复刻",
+                    "StageName": "FC",
+                    "UtcStartTime": "2023/12/22 16:00:00",
+                    "UtcExpireTime": "2024/01/01 03:59:59",
                     "TimeZone": 8
                 }
             }
