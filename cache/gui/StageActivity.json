@@ -167,7 +167,7 @@
             {
                 "Display": "HE-6",
                 "Value": "HE-6",
-                "Drop": "30043",
+                "Drop": "30013",
                 "MinimumRequired": "v4.28.3",
                 "Activity": {
                     "Tip": "Hortus de Escapismo",
