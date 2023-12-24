@@ -1,7 +1,7 @@
 {
     "Official": {
         "sideStoryStage": [
-           {
+            {
                 "Display": "SSReopen-FC",
                 "Value": "SSReopen-FC",
                 "Drop": "复刻FC1~7(需代理)",
@@ -68,7 +68,7 @@
                 "Display": "HE-6",
                 "Value": "HE-6",
                 "Drop": "30013",
-                "MinimumRequired": "v4.27.0",
+                "MinimumRequired": "v4.28.3",
                 "Activity": {
                     "Tip": "サイドストーリー「空想の花庭」",
                     "StageName": "HE",
@@ -81,7 +81,7 @@
                 "Display": "HE-7",
                 "Value": "HE-7",
                 "Drop": "31013",
-                "MinimumRequired": "v4.27.0",
+                "MinimumRequired": "v4.28.3",
                 "Activity": {
                     "Tip": "サイドストーリー「空想の花庭」",
                     "StageName": "HE",
@@ -94,7 +94,7 @@
                 "Display": "HE-8",
                 "Value": "HE-8",
                 "Drop": "30103",
-                "MinimumRequired": "v4.27.0",
+                "MinimumRequired": "v4.28.3",
                 "Activity": {
                     "Tip": "サイドストーリー「空想の花庭」",
                     "StageName": "HE",
@@ -118,7 +118,7 @@
                 "Display": "HE-6",
                 "Value": "HE-6",
                 "Drop": "30013",
-                "MinimumRequired": "v4.27.0",
+                "MinimumRequired": "v4.28.3",
                 "Activity": {
                     "Tip": "사이드「공상의 정원」",
                     "StageName": "HE",
@@ -131,7 +131,7 @@
                 "Display": "HE-7",
                 "Value": "HE-7",
                 "Drop": "31013",
-                "MinimumRequired": "v4.27.0",
+                "MinimumRequired": "v4.28.3",
                 "Activity": {
                     "Tip": "사이드「공상의 정원」",
                     "StageName": "HE",
@@ -144,7 +144,7 @@
                 "Display": "HE-8",
                 "Value": "HE-8",
                 "Drop": "30103",
-                "MinimumRequired": "v4.27.0",
+                "MinimumRequired": "v4.28.3",
                 "Activity": {
                     "Tip": "사이드「공상의 정원」",
                     "StageName": "HE",
@@ -173,7 +173,7 @@
                     "Tip": "Hortus de Escapismo",
                     "StageName": "HE",
                     "UtcStartTime": "2023/12/21 10:00:00",
-                    "UtcExpireTime": "2024/01/11 03:59:59",
+                    "UtcExpireTime": "2024/01/04 03:59:59",
                     "TimeZone": -7
                 }
             },
@@ -186,7 +186,7 @@
                     "Tip": "Hortus de Escapismo",
                     "StageName": "HE",
                     "UtcStartTime": "2023/12/21 10:00:00",
-                    "UtcExpireTime": "2024/01/11 03:59:59",
+                    "UtcExpireTime": "2024/01/04 03:59:59",
                     "TimeZone": -7
                 }
             },
@@ -199,7 +199,7 @@
                     "Tip": "Hortus de Escapismo",
                     "StageName": "HE",
                     "UtcStartTime": "2023/12/21 10:00:00",
-                    "UtcExpireTime": "2024/01/11 03:59:59",
+                    "UtcExpireTime": "2024/01/04 03:59:59",
                     "TimeZone": -7
                 }
             }
