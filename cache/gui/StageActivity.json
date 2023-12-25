@@ -4,7 +4,7 @@
             {
                 "Display": "SSReopen-FC",
                 "Value": "SSReopen-FC",
-                "Drop": "复刻FC1~7(需代理)",
+                "Drop": "代理1~8",
                 "MinimumRequired": "v4.27.0",
                 "Activity": {
                     "Tip": "SideStory「照我以火」复刻",
