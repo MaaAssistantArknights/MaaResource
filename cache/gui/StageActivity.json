@@ -31,7 +31,7 @@
                 "Display": "FC-6",
                 "Value": "FC-6",
                 "Drop": "30043",
-                "MinimumRequired": "vv4.28.6",
+                "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「照我以火」复刻",
                     "StageName": "FC",
