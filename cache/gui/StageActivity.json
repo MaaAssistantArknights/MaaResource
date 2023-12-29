@@ -5,7 +5,7 @@
                 "Display": "SSReopen-FC",
                 "Value": "SSReopen-FC",
                 "Drop": "代理1~8",
-                "MinimumRequired": "v4.27.0",
+                "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「照我以火」复刻",
                     "StageName": "FC",
@@ -18,7 +18,7 @@
                 "Display": "FC-5",
                 "Value": "FC-5",
                 "Drop": "30023",
-                "MinimumRequired": "v4.27.0",
+                "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「照我以火」复刻",
                     "StageName": "FC",
@@ -31,7 +31,7 @@
                 "Display": "FC-6",
                 "Value": "FC-6",
                 "Drop": "30043",
-                "MinimumRequired": "v4.27.0",
+                "MinimumRequired": "vv4.28.6",
                 "Activity": {
                     "Tip": "SideStory「照我以火」复刻",
                     "StageName": "FC",
@@ -44,7 +44,7 @@
                 "Display": "FC-7",
                 "Value": "FC-7",
                 "Drop": "31043",
-                "MinimumRequired": "v4.27.0",
+                "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「照我以火」复刻",
                     "StageName": "FC",
