@@ -1,16 +1,16 @@
 {
-    "HE-Open": {
+    "LE-Open": {
         "text": [
-            "Hortus",
-            "Escapismo",
-            "Sacrarium",
-            "Derelictum"
+            "Lingering Echoes",
+            "Lingering",
+            "Echoes"
         ]
     },
-    "HEChapterToHE": {
+    "LEChapterToLE": {
         "text": [
-            "SANCTILAMINIUM",
-            "AMBROSII"
+            "Afterglow Hall",
+            "Afterglow",
+            "Hall"
         ]
     }
 }
