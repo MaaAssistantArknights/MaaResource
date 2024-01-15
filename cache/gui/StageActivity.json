@@ -65,41 +65,41 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
-                "Display": "LE-5",
-                "Value": "LE-5",
-                "Drop": "30023",
-                "MinimumRequired": "v4.28.7",
+                "Display": "SL-6",
+                "Value": "SL-6",
+                "Drop": "30053",
+                "MinimumRequired": "v4.28.8",
                 "Activity": {
-                    "Tip": "サイドストーリー「塵影に交わる残響」復刻",
-                    "StageName": "LE",
-                    "UtcStartTime": "2024/01/05 16:00:00",
-                    "UtcExpireTime": "2024/01/15 03:59:59",
+                    "Tip": "サイドストーリー「火山と雲と夢色の旅路」",
+                    "StageName": "SL",
+                    "UtcStartTime": "2024/01/16 16:00:00",
+                    "UtcExpireTime": "2024/02/06 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "LE-6",
-                "Value": "LE-6",
-                "Drop": "30093",
-                "MinimumRequired": "v4.28.7",
+                "Display": "SL-7",
+                "Value": "SL-7",
+                "Drop": "31033",
+                "MinimumRequired": "v4.28.8",
                 "Activity": {
-                    "Tip": "サイドストーリー「塵影に交わる残響」復刻",
-                    "StageName": "LE",
-                    "UtcStartTime": "2024/01/05 16:00:00",
-                    "UtcExpireTime": "2024/01/15 03:59:59",
+                    "Tip": "サイドストーリー「火山と雲と夢色の旅路」",
+                    "StageName": "SL",
+                    "UtcStartTime": "2024/01/16 16:00:00",
+                    "UtcExpireTime": "2024/02/06 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "LE-7",
-                "Value": "LE-7",
-                "Drop": "31043",
-                "MinimumRequired": "v4.28.7",
+                "Display": "SL-8",
+                "Value": "SL-8",
+                "Drop": "30083",
+                "MinimumRequired": "v4.28.8",
                 "Activity": {
-                    "Tip": "サイドストーリー「塵影に交わる残響」復刻",
-                    "StageName": "LE",
-                    "UtcStartTime": "2024/01/05 16:00:00",
-                    "UtcExpireTime": "2024/01/15 03:59:59",
+                    "Tip": "サイドストーリー「火山と雲と夢色の旅路」",
+                    "StageName": "SL",
+                    "UtcStartTime": "2024/01/16 16:00:00",
+                    "UtcExpireTime": "2024/02/06 03:59:59",
                     "TimeZone": 9
                 }
             }
@@ -115,41 +115,41 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "LE-5",
-                "Value": "LE-5",
-                "Drop": "30023",
-                "MinimumRequired": "v4.28.7",
+                "Display": "SL-6",
+                "Value": "SL-6",
+                "Drop": "30053",
+                "MinimumRequired": "v4.28.8",
                 "Activity": {
-                    "Tip": "사이드「링거링 에코스」재개방",
-                    "StageName": "LE",
-                    "UtcStartTime": "2024/01/05 16:00:00",
-                    "UtcExpireTime": "2024/01/15 03:59:59",
+                    "Tip": "SideStory - 화산의 꿈 여행",
+                    "StageName": "SL",
+                    "UtcStartTime": "2024/01/16 16:00:00",
+                    "UtcExpireTime": "2024/02/06 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "LE-6",
-                "Value": "LE-6",
-                "Drop": "30093",
-                "MinimumRequired": "v4.28.7",
+                "Display": "SL-7",
+                "Value": "SL-7",
+                "Drop": "31033",
+                "MinimumRequired": "v4.28.8",
                 "Activity": {
-                    "Tip": "사이드「링거링 에코스」재개방",
-                    "StageName": "LE",
-                    "UtcStartTime": "2024/01/05 16:00:00",
-                    "UtcExpireTime": "2024/01/15 03:59:59",
+                    "Tip": "SideStory - 화산의 꿈 여행",
+                    "StageName": "SL",
+                    "UtcStartTime": "2024/01/16 16:00:00",
+                    "UtcExpireTime": "2024/02/06 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "LE-7",
-                "Value": "LE-7",
-                "Drop": "31043",
-                "MinimumRequired": "v4.28.7",
+                "Display": "SL-8",
+                "Value": "SL-8",
+                "Drop": "30083",
+                "MinimumRequired": "v4.28.8",
                 "Activity": {
-                    "Tip": "사이드「링거링 에코스」재개방",
-                    "StageName": "LE",
-                    "UtcStartTime": "2024/01/05 16:00:00",
-                    "UtcExpireTime": "2024/01/15 03:59:59",
+                    "Tip": "SideStory - 화산의 꿈 여행",
+                    "StageName": "SL",
+                    "UtcStartTime": "2024/01/16 16:00:00",
+                    "UtcExpireTime": "2024/02/06 03:59:59",
                     "TimeZone": 9
                 }
             }
