@@ -165,41 +165,41 @@
     "YoStarEN": {
         "sideStoryStage": [
             {
-                "Display": "LE-5",
-                "Value": "LE-5",
-                "Drop": "30023",
-                "MinimumRequired": "v4.28.7",
+                "Display": "SL-6",
+                "Value": "SL-6",
+                "Drop": "30053",
+                "MinimumRequired": "v4.28.8",
                 "Activity": {
-                    "Tip": "Sidesstory: Lingering Echoes Rerun",
-                    "StageName": "LE",
-                    "UtcStartTime": "2024/01/05 10:00:00",
-                    "UtcExpireTime": "2024/01/15 03:59:59",
+                    "Tip": "Sidestory: So Long, Adele",
+                    "StageName": "SL",
+                    "UtcStartTime": "2024/01/16 10:00:00",
+                    "UtcExpireTime": "2024/02/06 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "LE-6",
-                "Value": "LE-6",
-                "Drop": "30093",
-                "MinimumRequired": "v4.28.7",
+                "Display": "SL-7",
+                "Value": "SL-7",
+                "Drop": "31033",
+                "MinimumRequired": "v4.28.8",
                 "Activity": {
-                    "Tip": "Sidesstory: Lingering Echoes Rerun",
-                    "StageName": "LE",
-                    "UtcStartTime": "2024/01/05 10:00:00",
-                    "UtcExpireTime": "2024/01/15 03:59:59",
+                    "Tip": "Sidestory: So Long, Adele",
+                    "StageName": "SL",
+                    "UtcStartTime": "2024/01/16 10:00:00",
+                    "UtcExpireTime": "2024/02/06 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "LE-7",
-                "Value": "LE-7",
-                "Drop": "31043",
-                "MinimumRequired": "v4.28.7",
+                "Display": "SL-8",
+                "Value": "SL-8",
+                "Drop": "300833",
+                "MinimumRequired": "v4.28.8",
                 "Activity": {
-                    "Tip": "Sidesstory: Lingering Echoes Rerun",
-                    "StageName": "LE",
-                    "UtcStartTime": "2024/01/05 10:00:00",
-                    "UtcExpireTime": "2024/01/15 03:59:59",
+                    "Tip": "Sidestory: So Long, Adele",
+                    "StageName": "SL",
+                    "UtcStartTime": "2024/01/16 10:00:00",
+                    "UtcExpireTime": "2024/02/06 03:59:59",
                     "TimeZone": -7
                 }
             }

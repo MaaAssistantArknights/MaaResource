@@ -1,20 +1,16 @@
 {
-    "LE-Open": {
+    "SL-Open": {
         "text": [
-            "Lingering Echoes",
-            "Lingering",
-            "Echoes"
+            "So Long, Adele: Home Away From Home",
+            "So Long, Adele",
+            "Home Away From Home"
         ]
     },
-    "LEChapterToLE": {
-        "ocrReplace": [
-            [
-                "AFTERGLOW.*",
-                "AFTERGLOW"
-            ]
-        ],
+    "SLChapterToSL": {
         "text": [
-            "AFTERGLOW"
+            "A Holiday at the Hot Springs",
+            "A Holiday at",
+            "Hot Springs"
         ]
     }
 }
