@@ -4,7 +4,7 @@
             {
                 "Display": "SSReopen-WB",
                 "Value": "SSReopen-WB",
-                "Drop": "代理1~8",
+                "Drop": "代理1~9",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「登临意」复刻",
