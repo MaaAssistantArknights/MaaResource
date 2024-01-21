@@ -52,6 +52,19 @@
                     "UtcExpireTime": "2024/01/28 03:59:59",
                     "TimeZone": 8
                 }
+            },
+            {
+                "Display": "WB-6",
+                "Value": "WB-6",
+                "Drop": "装置、糖（0.52玉/理智，搓玉效率47.87%）",
+                "MinimumRequired": "v4.28.6",
+                "Activity": {
+                    "Tip": "SideStory「登临意」复刻",
+                    "StageName": "WB",
+                    "UtcStartTime": "2024/01/18 16:00:00",
+                    "UtcExpireTime": "2024/01/28 03:59:59",
+                    "TimeZone": 8
+                }
             }
         ],
         "resourceCollection": {
