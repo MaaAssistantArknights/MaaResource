@@ -228,15 +228,54 @@
     "txwy": {
         "sideStoryStage": [
             {
-                "Display": "CF-8",
-                "Value": "CF-8",
-                "Drop": "就各種煉金素材",
-                "MinimumRequired": "v4.27.0",
+                "Display": "SSReopen-GA",
+                "Value": "SSReopen-GA",
+                "Drop": "代理 1~8",
+                "MinimumRequired": "v4.28.8",
                 "Activity": {
-                    "Tip": "SideStory「落葉逐火」活動限時開啟",
-                    "StageName": "CF",
-                    "UtcStartTime": "2023/12/12 16:00:00",
-                    "UtcExpireTime": "2023/12/26 03:59:59",
+                    "Tip": "SideStory「吾導先路」復刻",
+                    "StageName": "GA",
+                    "UtcStartTime": "2024/01/23 16:00:00",
+                    "UtcExpireTime": "2024/02/02 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "GA-6",
+                "Value": "GA-6",
+                "Drop": "30023",
+                "MinimumRequired": "v4.28.8",
+                "Activity": {
+                    "Tip": "SideStory「吾導先路」復刻",
+                    "StageName": "GA",
+                    "UtcStartTime": "2024/01/23 16:00:00",
+                    "UtcExpireTime": "2024/02/02 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "GA-7",
+                "Value": "GA-7",
+                "Drop": "30073",
+                "MinimumRequired": "v4.28.8",
+                "Activity": {
+                    "Tip": "SideStory「吾導先路」復刻",
+                    "StageName": "GA",
+                    "UtcStartTime": "2024/01/23 16:00:00",
+                    "UtcExpireTime": "2024/02/02 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "GA-8",
+                "Value": "GA-8",
+                "Drop": "31013",
+                "MinimumRequired": "v4.28.8",
+                "Activity": {
+                    "Tip": "SideStory「吾導先路」復刻",
+                    "StageName": "GA",
+                    "UtcStartTime": "2024/01/23 16:00:00",
+                    "UtcExpireTime": "2024/02/02 03:59:59",
                     "TimeZone": 8
                 }
             }
