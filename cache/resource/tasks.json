@@ -37,18 +37,18 @@
             "ChapterSwipeToTheRight"
         ]
     },
-    "HS-6": {
+    "HS-5": {
         "algorithm": "JustReturn",
         "action": "DoNothing",
         "sub": [
             "HS-Open"
         ],
         "next": [
-            "HS-6@SideStoryStage",
-            "HS-6@SwipeToStage"
+            "HS-5@SideStoryStage",
+            "HS-5@SwipeToStage"
         ]
     },
-    "HS-6@SideStoryStage": {
+    "HS-5@SideStoryStage": {
         "text": [
             "HS-6"
         ]
