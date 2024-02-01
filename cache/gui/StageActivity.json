@@ -15,54 +15,54 @@
                 }
             },
             {
-                "Display": "WB-7",
-                "Value": "WB-7",
-                "Drop": "30053",
+                "Display": "HS-7",
+                "Value": "HS-7",
+                "Drop": "30013",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「登临意」复刻",
-                    "StageName": "WB",
-                    "UtcStartTime": "2024/01/18 16:00:00",
-                    "UtcExpireTime": "2024/01/28 03:59:59",
+                    "Tip": "SideStory「怀黍离」",
+                    "StageName": "HS",
+                    "UtcStartTime": "2024/02/01 16:00:00",
+                    "UtcExpireTime": "2024/02/22 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "WB-8",
-                "Value": "WB-8",
-                "Drop": "30083",
+                "Display": "HS-8",
+                "Value": "HS-8",
+                "Drop": "30073",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「登临意」复刻",
-                    "StageName": "WB",
-                    "UtcStartTime": "2024/01/18 16:00:00",
-                    "UtcExpireTime": "2024/01/28 03:59:59",
+                    "Tip": "SideStory「怀黍离」",
+                    "StageName": "HS",
+                    "UtcStartTime": "2024/02/01 16:00:00",
+                    "UtcExpireTime": "2024/02/22 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "WB-9",
-                "Value": "WB-9",
-                "Drop": "晶体元件（杂鱼❤）",
+                "Display": "HS-9",
+                "Value": "HS-9",
+                "Drop": "30103",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「登临意」复刻",
-                    "StageName": "WB",
-                    "UtcStartTime": "2024/01/18 16:00:00",
-                    "UtcExpireTime": "2024/01/28 03:59:59",
+                    "Tip": "SideStory「怀黍离」",
+                    "StageName": "HS",
+                    "UtcStartTime": "2024/02/01 16:00:00",
+                    "UtcExpireTime": "2024/02/22 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "WB-6",
-                "Value": "WB-6",
-                "Drop": "装置、糖（0.52玉/理智，搓玉效率47.87%）",
+                "Display": "HS-5",
+                "Value": "HS-5",
+                "Drop": "糖、固源岩（搓玉效率待统计）",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「登临意」复刻",
-                    "StageName": "WB",
-                    "UtcStartTime": "2024/01/18 16:00:00",
-                    "UtcExpireTime": "2024/01/28 03:59:59",
+                    "Tip": "SideStory「怀黍离」",
+                    "StageName": "HS",
+                    "UtcStartTime": "2024/02/01 16:00:00",
+                    "UtcExpireTime": "2024/02/22 03:59:59",
                     "TimeZone": 8
                 }
             }
