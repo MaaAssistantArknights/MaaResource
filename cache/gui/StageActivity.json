@@ -56,7 +56,7 @@
             {
                 "Display": "HS-5",
                 "Value": "HS-5",
-                "Drop": "糖、固源岩（搓玉效率待统计）",
+                "Drop": "糖、固源岩（搓玉效率0.3）",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「怀黍离」",
