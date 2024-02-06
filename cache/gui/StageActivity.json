@@ -178,10 +178,23 @@
     "YoStarEN": {
         "sideStoryStage": [
             {
+                "Display": "SSReopen-IC",
+                "Value": "SSReopen-IC",
+                "Drop": "Clears 1~9",
+                "MinimumRequired": "v5.1.0-beta.1.d073.gd3e3ecd42",
+                "Activity": {
+                    "Tip": "Sidestory: Ideal City: Endless Carnival Rerun",
+                    "StageName": "IC",
+                    "UtcStartTime": "2024/02/06 10:00:00",
+                    "UtcExpireTime": "2024/02/16 03:59:59",
+                    "TimeZone": -7
+                }
+            },
+            {
                 "Display": "IC-7",
                 "Value": "IC-7",
                 "Drop": "30053",
-                "MinimumRequired": "v5.0.0",
+                "MinimumRequired": "v5.1.0-beta.1.d073.gd3e3ecd42",
                 "Activity": {
                     "Tip": "Sidestory: Ideal City: Endless Carnival Rerun",
                     "StageName": "IC",
@@ -194,7 +207,7 @@
                 "Display": "IC-8",
                 "Value": "IC-8",
                 "Drop": "31013",
-                "MinimumRequired": "v5.0.0",
+                "MinimumRequired": "v5.1.0-beta.1.d073.gd3e3ecd42",
                 "Activity": {
                     "Tip": "Sidestory: Ideal City: Endless Carnival Rerun",
                     "StageName": "IC",
@@ -207,7 +220,7 @@
                 "Display": "IC-9",
                 "Value": "IC-9",
                 "Drop": "30103",
-                "MinimumRequired": "v5.0.0",
+                "MinimumRequired": "v5.1.0-beta.1.d073.gd3e3ecd42",
                 "Activity": {
                     "Tip": "Sidestory: Ideal City: Endless Carnival Rerun",
                     "StageName": "IC",
