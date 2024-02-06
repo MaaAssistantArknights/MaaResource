@@ -81,7 +81,7 @@
                 "Display": "IC-7",
                 "Value": "IC-7",
                 "Drop": "30053",
-                "MinimumRequired": "alpha/v5.1.0-beta.1.d059.gc790e5cfc",
+                "MinimumRequired": "v5.1.0-beta.1.d059.gc790e5cfc",
                 "Activity": {
                     "Tip": "サイドストーリー「理想都市 -エンドレスカーニバル-」復刻",
                     "StageName": "IC",
@@ -94,7 +94,7 @@
                 "Display": "IC-8",
                 "Value": "IC-8",
                 "Drop": "31013",
-                "MinimumRequired": "alpha/v5.1.0-beta.1.d059.gc790e5cfc",
+                "MinimumRequired": "v5.1.0-beta.1.d059.gc790e5cfc",
                 "Activity": {
                     "Tip": "サイドストーリー「理想都市 -エンドレスカーニバル-」復刻",
                     "StageName": "IC",
@@ -107,7 +107,7 @@
                 "Display": "IC-9",
                 "Value": "IC-9",
                 "Drop": "30103",
-                "MinimumRequired": "alpha/v5.1.0-beta.1.d059.gc790e5cfc",
+                "MinimumRequired": "v5.1.0-beta.1.d059.gc790e5cfc",
                 "Activity": {
                     "Tip": "サイドストーリー「理想都市 -エンドレスカーニバル-」復刻",
                     "StageName": "IC",
@@ -131,7 +131,7 @@
                 "Display": "IC-7",
                 "Value": "IC-7",
                 "Drop": "30053",
-                "MinimumRequired": "alpha/v5.1.0-beta.1.d059.gc790e5cfc",
+                "MinimumRequired": "v5.1.0-beta.1.d059.gc790e5cfc",
                 "Activity": {
                     "Tip": "SideStory - '이상적인 도시: 엔드리스 카니발' 재개방",
                     "StageName": "IC",
@@ -144,7 +144,7 @@
                 "Display": "IC-8",
                 "Value": "IC-8",
                 "Drop": "31013",
-                "MinimumRequired": "alpha/v5.1.0-beta.1.d059.gc790e5cfc",
+                "MinimumRequired": "v5.1.0-beta.1.d059.gc790e5cfc",
                 "Activity": {
                     "Tip": "SideStory - '이상적인 도시: 엔드리스 카니발' 재개방",
                     "StageName": "IC",
@@ -157,7 +157,7 @@
                 "Display": "IC-9",
                 "Value": "IC-9",
                 "Drop": "30103",
-                "MinimumRequired": "alpha/v5.1.0-beta.1.d059.gc790e5cfc",
+                "MinimumRequired": "v5.1.0-beta.1.d059.gc790e5cfc",
                 "Activity": {
                     "Tip": "SideStory - '이상적인 도시: 엔드리스 카니발' 재개방",
                     "StageName": "IC",
