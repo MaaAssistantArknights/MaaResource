@@ -81,7 +81,7 @@
                 "Display": "IC-7",
                 "Value": "IC-7",
                 "Drop": "30053",
-                "MinimumRequired": "v4.28.8",
+                "MinimumRequired": "alpha/v5.1.0-beta.1.d059.gc790e5cfc",
                 "Activity": {
                     "Tip": "サイドストーリー「理想都市 -エンドレスカーニバル-」復刻",
                     "StageName": "IC",
@@ -94,7 +94,7 @@
                 "Display": "IC-8",
                 "Value": "IC-8",
                 "Drop": "31013",
-                "MinimumRequired": "v4.28.8",
+                "MinimumRequired": "alpha/v5.1.0-beta.1.d059.gc790e5cfc",
                 "Activity": {
                     "Tip": "サイドストーリー「理想都市 -エンドレスカーニバル-」復刻",
                     "StageName": "IC",
@@ -107,7 +107,7 @@
                 "Display": "IC-9",
                 "Value": "IC-9",
                 "Drop": "30103",
-                "MinimumRequired": "v4.28.8",
+                "MinimumRequired": "alpha/v5.1.0-beta.1.d059.gc790e5cfc",
                 "Activity": {
                     "Tip": "サイドストーリー「理想都市 -エンドレスカーニバル-」復刻",
                     "StageName": "IC",
@@ -131,9 +131,9 @@
                 "Display": "IC-7",
                 "Value": "IC-7",
                 "Drop": "30053",
-                "MinimumRequired": "v4.28.8",
+                "MinimumRequired": "alpha/v5.1.0-beta.1.d059.gc790e5cfc",
                 "Activity": {
-                    "Tip": "SideStory - '이상적인 도시: 엔드리스 카니발' 재개방 ",
+                    "Tip": "SideStory - '이상적인 도시: 엔드리스 카니발' 재개방",
                     "StageName": "IC",
                     "UtcStartTime": "2024/02/06 16:00:00",
                     "UtcExpireTime": "2024/02/16 03:59:59",
@@ -144,9 +144,9 @@
                 "Display": "IC-8",
                 "Value": "IC-8",
                 "Drop": "31013",
-                "MinimumRequired": "v4.28.8",
+                "MinimumRequired": "alpha/v5.1.0-beta.1.d059.gc790e5cfc",
                 "Activity": {
-                    "Tip": "SideStory - '이상적인 도시: 엔드리스 카니발' 재개방 ",
+                    "Tip": "SideStory - '이상적인 도시: 엔드리스 카니발' 재개방",
                     "StageName": "IC",
                     "UtcStartTime": "2024/02/06 16:00:00",
                     "UtcExpireTime": "2024/02/16 03:59:59",
@@ -157,9 +157,9 @@
                 "Display": "IC-9",
                 "Value": "IC-9",
                 "Drop": "30103",
-                "MinimumRequired": "v4.28.8",
+                "MinimumRequired": "alpha/v5.1.0-beta.1.d059.gc790e5cfc",
                 "Activity": {
-                    "Tip": "SideStory - '이상적인 도시: 엔드리스 카니발' 재개방 ",
+                    "Tip": "SideStory - '이상적인 도시: 엔드리스 카니발' 재개방",
                     "StageName": "IC",
                     "UtcStartTime": "2024/02/06 16:00:00",
                     "UtcExpireTime": "2024/02/16 03:59:59",
@@ -178,41 +178,41 @@
     "YoStarEN": {
         "sideStoryStage": [
             {
-                "Display": "SL-6",
-                "Value": "SL-6",
+                "Display": "IC-7",
+                "Value": "IC-7",
                 "Drop": "30053",
-                "MinimumRequired": "v4.28.8",
+                "MinimumRequired": "v5.0.0",
                 "Activity": {
-                    "Tip": "Sidestory: So Long, Adele",
-                    "StageName": "SL",
-                    "UtcStartTime": "2024/01/16 10:00:00",
-                    "UtcExpireTime": "2024/02/06 03:59:59",
+                    "Tip": "Sidestory: Ideal City: Endless Carnival Rerun",
+                    "StageName": "IC",
+                    "UtcStartTime": "2024/02/06 10:00:00",
+                    "UtcExpireTime": "2024/02/16 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "SL-7",
-                "Value": "SL-7",
-                "Drop": "31033",
-                "MinimumRequired": "v4.28.8",
+                "Display": "IC-8",
+                "Value": "IC-8",
+                "Drop": "31013",
+                "MinimumRequired": "v5.0.0",
                 "Activity": {
-                    "Tip": "Sidestory: So Long, Adele",
-                    "StageName": "SL",
-                    "UtcStartTime": "2024/01/16 10:00:00",
-                    "UtcExpireTime": "2024/02/06 03:59:59",
+                    "Tip": "Sidestory: Ideal City: Endless Carnival Rerun",
+                    "StageName": "IC",
+                    "UtcStartTime": "2024/02/06 10:00:00",
+                    "UtcExpireTime": "2024/02/16 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "SL-8",
-                "Value": "SL-8",
-                "Drop": "30083",
-                "MinimumRequired": "v4.28.8",
+                "Display": "IC-9",
+                "Value": "IC-9",
+                "Drop": "30103",
+                "MinimumRequired": "v5.0.0",
                 "Activity": {
-                    "Tip": "Sidestory: So Long, Adele",
-                    "StageName": "SL",
-                    "UtcStartTime": "2024/01/16 10:00:00",
-                    "UtcExpireTime": "2024/02/06 03:59:59",
+                    "Tip": "Sidestory: Ideal City: Endless Carnival Rerun",
+                    "StageName": "IC",
+                    "UtcStartTime": "2024/02/06 10:00:00",
+                    "UtcExpireTime": "2024/02/16 03:59:59",
                     "TimeZone": -7
                 }
             }
