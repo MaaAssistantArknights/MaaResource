@@ -78,6 +78,19 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
+                "Display": "SSReopen-IC",
+                "Value": "SSReopen-IC",
+                "Drop": "Clears 1~9",
+                "MinimumRequired": "v5.1.0-beta.1.d059.gc790e5cfc",
+                "Activity": {
+                    "Tip": "サイドストーリー「理想都市 -エンドレスカーニバル-」復刻",
+                    "StageName": "IC",
+                    "UtcStartTime": "2024/02/06 16:00:00",
+                    "UtcExpireTime": "2024/02/16 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
                 "Display": "IC-7",
                 "Value": "IC-7",
                 "Drop": "30053",
@@ -127,6 +140,19 @@
     },
     "YoStarKR": {
         "sideStoryStage": [
+            {
+                "Display": "SSReopen-IC",
+                "Value": "SSReopen-IC",
+                "Drop": "Clears 1~9",
+                "MinimumRequired": "v5.1.0-beta.1.d059.gc790e5cfc",
+                "Activity": {
+                    "Tip": "SideStory - '이상적인 도시: 엔드리스 카니발' 재개방",
+                    "StageName": "IC",
+                    "UtcStartTime": "2024/02/06 16:00:00",
+                    "UtcExpireTime": "2024/02/16 03:59:59",
+                    "TimeZone": 9
+                }
+            },
             {
                 "Display": "IC-7",
                 "Value": "IC-7",
