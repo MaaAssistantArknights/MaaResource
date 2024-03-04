@@ -1,10 +1,16 @@
 {
-    "IC-Open": {
+    "DV-Open": {
         "text": [
-            "Ideal",
-            "City",
-            "Endless",
-            "Carnival"
+            "Event",
+            "Dorothy's",
+            "Vision",
+            "open"
+        ]
+    },
+    "DVChapterToDV": {
+        "text": [
+            "Research",
+            "Base"
         ]
     }
 }
