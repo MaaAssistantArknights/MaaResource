@@ -12,5 +12,11 @@
             "Research",
             "Base"
         ]
+    },
+    "SideStoryReopen": {
+        "text": [
+            "Rerun",
+            "Retrospection"
+        ]
     }
 }
