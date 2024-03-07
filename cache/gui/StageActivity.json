@@ -141,60 +141,60 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-IC",
-                "Value": "SSReopen-IC",
-                "Drop": "Clears 1~9",
-                "MinimumRequired": "v5.1.0-beta.1.d059.gc790e5cfc",
+                "Display": "SSReopen-DV",
+                "Value": "SSReopen-DV",
+                "Drop": "Clears 1~8",
+                "MinimumRequired": "v5.1.1-alpha.1.d118.g999f9087b",
                 "Activity": {
-                    "Tip": "SideStory - '이상적인 도시: 엔드리스 카니발' 재개방",
-                    "StageName": "IC",
-                    "UtcStartTime": "2024/02/06 16:00:00",
-                    "UtcExpireTime": "2024/02/16 03:59:59",
+                    "Tip": "사이드스토리「도로시의 비전」재개방",
+                    "StageName": "DV",
+                    "UtcStartTime": "2024/03/05 16:00:00",
+                    "UtcExpireTime": "2024/03/15 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "IC-7",
-                "Value": "IC-7",
-                "Drop": "30053",
-                "MinimumRequired": "v5.1.0-beta.1.d059.gc790e5cfc",
+                "Display": "DV-6",
+                "Value": "DV-6",
+                "Drop": "30033",
+                "MinimumRequired": "v5.1.1-alpha.1.d118.g999f9087b",
                 "Activity": {
-                    "Tip": "SideStory - '이상적인 도시: 엔드리스 카니발' 재개방",
-                    "StageName": "IC",
-                    "UtcStartTime": "2024/02/06 16:00:00",
-                    "UtcExpireTime": "2024/02/16 03:59:59",
+                    "Tip": "사이드스토리「도로시의 비전」재개방",
+                    "StageName": "DV",
+                    "UtcStartTime": "2024/03/05 16:00:00",
+                    "UtcExpireTime": "2024/03/15 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "IC-8",
-                "Value": "IC-8",
-                "Drop": "31013",
-                "MinimumRequired": "v5.1.0-beta.1.d059.gc790e5cfc",
+                "Display": "DV-7",
+                "Value": "DV-7",
+                "Drop": "30073",
+                "MinimumRequired": "v5.1.1-alpha.1.d118.g999f9087b",
                 "Activity": {
-                    "Tip": "SideStory - '이상적인 도시: 엔드리스 카니발' 재개방",
-                    "StageName": "IC",
-                    "UtcStartTime": "2024/02/06 16:00:00",
-                    "UtcExpireTime": "2024/02/16 03:59:59",
+                    "Tip": "사이드스토리「도로시의 비전」재개방",
+                    "StageName": "DV",
+                    "UtcStartTime": "2024/03/05 16:00:00",
+                    "UtcExpireTime": "2024/03/15 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "IC-9",
-                "Value": "IC-9",
-                "Drop": "30103",
-                "MinimumRequired": "v5.1.0-beta.1.d059.gc790e5cfc",
+                "Display": "DV-8",
+                "Value": "DV-8",
+                "Drop": "31023",
+                "MinimumRequired": "v5.1.1-alpha.1.d118.g999f9087b",
                 "Activity": {
-                    "Tip": "SideStory - '이상적인 도시: 엔드리스 카니발' 재개방",
-                    "StageName": "IC",
-                    "UtcStartTime": "2024/02/06 16:00:00",
-                    "UtcExpireTime": "2024/02/16 03:59:59",
+                    "Tip": "사이드스토리「도로시의 비전」재개방",
+                    "StageName": "DV",
+                    "UtcStartTime": "2024/03/05 16:00:00",
+                    "UtcExpireTime": "2024/03/15 03:59:59",
                     "TimeZone": 9
                 }
             }
         ],
         "resourceCollection": {
-            "Tip": "[자원 수진] 제한 시간 상시 오픈",
+            "Tip": "[자원 수집] 제한 시간 상시 오픈",
             "UtcStartTime": "2023/10/01 16:00:00",
             "UtcExpireTime": "2023/10/15 03:59:59",
             "TimeZone": 9,
