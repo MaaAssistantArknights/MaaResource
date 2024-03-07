@@ -1,101 +1,78 @@
 {
-    "HS-9": {
+    "CR-8": {
         "algorithm": "JustReturn",
         "sub": [
-            "HS-OpenOcr"
+            "CR-OpenOcr"
         ],
         "next": [
-            "HS-9@SideStoryStage",
-            "HS-9@SwipeToStage"
+            "CR-8@SideStoryStage",
+            "CR-8@SwipeToStage"
         ]
     },
-    "HS-8": {
+    "CR-7": {
         "algorithm": "JustReturn",
         "sub": [
-            "HS-OpenOcr"
+            "CR-OpenOcr"
         ],
         "next": [
-            "HS-8@SideStoryStage",
-            "HS-8@SwipeToStage"
+            "CR-7@SideStoryStage",
+            "CR-7@SwipeToStage"
         ]
     },
-    "HS-7": {
+    "CR-6": {
         "algorithm": "JustReturn",
         "sub": [
-            "HS-OpenOcr"
+            "CR-OpenOcr"
         ],
         "next": [
-            "HS-7@SideStoryStage",
-            "HS-7@SwipeToStage"
+            "CR-6@SideStoryStage",
+            "CR-6@SwipeToStage"
         ]
     },
-    "HS-5": {
-        "algorithm": "JustReturn",
-        "sub": [
-            "HS-OpenOcr"
-        ],
-        "next": [
-            "HS-5@SideStoryStage",
-            "HS-5@SwipeToStage"
-        ]
-    },
-    "HS-OpenOcr": {
+    "CR-OpenOcr": {
         "baseTask": "SS-OpenOcr",
         "text": [
-            "怀黍离",
-            "荒城",
-            "核心",
-            "大江",
-            "北岸"
-        ],
-        "ocrReplace": [
-            [
-                "怀.*离",
-                "怀黍离"
-            ]
+            "水晶",
+            "行动",
+            "高空",
+            "速降"
         ],
         "next": [
-            "HSChapterToHS"
+            "CRChapterToCR"
         ]
     },
-    "HSChapterToHS": {
+    "CRChapterToCR": {
         "algorithm": "OcrDetect",
         "action": "ClickSelf",
         "text": [
-            "种植",
-            "植地",
-            "地块"
+            "展厅",
+            "漫游"
         ],
         "preDelay": 1000,
         "roi": [
-            787,
-            495,
-            207,
-            137
+            2,
+            282,
+            198,
+            129
         ],
         "next": [
             "#self",
             "ChapterSwipeToTheRight"
         ]
     },
-    "HS-9@SideStoryStage": {
+    "CR-8@SideStoryStage": {
         "text": [
-            "HS-9"
+            "CR-8"
         ]
     },
-    "HS-8@SideStoryStage": {
+    "CR-7@SideStoryStage": {
         "text": [
-            "HS-8"
+            "CR-7"
         ]
     },
-    "HS-7@SideStoryStage": {
+    "CR-6@SideStoryStage": {
         "text": [
-            "HS-7"
-        ]
-    },
-    "HS-5@SideStoryStage": {
-        "text": [
-            "HS-5"
+            "CR-6"
         ]
     }
 }
