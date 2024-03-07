@@ -2,67 +2,41 @@
     "Official": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-WB",
-                "Value": "SSReopen-WB",
-                "Drop": "代理1~9",
+                "Display": "CR-6",
+                "Value": "CR-6",
+                "Drop": "30033",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「登临意」复刻",
-                    "StageName": "WB",
-                    "UtcStartTime": "2024/01/18 16:00:00",
-                    "UtcExpireTime": "2024/01/28 03:59:59",
+                    "Tip": "SideStory「水晶箭行动」",
+                    "StageName": "CR",
+                    "UtcStartTime": "2024/03/07 16:00:00",
+                    "UtcExpireTime": "2024/03/21 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "HS-7",
-                "Value": "HS-7",
-                "Drop": "30013",
+                "Display": "CR-7",
+                "Value": "CR-7",
+                "Drop": "31023",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「怀黍离」",
-                    "StageName": "HS",
-                    "UtcStartTime": "2024/02/01 16:00:00",
-                    "UtcExpireTime": "2024/02/22 03:59:59",
+                    "Tip": "SideStory「水晶箭行动」",
+                    "StageName": "CR",
+                    "UtcStartTime": "2024/03/07 16:00:00",
+                    "UtcExpireTime": "2024/03/21 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "HS-8",
-                "Value": "HS-8",
-                "Drop": "30073",
+                "Display": "CR-8",
+                "Value": "CR-8",
+                "Drop": "30063",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「怀黍离」",
-                    "StageName": "HS",
-                    "UtcStartTime": "2024/02/01 16:00:00",
-                    "UtcExpireTime": "2024/02/22 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "HS-9",
-                "Value": "HS-9",
-                "Drop": "30103",
-                "MinimumRequired": "v4.28.6",
-                "Activity": {
-                    "Tip": "SideStory「怀黍离」",
-                    "StageName": "HS",
-                    "UtcStartTime": "2024/02/01 16:00:00",
-                    "UtcExpireTime": "2024/02/22 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "HS-5",
-                "Value": "HS-5",
-                "Drop": "糖、固源岩（搓玉效率0.3）",
-                "MinimumRequired": "v4.28.6",
-                "Activity": {
-                    "Tip": "SideStory「怀黍离」",
-                    "StageName": "HS",
-                    "UtcStartTime": "2024/02/01 16:00:00",
-                    "UtcExpireTime": "2024/02/22 03:59:59",
+                    "Tip": "SideStory「水晶箭行动」",
+                    "StageName": "CR",
+                    "UtcStartTime": "2024/03/07 16:00:00",
+                    "UtcExpireTime": "2024/03/21 03:59:59",
                     "TimeZone": 8
                 }
             }
