@@ -74,5 +74,12 @@
         "text": [
             "CR-6"
         ]
+    },
+    "ReturnButton": {
+        "DOC": "水晶箭行动异形返回键，将就下"
+        "templThreshold": [
+            0.65,
+            0.8
+        ]
     }
 }
