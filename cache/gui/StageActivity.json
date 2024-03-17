@@ -102,54 +102,41 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-DV",
-                "Value": "SSReopen-DV",
-                "Drop": "Clears 1~8",
+                "Display": "CV-6",
+                "Value": "CV-6",
+                "Drop": "30023",
                 "MinimumRequired": "v5.2.0",
                 "Activity": {
-                    "Tip": "사이드스토리「도로시의 비전」재개방",
-                    "StageName": "DV",
-                    "UtcStartTime": "2024/03/05 16:00:00",
-                    "UtcExpireTime": "2024/03/15 03:59:59",
+                    "Tip": "사이드스토리「부정축재」",
+                    "StageName": "CV",
+                    "UtcStartTime": "2024/03/19 16:00:00",
+                    "UtcExpireTime": "2024/04/02 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "DV-6",
-                "Value": "DV-6",
-                "Drop": "30033",
+                "Display": "CV-7",
+                "Value": "CV-7",
+                "Drop": "30093",
                 "MinimumRequired": "v5.2.0",
                 "Activity": {
-                    "Tip": "사이드스토리「도로시의 비전」재개방",
-                    "StageName": "DV",
-                    "UtcStartTime": "2024/03/05 16:00:00",
-                    "UtcExpireTime": "2024/03/15 03:59:59",
+                    "Tip": "사이드스토리「부정축재」",
+                    "StageName": "CV",
+                    "UtcStartTime": "2024/03/19 16:00:00",
+                    "UtcExpireTime": "2024/04/02 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "DV-7",
-                "Value": "DV-7",
-                "Drop": "30073",
+                "Display": "CV-8",
+                "Value": "CV-8",
+                "Drop": "31063",
                 "MinimumRequired": "v5.2.0",
                 "Activity": {
-                    "Tip": "사이드스토리「도로시의 비전」재개방",
-                    "StageName": "DV",
-                    "UtcStartTime": "2024/03/05 16:00:00",
-                    "UtcExpireTime": "2024/03/15 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "DV-8",
-                "Value": "DV-8",
-                "Drop": "31023",
-                "MinimumRequired": "v5.2.0",
-                "Activity": {
-                    "Tip": "사이드스토리「도로시의 비전」재개방",
-                    "StageName": "DV",
-                    "UtcStartTime": "2024/03/05 16:00:00",
-                    "UtcExpireTime": "2024/03/15 03:59:59",
+                    "Tip": "사이드스토리「부정축재」",
+                    "StageName": "CV",
+                    "UtcStartTime": "2024/03/19 16:00:00",
+                    "UtcExpireTime": "2024/04/02 03:59:59",
                     "TimeZone": 9
                 }
             }

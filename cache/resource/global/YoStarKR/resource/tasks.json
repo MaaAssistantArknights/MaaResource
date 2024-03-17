@@ -1,20 +1,15 @@
 {
-    "DV-Open": {
+    "CV-Open": {
         "text": [
-            "도로시",
+            "부정축재",
             "이벤트",
-            "개방"
+            "개방중"
         ]
     },
-    "DVChapterToDV": {
+    "CVChapterToCV": {
         "text": [
-            "실험",
-            "기지"
-        ]
-    },
-    "SideStoryReopen": {
-        "text": [
-            "재개방"
+            "하얀",
+            "플랫폼"
         ]
     }
 }
