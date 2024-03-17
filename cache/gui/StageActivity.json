@@ -55,7 +55,7 @@
                 "Display": "CV-6",
                 "Value": "CV-6",
                 "Drop": "30023",
-                "MinimumRequired": "v5.1.1-alpha.1.d118.g999f9087b",
+                "MinimumRequired": "v5.2.0",
                 "Activity": {
                     "Tip": "サイドストーリー「ダーティマネー」",
                     "StageName": "CV",
@@ -68,7 +68,7 @@
                 "Display": "CV-7",
                 "Value": "CV-7",
                 "Drop": "30093",
-                "MinimumRequired": "v5.1.1-alpha.1.d118.g999f9087b",
+                "MinimumRequired": "v5.2.0",
                 "Activity": {
                     "Tip": "サイドストーリー「ダーティマネー」",
                     "StageName": "CV",
@@ -81,7 +81,7 @@
                 "Display": "CV-8",
                 "Value": "CV-8",
                 "Drop": "31063",
-                "MinimumRequired": "v5.1.1-alpha.1.d118.g999f9087b",
+                "MinimumRequired": "v5.2.0",
                 "Activity": {
                     "Tip": "サイドストーリー「ダーティマネー」",
                     "StageName": "CV",
@@ -105,7 +105,7 @@
                 "Display": "SSReopen-DV",
                 "Value": "SSReopen-DV",
                 "Drop": "Clears 1~8",
-                "MinimumRequired": "v5.1.1-alpha.1.d118.g999f9087b",
+                "MinimumRequired": "v5.2.0",
                 "Activity": {
                     "Tip": "사이드스토리「도로시의 비전」재개방",
                     "StageName": "DV",
@@ -118,7 +118,7 @@
                 "Display": "DV-6",
                 "Value": "DV-6",
                 "Drop": "30033",
-                "MinimumRequired": "v5.1.1-alpha.1.d118.g999f9087b",
+                "MinimumRequired": "v5.2.0",
                 "Activity": {
                     "Tip": "사이드스토리「도로시의 비전」재개방",
                     "StageName": "DV",
@@ -131,7 +131,7 @@
                 "Display": "DV-7",
                 "Value": "DV-7",
                 "Drop": "30073",
-                "MinimumRequired": "v5.1.1-alpha.1.d118.g999f9087b",
+                "MinimumRequired": "v5.2.0",
                 "Activity": {
                     "Tip": "사이드스토리「도로시의 비전」재개방",
                     "StageName": "DV",
@@ -144,7 +144,7 @@
                 "Display": "DV-8",
                 "Value": "DV-8",
                 "Drop": "31023",
-                "MinimumRequired": "v5.1.1-alpha.1.d118.g999f9087b",
+                "MinimumRequired": "v5.2.0",
                 "Activity": {
                     "Tip": "사이드스토리「도로시의 비전」재개방",
                     "StageName": "DV",
@@ -165,54 +165,41 @@
     "YoStarEN": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-DV",
-                "Value": "SSReopen-DV",
-                "Drop": "Clears 1~8",
-                "MinimumRequired": "v5.1.1-alpha.1.d118.g999f9087b",
+                "Display": "CV-6",
+                "Value": "CV-6",
+                "Drop": "30023",
+                "MinimumRequired": "v5.2.0",
                 "Activity": {
-                    "Tip": "Dorothy's Vision Rerun",
-                    "StageName": "DV",
-                    "UtcStartTime": "2024/03/05 10:00:00",
-                    "UtcExpireTime": "2024/03/15 03:59:59",
+                    "Tip": "Comes Catastrophes or Wakes uf Vultures",
+                    "StageName": "CV",
+                    "UtcStartTime": "2024/03/19 10:00:00",
+                    "UtcExpireTime": "2024/04/02 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "DV-6",
-                "Value": "DV-6",
-                "Drop": "30033",
-                "MinimumRequired": "v5.1.1-alpha.1.d118.g999f9087b",
+                "Display": "CV-7",
+                "Value": "CV-7",
+                "Drop": "30093",
+                "MinimumRequired": "v5.2.0",
                 "Activity": {
-                    "Tip": "Dorothy's Vision Rerun",
-                    "StageName": "DV",
-                    "UtcStartTime": "2024/03/05 10:00:00",
-                    "UtcExpireTime": "2024/03/15 03:59:59",
+                    "Tip": "Comes Catastrophes or Wakes uf Vultures",
+                    "StageName": "CV",
+                    "UtcStartTime": "2024/03/19 10:00:00",
+                    "UtcExpireTime": "2024/04/02 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "DV-7",
-                "Value": "DV-7",
-                "Drop": "30073",
-                "MinimumRequired": "v5.1.1-alpha.1.d118.g999f9087b",
+                "Display": "CV-8",
+                "Value": "CV-8",
+                "Drop": "31063",
+                "MinimumRequired": "v5.2.0",
                 "Activity": {
-                    "Tip": "Dorothy's Vision Rerun",
-                    "StageName": "DV",
-                    "UtcStartTime": "2024/03/05 10:00:00",
-                    "UtcExpireTime": "2024/03/15 03:59:59",
-                    "TimeZone": -7
-                }
-            },
-            {
-                "Display": "DV-8",
-                "Value": "DV-8",
-                "Drop": "31023",
-                "MinimumRequired": "v5.1.1-alpha.1.d118.g999f9087b",
-                "Activity": {
-                    "Tip": "Dorothy's Vision Rerun",
-                    "StageName": "DV",
-                    "UtcStartTime": "2024/03/05 10:00:00",
-                    "UtcExpireTime": "2024/03/15 03:59:59",
+                    "Tip": "Comes Catastrophes or Wakes uf Vultures",
+                    "StageName": "CV",
+                    "UtcStartTime": "2024/03/19 10:00:00",
+                    "UtcExpireTime": "2024/04/02 03:59:59",
                     "TimeZone": -7
                 }
             }

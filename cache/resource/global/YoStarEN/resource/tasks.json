@@ -1,22 +1,15 @@
 {
-    "DV-Open": {
+    "CV-Open": {
         "text": [
-            "Event",
-            "Dorothy's",
-            "Vision",
+            "Catastrophes",
+            "Vultures",
             "open"
         ]
     },
-    "DVChapterToDV": {
+    "CVChapterToCV": {
         "text": [
-            "RESEARCH",
-            "BASE"
-        ]
-    },
-    "SideStoryReopen": {
-        "text": [
-            "Rerun",
-            "Retrospection"
+            "ANEMIC",
+            "PLATFORM"
         ]
     }
 }
