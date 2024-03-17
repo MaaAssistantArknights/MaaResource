@@ -1,14 +1,15 @@
 {
-    "DV-Open": {
+    "CV-Open": {
         "text": [
-            "翠玉の夢",
-            "イベント復刻",
-            "開催中"
+            "ダーティマネー",
+            "イベント開催中",
+            "黒き艦船",
+            "ステージ開放中"
         ]
     },
-    "DVChapterToDV": {
+    "CVChapterToCV": {
         "text": [
-            "実験基地"
+            "青白い町"
         ]
     },
     "StageEntries": {
