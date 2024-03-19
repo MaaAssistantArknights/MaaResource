@@ -202,41 +202,41 @@
     "txwy": {
         "sideStoryStage": [
             {
-                "Display": "SN-8",
-                "Value": "SN-8",
-                "Drop": "30043",
-                "MinimumRequired": "v4.28.8",
+                "Display": "CW-8",
+                "Value": "CW-8",
+                "Drop": "30053",
+                "MinimumRequired": "v5.2.0",
                 "Activity": {
-                    "Tip": "SideStory「愚人號」復刻",
-                    "StageName": "SN",
-                    "UtcStartTime": "2024/03/07 16:00:00",
-                    "UtcExpireTime": "2024/03/17 03:59:59",
+                    "Tip": "SideStory「孤星」",
+                    "StageName": "CW",
+                    "UtcStartTime": "2024/03/19 16:00:00",
+                    "UtcExpireTime": "2024/04/09 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "SN-9",
-                "Value": "SN-9",
-                "Drop": "30083",
-                "MinimumRequired": "v4.28.8",
+                "Display": "CW-9",
+                "Value": "CW-9",
+                "Drop": "31043",
+                "MinimumRequired": "v5.2.0",
                 "Activity": {
-                    "Tip": "SideStory「愚人號」復刻",
-                    "StageName": "SN",
-                    "UtcStartTime": "2024/03/07 16:00:00",
-                    "UtcExpireTime": "2024/03/17 03:59:59",
+                    "Tip": "SideStory「孤星」",
+                    "StageName": "CW",
+                    "UtcStartTime": "2024/03/19 16:00:00",
+                    "UtcExpireTime": "2024/04/09 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "SN-10",
-                "Value": "SN-10",
-                "Drop": "31053",
-                "MinimumRequired": "v4.28.8",
+                "Display": "CW-10",
+                "Value": "CW-10",
+                "Drop": "31023",
+                "MinimumRequired": "v5.2.0",
                 "Activity": {
-                    "Tip": "SideStory「愚人號」復刻",
-                    "StageName": "SN",
-                    "UtcStartTime": "2024/03/07 16:00:00",
-                    "UtcExpireTime": "2024/03/17 03:59:59",
+                    "Tip": "SideStory「孤星」",
+                    "StageName": "CW",
+                    "UtcStartTime": "2024/03/19 16:00:00",
+                    "UtcExpireTime": "2024/04/09 03:59:59",
                     "TimeZone": 8
                 }
             }
