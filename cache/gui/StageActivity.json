@@ -2,6 +2,19 @@
     "Official": {
         "sideStoryStage": [
             {
+                "Display": "SSReopen-OD",
+                "Value": "SSReopen-OD",
+                "Drop": "代理1~8",
+                "MinimumRequired": "v4.28.6",
+                "Activity": {
+                    "Tip": "SideStory「源石尘行动」复刻",
+                    "StageName": "OD",
+                    "UtcStartTime": "2024/03/21 16:00:00",
+                    "UtcExpireTime": "2024/03/31 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
                 "Display": "OD-6",
                 "Value": "OD-6",
                 "Drop": "固源岩、装置(搓玉效率82%)",
