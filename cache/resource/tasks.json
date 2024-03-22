@@ -1,85 +1,86 @@
 {
-    "CR-8": {
+    "OD-8": {
         "algorithm": "JustReturn",
         "sub": [
-            "CR-OpenOcr"
+            "OD-OpenOcr"
         ],
         "next": [
-            "CR-8@SideStoryStage",
-            "CR-8@SwipeToStage"
+            "OD-8@SideStoryStage",
+            "OD-8@SwipeToStage"
         ]
     },
-    "CR-7": {
+    "OD-7": {
         "algorithm": "JustReturn",
         "sub": [
-            "CR-OpenOcr"
+            "OD-OpenOcr"
         ],
         "next": [
-            "CR-7@SideStoryStage",
-            "CR-7@SwipeToStage"
+            "OD-7@SideStoryStage",
+            "OD-7@SwipeToStage"
         ]
     },
-    "CR-6": {
+    "OD-6": {
         "algorithm": "JustReturn",
         "sub": [
-            "CR-OpenOcr"
+            "OD-OpenOcr"
         ],
         "next": [
-            "CR-6@SideStoryStage",
-            "CR-6@SwipeToStage"
+            "OD-6@SideStoryStage",
+            "OD-6@SwipeToStage"
         ]
     },
-    "CR-OpenOcr": {
+    "OD-OpenOcr": {
         "baseTask": "SS-OpenOcr",
         "text": [
-            "水晶",
-            "行动",
-            "高空",
-            "速降"
+            "源石尘行动",
+            "源石",
+            "石尘",
+            "尘行"
+        ],
+        "roi": [
+            55,
+            490,
+            357,
+            122
         ],
         "next": [
-            "CRChapterToCR"
+            "ODChapterToOD"
         ]
     },
-    "CRChapterToCR": {
+    "ODChapterToOD": {
         "algorithm": "OcrDetect",
         "action": "ClickSelf",
         "text": [
-            "展厅",
-            "漫游"
+            "行动记录",
+            "行动",
+            "动记",
+            "记录"
         ],
         "preDelay": 1000,
         "roi": [
-            2,
-            282,
-            198,
-            129
+            129,
+            235,
+            204,
+            131
         ],
         "next": [
             "#self",
             "ChapterSwipeToTheRight"
         ]
     },
-    "CR-8@SideStoryStage": {
+    "OD-8@SideStoryStage": {
         "text": [
-            "CR-8"
+            "OD-8"
         ]
     },
-    "CR-7@SideStoryStage": {
+    "OD-7@SideStoryStage": {
         "text": [
-            "CR-7"
+            "OD-7"
         ]
     },
-    "CR-6@SideStoryStage": {
+    "OD-6@SideStoryStage": {
         "text": [
-            "CR-6"
-        ]
-    },
-    "ReturnButton": {
-        "Doc": "水晶箭行动异形返回键，将就下",
-        "templThreshold": [
-            0.65,
-            0.8
+            "OD-6"
         ]
     }
 }
