@@ -1,86 +1,82 @@
 {
-    "OD-8": {
+    "BB-8": {
         "algorithm": "JustReturn",
         "sub": [
-            "OD-OpenOcr"
+            "BB-OpenOcr"
         ],
         "next": [
-            "OD-8@SideStoryStage",
-            "OD-8@SwipeToStage"
+            "BB-8@SideStoryStage",
+            "BB-8@SwipeToStage"
         ]
     },
-    "OD-7": {
+    "BB-7": {
         "algorithm": "JustReturn",
         "sub": [
-            "OD-OpenOcr"
+            "BB-OpenOcr"
         ],
         "next": [
-            "OD-7@SideStoryStage",
-            "OD-7@SwipeToStage"
+            "BB-7@SideStoryStage",
+            "BB-7@SwipeToStage"
         ]
     },
-    "OD-6": {
+    "BB-6": {
         "algorithm": "JustReturn",
         "sub": [
-            "OD-OpenOcr"
+            "BB-OpenOcr"
         ],
         "next": [
-            "OD-6@SideStoryStage",
-            "OD-6@SwipeToStage"
+            "BB-6@SideStoryStage",
+            "BB-6@SwipeToStage"
         ]
     },
-    "OD-OpenOcr": {
+    "BB-OpenOcr": {
         "baseTask": "SS-OpenOcr",
         "text": [
-            "源石尘行动",
-            "源石",
-            "石尘",
-            "尘行"
+            "巴别塔",
+            "巴别",
+            "别塔"
         ],
         "roi": [
-            720,
-            209,
-            110,
-            31
+            103,
+            538,
+            175,
+            25
         ],
         "next": [
-            "ODChapterToOD"
+            "BBChapterToBB"
         ]
     },
-    "ODChapterToOD": {
+    "BBChapterToBB": {
         "algorithm": "OcrDetect",
         "action": "ClickSelf",
         "text": [
-            "行动记录",
-            "行动",
-            "动记",
-            "记录"
+            "来"
         ],
-        "preDelay": 1000,
+        "preDelay": 2000,
         "roi": [
-            129,
-            235,
-            204,
-            131
+            1091,
+            610,
+            33,
+            30
         ],
         "next": [
             "#self",
             "ChapterSwipeToTheRight"
         ]
     },
-    "OD-8@SideStoryStage": {
+    "BB-8@SideStoryStage": {
         "text": [
-            "OD-8"
+            "BB-8"
         ]
     },
-    "OD-7@SideStoryStage": {
+    "BB-7@SideStoryStage": {
         "text": [
-            "OD-7"
+            "BB-7"
         ]
     },
-    "OD-6@SideStoryStage": {
+    "BB-6@SideStoryStage": {
         "text": [
-            "OD-6"
+            "BB-6"
         ]
     }
 }

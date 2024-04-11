@@ -15,41 +15,41 @@
                 }
             },
             {
-                "Display": "OD-6",
-                "Value": "OD-6",
-                "Drop": "固源岩、装置(搓玉效率82%)",
+                "Display": "BB-6",
+                "Value": "BB-6",
+                "Drop": "30013",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「源石尘行动」复刻",
-                    "StageName": "OD",
-                    "UtcStartTime": "2024/03/21 16:00:00",
-                    "UtcExpireTime": "2024/03/31 03:59:59",
+                    "Tip": "SideStory「巴别塔」",
+                    "StageName": "BB",
+                    "UtcStartTime": "2024/04/11 16:00:00",
+                    "UtcExpireTime": "2024/05/03 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "OD-7",
-                "Value": "OD-7",
-                "Drop": "30083",
+                "Display": "BB-7",
+                "Value": "BB-7",
+                "Drop": "30043",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「源石尘行动」复刻",
-                    "StageName": "OD",
-                    "UtcStartTime": "2024/03/21 16:00:00",
-                    "UtcExpireTime": "2024/03/31 03:59:59",
+                    "Tip": "SideStory「巴别塔」",
+                    "StageName": "BB",
+                    "UtcStartTime": "2024/04/11 16:00:00",
+                    "UtcExpireTime": "2024/05/03 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "OD-8",
-                "Value": "OD-8",
-                "Drop": "30093",
+                "Display": "BB-8",
+                "Value": "BB-8",
+                "Drop": "31013",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「源石尘行动」复刻",
-                    "StageName": "OD",
-                    "UtcStartTime": "2024/03/21 16:00:00",
-                    "UtcExpireTime": "2024/03/31 03:59:59",
+                    "Tip": "SideStory「巴别塔」",
+                    "StageName": "BB",
+                    "UtcStartTime": "2024/04/11 16:00:00",
+                    "UtcExpireTime": "2024/05/03 03:59:59",
                     "TimeZone": 8
                 }
             }
