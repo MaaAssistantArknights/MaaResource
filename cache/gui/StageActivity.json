@@ -52,6 +52,19 @@
                     "UtcExpireTime": "2024/05/03 03:59:59",
                     "TimeZone": 8
                 }
+            },
+            {
+                "Display": "BB-4",
+                "Value": "BB-4",
+                "Drop": "糖、固原岩（搓玉效率0.3）",
+                "MinimumRequired": "v4.28.6",
+                "Activity": {
+                    "Tip": "SideStory「巴别塔」",
+                    "StageName": "BB",
+                    "UtcStartTime": "2024/04/11 16:00:00",
+                    "UtcExpireTime": "2024/05/03 03:59:59",
+                    "TimeZone": 8
+                }
             }
         ],
         "resourceCollection": {
