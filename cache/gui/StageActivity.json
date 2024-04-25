@@ -228,41 +228,41 @@
     "txwy": {
         "sideStoryStage": [
             {
-                "Display": "CW-8",
-                "Value": "CW-8",
-                "Drop": "30053",
+                "Display": "HE-6",
+                "Value": "HE-6",
+                "Drop": "30013",
                 "MinimumRequired": "v5.2.0",
                 "Activity": {
-                    "Tip": "SideStory「孤星」",
-                    "StageName": "CW",
-                    "UtcStartTime": "2024/03/19 16:00:00",
-                    "UtcExpireTime": "2024/04/09 03:59:59",
+                    "Tip": "SideStory「空想花庭」",
+                    "StageName": "HE",
+                    "UtcStartTime": "2024/04/25 16:00:00",
+                    "UtcExpireTime": "2024/05/09 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "CW-9",
-                "Value": "CW-9",
-                "Drop": "31043",
+                "Display": "HE-7",
+                "Value": "HE-7",
+                "Drop": "31013",
                 "MinimumRequired": "v5.2.0",
                 "Activity": {
-                    "Tip": "SideStory「孤星」",
-                    "StageName": "CW",
-                    "UtcStartTime": "2024/03/19 16:00:00",
-                    "UtcExpireTime": "2024/04/09 03:59:59",
+                    "Tip": "SideStory「空想花庭」",
+                    "StageName": "HE",
+                    "UtcStartTime": "2024/04/25 16:00:00",
+                    "UtcExpireTime": "2024/05/09 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "CW-10",
-                "Value": "CW-10",
-                "Drop": "31023",
+                "Display": "HE-8",
+                "Value": "HE-8",
+                "Drop": "30103",
                 "MinimumRequired": "v5.2.0",
                 "Activity": {
-                    "Tip": "SideStory「孤星」",
-                    "StageName": "CW",
-                    "UtcStartTime": "2024/03/19 16:00:00",
-                    "UtcExpireTime": "2024/04/09 03:59:59",
+                    "Tip": "SideStory「空想花庭」",
+                    "StageName": "HE",
+                    "UtcStartTime": "2024/04/25 16:00:00",
+                    "UtcExpireTime": "2024/05/09 03:59:59",
                     "TimeZone": 8
                 }
             }

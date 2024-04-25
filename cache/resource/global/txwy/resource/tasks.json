@@ -1,13 +1,15 @@
 {
-    "CW-Open": {
+    "HE-Open": {
         "text": [
-            "孤星",
+            "空想花庭",
             "已開放"
         ]
     },
-    "CWChapterToCW": {
+    "HEChapterToHE": {
         "text": [
-            "未來將至"
+            "安布羅修修道院",
+            "安布羅修",
+            "修道院"
         ]
     }
 }
