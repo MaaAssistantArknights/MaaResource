@@ -10,8 +10,7 @@
     "BB-8": {
         "algorithm": "JustReturn",
         "sub": [
-            "BB-Open",
-            "BB-OpenOcr"
+            "BB-OpenOpt"
         ],
         "next": [
             "BB-8@SideStoryStage",
@@ -21,8 +20,7 @@
     "BB-7": {
         "algorithm": "JustReturn",
         "sub": [
-            "BB-Open",
-            "BB-OpenOcr"
+            "BB-OpenOpt"
         ],
         "next": [
             "BB-7@SideStoryStage",
@@ -32,8 +30,7 @@
     "BB-6": {
         "algorithm": "JustReturn",
         "sub": [
-            "BB-Open",
-            "BB-OpenOcr"
+            "BB-OpenOpt"
         ],
         "next": [
             "BB-6@SideStoryStage",
@@ -43,12 +40,18 @@
     "BB-4": {
         "algorithm": "JustReturn",
         "sub": [
-            "BB-Open",
-            "BB-OpenOcr"
+            "BB-OpenOpt"
         ],
         "next": [
             "BB-4@SideStoryStage",
             "BB-4@SwipeToStage"
+        ]
+    },
+    "BB-OpenOpt": {
+        "algorithm": "JustReturn",
+        "next": [
+            "BB-OpenOcr",
+            "BB-Open"
         ]
     },
     "BB-Open": {
