@@ -1,4 +1,12 @@
 {
+    "ClickStageName": {
+        "ocrReplace": [
+            [
+                "-\\]",
+                "-1"
+            ]
+        ]
+    },
     "BB-8": {
         "algorithm": "JustReturn",
         "sub": [
