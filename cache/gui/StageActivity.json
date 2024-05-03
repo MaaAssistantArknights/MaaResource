@@ -65,6 +65,32 @@
                     "UtcExpireTime": "2024/05/15 03:59:59",
                     "TimeZone": 8
                 }
+            },
+            {
+                "Display": "14-15 磨难",
+                "Value": "14-15-HARD",
+                "Drop": "31053",
+                "MinimumRequired": "v4.28.6",
+                "Activity": {
+                    "Tip": "主题曲 EP 14「慈悲灯塔」",
+                    "StageName": "主题曲 EP 14「慈悲灯塔」",
+                    "UtcStartTime": "2024/05/01 16:00:00",
+                    "UtcExpireTime": "2024/05/15 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "14-15 标准",
+                "Value": "14-15",
+                "Drop": "31053",
+                "MinimumRequired": "v4.28.6",
+                "Activity": {
+                    "Tip": "主题曲 EP 14「慈悲灯塔」",
+                    "StageName": "主题曲 EP 14「慈悲灯塔」",
+                    "UtcStartTime": "2024/05/01 16:00:00",
+                    "UtcExpireTime": "2024/05/15 03:59:59",
+                    "TimeZone": 8
+                }
             }
         ],
         "resourceCollection": {
