@@ -15,54 +15,54 @@
                 }
             },
             {
-                "Display": "BB-6",
-                "Value": "BB-6",
-                "Drop": "30013",
+                "Display": "14-16 磨难",
+                "Value": "14-16-HARD",
+                "Drop": "30053",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「巴别塔」",
-                    "StageName": "BB",
-                    "UtcStartTime": "2024/04/11 16:00:00",
-                    "UtcExpireTime": "2024/05/03 03:59:59",
+                    "Tip": "主题曲 EP 14「慈悲灯塔」",
+                    "StageName": "主题曲 EP 14「慈悲灯塔」",
+                    "UtcStartTime": "2024/05/01 16:00:00",
+                    "UtcExpireTime": "2024/05/15 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "BB-7",
-                "Value": "BB-7",
-                "Drop": "30043",
+                "Display": "14-16 标准",
+                "Value": "14-16",
+                "Drop": "30053",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「巴别塔」",
-                    "StageName": "BB",
-                    "UtcStartTime": "2024/04/11 16:00:00",
-                    "UtcExpireTime": "2024/05/03 03:59:59",
+                    "Tip": "主题曲 EP 14「慈悲灯塔」",
+                    "StageName": "主题曲 EP 14「慈悲灯塔」",
+                    "UtcStartTime": "2024/05/01 16:00:00",
+                    "UtcExpireTime": "2024/05/15 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "BB-8",
-                "Value": "BB-8",
-                "Drop": "31013",
+                "Display": "14-20 磨难",
+                "Value": "14-20-HARD",
+                "Drop": "30093",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「巴别塔」",
-                    "StageName": "BB",
-                    "UtcStartTime": "2024/04/11 16:00:00",
-                    "UtcExpireTime": "2024/05/03 03:59:59",
+                    "Tip": "主题曲 EP 14「慈悲灯塔」",
+                    "StageName": "主题曲 EP 14「慈悲灯塔」",
+                    "UtcStartTime": "2024/05/01 16:00:00",
+                    "UtcExpireTime": "2024/05/15 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "BB-4",
-                "Value": "BB-4",
-                "Drop": "糖、固源岩（搓玉系数0.35）",
+                "Display": "14-20 标准",
+                "Value": "14-20",
+                "Drop": "30093",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「巴别塔」",
-                    "StageName": "BB",
-                    "UtcStartTime": "2024/04/11 16:00:00",
-                    "UtcExpireTime": "2024/05/03 03:59:59",
+                    "Tip": "主题曲 EP 14「慈悲灯塔」",
+                    "StageName": "主题曲 EP 14「慈悲灯塔」",
+                    "UtcStartTime": "2024/05/01 16:00:00",
+                    "UtcExpireTime": "2024/05/15 03:59:59",
                     "TimeZone": 8
                 }
             }
@@ -70,7 +70,7 @@
         "resourceCollection": {
             "Tip": "“资源收集”限时全天开放",
             "UtcStartTime": "2024/03/28 16:00:00",
-            "UtcExpireTime": "2024/04/11 03:59:59",
+            "UtcExpireTime": "2024/05/01 03:59:59",
             "TimeZone": 8,
             "IsResourceCollection": true
         }
