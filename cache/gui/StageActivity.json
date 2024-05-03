@@ -17,7 +17,7 @@
             {
                 "Display": "14-16 磨难",
                 "Value": "14-16-HARD",
-                "Drop": "30053",
+                "Drop": "30063",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "主题曲 EP 14「慈悲灯塔」",
@@ -30,7 +30,7 @@
             {
                 "Display": "14-16 标准",
                 "Value": "14-16",
-                "Drop": "30053",
+                "Drop": "30063",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "主题曲 EP 14「慈悲灯塔」",
@@ -43,7 +43,7 @@
             {
                 "Display": "14-20 磨难",
                 "Value": "14-20-HARD",
-                "Drop": "30093",
+                "Drop": "30053",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "主题曲 EP 14「慈悲灯塔」",
@@ -56,7 +56,7 @@
             {
                 "Display": "14-20 标准",
                 "Value": "14-20",
-                "Drop": "30093",
+                "Drop": "30053",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "主题曲 EP 14「慈悲灯塔」",
