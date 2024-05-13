@@ -29,7 +29,7 @@
             },
             {
                 "Display": "14-16 标准",
-                "Value": "14-16",
+                "Value": "14-16-NORMAL",
                 "Drop": "30063",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
@@ -55,7 +55,7 @@
             },
             {
                 "Display": "14-20 标准",
-                "Value": "14-20",
+                "Value": "14-20-NORMAL",
                 "Drop": "30053",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
@@ -81,7 +81,7 @@
             },
             {
                 "Display": "14-15 标准",
-                "Value": "14-15",
+                "Value": "14-15-NORMAL",
                 "Drop": "31053",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
