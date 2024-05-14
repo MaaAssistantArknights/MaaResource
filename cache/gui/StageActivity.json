@@ -294,7 +294,7 @@
             },
             {
                 "Display": "LE-7",
-                "Value": "LE-5",
+                "Value": "LE-7",
                 "Drop": "31043",
                 "MinimumRequired": "v5.2.0",
                 "Activity": {
