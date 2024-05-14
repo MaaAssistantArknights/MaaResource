@@ -254,41 +254,54 @@
     "txwy": {
         "sideStoryStage": [
             {
-                "Display": "HE-6",
-                "Value": "HE-6",
-                "Drop": "30013",
+                "Display": "SSReopen-LE",
+                "Value": "SSReopen-LE",
+                "Drop": "一次代理所有 LE 復刻普通關",
                 "MinimumRequired": "v5.2.0",
                 "Activity": {
-                    "Tip": "SideStory「空想花庭」",
-                    "StageName": "HE",
-                    "UtcStartTime": "2024/04/25 16:00:00",
-                    "UtcExpireTime": "2024/05/09 03:59:59",
+                    "Tip": "SideStory「塵影餘音」復刻",
+                    "StageName": "LE",
+                    "UtcStartTime": "2024/05/14 16:00:00",
+                    "UtcExpireTime": "2024/05/24 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "HE-7",
-                "Value": "HE-7",
-                "Drop": "31013",
+                "Display": "LE-5",
+                "Value": "LE-5",
+                "Drop": "30023",
                 "MinimumRequired": "v5.2.0",
                 "Activity": {
-                    "Tip": "SideStory「空想花庭」",
-                    "StageName": "HE",
-                    "UtcStartTime": "2024/04/25 16:00:00",
-                    "UtcExpireTime": "2024/05/09 03:59:59",
+                    "Tip": "SideStory「塵影餘音」復刻",
+                    "StageName": "LE",
+                    "UtcStartTime": "2024/05/14 16:00:00",
+                    "UtcExpireTime": "2024/05/24 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "HE-8",
-                "Value": "HE-8",
-                "Drop": "30103",
+                "Display": "LE-6",
+                "Value": "LE-6",
+                "Drop": "30093",
                 "MinimumRequired": "v5.2.0",
                 "Activity": {
-                    "Tip": "SideStory「空想花庭」",
-                    "StageName": "HE",
-                    "UtcStartTime": "2024/04/25 16:00:00",
-                    "UtcExpireTime": "2024/05/09 03:59:59",
+                    "Tip": "SideStory「塵影餘音」復刻",
+                    "StageName": "LE",
+                    "UtcStartTime": "2024/05/14 16:00:00",
+                    "UtcExpireTime": "2024/05/24 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "LE-7",
+                "Value": "LE-5",
+                "Drop": "31043",
+                "MinimumRequired": "v5.2.0",
+                "Activity": {
+                    "Tip": "SideStory「塵影餘音」復刻",
+                    "StageName": "LE",
+                    "UtcStartTime": "2024/05/14 16:00:00",
+                    "UtcExpireTime": "2024/05/24 03:59:59",
                     "TimeZone": 8
                 }
             }
