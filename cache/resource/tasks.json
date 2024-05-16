@@ -1,4 +1,12 @@
 {
+    "SpecialAccessActivities": {
+        "roi": [
+            74,
+            79,
+            79,
+            41
+        ]
+    },
     "ClickStageName": {
         "ocrReplace": [
             [
