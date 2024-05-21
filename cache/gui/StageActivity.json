@@ -104,41 +104,41 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
-                "Display": "ZT-7",
-                "Value": "ZT-7",
-                "Drop": "30043",
+                "Display": "IS-8",
+                "Value": "IS-8",
+                "Drop": "30013",
                 "MinimumRequired": "v5.2.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「ツヴィリングトゥルムの黄金」",
-                    "StageName": "ZT",
-                    "UtcStartTime": "2024/04/30 16:00:00",
-                    "UtcExpireTime": "2024/05/21 03:59:59",
+                    "Tip": "サイドストーリー「シラクザーノ」復刻",
+                    "StageName": "IS",
+                    "UtcStartTime": "2024/05/23 16:00:00",
+                    "UtcExpireTime": "2024/06/02 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "ZT-8",
-                "Value": "ZT-8",
-                "Drop": "30063",
+                "Display": "IS-9",
+                "Value": "IS-9",
+                "Drop": "31053",
                 "MinimumRequired": "v5.2.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「ツヴィリングトゥルムの黄金」",
-                    "StageName": "ZT",
-                    "UtcStartTime": "2024/04/30 16:00:00",
-                    "UtcExpireTime": "2024/05/21 03:59:59",
+                    "Tip": "サイドストーリー「シラクザーノ」復刻",
+                    "StageName": "IS",
+                    "UtcStartTime": "2024/05/23 16:00:00",
+                    "UtcExpireTime": "2024/06/02 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "ZT-9",
-                "Value": "ZT-9",
-                "Drop": "30073",
+                "Display": "IS-10",
+                "Value": "IS-10",
+                "Drop": "31023",
                 "MinimumRequired": "v5.2.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「ツヴィリングトゥルムの黄金」",
-                    "StageName": "ZT",
-                    "UtcStartTime": "2024/04/30 16:00:00",
-                    "UtcExpireTime": "2024/05/21 03:59:59",
+                    "Tip": "サイドストーリー「シラクザーノ」復刻",
+                    "StageName": "IS",
+                    "UtcStartTime": "2024/05/23 16:00:00",
+                    "UtcExpireTime": "2024/06/02 03:59:59",
                     "TimeZone": 9
                 }
             }
