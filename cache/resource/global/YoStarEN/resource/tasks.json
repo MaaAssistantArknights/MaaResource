@@ -1,18 +1,13 @@
 {
-    "ZT-OpenOcr": {
+    "IS-OpenOcr": {
         "text": [
-            "Zwilling",
-            "sturme",
-            "Herbst",
+            "Siracusano",
             "open"
         ]
     },
-    "ZTChapterToZT": {
+    "EnterChapterIS": {
         "text": [
-            "Zwillingsturme",
-            "ZWILLINGSTURME",
-            "Anbeten",
-            "ANBETEN"
+            "Volsinii"
         ]
     }
 }
