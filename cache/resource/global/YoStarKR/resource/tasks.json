@@ -8,6 +8,12 @@
         ]
     },
     "EnterChapterIS": {
+        "ocrReplace": [
+            [
+                "볼시.+",
+                "볼시니"
+            ]
+        ],
         "text": [
             "볼시니"
         ]
