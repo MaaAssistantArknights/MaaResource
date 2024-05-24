@@ -15,112 +15,91 @@
             ]
         ]
     },
-    "BB-8": {
+    "CW-8": {
         "algorithm": "JustReturn",
         "sub": [
-            "BB-OpenOpt"
+            "CW-OpenOpt"
         ],
         "next": [
-            "BB-8@SideStoryStage",
-            "BB-8@SwipeToStage"
+            "CW-8@SideStoryStage",
+            "CW-8@SwipeToStage"
         ]
     },
-    "BB-7": {
+    "CW-9": {
         "algorithm": "JustReturn",
         "sub": [
-            "BB-OpenOpt"
+            "CW-OpenOpt"
         ],
         "next": [
-            "BB-7@SideStoryStage",
-            "BB-7@SwipeToStage"
+            "CW-9@SideStoryStage",
+            "CW-9@SwipeToStage"
         ]
     },
-    "BB-6": {
+    "CW-10": {
         "algorithm": "JustReturn",
         "sub": [
-            "BB-OpenOpt"
+            "CW-OpenOpt"
         ],
         "next": [
-            "BB-6@SideStoryStage",
-            "BB-6@SwipeToStage"
+            "CW-10@SideStoryStage",
+            "CW-10@SwipeToStage"
         ]
     },
-    "BB-4": {
+    "CW-4": {
         "algorithm": "JustReturn",
         "sub": [
-            "BB-OpenOpt"
+            "CW-OpenOpt"
         ],
         "next": [
-            "BB-4@SideStoryStage",
-            "BB-4@SwipeToStage"
+            "CW-4@SideStoryStage",
+            "CW-4@SwipeToStage"
         ]
     },
-    "BB-OpenOpt": {
+    "CW-OpenOpt": {
         "algorithm": "JustReturn",
         "next": [
-            "BB-OpenOcr",
-            "BB-Open"
+            "CW-OpenOcr",
+            "CW-Open"
         ]
     },
-    "BB-Open": {
+    "CW-Open": {
         "baseTask": "SS-OpenOcr",
         "text": [
-            "巴别塔",
-            "巴别",
-            "别塔",
-            "我驻留往昔",
-            "我驻",
-            "驻留",
-            "留往",
-            "往昔",
-            "我始终如一",
-            "我始",
-            "始终",
-            "终如",
-            "如一"
+            "孤星"
         ],
         "roi": [
-            505,
-            57,
-            462,
-            628
+            105,
+            538,
+            98,
+            25
         ],
         "next": [
-            "BBChapterToBB"
+            "CWChapterToCW"
         ]
     },
-    "BB-OpenOcr": {
+    "CW-OpenOcr": {
         "baseTask": "SS-OpenOcr",
         "text": [
-            "巴别塔",
-            "巴别",
-            "别塔",
-            "我驻留往昔",
-            "我驻",
-            "驻留",
-            "留往",
-            "往昔",
-            "我始终如一",
-            "我始",
-            "始终",
-            "终如",
-            "如一"
+            "孤星"
         ],
         "next": [
-            "BBChapterToBB"
+            "CWChapterToCW"
         ]
     },
-    "BBChapterToBB": {
+    "CWChapterToCW": {
         "algorithm": "OcrDetect",
         "action": "ClickSelf",
         "text": [
-            "来"
+            "未来将至",
+            "未来",
+            "来将",
+            "将至"
         ],
         "preDelay": 2000,
         "roi": [
-            1091,
-            610,
-            33,
+            1031,
+            179,
+            94,
             30
         ],
         "next": [
@@ -128,24 +107,24 @@
             "ChapterSwipeToTheRight"
         ]
     },
-    "BB-8@SideStoryStage": {
+    "CW-8@SideStoryStage": {
         "text": [
-            "BB-8"
+            "CW-8"
         ]
     },
-    "BB-7@SideStoryStage": {
+    "CW-9@SideStoryStage": {
         "text": [
-            "BB-7"
+            "CW-9"
         ]
     },
-    "BB-6@SideStoryStage": {
+    "CW-10@SideStoryStage": {
         "text": [
-            "BB-6"
+            "CW-10"
         ]
     },
-    "BB-4@SideStoryStage": {
+    "CW-4@SideStoryStage": {
         "text": [
-            "BB-4"
+            "CW-4"
         ]
     }
 }

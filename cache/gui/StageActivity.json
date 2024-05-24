@@ -15,80 +15,41 @@
                 }
             },
             {
-                "Display": "14-16 磨难",
-                "Value": "14-16-HARD",
-                "Drop": "30063",
-                "MinimumRequired": "v4.28.6",
-                "Activity": {
-                    "Tip": "主题曲 EP 14「慈悲灯塔」限时掉落",
-                    "StageName": "主题曲 EP 14「慈悲灯塔」限时掉落",
-                    "UtcStartTime": "2024/05/01 16:00:00",
-                    "UtcExpireTime": "2024/05/15 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "14-16 标准",
-                "Value": "14-16-NORMAL",
-                "Drop": "30063",
-                "MinimumRequired": "v4.28.6",
-                "Activity": {
-                    "Tip": "主题曲 EP 14「慈悲灯塔」限时掉落",
-                    "StageName": "主题曲 EP 14「慈悲灯塔」限时掉落",
-                    "UtcStartTime": "2024/05/01 16:00:00",
-                    "UtcExpireTime": "2024/05/15 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "14-20 磨难",
-                "Value": "14-20-HARD",
+                "Display": "CW-8",
+                "Value": "CW-8",
                 "Drop": "30053",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "主题曲 EP 14「慈悲灯塔」限时掉落",
-                    "StageName": "主题曲 EP 14「慈悲灯塔」限时掉落",
-                    "UtcStartTime": "2024/05/01 16:00:00",
-                    "UtcExpireTime": "2024/05/15 03:59:59",
+                    "Tip": "SideStory「孤星」复刻",
+                    "StageName": "SideStory「孤星」复刻",
+                    "UtcStartTime": "2024/05/24 16:00:00",
+                    "UtcExpireTime": "2024/06/03 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "14-20 标准",
-                "Value": "14-20-NORMAL",
-                "Drop": "30053",
+                "Display": "CW-9",
+                "Value": "CW-9",
+                "Drop": "31043",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "主题曲 EP 14「慈悲灯塔」限时掉落",
-                    "StageName": "主题曲 EP 14「慈悲灯塔」限时掉落",
-                    "UtcStartTime": "2024/05/01 16:00:00",
-                    "UtcExpireTime": "2024/05/15 03:59:59",
+                    "Tip": "SideStory「孤星」复刻",
+                    "StageName": "SideStory「孤星」复刻",
+                    "UtcStartTime": "2024/05/24 16:00:00",
+                    "UtcExpireTime": "2024/06/03 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "14-15 磨难",
-                "Value": "14-15-HARD",
-                "Drop": "31053",
+                "Display": "CW-10",
+                "Value": "CW-10",
+                "Drop": "31023",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "主题曲 EP 14「慈悲灯塔」限时掉落",
-                    "StageName": "主题曲 EP 14「慈悲灯塔」限时掉落",
-                    "UtcStartTime": "2024/05/01 16:00:00",
-                    "UtcExpireTime": "2024/05/15 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "14-15 标准",
-                "Value": "14-15-NORMAL",
-                "Drop": "31053",
-                "MinimumRequired": "v4.28.6",
-                "Activity": {
-                    "Tip": "主题曲 EP 14「慈悲灯塔」限时掉落",
-                    "StageName": "主题曲 EP 14「慈悲灯塔」限时掉落",
-                    "UtcStartTime": "2024/05/01 16:00:00",
-                    "UtcExpireTime": "2024/05/15 03:59:59",
+                    "Tip": "SideStory「孤星」复刻",
+                    "StageName": "SideStory「孤星」复刻",
+                    "UtcStartTime": "2024/05/24 16:00:00",
+                    "UtcExpireTime": "2024/06/03 03:59:59",
                     "TimeZone": 8
                 }
             }
