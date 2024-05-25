@@ -21,7 +21,7 @@
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「孤星」复刻",
-                    "StageName": "CW",
+                    "StageName": "「孤星」复刻",
                     "UtcStartTime": "2024/05/24 16:00:00",
                     "UtcExpireTime": "2024/06/03 03:59:59",
                     "TimeZone": 8
@@ -34,7 +34,7 @@
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「孤星」复刻",
-                    "StageName": "CW",
+                    "StageName": "「孤星」复刻",
                     "UtcStartTime": "2024/05/24 16:00:00",
                     "UtcExpireTime": "2024/06/03 03:59:59",
                     "TimeZone": 8
@@ -47,7 +47,20 @@
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「孤星」复刻",
-                    "StageName": "CW",
+                    "StageName": "「孤星」复刻",
+                    "UtcStartTime": "2024/05/24 16:00:00",
+                    "UtcExpireTime": "2024/06/03 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "CW-6",
+                "Value": "CW-6",
+                "Drop": "每理智 0.35 玉",
+                "MinimumRequired": "v4.28.6",
+                "Activity": {
+                    "Tip": "SideStory「孤星」复刻",
+                    "StageName": "「孤星」复刻",
                     "UtcStartTime": "2024/05/24 16:00:00",
                     "UtcExpireTime": "2024/06/03 03:59:59",
                     "TimeZone": 8

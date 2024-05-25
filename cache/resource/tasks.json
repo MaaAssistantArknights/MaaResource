@@ -45,14 +45,14 @@
             "CW-10@SwipeToStage"
         ]
     },
-    "CW-4": {
+    "CW-6": {
         "algorithm": "JustReturn",
         "sub": [
             "CW-OpenOpt"
         ],
         "next": [
-            "CW-4@SideStoryStage",
-            "CW-4@SwipeToStage"
+            "CW-6@SideStoryStage",
+            "CW-6@SwipeToStage"
         ]
     },
     "CW-OpenOpt": {
@@ -122,9 +122,9 @@
             "CW-10"
         ]
     },
-    "CW-4@SideStoryStage": {
+    "CW-6@SideStoryStage": {
         "text": [
-            "CW-4"
+            "CW-6"
         ]
     }
 }
