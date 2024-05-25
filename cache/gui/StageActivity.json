@@ -56,7 +56,7 @@
             {
                 "Display": "CW-6",
                 "Value": "CW-6",
-                "Drop": "每理智 0.35 玉\n(非常费龙门币)",
+                "Drop": "每理智 0.35 玉\n    (非常费龙门币)",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「孤星」复刻",
