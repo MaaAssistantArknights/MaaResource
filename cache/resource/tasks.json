@@ -15,116 +15,124 @@
             ]
         ]
     },
-    "CW-8": {
+    "BP-5": {
         "algorithm": "JustReturn",
         "sub": [
-            "CW-OpenOpt"
+            "BP-OpenOpt"
         ],
         "next": [
-            "CW-8@SideStoryStage",
-            "CW-8@SwipeToStage"
+            "BP-5@SideStoryStage",
+            "BP-5@SwipeToStage"
         ]
     },
-    "CW-9": {
+    "BP-6": {
         "algorithm": "JustReturn",
         "sub": [
-            "CW-OpenOpt"
+            "BP-OpenOpt"
         ],
         "next": [
-            "CW-9@SideStoryStage",
-            "CW-9@SwipeToStage"
+            "BP-6@SideStoryStage",
+            "BP-6@SwipeToStage"
         ]
     },
-    "CW-10": {
+    "BP-7": {
         "algorithm": "JustReturn",
         "sub": [
-            "CW-OpenOpt"
+            "BP-OpenOpt"
         ],
         "next": [
-            "CW-10@SideStoryStage",
-            "CW-10@SwipeToStage"
+            "BP-7@SideStoryStage",
+            "BP-7@SwipeToStage"
         ]
     },
-    "CW-6": {
+    "BP-4": {
         "algorithm": "JustReturn",
         "sub": [
-            "CW-OpenOpt"
+            "BP-OpenOpt"
         ],
         "next": [
-            "CW-6@SideStoryStage",
-            "CW-6@SwipeToStage"
+            "BP-4@SideStoryStage",
+            "BP-4@SwipeToStage"
         ]
     },
-    "CW-OpenOpt": {
+    "BP-OpenOpt": {
         "algorithm": "JustReturn",
         "next": [
-            "CW-OpenOcr",
-            "CW-Open"
+            "BP-OpenOcr",
+            "BP-Open"
         ]
     },
-    "CW-Open": {
+    "BP-Open": {
         "baseTask": "SS-OpenOcr",
         "text": [
-            "孤星"
+            "生路",
+            "防线巩固",
+            "防线",
+            "线巩",
+            "巩固"
         ],
         "roi": [
             105,
             538,
-            98,
-            25
+            159,
+            26
         ],
         "next": [
-            "CWChapterToCW"
+            "BPChapterToBP"
         ]
     },
-    "CW-OpenOcr": {
+    "BP-OpenOcr": {
         "baseTask": "SS-OpenOcr",
         "text": [
-            "孤星"
+            "生路",
+            "防线巩固",
+            "防线",
+            "线巩",
+            "巩固"
         ],
         "next": [
-            "CWChapterToCW"
+            "BPChapterToBP"
         ]
     },
-    "CWChapterToCW": {
+    "BPChapterToBP": {
         "algorithm": "OcrDetect",
         "action": "ClickSelf",
         "text": [
-            "未来将至",
-            "未来",
-            "来将",
-            "将至"
+            "信标投放",
+            "信标",
+            "标投",
+            "投放"
         ],
         "preDelay": 2000,
         "roi": [
-            1031,
-            179,
-            94,
-            30
+            1025,
+            509,
+            98,
+            29
         ],
         "next": [
             "#self",
             "ChapterSwipeToTheRight"
         ]
     },
-    "CW-8@SideStoryStage": {
+    "BP-5@SideStoryStage": {
         "text": [
-            "CW-8"
+            "BP-5"
         ]
     },
-    "CW-9@SideStoryStage": {
+    "BP-6@SideStoryStage": {
         "text": [
-            "CW-9"
+            "BP-6"
         ]
     },
-    "CW-10@SideStoryStage": {
+    "BP-7@SideStoryStage": {
         "text": [
-            "CW-10"
+            "BP-7"
         ]
     },
-    "CW-6@SideStoryStage": {
+    "BP-4@SideStoryStage": {
         "text": [
-            "CW-6"
+            "BP-4"
         ]
     }
 }
