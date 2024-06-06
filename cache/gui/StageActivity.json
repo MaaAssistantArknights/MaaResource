@@ -17,7 +17,7 @@
             {
                 "Display": "BP-5",
                 "Value": "BP-5",
-                "Drop": "晶体元件（杂鱼~）",
+                "Drop": "晶体元件(杂鱼❤️)",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「生路」",
@@ -28,7 +28,7 @@
                 }
             },
             {
-                "Display": "BP-6（蓝糖）",
+                "Display": "BP-6",
                 "Value": "BP-6",
                 "Drop": "30023",
                 "MinimumRequired": "v4.28.6",
@@ -41,7 +41,7 @@
                 }
             },
             {
-                "Display": "BP-7（蓝醇）",
+                "Display": "BP-7",
                 "Value": "BP-7",
                 "Drop": "30073",
                 "MinimumRequired": "v4.28.6",
@@ -54,9 +54,9 @@
                 }
             },
             {
-                "Display": "BP-4（搓玉）",
+                "Display": "BP-4",
                 "Value": "BP-4",
-                "Drop": "搓玉（每理智可搓0.7玉）",
+                "Drop": "每理智可搓0.7玉",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「生路」",
