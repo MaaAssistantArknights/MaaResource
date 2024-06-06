@@ -56,7 +56,7 @@
             {
                 "Display": "BP-4（搓玉）",
                 "Value": "BP-4",
-                "Drop": "搓玉（效率待定）",
+                "Drop": "搓玉（每理智可搓0.7玉）",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「生路」",
