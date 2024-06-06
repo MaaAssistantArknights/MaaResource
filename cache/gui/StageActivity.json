@@ -28,7 +28,7 @@
                 }
             },
             {
-                "Display": "BP-6",
+                "Display": "BP-6（蓝糖）",
                 "Value": "BP-6",
                 "Drop": "30023",
                 "MinimumRequired": "v4.28.6",
@@ -41,7 +41,7 @@
                 }
             },
             {
-                "Display": "BP-7",
+                "Display": "BP-7（蓝醇）",
                 "Value": "BP-7",
                 "Drop": "30073",
                 "MinimumRequired": "v4.28.6",
@@ -54,7 +54,7 @@
                 }
             },
             {
-                "Display": "BP-4",
+                "Display": "BP-4（搓玉）",
                 "Value": "BP-4",
                 "Drop": "搓玉（效率待定）",
                 "MinimumRequired": "v4.28.6",
