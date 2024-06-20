@@ -81,7 +81,7 @@
                 "Display": "IS-8",
                 "Value": "IS-8",
                 "Drop": "30013",
-                "MinimumRequired": "v5.2.0",
+                "MinimumRequired": "v5.3.1",
                 "Activity": {
                     "Tip": "サイドストーリー「シラクザーノ」復刻",
                     "StageName": "IS",
@@ -94,7 +94,7 @@
                 "Display": "IS-9",
                 "Value": "IS-9",
                 "Drop": "31053",
-                "MinimumRequired": "v5.2.0",
+                "MinimumRequired": "v5.3.1",
                 "Activity": {
                     "Tip": "サイドストーリー「シラクザーノ」復刻",
                     "StageName": "IS",
@@ -107,7 +107,7 @@
                 "Display": "IS-10",
                 "Value": "IS-10",
                 "Drop": "31023",
-                "MinimumRequired": "v5.2.0",
+                "MinimumRequired": "v5.3.1",
                 "Activity": {
                     "Tip": "サイドストーリー「シラクザーノ」復刻",
                     "StageName": "IS",
@@ -131,7 +131,7 @@
                 "Display": "RS-6",
                 "Value": "RS-6",
                 "Drop": "30033",
-                "MinimumRequired": "v5.2.0",
+                "MinimumRequired": "v5.3.1",
                 "Activity": {
                     "Tip": "SideStory -「은심호 열차」",
                     "StageName": "RS",
@@ -144,7 +144,7 @@
                 "Display": "RS-7",
                 "Value": "RS-7",
                 "Drop": "30083",
-                "MinimumRequired": "v5.2.0",
+                "MinimumRequired": "v5.3.1",
                 "Activity": {
                     "Tip": "SideStory -「은심호 열차」",
                     "StageName": "RS",
@@ -157,7 +157,7 @@
                 "Display": "RS-8",
                 "Value": "RS-8",
                 "Drop": "31033",
-                "MinimumRequired": "v5.2.0",
+                "MinimumRequired": "v5.3.1",
                 "Activity": {
                     "Tip": "SideStory -「은심호 열차」",
                     "StageName": "RS",
@@ -178,41 +178,41 @@
     "YoStarEN": {
         "sideStoryStage": [
             {
-                "Display": "IS-8",
-                "Value": "IS-8",
-                "Drop": "30013",
-                "MinimumRequired": "v5.2.0",
+                "Display": "RS-8",
+                "Value": "RS-8",
+                "Drop": "30033",
+                "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "Il Siracusano - Rerun",
-                    "StageName": "IS",
-                    "UtcStartTime": "2024/05/23 10:00:00",
-                    "UtcExpireTime": "2024/06/02 03:59:59",
+                    "Tip": "The Rides to Lake Silberneherze",
+                    "StageName": "RS",
+                    "UtcStartTime": "2024/06/21 10:00:00",
+                    "UtcExpireTime": "2024/07/12 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "IS-9",
-                "Value": "IS-9",
-                "Drop": "31053",
-                "MinimumRequired": "v5.2.0",
+                "Display": "RS-9",
+                "Value": "RS-9",
+                "Drop": "30083",
+                "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "Il Siracusano - Rerun",
-                    "StageName": "IS",
-                    "UtcStartTime": "2024/05/23 10:00:00",
-                    "UtcExpireTime": "2024/06/02 03:59:59",
+                    "Tip": "The Rides to Lake Silberneherze",
+                    "StageName": "RS",
+                    "UtcStartTime": "2024/06/21 10:00:00",
+                    "UtcExpireTime": "2024/07/12 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "IS-10",
-                "Value": "IS-10",
-                "Drop": "31023",
-                "MinimumRequired": "v5.2.0",
+                "Display": "RS-10",
+                "Value": "RS-10",
+                "Drop": "31033",
+                "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "Il Siracusano - Rerun",
-                    "StageName": "IS",
-                    "UtcStartTime": "2024/05/23 10:00:00",
-                    "UtcExpireTime": "2024/06/02 03:59:59",
+                    "Tip": "The Rides to Lake Silberneherze",
+                    "StageName": "RS",
+                    "UtcStartTime": "2024/06/21 10:00:00",
+                    "UtcExpireTime": "2024/07/12 03:59:59",
                     "TimeZone": -7
                 }
             }
@@ -231,7 +231,7 @@
                 "Display": "SSReopen-LE",
                 "Value": "SSReopen-LE",
                 "Drop": "一次代理所有 LE 復刻普通關",
-                "MinimumRequired": "v5.2.0",
+                "MinimumRequired": "v5.3.1",
                 "Activity": {
                     "Tip": "SideStory「塵影餘音」復刻",
                     "StageName": "LE",
@@ -244,7 +244,7 @@
                 "Display": "LE-5",
                 "Value": "LE-5",
                 "Drop": "30023",
-                "MinimumRequired": "v5.2.0",
+                "MinimumRequired": "v5.3.1",
                 "Activity": {
                     "Tip": "SideStory「塵影餘音」復刻",
                     "StageName": "LE",
@@ -257,7 +257,7 @@
                 "Display": "LE-6",
                 "Value": "LE-6",
                 "Drop": "30093",
-                "MinimumRequired": "v5.2.0",
+                "MinimumRequired": "v5.3.1",
                 "Activity": {
                     "Tip": "SideStory「塵影餘音」復刻",
                     "StageName": "LE",
@@ -270,7 +270,7 @@
                 "Display": "LE-7",
                 "Value": "LE-7",
                 "Drop": "31043",
-                "MinimumRequired": "v5.2.0",
+                "MinimumRequired": "v5.3.1",
                 "Activity": {
                     "Tip": "SideStory「塵影餘音」復刻",
                     "StageName": "LE",

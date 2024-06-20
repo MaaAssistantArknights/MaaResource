@@ -1,13 +1,18 @@
 {
-    "IS-OpenOcr": {
+    "RS-OpenOcr": {
         "text": [
-            "Siracusano",
+            "Rides",
+            "Silberneherze",
+            "Lake",
             "open"
         ]
     },
-    "EnterChapterIS": {
+    "RSChapterToRS": {
         "text": [
-            "Volsinii"
+            "Platform",
+            "PLATFORM",
+            "No",
+            "NO"
         ]
     }
 }
