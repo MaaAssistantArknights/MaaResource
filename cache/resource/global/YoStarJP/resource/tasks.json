@@ -1,23 +1,19 @@
 {
-    "IS-Open": {
-        "sub": [
-            "EnterChapterIS"
-        ],
-        "next": [
-            "SideStoryStage",
-            "SwipeToStageIS"
+    "RS-OpenOcr": {
+        "text": [
+            "銀心湖鉄道",
+            "銀心湖",
+            "鉄道",
+            "イベント開催中",
+            "特急列車",
+            "ステージ開放中"
         ]
     },
-    "IS-OpenOcr": {
+    "RSChapterToRS": {
         "text": [
-            "シラクザーノ",
-            "イベント復刻開催中"
-        ]
-    },
-    "EnterChapterIS": {
-        "text": [
-            "ウォルシーニ",
-            "ウォル"
+            "3番線ホーム",
+            "番線",
+            "ホーム"
         ]
     },
     "StageEntries": {
