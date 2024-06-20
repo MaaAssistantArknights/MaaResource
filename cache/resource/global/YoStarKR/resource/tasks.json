@@ -1,21 +1,15 @@
 {
-    "IS-OpenOcr": {
+    "RS-OpenOcr": {
         "text": [
-            "시라쿠사인",
-            "이벤트",
-            "재개방",
+            "은심호",
+            "열차",
             "개방중"
         ]
     },
-    "EnterChapterIS": {
-        "ocrReplace": [
-            [
-                "볼시.+",
-                "볼시니"
-            ]
-        ],
+    "RSChapterToRS": {
         "text": [
-            "볼시니"
+            "3번",
+            "승강장"
         ]
     }
 }
