@@ -178,8 +178,8 @@
     "YoStarEN": {
         "sideStoryStage": [
             {
-                "Display": "RS-8",
-                "Value": "RS-8",
+                "Display": "RS-6",
+                "Value": "RS-6",
                 "Drop": "30033",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
@@ -191,8 +191,8 @@
                 }
             },
             {
-                "Display": "RS-9",
-                "Value": "RS-9",
+                "Display": "RS-7",
+                "Value": "RS-7",
                 "Drop": "30083",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
@@ -204,8 +204,8 @@
                 }
             },
             {
-                "Display": "RS-10",
-                "Value": "RS-10",
+                "Display": "RS-8",
+                "Value": "RS-8",
                 "Drop": "31033",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
