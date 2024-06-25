@@ -1,138 +1,100 @@
 {
-    "SpecialAccessActivities": {
-        "roi": [
-            74,
-            79,
-            79,
-            41
-        ]
-    },
-    "ClickStageName": {
-        "ocrReplace": [
-            [
-                "-\\]",
-                "-1"
-            ]
-        ]
-    },
-    "BP-5": {
+    "HE-8": {
         "algorithm": "JustReturn",
         "sub": [
-            "BP-OpenOpt"
+            "HE-Open"
         ],
         "next": [
-            "BP-5@SideStoryStage",
-            "BP-5@SwipeToStage"
+            "HE-8@SideStoryStage",
+            "HE-8@SwipeToStage"
         ]
     },
-    "BP-6": {
+    "HE-7": {
         "algorithm": "JustReturn",
         "sub": [
-            "BP-OpenOpt"
+            "HE-Open"
         ],
         "next": [
-            "BP-6@SideStoryStage",
-            "BP-6@SwipeToStage"
+            "HE-7@SideStoryStage",
+            "HE-7@SwipeToStage"
         ]
     },
-    "BP-7": {
+    "HE-6": {
         "algorithm": "JustReturn",
         "sub": [
-            "BP-OpenOpt"
+            "HE-Open"
         ],
         "next": [
-            "BP-7@SideStoryStage",
-            "BP-7@SwipeToStage"
+            "HE-6@SideStoryStage",
+            "HE-6@SwipeToStage"
         ]
     },
-    "BP-4": {
+    "HE-5": {
         "algorithm": "JustReturn",
         "sub": [
-            "BP-OpenOpt"
+            "HE-Open"
         ],
         "next": [
-            "BP-4@SideStoryStage",
-            "BP-4@SwipeToStage"
+            "HE-5@SideStoryStage",
+            "HE-5@SwipeToStage"
         ]
     },
-    "BP-OpenOpt": {
-        "algorithm": "JustReturn",
-        "next": [
-            "BP-OpenOcr",
-            "BP-Open"
-        ]
-    },
-    "BP-Open": {
-        "baseTask": "SS-OpenOcr",
+    "HE-Open": {
+        "action": "ClickSelf",
+        "algorithm": "OcrDetect",
         "text": [
-            "生路",
-            "防线巩固",
-            "防线",
-            "线巩",
-            "巩固"
+            "空想花庭",
+            "已开放"
         ],
+        "postDelay": 2000,
         "roi": [
-            105,
-            538,
-            159,
-            26
+            0,
+            500,
+            500,
+            150
         ],
         "next": [
-            "BPChapterToBP"
+            "HEChapterToHE"
         ]
     },
-    "BP-OpenOcr": {
-        "baseTask": "SS-OpenOcr",
-        "text": [
-            "生路",
-            "防线巩固",
-            "防线",
-            "线巩",
-            "巩固"
-        ],
-        "next": [
-            "BPChapterToBP"
-        ]
-    },
-    "BPChapterToBP": {
+    "HEChapterToHE": {
         "algorithm": "OcrDetect",
         "action": "ClickSelf",
+        "cache": false,
         "text": [
-            "信标投放",
-            "信标",
-            "标投",
-            "投放"
+            "安布罗修修道院",
+            "安布罗修",
+            "修道院"
         ],
-        "preDelay": 2000,
+        "preDelay": 1000,
         "roi": [
-            1025,
-            509,
-            98,
-            29
+            1005,
+            461,
+            275,
+            129
         ],
         "next": [
-            "#self",
             "ChapterSwipeToTheRight"
         ]
     },
-    "BP-5@SideStoryStage": {
+    "HE-8@SideStoryStage": {
         "text": [
-            "BP-5"
+            "HE-8"
         ]
     },
-    "BP-6@SideStoryStage": {
+    "HE-7@SideStoryStage": {
         "text": [
-            "BP-6"
+            "HE-7"
         ]
     },
-    "BP-7@SideStoryStage": {
+    "HE-6@SideStoryStage": {
         "text": [
-            "BP-7"
+            "HE-6"
         ]
     },
-    "BP-4@SideStoryStage": {
+    "HE-5@SideStoryStage": {
         "text": [
-            "BP-4"
+            "HE-5"
         ]
     }
 }
