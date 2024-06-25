@@ -8,7 +8,7 @@
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「空想花庭」复刻",
-                    "StageName": "「空想花庭」",
+                    "StageName": "「空想花庭」复刻",
                     "UtcStartTime": "2024/06/25 16:00:00",
                     "UtcExpireTime": "2024/07/05 03:59:59",
                     "TimeZone": 8
@@ -21,7 +21,7 @@
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「空想花庭」复刻",
-                    "StageName": "「空想花庭」",
+                    "StageName": "「空想花庭」复刻",
                     "UtcStartTime": "2024/06/25 16:00:00",
                     "UtcExpireTime": "2024/07/05 03:59:59",
                     "TimeZone": 8
@@ -34,7 +34,7 @@
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「空想花庭」复刻",
-                    "StageName": "「空想花庭」",
+                    "StageName": "「空想花庭」复刻",
                     "UtcStartTime": "2024/06/25 16:00:00",
                     "UtcExpireTime": "2024/07/05 03:59:59",
                     "TimeZone": 8
@@ -47,7 +47,7 @@
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「空想花庭」复刻",
-                    "StageName": "「空想花庭」",
+                    "StageName": "「空想花庭」复刻",
                     "UtcStartTime": "2024/06/25 16:00:00",
                     "UtcExpireTime": "2024/07/05 03:59:59",
                     "TimeZone": 8
@@ -56,11 +56,11 @@
             {
                 "Display": "HE-5",
                 "Value": "HE-5",
-                "Drop": "每理智可搓0.27玉",
+                "Drop": "每理智可搓 0.27 玉",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「空想花庭」复刻",
-                    "StageName": "「空想花庭」",
+                    "StageName": "「空想花庭」复刻",
                     "UtcStartTime": "2024/06/25 16:00:00",
                     "UtcExpireTime": "2024/07/05 03:59:59",
                     "TimeZone": 8
