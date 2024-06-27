@@ -1,8 +1,28 @@
 {
-    "LE-Open": {
+    "SL-Open": {
+        "action": "ClickSelf",
+        "algorithm": "OcrDetect",
+        "next": [
+            "SLChapterToSL"
+        ],
+        "postDelay": 2000,
+        "roi": [
+            0,
+            500,
+            500,
+            150
+        ],
         "text": [
-            "復刻",
+            "火山",
+            "旅夢",
             "已開放"
+        ]
+    },
+    "SLChapterToSL": {
+        "text": [
+            "溫泉假日",
+            "溫泉",
+            "假日"
         ]
     }
 }
