@@ -78,41 +78,41 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
-                "Display": "RS-6",
-                "Value": "RS-6",
-                "Drop": "30033",
+                "Display": "WB-7",
+                "Value": "WB-7",
+                "Drop": "30053",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「銀心湖鉄道」",
-                    "StageName": "RS",
-                    "UtcStartTime": "2024/06/21 16:00:00",
-                    "UtcExpireTime": "2024/07/05 03:59:59",
+                    "Tip": "サイドストーリー「登臨意」復刻",
+                    "StageName": "WB",
+                    "UtcStartTime": "2024/07/18 16:00:00",
+                    "UtcExpireTime": "2024/07/28 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "RS-7",
-                "Value": "RS-7",
+                "Display": "WB-8",
+                "Value": "WB-8",
                 "Drop": "30083",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「銀心湖鉄道」",
-                    "StageName": "RS",
-                    "UtcStartTime": "2024/06/21 16:00:00",
-                    "UtcExpireTime": "2024/07/05 03:59:59",
+                    "Tip": "サイドストーリー「登臨意」復刻",
+                    "StageName": "WB",
+                    "UtcStartTime": "2024/07/18 16:00:00",
+                    "UtcExpireTime": "2024/07/28 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "RS-8",
-                "Value": "RS-8",
+                "Display": "WB-9",
+                "Value": "WB-9",
                 "Drop": "31033",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「銀心湖鉄道」",
-                    "StageName": "RS",
-                    "UtcStartTime": "2024/06/21 16:00:00",
-                    "UtcExpireTime": "2024/07/05 03:59:59",
+                    "Tip": "サイドストーリー「登臨意」復刻",
+                    "StageName": "WB",
+                    "UtcStartTime": "2024/07/18 16:00:00",
+                    "UtcExpireTime": "2024/07/28 03:59:59",
                     "TimeZone": 9
                 }
             }
