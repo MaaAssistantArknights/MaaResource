@@ -191,41 +191,54 @@
     "YoStarEN": {
         "sideStoryStage": [
             {
-                "Display": "RS-6",
-                "Value": "RS-6",
-                "Drop": "30033",
-                "MinimumRequired": "v5.3.1",
+                "Display": "SSReopen-WB",
+                "Value": "SSReopen-WB",
+                "Drop": "Rerun 1~9",
+                "MinimumRequired": "v5.5.0-beta.1",
                 "Activity": {
-                    "Tip": "The Rides to Lake Silberneherze",
-                    "StageName": "RS",
-                    "UtcStartTime": "2024/06/21 10:00:00",
-                    "UtcExpireTime": "2024/07/05 03:59:59",
+                    "Tip": "Where Vernal Winds Will Never Blow - Rerun",
+                    "StageName": "WB",
+                    "UtcStartTime": "2024/07/18 10:00:00",
+                    "UtcExpireTime": "2024/07/28 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "RS-7",
-                "Value": "RS-7",
+                "Display": "WB-7",
+                "Value": "WB-7",
+                "Drop": "30053",
+                "MinimumRequired": "v5.5.0-beta.1",
+                "Activity": {
+                    "Tip": "Where Vernal Winds Will Never Blow - Rerun",
+                    "StageName": "WB",
+                    "UtcStartTime": "2024/07/18 10:00:00",
+                    "UtcExpireTime": "2024/07/28 03:59:59",
+                    "TimeZone": -7
+                }
+            },
+            {
+                "Display": "WB-8",
+                "Value": "WB-8",
                 "Drop": "30083",
-                "MinimumRequired": "v5.3.1",
+                "MinimumRequired": "v5.5.0-beta.1",
                 "Activity": {
-                    "Tip": "The Rides to Lake Silberneherze",
-                    "StageName": "RS",
-                    "UtcStartTime": "2024/06/21 10:00:00",
-                    "UtcExpireTime": "2024/07/05 03:59:59",
+                    "Tip": "Where Vernal Winds Will Never Blow - Rerun",
+                    "StageName": "WB",
+                    "UtcStartTime": "2024/07/18 10:00:00",
+                    "UtcExpireTime": "2024/07/28 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "RS-8",
-                "Value": "RS-8",
+                "Display": "WB-9",
+                "Value": "WB-9",
                 "Drop": "31033",
-                "MinimumRequired": "v5.3.1",
+                "MinimumRequired": "v5.5.0-beta.1",
                 "Activity": {
-                    "Tip": "The Rides to Lake Silberneherze",
-                    "StageName": "RS",
-                    "UtcStartTime": "2024/06/21 10:00:00",
-                    "UtcExpireTime": "2024/07/05 03:59:59",
+                    "Tip": "Where Vernal Winds Will Never Blow - Rerun",
+                    "StageName": "WB",
+                    "UtcStartTime": "2024/07/18 10:00:00",
+                    "UtcExpireTime": "2024/07/28 03:59:59",
                     "TimeZone": -7
                 }
             }

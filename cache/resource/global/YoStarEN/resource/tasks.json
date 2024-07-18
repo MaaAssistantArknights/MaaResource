@@ -1,17 +1,21 @@
 {
-    "RS-OpenOcr": {
+    "WB-Open": {
         "text": [
-            "Rides",
-            "Silberneherze",
-            "Lake",
-            "open"
+            "Where Vernal Winds",
+            "is now open"
         ]
     },
-    "RSChapterToRS": {
+    "WBChapterToWB": {
+        "algorithm": "OcrDetect",
         "text": [
-            "PLATFORM",
-            "NO",
-            "3"
+            "CASE INVESTIGATION",
+            "ONSITE"
+        ],
+        "roi": [
+            1034,
+            595,
+            246,
+            125
         ]
     }
 }
