@@ -253,42 +253,55 @@
     },
     "txwy": {
         "sideStoryStage": [
-            {
-                "Display": "SL-6",
-                "Value": "SL-6",
-                "Drop": "30053",
+			{
+                "Display": "SSReopen-DV",
+                "Value": "SSReopen-DV",
+                "Drop": "代理1~8",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "四周年慶典「火山旅夢」",
-                    "StageName": "SL",
-                    "UtcStartTime": "2024/06/27 16:00:00",
-                    "UtcExpireTime": "2024/07/18 03:59:59",
+                    "Tip": "SideStory「綠野幻夢」復刻",
+                    "StageName": "DV",
+                    "UtcStartTime": "2024/07/25 16:00:00",
+                    "UtcExpireTime": "2024/08/08 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "SL-7",
-                "Value": "SL-7",
-                "Drop": "31033",
+                "Display": "DV-6",
+                "Value": "DV-6",
+                "Drop": "30033",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "四周年慶典「火山旅夢」",
-                    "StageName": "SL",
-                    "UtcStartTime": "2024/06/27 16:00:00",
-                    "UtcExpireTime": "2024/07/18 03:59:59",
+                    "Tip": "SideStory「綠野幻夢」復刻",
+                    "StageName": "DV",
+                    "UtcStartTime": "2024/07/25 16:00:00",
+                    "UtcExpireTime": "2024/08/08 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "SL-8",
-                "Value": "SL-8",
-                "Drop": "30083",
+                "Display": "DV-7",
+                "Value": "DV-7",
+                "Drop": "30073",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "四周年慶典「火山旅夢」",
-                    "StageName": "SL",
-                    "UtcStartTime": "2024/06/27 16:00:00",
-                    "UtcExpireTime": "2024/07/18 03:59:59",
+                    "Tip": "SideStory「綠野幻夢」復刻",
+                    "StageName": "DV",
+                    "UtcStartTime": "2024/07/25 16:00:00",
+                    "UtcExpireTime": "2024/08/08 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "DV-8",
+                "Value": "DV-8",
+                "Drop": "31023",
+                "MinimumRequired": "v5.3.1",
+                "Activity": {
+                    "Tip": "SideStory「綠野幻夢」復刻",
+                    "StageName": "DV",
+                    "UtcStartTime": "2024/07/25 16:00:00",
+                    "UtcExpireTime": "2024/08/08 03:59:59",
                     "TimeZone": 8
                 }
             }
