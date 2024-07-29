@@ -78,54 +78,54 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-WB",
-                "Value": "SSReopen-WB",
-                "Drop": "Rerun 1~9",
-                "MinimumRequired": "v5.5.0-beta.1",
+                "Display": "HS-7",
+                "Value": "HS-7",
+                "Drop": "30013",
+                "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「登臨意」復刻",
-                    "StageName": "WB",
-                    "UtcStartTime": "2024/07/18 16:00:00",
-                    "UtcExpireTime": "2024/07/28 03:59:59",
+                    "Tip": "サイドストーリー「懐黍離」",
+                    "StageName": "HS",
+                    "UtcStartTime": "2024/07/31 16:00:00",
+                    "UtcExpireTime": "2024/08/21 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "WB-7",
-                "Value": "WB-7",
-                "Drop": "30053",
-                "MinimumRequired": "v5.5.0-beta.1",
+                "Display": "HS-8",
+                "Value": "HS-8",
+                "Drop": "30073",
+                "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「登臨意」復刻",
-                    "StageName": "WB",
-                    "UtcStartTime": "2024/07/18 16:00:00",
-                    "UtcExpireTime": "2024/07/28 03:59:59",
+                    "Tip": "サイドストーリー「懐黍離」",
+                    "StageName": "HS",
+                    "UtcStartTime": "2024/07/31 16:00:00",
+                    "UtcExpireTime": "2024/08/21 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "WB-8",
-                "Value": "WB-8",
-                "Drop": "30083",
-                "MinimumRequired": "v5.5.0-beta.1",
+                "Display": "HS-9",
+                "Value": "HS-9",
+                "Drop": "30103",
+                "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「登臨意」復刻",
-                    "StageName": "WB",
-                    "UtcStartTime": "2024/07/18 16:00:00",
-                    "UtcExpireTime": "2024/07/28 03:59:59",
+                    "Tip": "サイドストーリー「懐黍離」",
+                    "StageName": "HS",
+                    "UtcStartTime": "2024/07/31 16:00:00",
+                    "UtcExpireTime": "2024/08/21 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "WB-9",
-                "Value": "WB-9",
-                "Drop": "31033",
-                "MinimumRequired": "v5.5.0-beta.1",
+                "Display": "HS-5",
+                "Value": "HS-5",
+                "Drop": "初級源岩、初級糖原（合成玉効率0.3）",
+                "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「登臨意」復刻",
-                    "StageName": "WB",
-                    "UtcStartTime": "2024/07/18 16:00:00",
-                    "UtcExpireTime": "2024/07/28 03:59:59",
+                    "Tip": "サイドストーリー「懐黍離」",
+                    "StageName": "HS",
+                    "UtcStartTime": "2024/07/31 16:00:00",
+                    "UtcExpireTime": "2024/08/21 03:59:59",
                     "TimeZone": 9
                 }
             }
