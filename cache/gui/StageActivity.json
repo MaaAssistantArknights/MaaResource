@@ -2,67 +2,54 @@
     "Official": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-HE",
-                "Value": "SSReopen-HE",
-                "Drop": "代理1~8",
+                "Display": "AS-9",
+                "Value": "AS-9",
+                "Drop": "31083",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「空想花庭」复刻",
-                    "StageName": "「空想花庭」复刻",
-                    "UtcStartTime": "2024/06/25 16:00:00",
-                    "UtcExpireTime": "2024/07/05 03:59:59",
+                    "Tip": "SideStory「太阳甩在身后」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2024/08/01 16:00:00",
+                    "UtcExpireTime": "2024/08/22 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "HE-8",
-                "Value": "HE-8",
-                "Drop": "30103",
+                "Display": "AS-8",
+                "Value": "AS-8",
+                "Drop": "30093",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「空想花庭」复刻",
-                    "StageName": "「空想花庭」复刻",
-                    "UtcStartTime": "2024/06/25 16:00:00",
-                    "UtcExpireTime": "2024/07/05 03:59:59",
+                    "Tip": "SideStory「太阳甩在身后」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2024/08/01 16:00:00",
+                    "UtcExpireTime": "2024/08/22 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "HE-7",
-                "Value": "HE-7",
-                "Drop": "31013",
+                "Display": "AS-7",
+                "Value": "AS-7",
+                "Drop": "30043",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「空想花庭」复刻",
-                    "StageName": "「空想花庭」复刻",
-                    "UtcStartTime": "2024/06/25 16:00:00",
-                    "UtcExpireTime": "2024/07/05 03:59:59",
+                    "Tip": "SideStory「太阳甩在身后」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2024/08/01 16:00:00",
+                    "UtcExpireTime": "2024/08/22 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "HE-6",
-                "Value": "HE-6",
-                "Drop": "30013",
+                "Display": "AS-6",
+                "Value": "AS-6",
+                "Drop": "搓玉用，效率待统计",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「空想花庭」复刻",
-                    "StageName": "「空想花庭」复刻",
-                    "UtcStartTime": "2024/06/25 16:00:00",
-                    "UtcExpireTime": "2024/07/05 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "HE-5",
-                "Value": "HE-5",
-                "Drop": "每理智可搓 0.27 玉",
-                "MinimumRequired": "v4.28.6",
-                "Activity": {
-                    "Tip": "SideStory「空想花庭」复刻",
-                    "StageName": "「空想花庭」复刻",
-                    "UtcStartTime": "2024/06/25 16:00:00",
-                    "UtcExpireTime": "2024/07/05 03:59:59",
+                    "Tip": "SideStory「太阳甩在身后」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2024/08/01 16:00:00",
+                    "UtcExpireTime": "2024/08/22 03:59:59",
                     "TimeZone": 8
                 }
             }
@@ -240,7 +227,7 @@
     },
     "txwy": {
         "sideStoryStage": [
-			{
+            {
                 "Display": "SSReopen-DV",
                 "Value": "SSReopen-DV",
                 "Drop": "代理1~8",
