@@ -227,7 +227,7 @@
     },
     "txwy": {
         "sideStoryStage": [
-            {
+             {
                 "Display": "SSReopen-DV",
                 "Value": "SSReopen-DV",
                 "Drop": "代理1~8",
@@ -243,39 +243,39 @@
             {
                 "Display": "DV-6",
                 "Value": "DV-6",
-                "Drop": "30033",
+                "Drop": "30023",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "SideStory「綠野幻夢」復刻",
-                    "StageName": "DV",
-                    "UtcStartTime": "2024/07/25 16:00:00",
-                    "UtcExpireTime": "2024/08/03 03:59:59",
+                    "Tip": "SideStory「不義之財」",
+                    "StageName": "CV",
+                    "UtcStartTime": "2024/08/08 16:00:00",
+                    "UtcExpireTime": "2024/08/22 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
                 "Display": "DV-7",
                 "Value": "DV-7",
-                "Drop": "30073",
+                "Drop": "30093",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "SideStory「綠野幻夢」復刻",
-                    "StageName": "DV",
-                    "UtcStartTime": "2024/07/25 16:00:00",
-                    "UtcExpireTime": "2024/08/03 03:59:59",
+                    "Tip": "SideStory「不義之財」復刻",
+                    "StageName": "CV",
+                    "UtcStartTime": "2024/08/08 16:00:00",
+                    "UtcExpireTime": "2024/08/22 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
                 "Display": "DV-8",
                 "Value": "DV-8",
-                "Drop": "31023",
+                "Drop": "31063",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "SideStory「綠野幻夢」復刻",
-                    "StageName": "DV",
-                    "UtcStartTime": "2024/07/25 16:00:00",
-                    "UtcExpireTime": "2024/08/03 03:59:59",
+                    "Tip": "SideStory「不義之財」復刻",
+                    "StageName": "CV",
+                    "UtcStartTime": "2024/08/08 16:00:00",
+                    "UtcExpireTime": "2024/08/22 03:59:59",
                     "TimeZone": 8
                 }
             }
