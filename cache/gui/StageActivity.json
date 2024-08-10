@@ -43,7 +43,7 @@
             {
                 "Display": "AS-6",
                 "Value": "AS-6",
-                "Drop": "搓玉用，效率待统计",
+                "Drop": "搓玉效率0.34",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「太阳甩在身后」",
