@@ -13,5 +13,9 @@
             "AGRICULTURAL",
             "PLATE"
         ]
+    },
+    "Mizuki@Roguelike@GetDropSelectRecruit": {
+        "templThreshold": 0.8,
+        "template": "Mizuki@Roguelike@GetDropSelectRecruit.png"
     }
 }
