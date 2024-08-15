@@ -1,5 +1,12 @@
 {
-    "DV-Open": {
-        "text": ["綠野幻夢", "復刻", "活動", "開放"]
+    "CV-Open": {
+        "action": "ClickSelf",
+        "algorithm": "OcrDetect",
+        "postDelay": 2000,
+        "text": ["黑色艦船", "黑色","艦船", "關卡", "開啟"],
+        "next": ["CVChapterToCV"]
+    },
+    "CVChapterToCV": {
+        "text": ["蒼白", "平台"]
     }
 }
