@@ -1,14 +1,8 @@
 {
-    "HS-OpenOcr": {
-        "text": [
-            "회서리",
-            "이벤트",
-            "개방중"
-        ]
-    },
-    "HSChapterToHS": {
-        "text": [
-            "경작지"
-        ]
-    }
+  "FC-OpenOcr": {
+    "text": ["스테이지", "개방"]
+  },
+  "FCChapterToFC": {
+    "text": ["안갯속", "늪지대"]
+  }
 }

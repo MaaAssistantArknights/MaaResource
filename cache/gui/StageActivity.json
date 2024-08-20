@@ -180,41 +180,54 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "HS-7",
-                "Value": "HS-7",
-                "Drop": "30013",
+                "Display": "SSReopen-FC",
+                "Value": "SSReopen-FC",
+                "Drop": "자동으로 FC 스테이지를 진행합니다. (대리지휘 필요)",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory - 회서리",
-                    "StageName": "HS",
-                    "UtcStartTime": "2024/07/31 16:00:00",
-                    "UtcExpireTime": "2024/08/21 03:59:59",
+                    "Tip": "SideStory 「불로 비춰주소서」 재개방",
+                    "StageName": "FC",
+                    "UtcStartTime": "2024/08/21 16:00:00",
+                    "UtcExpireTime": "2024/08/31 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "HS-8",
-                "Value": "HS-8",
-                "Drop": "30073",
+                "Display": "FC-5",
+                "Value": "FC-5",
+                "Drop": "30023",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory - 회서리",
-                    "StageName": "HS",
-                    "UtcStartTime": "2024/07/31 16:00:00",
-                    "UtcExpireTime": "2024/08/21 03:59:59",
+                    "Tip": "SideStory 「불로 비춰주소서」 재개방",
+                    "StageName": "FC",
+                    "UtcStartTime": "2024/08/21 16:00:00",
+                    "UtcExpireTime": "2024/08/31 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "HS-9",
-                "Value": "HS-9",
-                "Drop": "30103",
+                "Display": "FC-6",
+                "Value": "FC-6",
+                "Drop": "30043",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory - 회서리",
-                    "StageName": "HS",
-                    "UtcStartTime": "2024/07/31 16:00:00",
-                    "UtcExpireTime": "2024/08/21 03:59:59",
+                    "Tip": "SideStory 「불로 비춰주소서」 재개방",
+                    "StageName": "FC",
+                    "UtcStartTime": "2024/08/21 16:00:00",
+                    "UtcExpireTime": "2024/08/31 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "FC-7",
+                "Value": "FC-7",
+                "Drop": "31043",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "SideStory 「불로 비춰주소서」 재개방",
+                    "StageName": "FC",
+                    "UtcStartTime": "2024/08/21 16:00:00",
+                    "UtcExpireTime": "2024/08/31 03:59:59",
                     "TimeZone": 9
                 }
             }
@@ -279,7 +292,7 @@
     },
     "txwy": {
         "sideStoryStage": [
-             {
+            {
                 "Display": "SSReopen-DV",
                 "Value": "SSReopen-DV",
                 "Drop": "代理1~8",
