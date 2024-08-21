@@ -1,19 +1,9 @@
 {
-    "HS-OpenOcr": {
-        "text": [
-            "懐黍離",
-            "イベント開催中",
-            "荒城中枢",
-            "大江北岸",
-            "ステージ開放中"
-        ]
+    "FC-OpenOcr": {
+        "text": ["この炎", "照らす", "イベント復刻開催中"]
     },
-    "HSChapterToHS": {
-        "text": [
-            "栽培区画",
-            "栽培",
-            "区画"
-        ]
+    "FCChapterToFC": {
+        "text": ["沼", "たなびく", "煙"]
     },
     "StageEntries": {
         "templThreshold": 0.7

@@ -117,54 +117,54 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
-                "Display": "HS-7",
-                "Value": "HS-7",
-                "Drop": "30013",
+                "Display": "SSReopen-FC",
+                "Value": "SSReopen-FC",
+                "Drop": "SS「この炎が照らす先」復刻 1~8",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「懐黍離」",
-                    "StageName": "HS",
-                    "UtcStartTime": "2024/07/31 16:00:00",
-                    "UtcExpireTime": "2024/08/21 03:59:59",
+                    "Tip": "サイドストーリー「この炎が照らす先」復刻",
+                    "StageName": "FC",
+                    "UtcStartTime": "2024/08/21 16:00:00",
+                    "UtcExpireTime": "2024/08/31 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "HS-8",
-                "Value": "HS-8",
-                "Drop": "30073",
+                "Display": "FC-5",
+                "Value": "FC-5",
+                "Drop": "30023",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「懐黍離」",
-                    "StageName": "HS",
-                    "UtcStartTime": "2024/07/31 16:00:00",
-                    "UtcExpireTime": "2024/08/21 03:59:59",
+                    "Tip": "サイドストーリー「この炎が照らす先」復刻",
+                    "StageName": "FC",
+                    "UtcStartTime": "2024/08/21 16:00:00",
+                    "UtcExpireTime": "2024/08/31 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "HS-9",
-                "Value": "HS-9",
-                "Drop": "30103",
+                "Display": "FC-6",
+                "Value": "FC-6",
+                "Drop": "30043",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「懐黍離」",
-                    "StageName": "HS",
-                    "UtcStartTime": "2024/07/31 16:00:00",
-                    "UtcExpireTime": "2024/08/21 03:59:59",
+                    "Tip": "サイドストーリー「この炎が照らす先」復刻",
+                    "StageName": "FC",
+                    "UtcStartTime": "2024/08/21 16:00:00",
+                    "UtcExpireTime": "2024/08/31 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "HS-5",
-                "Value": "HS-5",
-                "Drop": "初級源岩、初級糖原（合成玉効率0.3）",
+                "Display": "FC-7",
+                "Value": "FC-7",
+                "Drop": "31043",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「懐黍離」",
-                    "StageName": "HS",
-                    "UtcStartTime": "2024/07/31 16:00:00",
-                    "UtcExpireTime": "2024/08/21 03:59:59",
+                    "Tip": "サイドストーリー「この炎が照らす先」復刻",
+                    "StageName": "FC",
+                    "UtcStartTime": "2024/08/21 16:00:00",
+                    "UtcExpireTime": "2024/08/31 03:59:59",
                     "TimeZone": 9
                 }
             }
