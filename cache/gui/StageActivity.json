@@ -243,41 +243,54 @@
     "YoStarEN": {
         "sideStoryStage": [
             {
-                "Display": "HS-7",
-                "Value": "HS-7",
-                "Drop": "30013",
+                "Display": "SSReopen-FC",
+                "Value": "SSReopen-FC",
+                "Drop": "Clears 1~8 (Auto-deploy required)",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Here A People Sows",
-                    "StageName": "HS",
-                    "UtcStartTime": "2024/07/31 10:00:00",
-                    "UtcExpireTime": "2024/08/21 03:59:59",
+                    "Tip": "What the Firelight Casts - Rerun",
+                    "StageName": "FC",
+                    "UtcStartTime": "2024/08/21 10:00:00",
+                    "UtcExpireTime": "2024/08/31 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "HS-8",
-                "Value": "HS-8",
-                "Drop": "30073",
+                "Display": "FC-5",
+                "Value": "FC-5",
+                "Drop": "30023",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Here A People Sows",
-                    "StageName": "HS",
-                    "UtcStartTime": "2024/07/31 10:00:00",
-                    "UtcExpireTime": "2024/08/21 03:59:59",
+                    "Tip": "What the Firelight Casts - Rerun",
+                    "StageName": "FC",
+                    "UtcStartTime": "2024/08/21 10:00:00",
+                    "UtcExpireTime": "2024/08/31 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "HS-9",
-                "Value": "HS-9",
-                "Drop": "30103",
+                "Display": "FC-6",
+                "Value": "FC-6",
+                "Drop": "30043",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Here A People Sows",
-                    "StageName": "HS",
-                    "UtcStartTime": "2024/07/31 10:00:00",
-                    "UtcExpireTime": "2024/08/21 03:59:59",
+                    "Tip": "What the Firelight Casts - Rerun",
+                    "StageName": "FC",
+                    "UtcStartTime": "2024/08/21 10:00:00",
+                    "UtcExpireTime": "2024/08/31 03:59:59",
+                    "TimeZone": -7
+                }
+            },
+            {
+                "Display": "FC-7",
+                "Value": "FC-7",
+                "Drop": "31043",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "What the Firelight Casts - Rerun",
+                    "StageName": "FC",
+                    "UtcStartTime": "2024/08/21 10:00:00",
+                    "UtcExpireTime": "2024/08/31 03:59:59",
                     "TimeZone": -7
                 }
             }

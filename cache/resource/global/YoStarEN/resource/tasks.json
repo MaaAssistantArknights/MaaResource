@@ -1,18 +1,9 @@
 {
-    "HS-OpenOcr": {
-        "text": [
-            "Here",
-            "People",
-            "Sows"
-        ]
+    "FC-OpenOcr": {
+        "text": ["What the Firelight Casts", "open"]
     },
-    "HSChapterToHS": {
-        "text": [
-            "Agricultural",
-            "Plate",
-            "AGRICULTURAL",
-            "PLATE"
-        ]
+    "FCChapterToFC": {
+        "text": ["SWAMP", "MISTS"]
     },
     "Mizuki@Roguelike@GetDropSelectRecruit": {
         "templThreshold": 0.8,
