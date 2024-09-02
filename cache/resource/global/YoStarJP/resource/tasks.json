@@ -1,11 +1,8 @@
 {
-    "FC-OpenOcr": {
-        "text": ["この炎", "照らす", "イベント復刻開催中"]
+    "CR-OpenOcr": {
+        "text": ["オペレーション", "ルーセント", "アローヘッド", "イベント開催中", "降下作戦", "ステージ開放中"]
     },
-    "FCChapterToFC": {
-        "text": ["沼", "たなびく", "煙"]
-    },
-    "StageEntries": {
-        "templThreshold": 0.7
+    "CRChapterToCR": {
+        "text": ["アート探訪", "アート", "探訪"]
     }
 }
