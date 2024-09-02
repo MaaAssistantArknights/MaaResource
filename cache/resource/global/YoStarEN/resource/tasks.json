@@ -1,9 +1,9 @@
 {
-    "FC-OpenOcr": {
-        "text": ["What the Firelight Casts", "open"]
+    "CR-OpenOcr": {
+        "text": ["Operation", "Lucent", "Arrowhead"]
     },
-    "FCChapterToFC": {
-        "text": ["SWAMP", "MISTS"]
+    "CRChapterToCR": {
+        "text": ["Roam", "Exhibition", "ROAM", "EXHIBITION"]
     },
     "Mizuki@Roguelike@GetDropSelectRecruit": {
         "templThreshold": 0.8,
