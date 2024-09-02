@@ -2,54 +2,54 @@
     "Official": {
         "sideStoryStage": [
             {
-                "Display": "AS-9",
-                "Value": "AS-9",
-                "Drop": "31083",
+                "Display": "DT-8",
+                "Value": "DT-8",
+                "Drop": "31073",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「太阳甩在身后」",
-                    "StageName": "AS",
-                    "UtcStartTime": "2024/08/01 16:00:00",
-                    "UtcExpireTime": "2024/08/22 03:59:59",
+                    "Tip": "SideStory「泰拉饭」",
+                    "StageName": "DT",
+                    "UtcStartTime": "2024/09/01 16:00:00",
+                    "UtcExpireTime": "2024/09/16 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "AS-8",
-                "Value": "AS-8",
-                "Drop": "30093",
+                "Display": "DT-7",
+                "Value": "DT-7",
+                "Drop": "31023",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「太阳甩在身后」",
-                    "StageName": "AS",
-                    "UtcStartTime": "2024/08/01 16:00:00",
-                    "UtcExpireTime": "2024/08/22 03:59:59",
+                    "Tip": "SideStory「泰拉饭」",
+                    "StageName": "DT",
+                    "UtcStartTime": "2024/09/01 16:00:00",
+                    "UtcExpireTime": "2024/09/16 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "AS-7",
-                "Value": "AS-7",
-                "Drop": "30043",
+                "Display": "DT-6",
+                "Value": "DT-6",
+                "Drop": "30033",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「太阳甩在身后」",
-                    "StageName": "AS",
-                    "UtcStartTime": "2024/08/01 16:00:00",
-                    "UtcExpireTime": "2024/08/22 03:59:59",
+                    "Tip": "SideStory「泰拉饭」",
+                    "StageName": "DT",
+                    "UtcStartTime": "2024/09/01 16:00:00",
+                    "UtcExpireTime": "2024/09/16 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "AS-6",
-                "Value": "AS-6",
-                "Drop": "搓玉效率0.34",
+                "Display": "DT-3",
+                "Value": "DT-3",
+                "Drop": "搓玉效率待测",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「太阳甩在身后」",
-                    "StageName": "AS",
-                    "UtcStartTime": "2024/08/01 16:00:00",
-                    "UtcExpireTime": "2024/08/22 03:59:59",
+                    "Tip": "SideStory「泰拉饭」",
+                    "StageName": "DT",
+                    "UtcStartTime": "2024/09/01 16:00:00",
+                    "UtcExpireTime": "2024/09/16 03:59:59",
                     "TimeZone": 8
                 }
             },
@@ -60,45 +60,6 @@
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「火山旅梦」复刻",
-                    "StageName": "「火山旅梦」复刻",
-                    "UtcStartTime": "2024/08/22 16:00:00",
-                    "UtcExpireTime": "2024/09/01 04:00:00",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "SL-6",
-                "Value": "SL-6",
-                "Drop": "30053",
-                "MinimumRequired": "v4.20.0",
-                "Activity": {
-                    "Tip": "SideStory「火山旅梦」复刻",
-                    "StageName": "「火山旅梦」复刻",
-                    "UtcStartTime": "2024/08/22 16:00:00",
-                    "UtcExpireTime": "2024/09/01 04:00:00",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "SL-7",
-                "Value": "SL-7",
-                "Drop": "31033",
-                "MinimumRequired": "v4.20.0",
-                "Activity": {
-                    "Tip": "SideStory「火山旅梦」",
-                    "StageName": "「火山旅梦」复刻",
-                    "UtcStartTime": "2024/08/22 16:00:00",
-                    "UtcExpireTime": "2024/09/01 04:00:00",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "SL-8",
-                "Value": "SL-8",
-                "Drop": "30083",
-                "MinimumRequired": "v4.20.0",
-                "Activity": {
-                    "Tip": "SideStory「火山旅梦」",
                     "StageName": "「火山旅梦」复刻",
                     "UtcStartTime": "2024/08/22 16:00:00",
                     "UtcExpireTime": "2024/09/01 04:00:00",
