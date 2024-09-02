@@ -180,54 +180,41 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-FC",
-                "Value": "SSReopen-FC",
-                "Drop": "자동으로 FC 스테이지를 진행합니다. (대리지휘 필요)",
+                "Display": "CR-6",
+                "Value": "CR-6",
+                "Drop": "30033",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory 「불로 비춰주소서」 재개방",
-                    "StageName": "FC",
-                    "UtcStartTime": "2024/08/21 16:00:00",
-                    "UtcExpireTime": "2024/08/31 03:59:59",
+                    "Tip": "SideStory「루센트 애로우헤드」",
+                    "StageName": "CR",
+                    "UtcStartTime": "2024/09/05 16:00:00",
+                    "UtcExpireTime": "2024/09/19 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "FC-5",
-                "Value": "FC-5",
-                "Drop": "30023",
+                "Display": "CR-7",
+                "Value": "CR-7",
+                "Drop": "31023",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory 「불로 비춰주소서」 재개방",
-                    "StageName": "FC",
-                    "UtcStartTime": "2024/08/21 16:00:00",
-                    "UtcExpireTime": "2024/08/31 03:59:59",
+                    "Tip": "SideStory「루센트 애로우헤드」",
+                    "StageName": "CR",
+                    "UtcStartTime": "2024/09/05 16:00:00",
+                    "UtcExpireTime": "2024/09/19 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "FC-6",
-                "Value": "FC-6",
-                "Drop": "30043",
+                "Display": "CR-8",
+                "Value": "CR-8",
+                "Drop": "30063",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory 「불로 비춰주소서」 재개방",
-                    "StageName": "FC",
-                    "UtcStartTime": "2024/08/21 16:00:00",
-                    "UtcExpireTime": "2024/08/31 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "FC-7",
-                "Value": "FC-7",
-                "Drop": "31043",
-                "MinimumRequired": "v5.5.0",
-                "Activity": {
-                    "Tip": "SideStory 「불로 비춰주소서」 재개방",
-                    "StageName": "FC",
-                    "UtcStartTime": "2024/08/21 16:00:00",
-                    "UtcExpireTime": "2024/08/31 03:59:59",
+                    "Tip": "SideStory「루센트 애로우헤드」",
+                    "StageName": "CR",
+                    "UtcStartTime": "2024/09/05 16:00:00",
+                    "UtcExpireTime": "2024/09/19 03:59:59",
                     "TimeZone": 9
                 }
             }
