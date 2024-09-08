@@ -43,7 +43,7 @@
             {
                 "Display": "DT-3",
                 "Value": "DT-3",
-                "Drop": "搓玉效率待测",
+                "Drop": "搓玉效率0.35",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「泰拉饭」",
