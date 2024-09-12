@@ -8,11 +8,5 @@
     "Mizuki@Roguelike@GetDropSelectRecruit": {
         "templThreshold": 0.8,
         "template": "Mizuki@Roguelike@GetDropSelectRecruit.png"
-    },
-    "CharsNameOcrReplace":{
-        "ocrReplace": [
-            ["^Reinforcement Device$", "加固装置"],
-            ["[Iil]ana", "双月"]
-        ]
     }
 }
