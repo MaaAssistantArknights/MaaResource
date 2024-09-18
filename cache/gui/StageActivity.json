@@ -2,67 +2,67 @@
     "Official": {
         "sideStoryStage": [
             {
-                "Display": "DT-8",
-                "Value": "DT-8",
-                "Drop": "31073",
-                "MinimumRequired": "v4.28.6",
-                "Activity": {
-                    "Tip": "SideStory「泰拉饭」",
-                    "StageName": "DT",
-                    "UtcStartTime": "2024/09/01 16:00:00",
-                    "UtcExpireTime": "2024/09/16 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "DT-7",
-                "Value": "DT-7",
-                "Drop": "31023",
-                "MinimumRequired": "v4.28.6",
-                "Activity": {
-                    "Tip": "SideStory「泰拉饭」",
-                    "StageName": "DT",
-                    "UtcStartTime": "2024/09/01 16:00:00",
-                    "UtcExpireTime": "2024/09/16 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "DT-6",
-                "Value": "DT-6",
-                "Drop": "30033",
-                "MinimumRequired": "v4.28.6",
-                "Activity": {
-                    "Tip": "SideStory「泰拉饭」",
-                    "StageName": "DT",
-                    "UtcStartTime": "2024/09/01 16:00:00",
-                    "UtcExpireTime": "2024/09/16 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "DT-3",
-                "Value": "DT-3",
-                "Drop": "搓玉效率0.35",
-                "MinimumRequired": "v4.28.6",
-                "Activity": {
-                    "Tip": "SideStory「泰拉饭」",
-                    "StageName": "DT",
-                    "UtcStartTime": "2024/09/01 16:00:00",
-                    "UtcExpireTime": "2024/09/16 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "SSReopen-SL",
-                "Value": "SSReopen-SL",
+                "Display": "SSReopen-CV",
+                "Value": "SSReopen-CV",
                 "Drop": "代理1~8",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「火山旅梦」复刻",
-                    "StageName": "「火山旅梦」复刻",
-                    "UtcStartTime": "2024/08/22 16:00:00",
-                    "UtcExpireTime": "2024/09/01 04:00:00",
+                    "Tip": "SideStory「不义之财」复刻",
+                    "StageName": "「不义之财」复刻",
+                    "UtcStartTime": "2024/09/19 16:00:00",
+                    "UtcExpireTime": "2024/10/03 04:00:00",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "CV-6",
+                "Value": "CV-6",
+                "Drop": "30023",
+                "MinimumRequired": "v4.28.6",
+                "Activity": {
+                    "Tip": "SideStory「不义之财」复刻",
+                    "StageName": "「不义之财」复刻",
+                    "UtcStartTime": "2024/09/19 16:00:00",
+                    "UtcExpireTime": "2024/10/03 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "CV-7",
+                "Value": "CV-7",
+                "Drop": "30093",
+                "MinimumRequired": "v4.28.6",
+                "Activity": {
+                    "Tip": "SideStory「不义之财」复刻",
+                    "StageName": "「不义之财」复刻",
+                    "UtcStartTime": "2024/09/19 16:00:00",
+                    "UtcExpireTime": "2024/10/03 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "CV-8",
+                "Value": "CV-8",
+                "Drop": "31063",
+                "MinimumRequired": "v4.28.6",
+                "Activity": {
+                    "Tip": "SideStory「不义之财」复刻",
+                    "StageName": "「不义之财」复刻",
+                    "UtcStartTime": "2024/09/19 16:00:00",
+                    "UtcExpireTime": "2024/10/03 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "CV-4",
+                "Value": "CV-4",
+                "Drop": "搓玉（效率待测）",
+                "MinimumRequired": "v4.28.6",
+                "Activity": {
+                    "Tip": "SideStory「不义之财」复刻",
+                    "StageName": "「不义之财」复刻",
+                    "UtcStartTime": "2024/09/19 16:00:00",
+                    "UtcExpireTime": "2024/10/03 03:59:59",
                     "TimeZone": 8
                 }
             }
