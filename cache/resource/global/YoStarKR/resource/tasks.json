@@ -1,8 +1,8 @@
 {
-    "CR-OpenOcr": {
+    "OD-OpenOcr": {
         "text": ["스테이지", "개방"]
     },
-    "CRChapterToCR": {
-        "text": ["전시", "회", "관람"]
+    "ODChapterToOD": {
+        "text": ["작전기", "전기", "기록"]
     }
 }
