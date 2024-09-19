@@ -1,8 +1,8 @@
 {
-    "CR-OpenOcr": {
+    "OD-OpenOcr": {
         "text": ["オペレーション", "オリジニウムダスト", "OP：OD", "イベント復刻開催中", "復刻開催中"]
     },
-    "CRChapterToCR": {
+    "ODChapterToOD": {
         "text": ["作戦記録", "作戦", "記録"]
     }
 }
