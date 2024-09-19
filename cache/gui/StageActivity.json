@@ -78,41 +78,54 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
-                "Display": "CR-6",
-                "Value": "CR-6",
-                "Drop": "30033",
+                "Display": "SSReopen-OD",
+                "Value": "SSReopen-OD",
+                "Drop": "SS「OP:OD」復刻 1~8",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「オペレーション ルーセントアローヘッド」",
-                    "StageName": "CR",
-                    "UtcStartTime": "2024/09/05 16:00:00",
-                    "UtcExpireTime": "2024/09/19 03:59:59",
+                    "Tip": "サイドストーリー「オペレーション オリジニウムダスト」復刻",
+                    "StageName": "OD",
+                    "UtcStartTime": "2024/09/19 16:00:00",
+                    "UtcExpireTime": "2024/09/29 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "CR-7",
-                "Value": "CR-7",
-                "Drop": "31023",
+                "Display": "OD-7",
+                "Value": "OD-7",
+                "Drop": "30083",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「オペレーション ルーセントアローヘッド」",
-                    "StageName": "CR",
-                    "UtcStartTime": "2024/09/05 16:00:00",
-                    "UtcExpireTime": "2024/09/19 03:59:59",
+                    "Tip": "サイドストーリー「オペレーション オリジニウムダスト」復刻",
+                    "StageName": "OD",
+                    "UtcStartTime": "2024/09/19 16:00:00",
+                    "UtcExpireTime": "2024/09/29 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "CR-8",
-                "Value": "CR-8",
-                "Drop": "30063",
+                "Display": "OD-8",
+                "Value": "OD-8",
+                "Drop": "30093",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「オペレーション ルーセントアローヘッド」",
-                    "StageName": "CR",
-                    "UtcStartTime": "2024/09/05 16:00:00",
-                    "UtcExpireTime": "2024/09/19 03:59:59",
+                    "Tip": "サイドストーリー「オペレーション オリジニウムダスト」復刻",
+                    "StageName": "OD",
+                    "UtcStartTime": "2024/09/19 16:00:00",
+                    "UtcExpireTime": "2024/09/29 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "OD-6",
+                "Value": "OD-6",
+                "Drop": "初級源岩、初級装置（合成玉効率82%）",
+                "MinimumRequired": "v5.3.1",
+                "Activity": {
+                    "Tip": "サイドストーリー「オペレーション オリジニウムダスト」復刻",
+                    "StageName": "OD",
+                    "UtcStartTime": "2024/09/19 16:00:00",
+                    "UtcExpireTime": "2024/09/29 03:59:59",
                     "TimeZone": 9
                 }
             }
