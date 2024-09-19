@@ -204,41 +204,54 @@
     "YoStarEN": {
         "sideStoryStage": [
             {
-                "Display": "CR-6",
-                "Value": "CR-6",
-                "Drop": "30033",
+                "Display": "SSReopen-OD",
+                "Value": "SSReopen-OD",
+                "Drop": "Clears OD-1~8",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Operation Lucent Arrowhead",
-                    "StageName": "CR",
-                    "UtcStartTime": "2024/09/05 10:00:00",
-                    "UtcExpireTime": "2024/09/19 03:59:59",
+                    "Tip": "Originium Dust - Rerun",
+                    "StageName": "OD",
+                    "UtcStartTime": "2024/09/19 10:00:00",
+                    "UtcExpireTime": "2024/09/29 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "CR-7",
-                "Value": "CR-7",
-                "Drop": "31023",
+                "Display": "OD-6",
+                "Value": "OD-6",
+                "Drop": "Orirock, Device. 82% efficiency, not recommended",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Operation Lucent Arrowhead",
-                    "StageName": "CR",
-                    "UtcStartTime": "2024/09/05 10:00:00",
-                    "UtcExpireTime": "2024/09/19 03:59:59",
+                    "Tip": "Originium Dust - Rerun",
+                    "StageName": "OD",
+                    "UtcStartTime": "2024/09/19 10:00:00",
+                    "UtcExpireTime": "2024/09/29 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "CR-8",
-                "Value": "CR-8",
-                "Drop": "30063",
+                "Display": "OD-7",
+                "Value": "OD-7",
+                "Drop": "30083",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Operation Lucent Arrowhead",
-                    "StageName": "CR",
-                    "UtcStartTime": "2024/09/05 10:00:00",
-                    "UtcExpireTime": "2024/09/19 03:59:59",
+                    "Tip": "Originium Dust - Rerun",
+                    "StageName": "OD",
+                    "UtcStartTime": "2024/09/19 10:00:00",
+                    "UtcExpireTime": "2024/09/29 03:59:59",
+                    "TimeZone": -7
+                }
+            },
+            {
+                "Display": "OD-8",
+                "Value": "OD-8",
+                "Drop": "30093",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "Originium Dust - Rerun",
+                    "StageName": "OD",
+                    "UtcStartTime": "2024/09/19 10:00:00",
+                    "UtcExpireTime": "2024/09/29 03:59:59",
                     "TimeZone": -7
                 }
             }

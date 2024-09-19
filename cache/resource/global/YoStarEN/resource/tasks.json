@@ -1,12 +1,8 @@
 {
-    "CR-OpenOcr": {
-        "text": ["Skydiving", "stages", "opened"]
+    "OD-OpenOcr": {
+        "text": ["Operation", "Originium", "Dust"]
     },
-    "CRChapterToCR": {
-        "text": ["Roam", "Exhibition", "ROAM", "EXHIBITION"]
-    },
-    "Mizuki@Roguelike@GetDropSelectRecruit": {
-        "templThreshold": 0.8,
-        "template": "Mizuki@Roguelike@GetDropSelectRecruit.png"
+    "ODChapterToOD": {
+        "text": ["Task", "Records", "TASK", "RECORDS"]
     }
 }
