@@ -56,7 +56,7 @@
             {
                 "Display": "CV-4",
                 "Value": "CV-4",
-                "Drop": "搓玉（效率待测）",
+                "Drop": "搓玉效率0.7",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「不义之财」复刻",
