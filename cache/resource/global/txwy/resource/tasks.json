@@ -1,12 +1,12 @@
 {
-    "CV-Open": {
+    "ZT-Open": {
         "action": "ClickSelf",
         "algorithm": "OcrDetect",
         "postDelay": 2000,
-        "text": ["黑色艦船", "黑色","艦船", "關卡", "開啟"],
+        "text": ["特爾", "梅之","之金", "活動", "開啟"],
         "next": ["CVChapterToCV"]
     },
-    "CVChapterToCV": {
-        "text": ["蒼白", "平台"]
+    "ZTChapterToZT": {
+        "text": ["朝見", "雙塔"]
     }
 }
