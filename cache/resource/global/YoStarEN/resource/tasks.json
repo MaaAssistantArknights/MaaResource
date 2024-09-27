@@ -4,6 +4,9 @@
         "template": "StageSideStory.png",
         "next": ["ODChapterToOD"]
     },
+    "ODChapterToOD": {
+        "text": ["Task", "Records", "TASK", "RECORDS"]
+    },
     "OD-8": {
         "sub": ["OD-Open"]
     },
