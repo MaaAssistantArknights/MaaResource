@@ -1,8 +1,19 @@
 {
-    "OD-OpenOcr": {
-        "text": ["스테이지", "개방"]
+    "OD-Open": {
+        "baseTask": "SS-Open",
+        "template": "StageSideStory.png",
+        "next": ["ODChapterToOD"]
     },
     "ODChapterToOD": {
         "text": ["작전기", "전기", "기록"]
+    },
+    "OD-8": {
+        "sub": ["OD-Open"]
+    },
+    "OD-7": {
+        "sub": ["OD-Open"]
+    },
+    "OD-6": {
+        "sub": ["OD-Open"]
     }
 }
