@@ -6,5 +6,11 @@
     },
     "CV-4@SideStoryStage": {
         "text": ["CV-4"]
+    },
+    "Tales@RA@Craft": {
+        "doc": "模板任务: 点击开始组装图标",
+        "doc2": "fix for #10742",
+        "roi": [982, 500, 80, 50],
+        "action": "ClickSelf"
     }
 }
