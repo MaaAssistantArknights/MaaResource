@@ -1,19 +1,8 @@
 {
-    "OD-Open": {
-        "baseTask": "SS-Open",
-        "template": "StageSideStory.png",
-        "next": ["ODChapterToOD"]
+    "BB-OpenOcr": {
+        "text": ["바벨", "개방", "이벤트"]
     },
-    "ODChapterToOD": {
-        "text": ["작전기", "전기", "기록"]
-    },
-    "OD-8": {
-        "sub": ["OD-Open"]
-    },
-    "OD-7": {
-        "sub": ["OD-Open"]
-    },
-    "OD-6": {
-        "sub": ["OD-Open"]
+    "BBChapterToBB": {
+        "text": ["미래", "선사", "하리라"]
     }
 }

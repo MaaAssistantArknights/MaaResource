@@ -141,54 +141,41 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-OD",
-                "Value": "SSReopen-OD",
-                "Drop": "1~8 스테이지 자동",
+                "Display": "BB-6",
+                "Value": "BB-6",
+                "Drop": "30013",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory「오리지늄 더스트」 재개방",
-                    "StageName": "OD",
-                    "UtcStartTime": "2024/09/19 16:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
+                    "Tip": "SideStory「바벨」",
+                    "StageName": "BB",
+                    "UtcStartTime": "2024/10/10 16:00:00",
+                    "UtcExpireTime": "2024/11/01 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "OD-6",
-                "Value": "OD-6",
-                "Drop": "원암, 장치(효율 82%?)",
+                "Display": "BB-7",
+                "Value": "BB-7",
+                "Drop": "30043",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory「오리지늄 더스트」 재개방",
-                    "StageName": "OD",
-                    "UtcStartTime": "2024/09/19 16:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
+                    "Tip": "SideStory「바벨」",
+                    "StageName": "BB",
+                    "UtcStartTime": "2024/10/10 16:00:00",
+                    "UtcExpireTime": "2024/11/01 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "OD-7",
-                "Value": "OD-7",
-                "Drop": "30083",
+                "Display": "BB-8",
+                "Value": "BB-8",
+                "Drop": "31013",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory「오리지늄 더스트」 재개방",
-                    "StageName": "OD",
-                    "UtcStartTime": "2024/09/19 16:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "OD-8",
-                "Value": "OD-8",
-                "Drop": "30093",
-                "MinimumRequired": "v5.5.0",
-                "Activity": {
-                    "Tip": "SideStory「오리지늄 더스트」 재개방",
-                    "StageName": "OD",
-                    "UtcStartTime": "2024/09/19 16:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
+                    "Tip": "SideStory「바벨」",
+                    "StageName": "BB",
+                    "UtcStartTime": "2024/10/10 16:00:00",
+                    "UtcExpireTime": "2024/11/01 03:59:59",
                     "TimeZone": 9
                 }
             }
