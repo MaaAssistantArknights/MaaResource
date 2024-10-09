@@ -1,8 +1,15 @@
 {
-    "OD-OpenOcr": {
-        "text": ["オペレーション", "オリジニウムダスト", "OP：OD", "イベント復刻開催中", "復刻開催中"]
+    "BB-OpenOcr": {
+        "text": ["バベル", "昔日に残れり", "昔日", "残れ", "我は我なり", "我は", "我なり", "イベント開催中", "ステージ開放中"],
+        "roi": [0, 500, 500, 150]
     },
-    "ODChapterToOD": {
-        "text": ["作戦記録", "作戦", "記録"]
+    "BB-Open": {
+        "baseTask": "SS-Open",
+        "template": "StageSideStory.png",
+        "next": ["BBChapterToBB"]
+    },
+    "BBChapterToBB": {
+        "text": ["未来を贈らん", "未来", "贈"],
+        "roi": [937, 600, 200, 50]
     }
 }
