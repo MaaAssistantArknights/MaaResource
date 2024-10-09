@@ -3,7 +3,7 @@
         "action": "ClickSelf",
         "algorithm": "OcrDetect",
         "postDelay": 2000,
-        "text": ["恩典", "永恆", "活動", "開啟"],
+        "text": ["權威", "無情", "關卡", "開放"],
         "next": ["ZTChapterToZT"]
     },
     "ZTChapterToZT": {
