@@ -1,19 +1,8 @@
 {
-    "OD-Open": {
-        "baseTask": "SS-Open",
-        "template": "StageSideStory.png",
-        "next": ["ODChapterToOD"]
+    "BB-OpenOcr": {
+        "text": ["Babel", "open", "event"]
     },
-    "ODChapterToOD": {
-        "text": ["Task", "Records", "TASK", "RECORDS"]
-    },
-    "OD-8": {
-        "sub": ["OD-Open"]
-    },
-    "OD-7": {
-        "sub": ["OD-Open"]
-    },
-    "OD-6": {
-        "sub": ["OD-Open"]
+    "BBChapterToBB": {
+        "text": ["Future", "FUTURE", "Gifts", "Gifts"]
     }
 }
