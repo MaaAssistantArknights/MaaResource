@@ -65,6 +65,19 @@
                     "UtcExpireTime": "2024/10/23 03:59:59",
                     "TimeZone": 8
                 }
+            },
+            {
+                "Display": "GO-5",
+                "Value": "GO-5",
+                "Drop": "搓玉效率待测",
+                "MinimumRequired": "v4.28.6",
+                "Activity": {
+                    "Tip": "SideStory「追迹日落以西」",
+                    "StageName": "「追迹日落以西」",
+                    "UtcStartTime": "2024/10/09 16:00:00",
+                    "UtcExpireTime": "2024/10/23 03:59:59",
+                    "TimeZone": 8
+                }
             }
         ],
         "resourceCollection": {
