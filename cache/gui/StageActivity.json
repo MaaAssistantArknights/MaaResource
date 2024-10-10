@@ -56,7 +56,7 @@
             {
                 "Display": "GO-4",
                 "Value": "GO-4",
-                "Drop": "搓玉效率待测",
+                "Drop": "搓玉效率0.69",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「追迹日落以西」",
@@ -69,7 +69,7 @@
             {
                 "Display": "GO-5",
                 "Value": "GO-5",
-                "Drop": "搓玉效率待测",
+                "Drop": "搓玉效率0.25",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
                     "Tip": "SideStory「追迹日落以西」",
