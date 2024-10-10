@@ -1,4 +1,7 @@
 {
+    "Sami@Roguelike@StageEnterBattleAgain": {
+        "specificRect": [1180, 460, 30, 20]
+    },
     "BB-OpenOcr": {
         "text": ["바벨", "개방", "이벤트"]
     },
