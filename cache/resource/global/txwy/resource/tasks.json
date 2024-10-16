@@ -1,8 +1,12 @@
 {
-    "ZT-OpenOcr": {
-        "text": ["權威", "無情", "關卡", "開放"]
+    "IS-Open": {
+        "sub": ["EnterChapterIS"],
+        "next": ["SideStoryStage", "SwipeToStageIS"]
     },
-    "ZTChapterToZT": {
-        "text": ["朝見", "雙塔"]
+    "IS-OpenOcr": {
+        "text": ["敘拉古人", "銃與秩序", "自詡荒野"]
+    },
+    "EnterChapterIS": {
+        "text": ["沃爾西尼"]
     }
 }

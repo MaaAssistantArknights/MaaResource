@@ -254,19 +254,6 @@
     "txwy": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-IS",
-                "Value": "SSReopen-IS",
-                "Drop": "代理1~10",
-                "MinimumRequired": "v5.3.1",
-                "Activity": {
-                    "Tip": "SideStory「敘拉古人」復刻",
-                    "StageName": "IS",
-                    "UtcStartTime": "2024/10/15 16:00:00",
-                    "UtcExpireTime": "2024/10/25 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
                 "Display": "IS-8",
                 "Value": "IS-8",
                 "Drop": "30012",
