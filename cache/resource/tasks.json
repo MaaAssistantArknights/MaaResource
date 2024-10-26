@@ -10,6 +10,9 @@
     },
     "ToChapter3": {
         "next": ["ClickChapter3", "Stop"]
+    }, 
+    "CreditShop-Bought": {
+        "specificRect": [645, 665, 0, 0]
     },
     "Tales@RA@Craft": {
         "doc": "模板任务: 点击开始组装图标",
