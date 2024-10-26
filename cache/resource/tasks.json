@@ -1,6 +1,15 @@
 {
     "ClickChapter": {
-        "next": ["#back", "Stop"]
+        "roi": [142, 43, 250, 150]
+    },
+    "ToChapter1": {
+        "next": ["ClickChapter1@ClickChapter2@ClickChapter3", "ClickChapter1@ClickChapter2", "ClickChapter1", "Stop"]
+    },
+    "ToChapter2": {
+        "next": ["ClickChapter2@ClickChapter3", "ClickChapter2", "Stop"]
+    },
+    "ToChapter3": {
+        "next": ["ClickChapter3", "Stop"]
     },
     "Tales@RA@Craft": {
         "doc": "模板任务: 点击开始组装图标",
