@@ -254,41 +254,41 @@
     "txwy": {
         "sideStoryStage": [
             {
-                "Display": "IS-8",
-                "Value": "IS-8",
-                "Drop": "30012",
+                "Display": "RS-6",
+                "Value": "RS-6",
+                "Drop": "30033",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "SideStory「敘拉古人」復刻",
-                    "StageName": "IS",
-                    "UtcStartTime": "2024/10/15 16:00:00",
-                    "UtcExpireTime": "2024/10/25 03:59:59",
+                    "Tip": "SideStory「銀心湖列車」",
+                    "StageName": "RS",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "IS-9",
-                "Value": "IS-9",
-                "Drop": "31053",
+                "Display": "RS-7",
+                "Value": "RS-7",
+                "Drop": "30083",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "SideStory「敘拉古人」復刻",
-                    "StageName": "IS",
-                    "UtcStartTime": "2024/10/15 16:00:00",
-                    "UtcExpireTime": "2024/10/25 03:59:59",
+                    "Tip": "SideStory「銀心湖列車」",
+                    "StageName": "RS",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "IS-10",
-                "Value": "IS-10",
-                "Drop": "31023",
+                "Display": "RS-8",
+                "Value": "RS-8",
+                "Drop": "31033",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "SideStory「敘拉古人」復刻",
-                    "StageName": "IS",
-                    "UtcStartTime": "2024/10/15 16:00:00",
-                    "UtcExpireTime": "2024/10/25 03:59:59",
+                    "Tip": "SideStory「銀心湖列車」",
+                    "StageName": "RS",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
                     "TimeZone": 8
                 }
             }
