@@ -9,5 +9,14 @@
     "BBChapterToBB": {
         "text": ["미래", "선사", "하리라"],
         "roi": [965, 610, 170, 31]
+    },
+    "SpecialAccessActivities": {
+        "doc": "5주년 먼슬리 카드",
+        "text": ["스페셜"],
+        "roi": [0, 20, 302, 302]
+    },
+    "SpecialAccessActivitiesConfirm": {
+        "text": ["수령", "하기"],
+        "postDelay": 500
     }
 }

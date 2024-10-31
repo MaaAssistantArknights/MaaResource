@@ -232,41 +232,80 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "BB-6",
-                "Value": "BB-6",
-                "Drop": "30013",
+                "Display": "14-16 하드",
+                "Value": "14-16-HARD",
+                "Drop": "30063",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory「바벨」",
-                    "StageName": "BB",
-                    "UtcStartTime": "2024/10/10 16:00:00",
-                    "UtcExpireTime": "2024/11/01 03:59:59",
+                    "Tip": "EP 14「자비의 등대」기간 한정 드롭",
+                    "StageName": "EP 14「자비의 등대」기간 한정 드롭",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "BB-7",
-                "Value": "BB-7",
-                "Drop": "30043",
+                "Display": "14-16 일반",
+                "Value": "14-16-NORMAL",
+                "Drop": "30063",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory「바벨」",
-                    "StageName": "BB",
-                    "UtcStartTime": "2024/10/10 16:00:00",
-                    "UtcExpireTime": "2024/11/01 03:59:59",
+                    "Tip": "EP 14「자비의 등대」기간 한정 드롭",
+                    "StageName": "EP 14「자비의 등대」기간 한정 드롭",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "BB-8",
-                "Value": "BB-8",
-                "Drop": "31013",
+                "Display": "14-20 하드",
+                "Value": "14-20-HARD",
+                "Drop": "30053",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory「바벨」",
-                    "StageName": "BB",
-                    "UtcStartTime": "2024/10/10 16:00:00",
-                    "UtcExpireTime": "2024/11/01 03:59:59",
+                    "Tip": "EP 14「자비의 등대」기간 한정 드롭",
+                    "StageName": "EP 14「자비의 등대」기간 한정 드롭",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "14-20 일반",
+                "Value": "14-20-NORMAL",
+                "Drop": "30053",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "EP 14「자비의 등대」기간 한정 드롭",
+                    "StageName": "EP 14「자비의 등대」기간 한정 드롭",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "14-15 하드",
+                "Value": "14-15-HARD",
+                "Drop": "31053",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "EP 14「자비의 등대」기간 한정 드롭",
+                    "StageName": "EP 14「자비의 등대」기간 한정 드롭",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "14-15 일반",
+                "Value": "14-15-NORMAL",
+                "Drop": "31053",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "EP 14「자비의 등대」기간 한정 드롭",
+                    "StageName": "EP 14「자비의 등대」기간 한정 드롭",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
                     "TimeZone": 9
                 }
             }
