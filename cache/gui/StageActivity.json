@@ -141,6 +141,84 @@
                     "UtcExpireTime": "2024/11/01 03:59:59",
                     "TimeZone": 9
                 }
+            },
+            {
+                "Display": "14-16 厄難",
+                "Value": "14-16-HARD",
+                "Drop": "30063",
+                "MinimumRequired": "v5.3.1",
+                "Activity": {
+                    "Tip": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "StageName": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "14-16 通常",
+                "Value": "14-16-NORMAL",
+                "Drop": "30063",
+                "MinimumRequired": "v5.3.1",
+                "Activity": {
+                    "Tip": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "StageName": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "14-20 厄難",
+                "Value": "14-20-HARD",
+                "Drop": "30053",
+                "MinimumRequired": "v5.3.1",
+                "Activity": {
+                    "Tip": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "StageName": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "14-20 通常",
+                "Value": "14-20-NORMAL",
+                "Drop": "30053",
+                "MinimumRequired": "v5.3.1",
+                "Activity": {
+                    "Tip": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "StageName": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "14-15 厄難",
+                "Value": "14-15-HARD",
+                "Drop": "31053",
+                "MinimumRequired": "v5.3.1",
+                "Activity": {
+                    "Tip": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "StageName": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "14-15 通常",
+                "Value": "14-15-NORMAL",
+                "Drop": "31053",
+                "MinimumRequired": "v5.3.1",
+                "Activity": {
+                    "Tip": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "StageName": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
+                    "UtcStartTime": "2024/10/31 16:00:00",
+                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "TimeZone": 9
+                }
             }
         ],
         "resourceCollection": {

@@ -1,4 +1,10 @@
 {
+    "EnterChapterDifficultyHard": {
+        "text": ["作戦へ"]
+    },
+    "EnterChapterDifficultyNormal": {
+        "text": ["作戦へ"]
+    },
     "BB-OpenOcr": {
         "text": ["バベル", "昔日に残れり", "昔日", "残れ", "我は我なり", "我は", "我なり", "イベント開催中", "ステージ開放中"],
         "roi": [0, 500, 500, 150]
@@ -11,5 +17,13 @@
     "BBChapterToBB": {
         "text": ["未来を贈らん", "未来", "贈"],
         "roi": [937, 600, 200, 50]
+    },
+    "SpecialAccessActivities": {
+        "doc": "五周年月卡、大感謝祭特別月パス",
+        "text": ["大感謝祭", "月パス"]
+    },
+    "SpecialAccessActivitiesConfirm": {
+        "postDelay": 500,
+        "text": ["受け取る"]
     }
 }
