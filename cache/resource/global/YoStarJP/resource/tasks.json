@@ -18,9 +18,13 @@
         "text": ["未来を贈らん", "未来", "贈"],
         "roi": [937, 600, 200, 50]
     },
+    "MiningActivities": {
+        "text": ["採掘許可", "採掘"]
+    },
     "SpecialAccessActivities": {
         "doc": "五周年月卡、大感謝祭特別月パス",
-        "text": ["大感謝祭", "月パス"]
+        "text": ["月パス"],
+        "roi": [0, 20, 302, 302]
     },
     "SpecialAccessActivitiesConfirm": {
         "postDelay": 500,
