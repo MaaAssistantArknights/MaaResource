@@ -1,12 +1,8 @@
 {
-    "IS-Open": {
-        "sub": ["EnterChapterIS"],
-        "next": ["SideStoryStage", "SwipeToStageIS"]
+    "RS-OpenOcr": {
+        "text": ["銀心", "列車", "特快"]
     },
-    "IS-OpenOcr": {
-        "text": ["敘拉古人", "銃與秩序", "自詡荒野"]
-    },
-    "EnterChapterIS": {
-        "text": ["沃爾西尼"]
+    "RSChapterToRS": {
+        "text" : ["站臺","站台"]
     }
 }
