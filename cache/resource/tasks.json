@@ -1,18 +1,143 @@
 {
+    "PV-10": {
+        "algorithm": "JustReturn",
+        "sub": [
+            "PV-OpenOpt"
+        ],
+        "next": [
+            "PV-10@SideStoryStage",
+            "PV-910@SwipeToStage"
+        ]
+    },
+    "PV-9": {
+        "algorithm": "JustReturn",
+        "sub": [
+            "PV-OpenOpt"
+        ],
+        "next": [
+            "PV-9@SideStoryStage",
+            "PV-9@SwipeToStage"
+        ]
+    },
+    "PV-8": {
+        "algorithm": "JustReturn",
+        "sub": [
+            "PV-OpenOpt"
+        ],
+        "next": [
+            "PV-8@SideStoryStage",
+            "PV-8@SwipeToStage"
+        ]
+    },
+    "PV-5": {
+        "algorithm": "JustReturn",
+        "sub": [
+            "PV-OpenOpt"
+        ],
+        "next": [
+            "PV-5@SideStoryStage",
+            "PV-5@SwipeToStage"
+        ]
+    },
+    "PV-OpenOpt": {
+        "algorithm": "JustReturn",
+        "next": [
+            "PV-OpenOcr",
+            "PV-Open"
+        ]
+    },
+    "PV-Open": {
+        "baseTask": "SS-Open",
+        "template": "StageSideStory.png",
+        "next": [
+            "PVChapterToPV"
+        ]
+    },
+    "PV-OpenOcr": {
+        "baseTask": "SS-OpenOcr",
+        "text": [
+            "揭幕者们",
+            "彩车游行",
+            "荒芜之舞"
+        ],
+        "next": [
+            "PVChapterToPV"
+        ]
+    },
+    "PVChapterToPV": {
+        "algorithm": "OcrDetect",
+        "action": "ClickSelf",
+        "text": [
+            "四幕汇演"
+        ],
+        "preDelay": 3000,
+        "roi": [
+            69,
+            594,
+            123,
+            40
+        ],
+        "next": [
+            "#self",
+            "ChapterSwipeToTheRight"
+        ]
+    },
+    "PV-9@SideStoryStage": {
+        "text": [
+            "PV-9"
+        ]
+    },
+    "PV-8@SideStoryStage": {
+        "text": [
+            "PV-8"
+        ]
+    },
+    "PV-7@SideStoryStage": {
+        "text": [
+            "PV-7"
+        ]
+    },
+    "PV-4@SideStoryStage": {
+        "text": [
+            "PV-4"
+        ]
+    },
     "ClickChapter": {
-        "roi": [142, 43, 250, 150]
+        "roi": [
+            142,
+            43,
+            250,
+            150
+        ]
     },
     "ToChapter1": {
-        "next": ["ClickChapter1@ClickChapter2@ClickChapter3", "ClickChapter1@ClickChapter2", "ClickChapter1", "Stop"]
+        "next": [
+            "ClickChapter1@ClickChapter2@ClickChapter3",
+            "ClickChapter1@ClickChapter2",
+            "ClickChapter1",
+            "Stop"
+        ]
     },
     "ToChapter2": {
-        "next": ["ClickChapter2@ClickChapter3", "ClickChapter2", "Stop"]
+        "next": [
+            "ClickChapter2@ClickChapter3",
+            "ClickChapter2",
+            "Stop"
+        ]
     },
     "ToChapter3": {
-        "next": ["ClickChapter3", "Stop"]
-    }, 
+        "next": [
+            "ClickChapter3",
+            "Stop"
+        ]
+    },
     "CreditShop-Bought": {
-        "specificRect": [645, 665, 0, 0]
+        "specificRect": [
+            645,
+            665,
+            0,
+            0
+        ]
     },
     "Tales@RA@Craft": {
         "doc": "模板任务: 点击开始组装图标",

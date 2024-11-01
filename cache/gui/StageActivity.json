@@ -15,67 +15,54 @@
                 }
             },
             {
-                "Display": "GO-7",
-                "Value": "GO-7",
-                "Drop": "30013",
+                "Display": "PV-8",
+                "Value": "PV-8",
+                "Drop": "30083",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「追迹日落以西」",
-                    "StageName": "「追迹日落以西」",
-                    "UtcStartTime": "2024/10/09 16:00:00",
-                    "UtcExpireTime": "2024/10/23 03:59:59",
+                    "Tip": "SideStory「揭幕者们」",
+                    "StageName": "「揭幕者们」",
+                    "UtcStartTime": "2024/11/01 16:00:00",
+                    "UtcExpireTime": "2024/11/22 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "GO-8",
-                "Value": "GO-8",
-                "Drop": "31013",
+                "Display": "PV-9",
+                "Value": "PV-9",
+                "Drop": "30103",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「追迹日落以西」",
-                    "StageName": "「追迹日落以西」",
-                    "UtcStartTime": "2024/10/09 16:00:00",
-                    "UtcExpireTime": "2024/10/23 03:59:59",
+                    "Tip": "SideStory「揭幕者们」",
+                    "StageName": "「揭幕者们」",
+                    "UtcStartTime": "2024/11/01 16:00:00",
+                    "UtcExpireTime": "2024/11/22 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "GO-9",
-                "Value": "GO-9",
-                "Drop": "31043",
+                "Display": "PV-10",
+                "Value": "PV-10",
+                "Drop": "31053",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「追迹日落以西」",
-                    "StageName": "「追迹日落以西」",
-                    "UtcStartTime": "2024/10/09 16:00:00",
-                    "UtcExpireTime": "2024/10/23 03:59:59",
+                    "Tip": "SideStory「揭幕者们」",
+                    "StageName": "「揭幕者们」",
+                    "UtcStartTime": "2024/11/01 16:00:00",
+                    "UtcExpireTime": "2024/11/22 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "GO-4",
-                "Value": "GO-4",
-                "Drop": "搓玉效率0.69",
+                "Display": "PV-5",
+                "Value": "PV-5",
+                "Drop": "搓玉效率待测",
                 "MinimumRequired": "v4.28.6",
                 "Activity": {
-                    "Tip": "SideStory「追迹日落以西」",
-                    "StageName": "「追迹日落以西」",
-                    "UtcStartTime": "2024/10/09 16:00:00",
-                    "UtcExpireTime": "2024/10/23 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "GO-5",
-                "Value": "GO-5",
-                "Drop": "搓玉效率0.25",
-                "MinimumRequired": "v4.28.6",
-                "Activity": {
-                    "Tip": "SideStory「追迹日落以西」",
-                    "StageName": "「追迹日落以西」",
-                    "UtcStartTime": "2024/10/09 16:00:00",
-                    "UtcExpireTime": "2024/10/23 03:59:59",
+                    "Tip": "SideStory「揭幕者们」",
+                    "StageName": "「揭幕者们」",
+                    "UtcStartTime": "2024/11/01 16:00:00",
+                    "UtcExpireTime": "2024/11/22 03:59:59",
                     "TimeZone": 8
                 }
             }
