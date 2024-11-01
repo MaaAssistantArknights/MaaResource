@@ -115,5 +115,11 @@
     },
     "InfrastOperListTabMoodClick": {
         "roi": [ 645, 0, 635, 77 ]
+    },
+    "InfrastSortByTrustButton": {
+        "roi": [645, 0, 635, 77]
+    },
+    "InfrastSortByTrustButtonClickAgain": {
+        "roi": [645, 0, 635, 77]
     }
 }
