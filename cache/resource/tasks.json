@@ -149,5 +149,20 @@
             50
         ],
         "action": "ClickSelf"
+    },
+    "InfrastOperListTabSkillUnClicked": {
+        "roi": [ 645, 0, 635, 77 ]
+    },
+    "InfrastOperListTabWorkStatusUnClicked": {
+        "roi": [ 645, 0, 635, 77 ]
+    },
+    "InfrastOperListTabMoodDoubleClick": {
+        "roi": [ 645, 0, 635, 77 ]
+    },
+    "InfrastOperListTabMoodDoubleClickWhenUnclicked": {
+        "roi": [ 645, 0, 635, 77 ]
+    },
+    "InfrastOperListTabMoodClick": {
+        "roi": [ 645, 0, 635, 77 ]
     }
 }
