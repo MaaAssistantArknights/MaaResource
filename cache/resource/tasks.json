@@ -1,4 +1,7 @@
 {
+    "RoguelikeCustom-HijackSquad": {
+        "postDelay": 800
+    },
     "PV-10": {
         "algorithm": "JustReturn",
         "sub": ["PV-OpenOpt"],
