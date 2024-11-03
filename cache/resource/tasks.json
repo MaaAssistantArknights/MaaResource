@@ -69,7 +69,8 @@
         "next": ["#self", "ChapterSwipeToTheRight"]
     },
     "PV-10@SideStoryStage": {
-        "text": ["PV-10"]
+        "text": ["PV-10"],
+        "rectMove": [55, 0, 0, 0]
     },
     "PV-9@SideStoryStage": {
         "text": ["PV-9"]
