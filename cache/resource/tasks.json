@@ -53,19 +53,21 @@
     "PV-Open": {
         "baseTask": "SS-Open",
         "template": "StageSideStory.png",
+        "postDelay": 3000,
         "next": ["PVChapterToPV"]
     },
     "PV-OpenOcr": {
         "baseTask": "SS-OpenOcr",
         "text": ["揭幕者们", "彩车游行", "荒芜之舞"],
+        "postDelay": 3000,
         "next": ["PVChapterToPV"]
     },
     "PVChapterToPV": {
         "algorithm": "OcrDetect",
         "action": "ClickSelf",
         "text": ["四幕汇演"],
-        "preDelay": 3000,
         "roi": [69, 594, 123, 40],
+        "postDelay": 1000,
         "next": ["#self", "ChapterSwipeToTheRight"]
     },
     "PV-10@SideStoryStage": {
