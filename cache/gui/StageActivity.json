@@ -358,41 +358,54 @@
     "txwy": {
         "sideStoryStage": [
             {
-                "Display": "RS-6",
-                "Value": "RS-6",
-                "Drop": "30033",
+                "Display": "SSReopen-FC",
+                "Value": "SSReopen-FC",
+                "Drop": "代理1~8",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "SideStory「銀心湖列車」",
-                    "StageName": "RS",
-                    "UtcStartTime": "2024/10/31 16:00:00",
-                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "Tip": "SideStory「照我以火」復刻",
+                    "StageName": "FC",
+                    "UtcStartTime": "2024/11/14 16:00:00",
+                    "UtcExpireTime": "2024/11/24 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "RS-7",
-                "Value": "RS-7",
-                "Drop": "30083",
+                "Display": "FC-5",
+                "Value": "FC-5",
+                "Drop": "30023",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "SideStory「銀心湖列車」",
-                    "StageName": "RS",
-                    "UtcStartTime": "2024/10/31 16:00:00",
-                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "Tip": "SideStory「照我以火」復刻",
+                    "StageName": "FC",
+                    "UtcStartTime": "2024/11/14 16:00:00",
+                    "UtcExpireTime": "2024/11/24 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "RS-8",
-                "Value": "RS-8",
-                "Drop": "31033",
+                "Display": "FC-6",
+                "Value": "FC-6",
+                "Drop": "30044",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "SideStory「銀心湖列車」",
-                    "StageName": "RS",
-                    "UtcStartTime": "2024/10/31 16:00:00",
-                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "Tip": "SideStory「照我以火」復刻",
+                    "StageName": "FC",
+                    "UtcStartTime": "2024/11/14 16:00:00",
+                    "UtcExpireTime": "2024/11/24 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "FC-7",
+                "Value": "FC-7",
+                "Drop": "31043",
+                "MinimumRequired": "v5.3.1",
+                "Activity": {
+                    "Tip": "SideStory「照我以火」復刻",
+                    "StageName": "FC",
+                    "UtcStartTime": "2024/11/14 16:00:00",
+                    "UtcExpireTime": "2024/11/24 03:59:59",
                     "TimeZone": 8
                 }
             }
