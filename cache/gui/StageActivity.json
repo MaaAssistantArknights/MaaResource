@@ -5,7 +5,7 @@
                 "Display": "SSReopen-CV",
                 "Value": "SSReopen-CV",
                 "Drop": "代理1~8",
-                "MinimumRequired": "v4.28.6",
+                "MinimumRequired": "v5.9.1",
                 "Activity": {
                     "Tip": "SideStory「不义之财」复刻",
                     "StageName": "「不义之财」复刻",
@@ -18,7 +18,7 @@
                 "Display": "PV-8",
                 "Value": "PV-8",
                 "Drop": "30083",
-                "MinimumRequired": "v4.28.6",
+                "MinimumRequired": "v5.9.1",
                 "Activity": {
                     "Tip": "SideStory「揭幕者们」",
                     "StageName": "「揭幕者们」",
@@ -31,7 +31,7 @@
                 "Display": "PV-9",
                 "Value": "PV-9",
                 "Drop": "30103",
-                "MinimumRequired": "v4.28.6",
+                "MinimumRequired": "v5.9.1",
                 "Activity": {
                     "Tip": "SideStory「揭幕者们」",
                     "StageName": "「揭幕者们」",
@@ -44,7 +44,7 @@
                 "Display": "PV-10",
                 "Value": "PV-10",
                 "Drop": "31053",
-                "MinimumRequired": "v4.28.6",
+                "MinimumRequired": "v5.9.1",
                 "Activity": {
                     "Tip": "SideStory「揭幕者们」",
                     "StageName": "「揭幕者们」",
@@ -57,7 +57,7 @@
                 "Display": "PV-5",
                 "Value": "PV-5",
                 "Drop": "搓玉效率待测",
-                "MinimumRequired": "v4.28.6",
+                "MinimumRequired": "v5.9.1",
                 "Activity": {
                     "Tip": "SideStory「揭幕者们」",
                     "StageName": "「揭幕者们」",
