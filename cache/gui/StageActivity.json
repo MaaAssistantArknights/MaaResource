@@ -78,132 +78,67 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
-                "Display": "BB-6",
-                "Value": "BB-6",
-                "Drop": "30013",
+                "Display": "SSReopen-CW",
+                "Value": "SSReopen-CW",
+                "Drop": "SS「孤星」復刻 1~10",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「バベル」",
-                    "StageName": "BB",
-                    "UtcStartTime": "2024/10/10 16:00:00",
-                    "UtcExpireTime": "2024/11/01 03:59:59",
+                    "Tip": "サイドストーリー「孤星」復刻",
+                    "StageName": "CW",
+                    "UtcStartTime": "2024/11/21 16:00:00",
+                    "UtcExpireTime": "2024/12/01 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "BB-7",
-                "Value": "BB-7",
-                "Drop": "30043",
+                "Display": "CW-8",
+                "Value": "CW-8",
+                "Drop": "30053",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「バベル」",
-                    "StageName": "BB",
-                    "UtcStartTime": "2024/10/10 16:00:00",
-                    "UtcExpireTime": "2024/11/01 03:59:59",
+                    "Tip": "サイドストーリー「孤星」復刻",
+                    "StageName": "CW",
+                    "UtcStartTime": "2024/11/21 16:00:00",
+                    "UtcExpireTime": "2024/12/01 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "BB-8",
-                "Value": "BB-8",
-                "Drop": "31013",
+                "Display": "CW-9",
+                "Value": "CW-9",
+                "Drop": "31043",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「バベル」",
-                    "StageName": "BB",
-                    "UtcStartTime": "2024/10/10 16:00:00",
-                    "UtcExpireTime": "2024/11/01 03:59:59",
+                    "Tip": "サイドストーリー「孤星」復刻",
+                    "StageName": "CW",
+                    "UtcStartTime": "2024/11/21 16:00:00",
+                    "UtcExpireTime": "2024/12/01 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "BB-4",
-                "Value": "BB-4",
+                "Display": "CW-10",
+                "Value": "CW-10",
+                "Drop": "31023",
+                "MinimumRequired": "v5.3.1",
+                "Activity": {
+                    "Tip": "サイドストーリー「孤星」復刻",
+                    "StageName": "CW",
+                    "UtcStartTime": "2024/11/21 16:00:00",
+                    "UtcExpireTime": "2024/12/01 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "CW-6",
+                "Value": "CW-6",
                 "Drop": "初級源岩、初級糖原（合成玉効率35%）",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "サイドストーリー「バベル」",
-                    "StageName": "BB",
-                    "UtcStartTime": "2024/10/10 16:00:00",
-                    "UtcExpireTime": "2024/11/01 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "14-16 厄難",
-                "Value": "14-16-HARD",
-                "Drop": "30063",
-                "MinimumRequired": "v5.3.1",
-                "Activity": {
-                    "Tip": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
-                    "StageName": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
-                    "UtcStartTime": "2024/10/31 16:00:00",
-                    "UtcExpireTime": "2024/11/14 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "14-16 通常",
-                "Value": "14-16-NORMAL",
-                "Drop": "30063",
-                "MinimumRequired": "v5.3.1",
-                "Activity": {
-                    "Tip": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
-                    "StageName": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
-                    "UtcStartTime": "2024/10/31 16:00:00",
-                    "UtcExpireTime": "2024/11/14 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "14-20 厄難",
-                "Value": "14-20-HARD",
-                "Drop": "30053",
-                "MinimumRequired": "v5.3.1",
-                "Activity": {
-                    "Tip": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
-                    "StageName": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
-                    "UtcStartTime": "2024/10/31 16:00:00",
-                    "UtcExpireTime": "2024/11/14 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "14-20 通常",
-                "Value": "14-20-NORMAL",
-                "Drop": "30053",
-                "MinimumRequired": "v5.3.1",
-                "Activity": {
-                    "Tip": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
-                    "StageName": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
-                    "UtcStartTime": "2024/10/31 16:00:00",
-                    "UtcExpireTime": "2024/11/14 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "14-15 厄難",
-                "Value": "14-15-HARD",
-                "Drop": "31053",
-                "MinimumRequired": "v5.3.1",
-                "Activity": {
-                    "Tip": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
-                    "StageName": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
-                    "UtcStartTime": "2024/10/31 16:00:00",
-                    "UtcExpireTime": "2024/11/14 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "14-15 通常",
-                "Value": "14-15-NORMAL",
-                "Drop": "31053",
-                "MinimumRequired": "v5.3.1",
-                "Activity": {
-                    "Tip": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
-                    "StageName": "メインテーマ EP 14「慈悲光塔」期間限定ドロップ",
-                    "UtcStartTime": "2024/10/31 16:00:00",
-                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "Tip": "サイドストーリー「孤星」復刻",
+                    "StageName": "CW",
+                    "UtcStartTime": "2024/11/21 16:00:00",
+                    "UtcExpireTime": "2024/12/01 03:59:59",
                     "TimeZone": 9
                 }
             }
