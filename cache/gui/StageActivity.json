@@ -293,54 +293,54 @@
     "txwy": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-WB",
-                "Value": "SSReopen-WB",
-                "Drop": "代理1~9",
+                "Display": "SSReopen-FC",
+                "Value": "SSReopen-FC",
+                "Drop": "代理1~8",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "SideStory「登臨意」復刻",
-                    "StageName": "WB",
-                    "UtcStartTime": "2024/11/24 16:00:00",
-                    "UtcExpireTime": "2024/12/08 03:59:59",
+                    "Tip": "SideStory「照我以火」復刻",
+                    "StageName": "FC",
+                    "UtcStartTime": "2024/11/14 16:00:00",
+                    "UtcExpireTime": "2024/11/24 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "WB-7",
-                "Value": "WB-7",
-                "Drop": "30053",
+                "Display": "FC-5",
+                "Value": "FC-5",
+                "Drop": "30023",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "SideStory「登臨意」復刻",
-                    "StageName": "WB",
-                    "UtcStartTime": "2024/11/24 16:00:00",
-                    "UtcExpireTime": "2024/12/08 03:59:59",
+                    "Tip": "SideStory「照我以火」復刻",
+                    "StageName": "FC",
+                    "UtcStartTime": "2024/11/14 16:00:00",
+                    "UtcExpireTime": "2024/11/24 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "WB-8",
-                "Value": "WB-8",
-                "Drop": "30083",
+                "Display": "FC-6",
+                "Value": "FC-6",
+                "Drop": "30043",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "SideStory「登臨意」復刻",
-                    "StageName": "WB",
-                    "UtcStartTime": "2024/11/24 16:00:00",
-                    "UtcExpireTime": "2024/12/08 03:59:59",
+                    "Tip": "SideStory「照我以火」復刻",
+                    "StageName": "FC",
+                    "UtcStartTime": "2024/11/14 16:00:00",
+                    "UtcExpireTime": "2024/11/24 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "WB-9",
-                "Value": "WB-9",
-                "Drop": "31033",
+                "Display": "FC-7",
+                "Value": "FC-7",
+                "Drop": "31043",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "SideStory「登臨意」復刻",
-                    "StageName": "WB",
-                    "UtcStartTime": "2024/11/24 16:00:00",
-                    "UtcExpireTime": "2024/12/08 03:59:59",
+                    "Tip": "SideStory「照我以火」復刻",
+                    "StageName": "FC",
+                    "UtcStartTime": "2024/11/14 16:00:00",
+                    "UtcExpireTime": "2024/11/24 03:59:59",
                     "TimeZone": 8
                 }
             }
