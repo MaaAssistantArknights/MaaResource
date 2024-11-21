@@ -154,80 +154,67 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "14-16 하드",
-                "Value": "14-16-HARD",
-                "Drop": "30063",
+                "Display": "SSReopen-CW",
+                "Value": "SSReopen-CW",
+                "Drop": "SS「론 트레일」복각 1~10",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "EP 14「자비의 등대」기간 한정 드롭",
-                    "StageName": "EP 14「자비의 등대」기간 한정 드롭",
-                    "UtcStartTime": "2024/10/31 16:00:00",
-                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "Tip": "Sidestory「론 트레일」 재개방",
+                    "StageName": "CW",
+                    "UtcStartTime": "2024/11/21 16:00:00",
+                    "UtcExpireTime": "2024/12/01 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "14-16 일반",
-                "Value": "14-16-NORMAL",
-                "Drop": "30063",
-                "MinimumRequired": "v5.5.0",
-                "Activity": {
-                    "Tip": "EP 14「자비의 등대」기간 한정 드롭",
-                    "StageName": "EP 14「자비의 등대」기간 한정 드롭",
-                    "UtcStartTime": "2024/10/31 16:00:00",
-                    "UtcExpireTime": "2024/11/14 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "14-20 하드",
-                "Value": "14-20-HARD",
+                "Display": "CW-8",
+                "Value": "CW-8",
                 "Drop": "30053",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "EP 14「자비의 등대」기간 한정 드롭",
-                    "StageName": "EP 14「자비의 등대」기간 한정 드롭",
-                    "UtcStartTime": "2024/10/31 16:00:00",
-                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "Tip": "Sidestory「론 트레일」 재개방",
+                    "StageName": "CW",
+                    "UtcStartTime": "2024/11/21 16:00:00",
+                    "UtcExpireTime": "2024/12/01 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "14-20 일반",
-                "Value": "14-20-NORMAL",
-                "Drop": "30053",
+                "Display": "CW-9",
+                "Value": "CW-9",
+                "Drop": "31043",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "EP 14「자비의 등대」기간 한정 드롭",
-                    "StageName": "EP 14「자비의 등대」기간 한정 드롭",
-                    "UtcStartTime": "2024/10/31 16:00:00",
-                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "Tip": "Sidestory「론 트레일」 재개방",
+                    "StageName": "CW",
+                    "UtcStartTime": "2024/11/21 16:00:00",
+                    "UtcExpireTime": "2024/12/01 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "14-15 하드",
-                "Value": "14-15-HARD",
-                "Drop": "31053",
+                "Display": "CW-10",
+                "Value": "CW-10",
+                "Drop": "31023",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "EP 14「자비의 등대」기간 한정 드롭",
-                    "StageName": "EP 14「자비의 등대」기간 한정 드롭",
-                    "UtcStartTime": "2024/10/31 16:00:00",
-                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "Tip": "Sidestory「론 트레일」 재개방",
+                    "StageName": "CW",
+                    "UtcStartTime": "2024/11/21 16:00:00",
+                    "UtcExpireTime": "2024/12/01 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "14-15 일반",
-                "Value": "14-15-NORMAL",
-                "Drop": "31053",
+                "Display": "CW-6",
+                "Value": "CW-6",
+                "Drop": "원암 및 포도당 (오리지늄 조각 효율 35%)",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "EP 14「자비의 등대」기간 한정 드롭",
-                    "StageName": "EP 14「자비의 등대」기간 한정 드롭",
-                    "UtcStartTime": "2024/10/31 16:00:00",
-                    "UtcExpireTime": "2024/11/14 03:59:59",
+                    "Tip": "Sidestory「론 트레일」 재개방",
+                    "StageName": "CW",
+                    "UtcStartTime": "2024/11/21 16:00:00",
+                    "UtcExpireTime": "2024/12/01 03:59:59",
                     "TimeZone": 9
                 }
             }

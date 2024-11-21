@@ -2,13 +2,11 @@
     "Sami@Roguelike@StageEnterBattleAgain": {
         "specificRect": [1180, 460, 30, 20]
     },
-    "BB-OpenOcr": {
-        "text": ["바벨", "개방", "이벤트"],
-        "roi": [103, 538, 300, 25]
+    "CW-Open": {
+        "text": ["스테이지", "개방"]
     },
-    "BBChapterToBB": {
-        "text": ["미래", "선사", "하리라"],
-        "roi": [965, 610, 170, 31]
+    "CWChapterToCW": {
+        "text": ["미래", "도래"]
     },
     "SpecialAccessActivities": {
         "doc": "5주년 먼슬리 카드",
