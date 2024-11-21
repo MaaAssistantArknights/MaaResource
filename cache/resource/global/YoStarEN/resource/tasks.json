@@ -1,9 +1,8 @@
 {
-    "BB-OpenOcr": {
-        "text": ["Babel", "open", "event", "Past", "Ward", "Constant", "stages"]
+    "CW-Open": {
+        "text": ["Lone", "Trail", "open"]
     },
-    "BBChapterToBB": {
-        "text": ["Future", "FUTURE", "Gifts", "Gifts"],
-        "roi": [1000, 589, 209, 131]
+    "CWChapterToCW": {
+        "text": ["THE COMING", "THE FUTURE"]
     }
 }
