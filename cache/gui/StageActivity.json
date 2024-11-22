@@ -2,67 +2,54 @@
     "Official": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-CV",
-                "Value": "SSReopen-CV",
+                "Display": "SSReopen-ZT",
+                "Value": "SSReopen-ZT",
                 "Drop": "代理1~8",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「不义之财」复刻",
-                    "StageName": "「不义之财」复刻",
-                    "UtcStartTime": "2024/09/19 16:00:00",
-                    "UtcExpireTime": "2024/09/29 03:59:59",
+                    "Tip": "SideStory「崔林特尔梅之金」复刻",
+                    "StageName": "「崔林特尔梅之金」复刻",
+                    "UtcStartTime": "2024/11/25 16:00:00",
+                    "UtcExpireTime": "2024/12/05 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "PV-8",
-                "Value": "PV-8",
-                "Drop": "30083",
+                "Display": "ZT-7",
+                "Value": "ZT-7",
+                "Drop": "30043",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「揭幕者们」",
-                    "StageName": "「揭幕者们」",
-                    "UtcStartTime": "2024/11/01 16:00:00",
-                    "UtcExpireTime": "2024/11/22 03:59:59",
+                    "Tip": "SideStory「崔林特尔梅之金」复刻",
+                    "StageName": "「崔林特尔梅之金」复刻",
+                    "UtcStartTime": "2024/11/25 16:00:00",
+                    "UtcExpireTime": "2024/12/05 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "PV-9",
-                "Value": "PV-9",
-                "Drop": "30103",
+                "Display": "ZT-8",
+                "Value": "ZT-8",
+                "Drop": "30063",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「揭幕者们」",
-                    "StageName": "「揭幕者们」",
-                    "UtcStartTime": "2024/11/01 16:00:00",
-                    "UtcExpireTime": "2024/11/22 03:59:59",
+                    "Tip": "SideStory「崔林特尔梅之金」复刻",
+                    "StageName": "「崔林特尔梅之金」复刻",
+                    "UtcStartTime": "2024/11/25 16:00:00",
+                    "UtcExpireTime": "2024/12/05 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "PV-10",
-                "Value": "PV-10",
-                "Drop": "31053",
+                "Display": "ZT-9",
+                "Value": "ZT-9",
+                "Drop": "30073",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「揭幕者们」",
-                    "StageName": "「揭幕者们」",
-                    "UtcStartTime": "2024/11/01 16:00:00",
-                    "UtcExpireTime": "2024/11/22 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "PV-5",
-                "Value": "PV-5",
-                "Drop": "搓玉效率待测",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "SideStory「揭幕者们」",
-                    "StageName": "「揭幕者们」",
-                    "UtcStartTime": "2024/11/01 16:00:00",
-                    "UtcExpireTime": "2024/11/22 03:59:59",
+                    "Tip": "SideStory「崔林特尔梅之金」复刻",
+                    "StageName": "「崔林特尔梅之金」复刻",
+                    "UtcStartTime": "2024/11/25 16:00:00",
+                    "UtcExpireTime": "2024/12/05 03:59:59",
                     "TimeZone": 8
                 }
             }
