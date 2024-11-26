@@ -2,5 +2,13 @@
     "StartToVisit": {
         "colorScales": [[253, 255]],
         "roi": [952, 105, 267, 601]
+    },
+    "ZT-4": {
+        "algorithm": "JustReturn",
+        "sub": ["ZT-OpenOcr"],
+        "next": ["ZT-4@SideStoryStage", "ZT-4@SwipeToStage"]
+    },
+    "ZT-4@SideStoryStage": {
+        "text": ["ZT-4"]
     }
 }
