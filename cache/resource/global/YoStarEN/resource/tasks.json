@@ -1,8 +1,8 @@
 {
-    "CW-Open": {
-        "text": ["Lone", "Trail", "open"]
+    "BP-OpenOcr":{
+        "text": ["Path", "Life", "event", "open", "Fortify", "Defense"]
     },
-    "CWChapterToCW": {
-        "text": ["THE COMING", "THE FUTURE"]
+    "BPChapterToBP":{
+        "text": ["Deploy", "DEPLOY", "Beacons", "BEACONS"]
     }
 }
