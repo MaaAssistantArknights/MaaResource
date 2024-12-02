@@ -2,11 +2,11 @@
     "Sami@Roguelike@StageEnterBattleAgain": {
         "specificRect": [1180, 460, 30, 20]
     },
-    "CW-Open": {
-        "text": ["스테이지", "개방"]
+    "BP-OpenOcr": {
+        "text": ["삶의", "길", "이벤트", "개방"]
     },
-    "CWChapterToCW": {
-        "text": ["미래", "도래"]
+    "BPChapterToBP": {
+        "text": ["비콘", "설치"]
     },
     "SpecialAccessActivities": {
         "doc": "5주년 먼슬리 카드",
