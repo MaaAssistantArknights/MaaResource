@@ -2,67 +2,67 @@
     "Official": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-ZT",
-                "Value": "SSReopen-ZT",
-                "Drop": "代理1~8",
+                "Display": "EP-8",
+                "Value": "EP-8",
+                "Drop": "30093",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「崔林特尔梅之金」复刻",
-                    "StageName": "「崔林特尔梅之金」复刻",
-                    "UtcStartTime": "2024/11/25 16:00:00",
-                    "UtcExpireTime": "2024/12/05 03:59:59",
+                    "Tip": "SideStory「出苍白海」",
+                    "StageName": "「出苍白海」",
+                    "UtcStartTime": "2024/12/05 16:00:00",
+                    "UtcExpireTime": "2024/12/19 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "ZT-4",
-                "Value": "ZT-4",
-                "Drop": "30012",
+                "Display": "EP-7",
+                "Value": "EP-7",
+                "Drop": "30053",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「崔林特尔梅之金」复刻",
-                    "StageName": "「崔林特尔梅之金」复刻",
-                    "UtcStartTime": "2024/11/25 16:00:00",
-                    "UtcExpireTime": "2024/12/05 03:59:59",
+                    "Tip": "SideStory「出苍白海」",
+                    "StageName": "「出苍白海」",
+                    "UtcStartTime": "2024/12/05 16:00:00",
+                    "UtcExpireTime": "2024/12/19 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "ZT-7",
-                "Value": "ZT-7",
-                "Drop": "30043",
+                "Display": "EP-6",
+                "Value": "EP-6",
+                "Drop": "30023",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「崔林特尔梅之金」复刻",
-                    "StageName": "「崔林特尔梅之金」复刻",
-                    "UtcStartTime": "2024/11/25 16:00:00",
-                    "UtcExpireTime": "2024/12/05 03:59:59",
+                    "Tip": "SideStory「出苍白海」",
+                    "StageName": "「出苍白海」",
+                    "UtcStartTime": "2024/12/05 16:00:00",
+                    "UtcExpireTime": "2024/12/19 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "ZT-8",
-                "Value": "ZT-8",
-                "Drop": "30063",
+                "Display": "EP-5",
+                "Value": "EP-5",
+                "Drop": "搓玉效率待测",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「崔林特尔梅之金」复刻",
-                    "StageName": "「崔林特尔梅之金」复刻",
-                    "UtcStartTime": "2024/11/25 16:00:00",
-                    "UtcExpireTime": "2024/12/05 03:59:59",
+                    "Tip": "SideStory「出苍白海」",
+                    "StageName": "「出苍白海」",
+                    "UtcStartTime": "2024/12/05 16:00:00",
+                    "UtcExpireTime": "2024/12/19 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "ZT-9",
-                "Value": "ZT-9",
-                "Drop": "30073",
+                "Display": "EP-4",
+                "Value": "EP-4",
+                "Drop": "搓玉效率待测",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「崔林特尔梅之金」复刻",
-                    "StageName": "「崔林特尔梅之金」复刻",
-                    "UtcStartTime": "2024/11/25 16:00:00",
-                    "UtcExpireTime": "2024/12/05 03:59:59",
+                    "Tip": "SideStory「出苍白海」",
+                    "StageName": "「出苍白海」",
+                    "UtcStartTime": "2024/12/05 16:00:00",
+                    "UtcExpireTime": "2024/12/19 03:59:59",
                     "TimeZone": 8
                 }
             }
