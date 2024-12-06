@@ -41,22 +41,9 @@
                 }
             },
             {
-                "Display": "EP-5",
-                "Value": "EP-5",
-                "Drop": "搓玉效率待测",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "SideStory「出苍白海」",
-                    "StageName": "「出苍白海」",
-                    "UtcStartTime": "2024/12/05 16:00:00",
-                    "UtcExpireTime": "2024/12/19 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
                 "Display": "EP-4",
                 "Value": "EP-4",
-                "Drop": "搓玉效率待测",
+                "Drop": "搓玉效率0.7",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
                     "Tip": "SideStory「出苍白海」",
