@@ -241,41 +241,41 @@
                 }
             },
             {
-                "Display": "WB-7",
-                "Value": "WB-7",
-                "Drop": "30053",
+                "Display": "CR-6",
+                "Value": "CR-6",
+                "Drop": "30033",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "SideStory「登臨意」復刻",
-                    "StageName": "WB",
-                    "UtcStartTime": "2024/11/24 16:00:00",
-                    "UtcExpireTime": "2024/12/04 03:59:59",
+                    "Tip": "SideStory「水晶箭行動」",
+                    "StageName": "CR",
+                    "UtcStartTime": "2024/12/18 16:00:00",
+                    "UtcExpireTime": "2025/01/01 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "WB-8",
-                "Value": "WB-8",
-                "Drop": "30083",
+                "Display": "CR-7",
+                "Value": "CR-7",
+                "Drop": "31023",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "SideStory「登臨意」復刻",
-                    "StageName": "WB",
-                    "UtcStartTime": "2024/11/24 16:00:00",
-                    "UtcExpireTime": "2024/12/04 03:59:59",
+                    "Tip": "SideStory「水晶箭行動」",
+                    "StageName": "CR",
+                    "UtcStartTime": "2024/12/18 16:00:00",
+                    "UtcExpireTime": "2025/01/01 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "WB-9",
-                "Value": "WB-9",
-                "Drop": "31033",
+                "Display": "CR-8",
+                "Value": "CR-8",
+                "Drop": "30063",
                 "MinimumRequired": "v5.3.1",
                 "Activity": {
-                    "Tip": "SideStory「登臨意」復刻",
-                    "StageName": "WB",
-                    "UtcStartTime": "2024/11/24 16:00:00",
-                    "UtcExpireTime": "2024/12/04 03:59:59",
+                    "Tip": "SideStory「水晶箭行動」",
+                    "StageName": "CR",
+                    "UtcStartTime": "2024/12/18 16:00:00",
+                    "UtcExpireTime": "2025/01/01 03:59:59",
                     "TimeZone": 8
                 }
             }
