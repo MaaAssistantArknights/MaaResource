@@ -1,55 +1,55 @@
 {
     "Official": {
         "sideStoryStage": [
-            {
-                "Display": "EP-8",
-                "Value": "EP-8",
-                "Drop": "30093",
+           {
+                "Display": "RS-5",
+                "Value": "RS-5",
+                "Drop": "效率很低，仅限搓玉玩家兼顾搬商店",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「出苍白海」",
-                    "StageName": "「出苍白海」",
-                    "UtcStartTime": "2024/12/05 16:00:00",
-                    "UtcExpireTime": "2024/12/19 03:59:59",
+                    "Tip": "SideStory「银心湖列车」复刻",
+                    "StageName": "「银心湖列车」复刻",
+                    "UtcStartTime": "2024/12/19 16:00:00",
+                    "UtcExpireTime": "2024/12/29 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "EP-7",
-                "Value": "EP-7",
-                "Drop": "30053",
+                "Display": "RS-6",
+                "Value": "RS-6",
+                "Drop": "30033",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「出苍白海」",
-                    "StageName": "「出苍白海」",
-                    "UtcStartTime": "2024/12/05 16:00:00",
-                    "UtcExpireTime": "2024/12/19 03:59:59",
+                    "Tip": "SideStory「银心湖列车」复刻",
+                    "StageName": "「银心湖列车」复刻",
+                    "UtcStartTime": "2024/12/19 16:00:00",
+                    "UtcExpireTime": "2024/12/29 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "EP-6",
-                "Value": "EP-6",
-                "Drop": "30023",
+                "Display": "RS-7",
+                "Value": "RS-7",
+                "Drop": "30083",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「出苍白海」",
-                    "StageName": "「出苍白海」",
-                    "UtcStartTime": "2024/12/05 16:00:00",
-                    "UtcExpireTime": "2024/12/19 03:59:59",
+                    "Tip": "SideStory「银心湖列车」复刻",
+                    "StageName": "「银心湖列车」复刻",
+                    "UtcStartTime": "2024/12/19 16:00:00",
+                    "UtcExpireTime": "2024/12/29 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "EP-4",
-                "Value": "EP-4",
-                "Drop": "搓玉效率0.7",
+                "Display": "RS-8",
+                "Value": "RS-8",
+                "Drop": "晶体元件 杂鱼❤",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「出苍白海」",
-                    "StageName": "「出苍白海」",
-                    "UtcStartTime": "2024/12/05 16:00:00",
-                    "UtcExpireTime": "2024/12/19 03:59:59",
+                    "Tip": "SideStory「银心湖列车」复刻",
+                    "StageName": "「银心湖列车」复刻",
+                    "UtcStartTime": "2024/12/19 16:00:00",
+                    "UtcExpireTime": "2024/12/29 03:59:59",
                     "TimeZone": 8
                 }
             }
