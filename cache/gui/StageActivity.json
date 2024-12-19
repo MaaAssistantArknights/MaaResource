@@ -1,19 +1,6 @@
 {
     "Official": {
         "sideStoryStage": [
-           {
-                "Display": "RS-5",
-                "Value": "RS-5",
-                "Drop": "效率很低，仅限搓玉玩家兼顾搬商店",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "SideStory「银心湖列车」复刻",
-                    "StageName": "「银心湖列车」复刻",
-                    "UtcStartTime": "2024/12/19 16:00:00",
-                    "UtcExpireTime": "2024/12/29 03:59:59",
-                    "TimeZone": 8
-                }
-            },
             {
                 "Display": "RS-6",
                 "Value": "RS-6",
@@ -44,6 +31,19 @@
                 "Display": "RS-8",
                 "Value": "RS-8",
                 "Drop": "晶体元件 杂鱼❤",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory「银心湖列车」复刻",
+                    "StageName": "「银心湖列车」复刻",
+                    "UtcStartTime": "2024/12/19 16:00:00",
+                    "UtcExpireTime": "2024/12/29 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "RS-5",
+                "Value": "RS-5",
+                "Drop": "每理智产0.7玉",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
                     "Tip": "SideStory「银心湖列车」复刻",
