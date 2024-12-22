@@ -2,19 +2,10 @@
     "Sami@Roguelike@StageEnterBattleAgain": {
         "specificRect": [1180, 460, 30, 20]
     },
-    "BP-OpenOcr": {
-        "text": ["삶의", "길", "이벤트", "개방"]
+    "HE-Open": {
+        "text": ["공상의", "정원", "이벤트", "개방"]
     },
-    "BPChapterToBP": {
-        "text": ["비콘", "설치"]
-    },
-    "SpecialAccessActivities": {
-        "doc": "5주년 먼슬리 카드",
-        "text": ["스페셜"],
-        "roi": [0, 20, 302, 302]
-    },
-    "SpecialAccessActivitiesConfirm": {
-        "text": ["수령", "하기"],
-        "postDelay": 500
+    "HEChapterToHE": {
+        "text": ["암브로", "시우스", "수도원"]
     }
 }

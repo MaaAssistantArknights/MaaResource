@@ -141,41 +141,67 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "BP-5",
-                "Value": "BP-5",
-                "Drop": "31033",
+                "Display": "SSReopen-HE",
+                "Value": "SSReopen-HE",
+                "Drop": "복각대리 1~8",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory「삶의 길」",
-                    "StageName": "BP",
-                    "UtcStartTime": "2024/12/03 16:00:00",
-                    "UtcExpireTime": "2024/12/17 03:59:59",
+                    "Tip": "Sidestory「공상의 정원」재개방",
+                    "StageName": "HE",
+                    "UtcStartTime": "2024/12/24 16:00:00",
+                    "UtcExpireTime": "2025/01/03 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "BP-6",
-                "Value": "BP-6",
-                "Drop": "30023",
+                "Display": "HE-5",
+                "Value": "HE-5",
+                "Drop": "장치, 포도당 (합성옥 효율 24%)",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory「삶의 길」",
-                    "StageName": "BP",
-                    "UtcStartTime": "2024/12/03 16:00:00",
-                    "UtcExpireTime": "2024/12/17 03:59:59",
+                    "Tip": "Sidestory「공상의 정원」재개방",
+                    "StageName": "HE",
+                    "UtcStartTime": "2024/12/24 16:00:00",
+                    "UtcExpireTime": "2025/01/03 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "BP-7",
-                "Value": "BP-7",
-                "Drop": "30073",
+                "Display": "HE-6",
+                "Value": "HE-6",
+                "Drop": "30013",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory「삶의 길」",
-                    "StageName": "BP",
-                    "UtcStartTime": "2024/12/03 16:00:00",
-                    "UtcExpireTime": "2024/12/17 03:59:59",
+                    "Tip": "Sidestory「공상의 정원」재개방",
+                    "StageName": "HE",
+                    "UtcStartTime": "2024/12/24 16:00:00",
+                    "UtcExpireTime": "2025/01/03 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "HE-7",
+                "Value": "HE-7",
+                "Drop": "31013",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "Sidestory「공상의 정원」재개방",
+                    "StageName": "HE",
+                    "UtcStartTime": "2024/12/24 16:00:00",
+                    "UtcExpireTime": "2025/01/03 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "HE-8",
+                "Value": "HE-8",
+                "Drop": "30103",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "Sidestory「공상의 정원」재개방",
+                    "StageName": "HE",
+                    "UtcStartTime": "2024/12/24 16:00:00",
+                    "UtcExpireTime": "2025/01/03 03:59:59",
                     "TimeZone": 9
                 }
             }
