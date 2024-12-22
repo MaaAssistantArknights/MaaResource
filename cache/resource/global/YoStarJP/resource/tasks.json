@@ -4,32 +4,5 @@
     },
     "EnterChapterDifficultyNormal": {
         "text": ["作戦へ"]
-    },
-    "BP-OpenOcr": {
-        "text": [
-            "生存航路",
-            "防衛線強化",
-            "防衛",
-            "強化",
-            "イベント開催中",
-            "ステージ開放中"
-        ]
-    },
-    "BPChapterToBP": {
-        "text": ["ビーコン設置", "ビーコン", "設置", "設", "記"],
-        "roi": [1012, 508, 119, 38]
-    },
-    "MiningActivities": {
-        "text": ["採掘許可", "採掘"]
-    },
-    "SpecialAccessActivities": {
-        "doc": "五周年月卡、大感謝祭特別月パス",
-        "text": ["月パス"],
-        "ocrReplace": [["月[ハパ][スズ]", "月パス"]],
-        "roi": [0, 20, 302, 302]
-    },
-    "SpecialAccessActivitiesConfirm": {
-        "postDelay": 500,
-        "text": ["受け取る"]
     }
 }

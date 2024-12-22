@@ -78,54 +78,67 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
-                "Display": "BP-5",
-                "Value": "BP-5",
-                "Drop": "31033",
+                "Display": "SSReopen-HE",
+                "Value": "SSReopen-HE",
+                "Drop": "復刻代理1~8",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「生存航路」",
-                    "StageName": "BP",
-                    "UtcStartTime": "2024/12/03 16:00:00",
-                    "UtcExpireTime": "2024/12/17 03:59:59",
+                    "Tip": "サイドストーリー「空想の花庭」復刻",
+                    "StageName": "HE",
+                    "UtcStartTime": "2024/12/24 16:00:00",
+                    "UtcExpireTime": "2025/01/03 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "BP-6",
-                "Value": "BP-6",
-                "Drop": "30023",
+                "Display": "HE-6",
+                "Value": "HE-6",
+                "Drop": "30013",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「生存航路」",
-                    "StageName": "BP",
-                    "UtcStartTime": "2024/12/03 16:00:00",
-                    "UtcExpireTime": "2024/12/17 03:59:59",
+                    "Tip": "サイドストーリー「空想の花庭」復刻",
+                    "StageName": "HE",
+                    "UtcStartTime": "2024/12/24 16:00:00",
+                    "UtcExpireTime": "2025/01/03 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "BP-7",
-                "Value": "BP-7",
-                "Drop": "30073",
+                "Display": "HE-7",
+                "Value": "HE-7",
+                "Drop": "31013",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「生存航路」",
-                    "StageName": "BP",
-                    "UtcStartTime": "2024/12/03 16:00:00",
-                    "UtcExpireTime": "2024/12/17 03:59:59",
+                    "Tip": "サイドストーリー「空想の花庭」復刻",
+                    "StageName": "HE",
+                    "UtcStartTime": "2024/12/24 16:00:00",
+                    "UtcExpireTime": "2025/01/03 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "BP-4",
-                "Value": "BP-4",
-                "Drop": "初級源岩、初級エステル（合成玉効率64%）",
+                "Display": "HE-8",
+                "Value": "HE-8",
+                "Drop": "30103",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「生存航路」",
-                    "StageName": "BP",
-                    "UtcStartTime": "2024/12/03 16:00:00",
-                    "UtcExpireTime": "2024/12/17 03:59:59",
+                    "Tip": "サイドストーリー「空想の花庭」復刻",
+                    "StageName": "HE",
+                    "UtcStartTime": "2024/12/24 16:00:00",
+                    "UtcExpireTime": "2025/01/03 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "HE-5",
+                "Value": "HE-5",
+                "Drop": "初級装置、初級糖原（合成玉効率24%）",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "サイドストーリー「空想の花庭」復刻",
+                    "StageName": "HE",
+                    "UtcStartTime": "2024/12/24 16:00:00",
+                    "UtcExpireTime": "2025/01/03 03:59:59",
                     "TimeZone": 9
                 }
             }
