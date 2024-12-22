@@ -1,8 +1,8 @@
 {
-    "BP-OpenOcr":{
-        "text": ["Path", "Life", "event", "open", "Fortify", "Defense"]
+    "HE-Open": {
+        "text": ["Hortus", "Escapismo", "Sacrarium", "Derelictum"]
     },
-    "BPChapterToBP":{
-        "text": ["Deploy", "DEPLOY", "Beacons", "BEACONS"]
+    "HEChapterToHE": {
+        "text": ["SANCTILAMINIUM", "AMBROSII"]
     }
 }
