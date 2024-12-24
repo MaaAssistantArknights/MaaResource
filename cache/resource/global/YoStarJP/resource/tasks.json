@@ -4,5 +4,11 @@
     },
     "EnterChapterDifficultyNormal": {
         "text": ["作戦へ"]
+    },
+    "HE-Open": {
+        "text": ["空想の花庭", "開催中", "廃聖堂"]
+    },
+    "HEChapterToHE": {
+        "text": ["アンブロシウス", "修道院"]
     }
 }
