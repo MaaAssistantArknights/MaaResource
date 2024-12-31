@@ -1,10 +1,5 @@
 {
-    "RS-5": {
-        "algorithm": "JustReturn",
-        "sub": ["RS-OpenOcr"],
-        "next": ["RS-5@SideStoryStage", "RS-5@SwipeToStage"]
-    },
-    "RS-5@SideStoryStage": {
-        "text": ["RS-5"]
+    "Award": {
+        "templThreshold": 0.8
     }
 }
