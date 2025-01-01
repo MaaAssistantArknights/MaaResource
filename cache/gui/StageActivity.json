@@ -141,6 +141,58 @@
                     "UtcExpireTime": "2025/01/03 03:59:59",
                     "TimeZone": 9
                 }
+            },
+            {
+                "Display": "SSReopen-SL",
+                "Value": "SSReopen-SL",
+                "Drop": "復刻代理1~8",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "サイドストーリー「火山と雲と夢色の旅路」復刻",
+                    "StageName": "SL",
+                    "UtcStartTime": "2025/01/03 16:00:00",
+                    "UtcExpireTime": "2025/01/13 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "SL-6",
+                "Value": "SL-6",
+                "Drop": "30053",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "サイドストーリー「火山と雲と夢色の旅路」復刻",
+                    "StageName": "SL",
+                    "UtcStartTime": "2025/01/03 16:00:00",
+                    "UtcExpireTime": "2025/01/13 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "SL-7",
+                "Value": "SL-7",
+                "Drop": "31033",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "サイドストーリー「火山と雲と夢色の旅路」復刻",
+                    "StageName": "SL",
+                    "UtcStartTime": "2025/01/03 16:00:00",
+                    "UtcExpireTime": "2025/01/13 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "SL-8",
+                "Value": "SL-8",
+                "Drop": "30083",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "サイドストーリー「火山と雲と夢色の旅路」復刻",
+                    "StageName": "SL",
+                    "UtcStartTime": "2025/01/03 16:00:00",
+                    "UtcExpireTime": "2025/01/13 03:59:59",
+                    "TimeZone": 9
+                }
             }
         ],
         "resourceCollection": {
