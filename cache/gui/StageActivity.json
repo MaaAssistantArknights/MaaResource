@@ -345,54 +345,54 @@
     "txwy": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-WB",
-                "Value": "SSReopen-WB",
-                "Drop": "代理1~9",
-                "MinimumRequired": "v5.3.1",
+                "Display": "SSReopen-OD",
+                "Value": "SSReopen-OD",
+                "Drop": "代理1~8",
+                "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「登臨意」復刻",
-                    "StageName": "WB",
-                    "UtcStartTime": "2024/11/24 16:00:00",
-                    "UtcExpireTime": "2024/12/04 03:59:59",
+                    "Tip": "SideStory「源石塵行動」復刻",
+                    "StageName": "OD",
+                    "UtcStartTime": "2025/01/01 16:00:00",
+                    "UtcExpireTime": "2025/01/11 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "CR-6",
-                "Value": "CR-6",
-                "Drop": "30033",
-                "MinimumRequired": "v5.3.1",
+                "Display": "OD-6",
+                "Value": "OD-6",
+                "Drop": "固源岩、裝置（搓玉效率82%）",
+                "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「水晶箭行動」",
-                    "StageName": "CR",
-                    "UtcStartTime": "2024/12/18 16:00:00",
-                    "UtcExpireTime": "2025/01/01 03:59:59",
+                    "Tip": "SideStory「源石塵行動」復刻",
+                    "StageName": "OD",
+                    "UtcStartTime": "2025/01/01 16:00:00",
+                    "UtcExpireTime": "2025/01/11 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "CR-7",
-                "Value": "CR-7",
-                "Drop": "31023",
-                "MinimumRequired": "v5.3.1",
+                "Display": "OD-7",
+                "Value": "OD-7",
+                "Drop": "30083",
+                "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「水晶箭行動」",
-                    "StageName": "CR",
-                    "UtcStartTime": "2024/12/18 16:00:00",
-                    "UtcExpireTime": "2025/01/01 03:59:59",
+                    "Tip": "SideStory「源石塵行動」復刻",
+                    "StageName": "OD",
+                    "UtcStartTime": "2025/01/01 16:00:00",
+                    "UtcExpireTime": "2025/01/11 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "CR-8",
-                "Value": "CR-8",
-                "Drop": "30063",
-                "MinimumRequired": "v5.3.1",
+                "Display": "OD-8",
+                "Value": "OD-8",
+                "Drop": "30093",
+                "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「水晶箭行動」",
-                    "StageName": "CR",
-                    "UtcStartTime": "2024/12/18 16:00:00",
-                    "UtcExpireTime": "2025/01/01 03:59:59",
+                    "Tip": "SideStory「源石塵行動」復刻",
+                    "StageName": "OD",
+                    "UtcStartTime": "2025/01/01 16:00:00",
+                    "UtcExpireTime": "2025/01/11 03:59:59",
                     "TimeZone": 8
                 }
             }
