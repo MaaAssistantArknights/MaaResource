@@ -206,67 +206,54 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-HE",
-                "Value": "SSReopen-HE",
-                "Drop": "복각대리 1~8",
+                "Display": "SSReopen-SL",
+                "Value": "SSReopen-SL",
+                "Drop": "復刻代理1~8",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory「공상의 정원」재개방",
-                    "StageName": "HE",
-                    "UtcStartTime": "2024/12/24 16:00:00",
-                    "UtcExpireTime": "2025/01/03 03:59:59",
+                    "Tip": "Sidestory「화산의 꿈 여행」재개방",
+                    "StageName": "SL",
+                    "UtcStartTime": "2025/01/03 16:00:00",
+                    "UtcExpireTime": "2025/01/13 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "HE-5",
-                "Value": "HE-5",
-                "Drop": "장치, 포도당 (합성옥 효율 24%)",
+                "Display": "SL-6",
+                "Value": "SL-6",
+                "Drop": "30053",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory「공상의 정원」재개방",
-                    "StageName": "HE",
-                    "UtcStartTime": "2024/12/24 16:00:00",
-                    "UtcExpireTime": "2025/01/03 03:59:59",
+                    "Tip": "Sidestory「화산의 꿈 여행」재개방",
+                    "StageName": "SL",
+                    "UtcStartTime": "2025/01/03 16:00:00",
+                    "UtcExpireTime": "2025/01/13 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "HE-6",
-                "Value": "HE-6",
-                "Drop": "30013",
+                "Display": "SL-7",
+                "Value": "SL-7",
+                "Drop": "31033",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory「공상의 정원」재개방",
-                    "StageName": "HE",
-                    "UtcStartTime": "2024/12/24 16:00:00",
-                    "UtcExpireTime": "2025/01/03 03:59:59",
+                    "Tip": "Sidestory「화산의 꿈 여행」재개방",
+                    "StageName": "SL",
+                    "UtcStartTime": "2025/01/03 16:00:00",
+                    "UtcExpireTime": "2025/01/13 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "HE-7",
-                "Value": "HE-7",
-                "Drop": "31013",
+                "Display": "SL-8",
+                "Value": "SL-8",
+                "Drop": "30083",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory「공상의 정원」재개방",
-                    "StageName": "HE",
-                    "UtcStartTime": "2024/12/24 16:00:00",
-                    "UtcExpireTime": "2025/01/03 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "HE-8",
-                "Value": "HE-8",
-                "Drop": "30103",
-                "MinimumRequired": "v5.5.0",
-                "Activity": {
-                    "Tip": "Sidestory「공상의 정원」재개방",
-                    "StageName": "HE",
-                    "UtcStartTime": "2024/12/24 16:00:00",
-                    "UtcExpireTime": "2025/01/03 03:59:59",
+                    "Tip": "Sidestory「화산의 꿈 여행」재개방",
+                    "StageName": "SL",
+                    "UtcStartTime": "2025/01/03 16:00:00",
+                    "UtcExpireTime": "2025/01/13 03:59:59",
                     "TimeZone": 9
                 }
             }
@@ -282,54 +269,54 @@
     "YoStarEN": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-HE",
-                "Value": "SSReopen-HE",
-                "Drop": "Clear HE1~8",
+                "Display": "SSReopen-SL",
+                "Value": "SSReopen-SL",
+                "Drop": "Clear SL1~8",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Hortus de Escapismo - Rerun",
-                    "StageName": "HE",
-                    "UtcStartTime": "2024/12/24 10:00:00",
-                    "UtcExpireTime": "2025/01/03 03:59:59",
+                    "Tip": "So Long Adele - Rerun",
+                    "StageName": "SL",
+                    "UtcStartTime": "2025/01/03 10:00:00",
+                    "UtcExpireTime": "2025/01/13 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "HE-6",
-                "Value": "HE-6",
-                "Drop": "30013",
+                "Display": "SL-6",
+                "Value": "SL-6",
+                "Drop": "30053",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Hortus de Escapismo - Rerun",
-                    "StageName": "HE",
-                    "UtcStartTime": "2024/12/24 10:00:00",
-                    "UtcExpireTime": "2025/01/03 03:59:59",
+                    "Tip": "So Long Adele - Rerun",
+                    "StageName": "SL",
+                    "UtcStartTime": "2025/01/03 10:00:00",
+                    "UtcExpireTime": "2025/01/13 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "HE-7",
-                "Value": "HE-7",
-                "Drop": "31013",
+                "Display": "SL-7",
+                "Value": "SL-7",
+                "Drop": "31033",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Hortus de Escapismo - Rerun",
-                    "StageName": "HE",
-                    "UtcStartTime": "2024/12/24 10:00:00",
-                    "UtcExpireTime": "2025/01/03 03:59:59",
+                    "Tip": "So Long Adele - Rerun",
+                    "StageName": "SL",
+                    "UtcStartTime": "2025/01/03 10:00:00",
+                    "UtcExpireTime": "2025/01/13 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "HE-8",
-                "Value": "HE-8",
-                "Drop": "30103",
+                "Display": "SL-8",
+                "Value": "SL-8",
+                "Drop": "30083",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Hortus de Escapismo - Rerun",
-                    "StageName": "HE",
-                    "UtcStartTime": "2024/12/24 10:00:00",
-                    "UtcExpireTime": "2025/01/03 03:59:59",
+                    "Tip": "So Long Adele - Rerun",
+                    "StageName": "SL",
+                    "UtcStartTime": "2025/01/03 10:00:00",
+                    "UtcExpireTime": "2025/01/13 03:59:59",
                     "TimeZone": -7
                 }
             }

@@ -2,10 +2,11 @@
     "Sami@Roguelike@StageEnterBattleAgain": {
         "specificRect": [1180, 460, 30, 20]
     },
-    "HE-Open": {
-        "text": ["공상의", "정원", "이벤트", "개방"]
+    "SL-Open": {
+        "text": ["화산의꿈여행", "이벤트", "개방중"],
+        "roi": [0, 500, 500, 150]
     },
-    "HEChapterToHE": {
-        "text": ["암브로", "시우스", "수도원"]
+    "SLChapterToSL": {
+        "text": ["온천", "휴가"]
     }
 }

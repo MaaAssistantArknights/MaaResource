@@ -1,8 +1,18 @@
 {
-    "HE-Open": {
-        "text": ["Hortus", "Escapismo", "Sacrarium", "Derelictum"]
+    "SL-Open": {
+        "text": [
+            "So Long, Adele: Home Away From Home",
+            "So Long, Adele",
+            "Home Away From Home",
+            "Treasurehunting",
+            "Siesta",
+            "Surfing",
+            "Lava"
+        ],
+        "roi": [0, 500, 500, 150]
     },
-    "HEChapterToHE": {
-        "text": ["SANCTILAMINIUM", "AMBROSII"]
+    "SLChapterToSL": {
+        "text": ["A HOLIDAY", "AT THE HOT SPRINGS"],
+        "roi": [998, 461, 210, 62]
     }
 }
