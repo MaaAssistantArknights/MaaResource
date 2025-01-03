@@ -208,7 +208,7 @@
             {
                 "Display": "SSReopen-SL",
                 "Value": "SSReopen-SL",
-                "Drop": "復刻代理1~8",
+                "Drop": "복각대리 1~8",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
                     "Tip": "Sidestory「화산의 꿈 여행」재개방",
