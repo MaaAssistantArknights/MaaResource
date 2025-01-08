@@ -11,7 +11,7 @@
     "HEChapterToHE": {
         "text": ["アンブロシウス", "修道院"]
     },
-    "SL-Open": {
+    "SL-OpenOcr": {
         "text": [
             "火山と雲と夢色の旅路",
             "火山と",
@@ -22,6 +22,12 @@
             "ステージ開放中"
         ],
         "roi": [0, 500, 500, 150]
+    },
+    "SL-Open": {
+        "baseTask": "SS-Open",
+        "template": ["StageSideStory.png", "StageActivity.png"],
+        "postDelay": 3000,
+        "next": ["SLChapterToSL"]
     },
     "SLChapterToSL": {
         "text": ["温泉リゾート", "温泉", "リゾート"]
