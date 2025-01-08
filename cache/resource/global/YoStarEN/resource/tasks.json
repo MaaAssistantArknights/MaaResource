@@ -1,15 +1,8 @@
 {
-    "SL-Open": {
-        "text": [
-            "So Long, Adele: Home Away From Home",
-            "So Long, Adele",
-            "Home Away From Home",
-            "Treasurehunting",
-            "Siesta",
-            "Surfing",
-            "Lava"
-        ],
-        "roi": [0, 500, 500, 150]
+    "SL-Open":{
+        "baseTask": "SS-Open",
+        "template": ["StageSideStory.png", "StageActivity.png"],
+        "next": ["SLChapterToSL"]
     },
     "SLChapterToSL": {
         "text": ["A HOLIDAY", "AT THE HOT SPRINGS"],
