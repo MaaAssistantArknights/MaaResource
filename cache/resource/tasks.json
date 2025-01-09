@@ -31,5 +31,5 @@
         "template": "Sarkaz@Roguelike@CloseCollectionContinue",
         "baseTask": "Sarkaz@Roguelike@CloseCollectionContinue",
         "next": ["Sarkaz@Roguelike@StageTraderEnter#next"]
-    },
+    }
 }
