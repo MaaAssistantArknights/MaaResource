@@ -141,54 +141,54 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-SL",
-                "Value": "SSReopen-SL",
-                "Drop": "복각대리 1~8",
+                "Display": "AS-6",
+                "Value": "AS-6",
+                "Drop": "포도당, 원암 (합성옥 효율 34%)",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory「화산의 꿈 여행」재개방",
-                    "StageName": "SL",
-                    "UtcStartTime": "2025/01/03 16:00:00",
-                    "UtcExpireTime": "2025/01/13 03:59:59",
+                    "Tip": "Sidestory「태양을 뿌리쳐라」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2025/01/16 16:00:00",
+                    "UtcExpireTime": "2025/02/06 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "SL-6",
-                "Value": "SL-6",
-                "Drop": "30053",
+                "Display": "AS-7",
+                "Value": "AS-7",
+                "Drop": "30043",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory「화산의 꿈 여행」재개방",
-                    "StageName": "SL",
-                    "UtcStartTime": "2025/01/03 16:00:00",
-                    "UtcExpireTime": "2025/01/13 03:59:59",
+                    "Tip": "Sidestory「태양을 뿌리쳐라」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2025/01/16 16:00:00",
+                    "UtcExpireTime": "2025/02/06 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "SL-7",
-                "Value": "SL-7",
-                "Drop": "31033",
+                "Display": "AS-8",
+                "Value": "AS-8",
+                "Drop": "30093",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory「화산의 꿈 여행」재개방",
-                    "StageName": "SL",
-                    "UtcStartTime": "2025/01/03 16:00:00",
-                    "UtcExpireTime": "2025/01/13 03:59:59",
+                    "Tip": "Sidestory「태양을 뿌리쳐라」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2025/01/16 16:00:00",
+                    "UtcExpireTime": "2025/02/06 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "SL-8",
-                "Value": "SL-8",
-                "Drop": "30083",
+                "Display": "AS-9",
+                "Value": "AS-9",
+                "Drop": "31083",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory「화산의 꿈 여행」재개방",
-                    "StageName": "SL",
-                    "UtcStartTime": "2025/01/03 16:00:00",
-                    "UtcExpireTime": "2025/01/13 03:59:59",
+                    "Tip": "Sidestory「태양을 뿌리쳐라」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2025/01/16 16:00:00",
+                    "UtcExpireTime": "2025/02/06 03:59:59",
                     "TimeZone": 9
                 }
             }

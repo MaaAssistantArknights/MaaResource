@@ -1,12 +1,8 @@
 {
-    "Sami@Roguelike@StageEnterBattleAgain": {
-        "specificRect": [1180, 460, 30, 20]
+    "AS-OpenOcr": {
+        "text": ["태양을", "뿌리쳐라", "이벤트", "개방중"]
     },
-    "SL-Open": {
-        "text": ["화산의꿈여행", "이벤트", "개방중"],
-        "roi": [0, 500, 500, 150]
-    },
-    "SLChapterToSL": {
-        "text": ["온천", "휴가"]
+    "ASChapterToAS": {
+        "text": ["시민", "정원"]
     }
 }
