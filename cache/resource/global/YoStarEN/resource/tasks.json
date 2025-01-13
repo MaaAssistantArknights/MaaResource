@@ -1,11 +1,22 @@
 {
-    "SL-Open":{
-        "baseTask": "SS-Open",
-        "template": ["StageSideStory.png", "StageActivity.png"],
-        "next": ["SLChapterToSL"]
+    "AS-OpenOcr": {
+        "text": [
+            "Adventure",
+            "Cannot",
+            "Wait",
+            "Sun",
+            "Harvest",
+            "Gathering",
+            "Treasure",
+            "House"
+        ]
     },
-    "SLChapterToSL": {
-        "text": ["A HOLIDAY", "AT THE HOT SPRINGS"],
-        "roi": [1046, 465, 198, 61]
+    "ASChapterToAS": {
+        "text": [
+            "Citizen",
+            "CITIZEN",
+            "Garden",
+            "GARDEN"
+        ]
     }
 }
