@@ -78,119 +78,54 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-HE",
-                "Value": "SSReopen-HE",
-                "Drop": "復刻代理1~8",
+                "Display": "AS-6",
+                "Value": "AS-6",
+                "Drop": "初級糖原、初級源岩（合成玉効率34%）",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「空想の花庭」復刻",
-                    "StageName": "HE",
-                    "UtcStartTime": "2024/12/24 16:00:00",
-                    "UtcExpireTime": "2025/01/03 03:59:59",
+                    "Tip": "サイドストーリー「太陽すらも追い越して」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2025/01/16 16:00:00",
+                    "UtcExpireTime": "2025/02/06 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "HE-6",
-                "Value": "HE-6",
-                "Drop": "30013",
+                "Display": "AS-7",
+                "Value": "AS-7",
+                "Drop": "30043",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「空想の花庭」復刻",
-                    "StageName": "HE",
-                    "UtcStartTime": "2024/12/24 16:00:00",
-                    "UtcExpireTime": "2025/01/03 03:59:59",
+                    "Tip": "サイドストーリー「太陽すらも追い越して」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2025/01/16 16:00:00",
+                    "UtcExpireTime": "2025/02/06 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "HE-7",
-                "Value": "HE-7",
-                "Drop": "31013",
+                "Display": "AS-8",
+                "Value": "AS-8",
+                "Drop": "30093",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「空想の花庭」復刻",
-                    "StageName": "HE",
-                    "UtcStartTime": "2024/12/24 16:00:00",
-                    "UtcExpireTime": "2025/01/03 03:59:59",
+                    "Tip": "サイドストーリー「太陽すらも追い越して」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2025/01/16 16:00:00",
+                    "UtcExpireTime": "2025/02/06 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "HE-8",
-                "Value": "HE-8",
-                "Drop": "30103",
+                "Display": "AS-9",
+                "Value": "AS-9",
+                "Drop": "31083",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「空想の花庭」復刻",
-                    "StageName": "HE",
-                    "UtcStartTime": "2024/12/24 16:00:00",
-                    "UtcExpireTime": "2025/01/03 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "HE-5",
-                "Value": "HE-5",
-                "Drop": "初級装置、初級糖原（合成玉効率24%）",
-                "MinimumRequired": "v5.5.0",
-                "Activity": {
-                    "Tip": "サイドストーリー「空想の花庭」復刻",
-                    "StageName": "HE",
-                    "UtcStartTime": "2024/12/24 16:00:00",
-                    "UtcExpireTime": "2025/01/03 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "SSReopen-SL",
-                "Value": "SSReopen-SL",
-                "Drop": "復刻代理1~8",
-                "MinimumRequired": "v5.5.0",
-                "Activity": {
-                    "Tip": "サイドストーリー「火山と雲と夢色の旅路」復刻",
-                    "StageName": "SL",
-                    "UtcStartTime": "2025/01/03 16:00:00",
-                    "UtcExpireTime": "2025/01/13 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "SL-6",
-                "Value": "SL-6",
-                "Drop": "30053",
-                "MinimumRequired": "v5.5.0",
-                "Activity": {
-                    "Tip": "サイドストーリー「火山と雲と夢色の旅路」復刻",
-                    "StageName": "SL",
-                    "UtcStartTime": "2025/01/03 16:00:00",
-                    "UtcExpireTime": "2025/01/13 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "SL-7",
-                "Value": "SL-7",
-                "Drop": "31033",
-                "MinimumRequired": "v5.5.0",
-                "Activity": {
-                    "Tip": "サイドストーリー「火山と雲と夢色の旅路」復刻",
-                    "StageName": "SL",
-                    "UtcStartTime": "2025/01/03 16:00:00",
-                    "UtcExpireTime": "2025/01/13 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "SL-8",
-                "Value": "SL-8",
-                "Drop": "30083",
-                "MinimumRequired": "v5.5.0",
-                "Activity": {
-                    "Tip": "サイドストーリー「火山と雲と夢色の旅路」復刻",
-                    "StageName": "SL",
-                    "UtcStartTime": "2025/01/03 16:00:00",
-                    "UtcExpireTime": "2025/01/13 03:59:59",
+                    "Tip": "サイドストーリー「太陽すらも追い越して」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2025/01/16 16:00:00",
+                    "UtcExpireTime": "2025/02/06 03:59:59",
                     "TimeZone": 9
                 }
             }
