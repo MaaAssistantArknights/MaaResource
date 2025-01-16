@@ -24,7 +24,12 @@ jobs:
               cd ../
               rm -rf ${{ github.event.repository.name }}.zip
               zip -r ${{ github.event.repository.name }}.zip ${{ github.event.repository.name }} -x ".git/*" ".github/*"
-
+          
+          - uses: actions/upload-artifact@v4
+            with:
+                name: MirrorChyanPackage
+                path: "../${{ github.event.repository.name }}.zip"
+                
           - name: Upload to MirrorChyan
             run: |
               cd ../
