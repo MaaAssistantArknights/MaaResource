@@ -1,4 +1,4 @@
-name: build
+name: mirrorchyan
 
 on:
     push:
@@ -7,7 +7,7 @@ on:
     workflow_dispatch:
 
 jobs:
-    upload_mirrorc:
+    upload:
         runs-on: ubuntu-latest
         steps:
           - uses: actions/checkout@v4
