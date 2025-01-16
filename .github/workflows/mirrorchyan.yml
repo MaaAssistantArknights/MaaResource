@@ -16,18 +16,16 @@ jobs:
             id: version_name
             run: |
               version=$(python .github/version.py resource/version.json)
-              echo version
               echo "version=$version" | tee -a "$GITHUB_OUTPUT"
 
           - name: Zip
             id: zip
             run: |
-              
               cd ../
               rm -rf ${{ github.event.repository.name }}.zip
               zip -r ${{ github.event.repository.name }}.zip ${{ github.event.repository.name }} -x ".git/*" ".github/*"
 
-          - name: Upload
+          - name: Upload to MirrorChyan
             run: |
               cd ../
               curl --location --request POST 'https://mirrorc.top/api/resources/${{ github.event.repository.name }}/versions' \
