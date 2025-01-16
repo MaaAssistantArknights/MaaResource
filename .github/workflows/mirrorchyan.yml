@@ -1,0 +1,19 @@
+name: build
+
+on:
+    push:
+        branches:
+            - "main"
+    workflow_dispatch:
+
+jobs:
+    upload_mirrorc:
+        runs-on: ubuntu-latest
+        steps:
+          - uses: actions/checkout@v4
+          - name: Zip
+            run: |
+              cd ../
+              rm -rf MaaResource.zip
+              zip -r MaaResource.zip MaaResource -x ".git/*" ".github/*"
+              
