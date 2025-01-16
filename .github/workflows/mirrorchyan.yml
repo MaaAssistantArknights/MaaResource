@@ -32,4 +32,4 @@ jobs:
               curl --location --request POST '/resources/${{ github.event.repository.name }}/versions' \
                 --header 'Authorization:1;' \
                 --form 'name="${{ steps.version_name.version }}"' \
-                --form 'file=@./${{ github.event.repository.name }}.zip""'
+                --form 'file=@"./${{ github.event.repository.name }}.zip"'
