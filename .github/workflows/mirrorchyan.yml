@@ -29,7 +29,7 @@ jobs:
 
           - name: Upload
             run: |
-              ls
+              cd ../
               curl --location --request POST '/resources/${{ github.event.repository.name }}/versions' \
                 --header 'Authorization:1;' \
                 --form 'name="${{ steps.version_name.version }}"' \
