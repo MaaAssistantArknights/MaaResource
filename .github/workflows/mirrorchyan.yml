@@ -11,9 +11,25 @@ jobs:
         runs-on: ubuntu-latest
         steps:
           - uses: actions/checkout@v4
-          - name: Zip
+
+          - name: Version Name
+            id: version_name
             run: |
-              cd ../
-              rm -rf MaaResource.zip
-              zip -r MaaResource.zip MaaResource -x ".git/*" ".github/*"
+              version=`python .github/version.py`
+              echo version
+              echo "version=$version" | tee -a "$GITHUB_OUTPUT"
+
+          - name: Zip
+            id: zip
+            run: |
               
+              cd ../
+              rm -rf ${{ github.event.repository.name }}.zip
+              zip -r ${{ github.event.repository.name }}.zip ${{ github.event.repository.name }} -x ".git/*" ".github/*"
+
+          - name: Upload
+            run: |
+              curl --location --request POST '/resources/${{ github.event.repository.name }}/versions' \
+                --header 'Authorization:1;' \
+                --form 'name="${{ steps.version_name.version }}"' \
+                --form 'file=@./${{ github.event.repository.name }}.zip""'
