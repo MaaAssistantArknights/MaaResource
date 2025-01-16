@@ -32,6 +32,6 @@ jobs:
       - name: Upload to MirrorChyan
         run: |
           curl --location --request POST 'https://mirrorc.top/api/resources/${{ github.event.repository.name }}/versions' \
-            --header 'Authorization:${{ ${{ secrets.MirrorChyanUploadToken }}}}' \
+            --header 'Authorization:${{ secrets.MirrorChyanUploadToken }}' \
             --form 'name="${{ steps.version_name.outputs.version }}"' \
             --form 'file=@"MirrorChyan/${{ github.event.repository.name }}.zip"'
