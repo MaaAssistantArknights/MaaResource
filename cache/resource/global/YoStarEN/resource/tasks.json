@@ -1,4 +1,20 @@
 {
+    "OrundumActivities": {
+        "text": [
+            "Lucky Strips",
+            "Wishing Wall",
+            "Bazaar"
+        ]
+    },
+    "OrundumActivitiesChoose": {
+        "text": [
+            "Choose",
+            "spot",
+            "Please select",
+            "Wishing",
+            "Tickets"
+        ]
+    },
     "AS-OpenOcr": {
         "text": [
             "Adventure",
