@@ -9,7 +9,8 @@
             "Gathering",
             "Treasure",
             "House"
-        ]
+        ],
+        "roi": [0, 500, 500, 150]
     },
     "ASChapterToAS": {
         "text": [
