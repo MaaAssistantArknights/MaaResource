@@ -32,5 +32,5 @@ jobs:
               cd ../
               curl --location --request POST 'https://mirrorc.top/api/resources/${{ github.event.repository.name }}/versions' \
                 --header 'Authorization:1;' \
-                --form 'name="${{ steps.version_name.version }}"' \
+                --form 'name="${{ steps.version_name.outputs.version }}"' \
                 --form 'file=@"./${{ github.event.repository.name }}.zip"'
