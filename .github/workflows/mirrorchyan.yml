@@ -32,4 +32,4 @@ jobs:
                 --header 'Authorization:1' \
                 --header 'Content-Type:application/zip' \
                 --form 'name="${{ steps.version_name.outputs.version }}"' \
-                --form 'file=@"${{ github.event.repository.name }}.zip"'
+                --form 'file=@${{ github.event.repository.name }}.zip'
