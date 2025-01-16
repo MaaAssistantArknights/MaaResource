@@ -24,15 +24,16 @@ jobs:
               cd ../
               rm -rf ${{ github.event.repository.name }}.zip
               zip -r ${{ github.event.repository.name }}.zip ${{ github.event.repository.name }} -x ".git/*" ".github/*"
+              mkdir ${{ github.event.repository.name }}/MirrorChyan
+              mv ${{ github.event.repository.name }}.zip ${{ github.event.repository.name }}/MirrorChyan
           
           - uses: actions/upload-artifact@v4
             with:
-                name: MirrorChyanPackage
-                path: "../${{ github.event.repository.name }}.zip"
+                name: MirrorChyan
+                path: MirrorChyan
                 
           - name: Upload to MirrorChyan
             run: |
-              cd ../
               curl --location --request POST 'https://mirrorc.top/api/resources/${{ github.event.repository.name }}/versions' \
                 --header 'Authorization:1' \
                 --form 'name="${{ steps.version_name.outputs.version }}"' \
