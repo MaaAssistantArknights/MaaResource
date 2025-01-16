@@ -27,8 +27,6 @@ jobs:
               rm -rf ${{ github.event.repository.name }}.zip
               zip -r ${{ github.event.repository.name }}.zip ${{ github.event.repository.name }} -x ".git/*" ".github/*"
 
-          - name: Upload
-            run: |
               curl --location --request POST '/resources/${{ github.event.repository.name }}/versions' \
                 --header 'Authorization:1;' \
                 --form 'name="${{ steps.version_name.version }}"' \
