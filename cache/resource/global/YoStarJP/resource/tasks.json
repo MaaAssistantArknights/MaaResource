@@ -5,7 +5,15 @@
     "EnterChapterDifficultyNormal": {
         "text": ["作戦へ"]
     },
+    "OrundumActivities": {
+        "doc": "幸运墙领合成玉",
+        "text": ["開運", "おみくじ", "バザール", "スクラッチ"]
+    },
+    "OrundumActivitiesChoose": {
+        "text": ["開運くじ", "おみくじ", "を選択"]
+    },
     "AS-OpenOcr": {
+        "roi": [0, 500, 500, 150],
         "text": [
             "太陽すらも追い越して",
             "太陽",
