@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - "main"
+    paths:
+      - ".github/workflows/mirrorchyan.yml"
+      - ".github/version.py"
+      - "resource/**"
   workflow_dispatch:
 
 jobs:
@@ -22,7 +26,7 @@ jobs:
         id: zip
         run: |
           mkdir MirrorChyan
-          zip -r MirrorChyan/${{ github.event.repository.name }}.zip resource cache
+          zip -r MirrorChyan/${{ github.event.repository.name }}.zip resource
 
       - uses: actions/upload-artifact@v4
         with:
