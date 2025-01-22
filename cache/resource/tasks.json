@@ -1,35 +1,56 @@
 {
-    "Award": {
-        "templThreshold": 0.8
-    },
-    "Sarkaz@Roguelike@StageTraderEnter": {
-        "method": "HSVCount",
-        "colorScales": [
-            [
-                [71, 150, 40],
-                [73, 180, 150]
-            ]
-        ],
-        "next": [
-            "Sarkaz@Roguelike@StageTraderEnter-CloseCollectionClose",
-            "Sarkaz@Roguelike@StageTraderEnter-CloseCollectionContinue",
-            "Sarkaz@Roguelike@StageVerticalConfirmTrader",
-            "Sarkaz@Roguelike@StageTraderEnter",
-            "Sarkaz@Roguelike@StageTraderRefreshWithDice",
-            "Sarkaz@Roguelike@StageTraderInvestSystem",
-            "Sarkaz@Roguelike@TraderRandomShopping",
-            "Sarkaz@Roguelike@StageTraderLeave",
-            "Sarkaz@Roguelike@StageTraderLeaveConfirm"
-        ]
-    },
-    "Sarkaz@Roguelike@StageTraderEnter-CloseCollectionClose": {
-        "template": "Sarkaz@Roguelike@CloseCollectionClose.png",
-        "baseTask": "Sarkaz@Roguelike@CloseCollectionClose",
-        "next": ["Sarkaz@Roguelike@StageTraderEnter#next"]
-    },
-    "Sarkaz@Roguelike@StageTraderEnter-CloseCollectionContinue": {
-        "template": "Sarkaz@Roguelike@CloseCollectionContinue.png",
-        "baseTask": "Sarkaz@Roguelike@CloseCollectionContinue",
-        "next": ["Sarkaz@Roguelike@StageTraderEnter#next"]
-    }
+  "OR-9": {
+    "algorithm": "JustReturn",
+    "sub": ["OR-OpenOpt"],
+    "next": ["OR-9@SideStoryStage", "OR-9@SwipeToStage"]
+  },
+  "OR-9@SideStoryStage": {
+    "text": ["OR-9"]
+  },
+  "OR-8": {
+    "algorithm": "JustReturn",
+    "sub": ["OR-OpenOpt"],
+    "next": ["OR-8@SideStoryStage", "OR-8@SwipeToStage"]
+  },
+  "OR-8@SideStoryStage": {
+    "text": ["OR-8"]
+  },
+  "OR-7": {
+    "algorithm": "JustReturn",
+    "sub": ["OR-OpenOpt"],
+    "next": ["OR-7@SideStoryStage", "OR-7@SwipeToStage"]
+  },
+  "OR-7@SideStoryStage": {
+    "text": ["OR-7"]
+  },
+  "OR-4": {
+    "algorithm": "JustReturn",
+    "sub": ["OR-OpenOpt"],
+    "next": ["OR-4@SideStoryStage", "OR-4@SwipeToStage"]
+  },
+  "OR-4@SideStoryStage": {
+    "text": ["OR-4"]
+  },
+  "OR-OpenOpt": {
+    "algorithm": "JustReturn",
+    "next": ["OR-OpenOcr", "OR-Open"]
+  },
+  "OR-Open": {
+    "baseTask": "SS-Open",
+    "template": "StageSideStory.png",
+    "next": ["ORChapterToOR"]
+  },
+  "OR-OpenOcr": {
+    "baseTask": "SS-OpenOcr",
+    "text": ["相见欢", "阅世情", "怅别离"],
+    "next": ["ORChapterToOR"]
+  },
+  "ORChapterToOR": {
+    "algorithm": "OcrDetect",
+    "action": "ClickSelf",
+    "text": ["识七味", "识七", "七味"],
+    "preDelay": 3000,
+    "roi": [786, 478, 201, 144],
+    "next": ["#self", "ChapterSwipeToTheRight"]
+  }
 }

@@ -2,67 +2,54 @@
     "Official": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-RS",
-                "Value": "SSReopen-RS",
-                "Drop": "代理1~8",
+                "Display": "OR-9",
+                "Value": "OR-9",
+                "Drop": "31063",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「银心湖列车」复刻",
-                    "StageName": "「银心湖列车」复刻",
-                    "UtcStartTime": "2024/12/19 16:00:00",
-                    "UtcExpireTime": "2024/12/29 03:59:59",
+                    "Tip": "SideStory「相见欢」",
+                    "StageName": "相见欢",
+                    "UtcStartTime": "2025/01/22 12:00:00",
+                    "UtcExpireTime": "2025/02/12 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "RS-6",
-                "Value": "RS-6",
-                "Drop": "30033",
+                "Display": "OR-8",
+                "Value": "OR-8",
+                "Drop": "31023",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「银心湖列车」复刻",
-                    "StageName": "「银心湖列车」复刻",
-                    "UtcStartTime": "2024/12/19 16:00:00",
-                    "UtcExpireTime": "2024/12/29 03:59:59",
+                    "Tip": "SideStory「相见欢」",
+                    "StageName": "相见欢",
+                    "UtcStartTime": "2025/01/22 12:00:00",
+                    "UtcExpireTime": "2025/02/12 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "RS-7",
-                "Value": "RS-7",
-                "Drop": "30083",
+                "Display": "OR-7",
+                "Value": "OR-7",
+                "Drop": "30063",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「银心湖列车」复刻",
-                    "StageName": "「银心湖列车」复刻",
-                    "UtcStartTime": "2024/12/19 16:00:00",
-                    "UtcExpireTime": "2024/12/29 03:59:59",
+                    "Tip": "SideStory「相见欢」",
+                    "StageName": "相见欢",
+                    "UtcStartTime": "2025/01/22 12:00:00",
+                    "UtcExpireTime": "2025/02/12 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "RS-8",
-                "Value": "RS-8",
-                "Drop": "晶体元件 杂鱼❤",
+                "Display": "OR-4",
+                "Value": "OR-4",
+                "Drop": "搓玉效率待定",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「银心湖列车」复刻",
-                    "StageName": "「银心湖列车」复刻",
-                    "UtcStartTime": "2024/12/19 16:00:00",
-                    "UtcExpireTime": "2024/12/29 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "RS-5",
-                "Value": "RS-5",
-                "Drop": "每理智产0.7玉",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "SideStory「银心湖列车」复刻",
-                    "StageName": "「银心湖列车」复刻",
-                    "UtcStartTime": "2024/12/19 16:00:00",
-                    "UtcExpireTime": "2024/12/29 03:59:59",
+                    "Tip": "SideStory「相见欢」",
+                    "StageName": "相见欢",
+                    "UtcStartTime": "2025/01/22 12:00:00",
+                    "UtcExpireTime": "2025/02/12 03:59:59",
                     "TimeZone": 8
                 }
             }
