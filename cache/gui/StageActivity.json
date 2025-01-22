@@ -41,9 +41,22 @@
                 }
             },
             {
+                "Display": "OR-5",
+                "Value": "OR-5",
+                "Drop": "每理智约0.56玉",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory「相见欢」",
+                    "StageName": "相见欢",
+                    "UtcStartTime": "2025/01/22 12:00:00",
+                    "UtcExpireTime": "2025/02/12 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
                 "Display": "OR-4",
                 "Value": "OR-4",
-                "Drop": "搓玉效率待定",
+                "Drop": "每理智约0.35玉",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
                     "Tip": "SideStory「相见欢」",
