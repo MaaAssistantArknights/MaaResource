@@ -1,4 +1,10 @@
 {
+  "InfrastConfirmButton": {
+    "specificRect": [1108, 667, 22, 22]
+  },
+  "InfrastDormConfirmButton": {
+    "specificRect": [1108, 667, 22, 22]
+  },
   "OR-9": {
     "algorithm": "JustReturn",
     "sub": ["OR-OpenOpt"],
