@@ -1,4 +1,10 @@
 {
+  "InfrastBottomLeftTab": {
+    "specificRect": [0, 719, 1, 1]
+  },
+  "InfrastOffice": {
+    "templThreshold": 0.9
+  },
   "InfrastConfirmButton": {
     "specificRect": [1108, 667, 22, 22]
   },
