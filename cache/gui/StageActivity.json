@@ -275,7 +275,7 @@
                     "Tip": "SideStory「懷黍離」",
                     "StageName": "HS",
                     "UtcStartTime": "2025/01/20 16:00:00",
-                    "UtcExpireTime": "2025/02/17 03:59:59",
+                    "UtcExpireTime": "2025/02/10 03:59:59",
                     "TimeZone": 8
                 }
             },
@@ -288,7 +288,7 @@
                     "Tip": "SideStory「懷黍離」",
                     "StageName": "HS",
                     "UtcStartTime": "2025/01/20 16:00:00",
-                    "UtcExpireTime": "2025/02/17 03:59:59",
+                    "UtcExpireTime": "2025/02/10 03:59:59",
                     "TimeZone": 8
                 }
             },
@@ -301,7 +301,20 @@
                     "Tip": "SideStory「懷黍離」",
                     "StageName": "HS",
                     "UtcStartTime": "2025/01/20 16:00:00",
-                    "UtcExpireTime": "2025/02/17 03:59:59",
+                    "UtcExpireTime": "2025/02/10 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "HS-5",
+                "Value": "HS-5",
+                "Drop": "固源岩、糖（搓玉效率0.3）",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory「懷黍離」",
+                    "StageName": "HS",
+                    "UtcStartTime": "2025/01/20 16:00:00",
+                    "UtcExpireTime": "2025/02/10 03:59:59",
                     "TimeZone": 8
                 }
             }

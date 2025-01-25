@@ -1,8 +1,9 @@
 {
-    "OD-OpenOcr": {
-        "text": ["源石塵行動", "源石", "石塵", "塵行"]
+    "HS-OpenOcr": {
+        "text": ["懷黍離", "荒城", "核心"],
+        "ocrReplace": [["懷.*離", "懷黍離"]]
     },
-    "ODChapterToOD": {
-        "text": ["行動記錄", "行動", "動記", "記錄"]
+    "HSChapterToHS": {
+        "text": ["種植", "地塊"]
     }
 }
