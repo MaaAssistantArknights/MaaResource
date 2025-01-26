@@ -72,5 +72,15 @@
     "preDelay": 3000,
     "roi": [786, 478, 201, 144],
     "next": ["#self", "ChapterSwipeToTheRight"]
+  },
+  "ClueGiveToNextPage": {
+    "maxTimes": 5,
+    "exceededNext": [
+        "ClueGiveTo1st",
+        "ClueGiveTo2nd",
+        "ClueGiveTo3rd",
+        "ClueGiveTo4th",
+        "ClueGiveTo1stConfirm"
+    ]
   }
 }
