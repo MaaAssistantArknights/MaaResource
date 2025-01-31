@@ -6,7 +6,7 @@ on:
       - "main"
     paths:
       - ".github/workflows/mirrorchyan.yml"
-      - "cache/**"
+      - ".github/version.py"
       - "resource/**"
   workflow_dispatch:
 
@@ -19,15 +19,14 @@ jobs:
       - name: Version Name
         id: version_name
         run: |
-          version=$(date "+%Y-%m-%d %H:%M:%S")
-          echo $version > MirrorChyanResourceVersion
+          version=$(python .github/version.py resource/version.json)
           echo "version=$version" | tee -a "$GITHUB_OUTPUT"
 
       - name: Zip
         id: zip
         run: |
           mkdir MirrorChyan
-          zip -r MirrorChyan/${{ github.event.repository.name }}.zip resource cache MirrorChyanResourceVersion
+          zip -r MirrorChyan/${{ github.event.repository.name }}.zip resource
 
       - uses: actions/upload-artifact@v4
         with:
