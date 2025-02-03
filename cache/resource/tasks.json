@@ -1,10 +1,4 @@
 {
-  "InfrastBottomLeftTab": {
-    "specificRect": [0, 719, 1, 1]
-  },
-  "InfrastOffice": {
-    "templThreshold": 0.9
-  },
   "InfrastConfirmButton": {
     "specificRect": [1108, 667, 22, 22]
   },
@@ -73,14 +67,7 @@
     "roi": [786, 478, 201, 144],
     "next": ["#self", "ChapterSwipeToTheRight"]
   },
-  "ClueGiveToNextPage": {
-    "maxTimes": 5,
-    "exceededNext": [
-        "ClueGiveTo1st",
-        "ClueGiveTo2nd",
-        "ClueGiveTo3rd",
-        "ClueGiveTo4th",
-        "ClueGiveTo1stConfirm"
-    ]
+  "BattleStartPre@BattleQuickFormation": {
+    "action": "DoNothing"
   }
 }
