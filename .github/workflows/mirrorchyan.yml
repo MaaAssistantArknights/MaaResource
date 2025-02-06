@@ -6,7 +6,6 @@ on:
       - "main"
     paths:
       - ".github/workflows/mirrorchyan.yml"
-      - ".github/version.py"
       - "resource/**"
   workflow_dispatch:
 
@@ -19,7 +18,7 @@ jobs:
       - name: Version Name
         id: version_name
         run: |
-          version=$(python .github/version.py resource/version.json)
+          version=$(cat resource/version.json | jq -r .last_updated)
           echo "version=$version" | tee -a "$GITHUB_OUTPUT"
 
       - name: Zip
@@ -28,14 +27,10 @@ jobs:
           mkdir MirrorChyan
           zip -r MirrorChyan/${{ github.event.repository.name }}.zip resource
 
-      - uses: actions/upload-artifact@v4
+      - uses: MirrorChyan/uploading-action@v1
         with:
-          name: MirrorChyan
-          path: MirrorChyan
-
-      - name: Upload to MirrorChyan
-        run: |
-          curl --location --request POST 'https://mirrorc.top/api/resources/${{ github.event.repository.name }}/versions' \
-            --header 'Authorization:${{ secrets.MirrorChyanUploadToken }}' \
-            --form 'name="${{ steps.version_name.outputs.version }}"' \
-            --form 'file=@"MirrorChyan/${{ github.event.repository.name }}.zip"'
+          filetype: local
+          filename: "MirrorChyan/${{ github.event.repository.name }}.zip"
+          version_name: ${{ steps.version_name.outputs.version }}
+          mirrorchyan_rid: ${{ github.event.repository.name }}
+          upload_token: ${{ secrets.MirrorChyanUploadToken }}
