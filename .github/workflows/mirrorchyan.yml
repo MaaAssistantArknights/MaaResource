@@ -32,5 +32,5 @@ jobs:
           filetype: local
           filename: "MirrorChyan/${{ github.event.repository.name }}.zip"
           version_name: ${{ steps.version_name.outputs.version }}
-          mirrorchyan_rid: ${{ github.event.repository.name }}
+          mirrorchyan_rid: MaaResource
           upload_token: ${{ secrets.MirrorChyanUploadToken }}
