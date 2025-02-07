@@ -21,16 +21,10 @@ jobs:
           version=$(cat resource/version.json | jq -r .last_updated)
           echo "version=$version" | tee -a "$GITHUB_OUTPUT"
 
-      - name: Zip
-        id: zip
-        run: |
-          mkdir MirrorChyan
-          zip -r MirrorChyan/${{ github.event.repository.name }}.zip resource
-
       - uses: MirrorChyan/uploading-action@v1
         with:
           filetype: local
-          filename: "MirrorChyan/${{ github.event.repository.name }}.zip"
-          version_name: ${{ steps.version_name.outputs.version }}
           mirrorchyan_rid: MaaResource
+          pick_files: '["resource"]'
+          version_name: ${{ steps.version_name.outputs.version }}
           upload_token: ${{ secrets.MirrorChyanUploadToken }}
