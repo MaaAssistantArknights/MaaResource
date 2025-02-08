@@ -10,51 +10,11 @@
     "OrundumActivitiesConfirm": {
         "text": ["뽑기"]
     },
-    "KR-8": {
-        "algorithm": "JustReturn",
-        "sub": ["KR-OpenOpt"],
-        "next": ["KR-8@SideStoryStage", "KR-8@SwipeToStage"]
+    "AS-OpenOcr": {
+        "text": ["태양을", "뿌리쳐라", "이벤트", "개방중"],
+        "roi": [0, 500, 500, 150]
     },
-    "KR-8@SideStoryStage": {
-        "text": ["KR-8"]
-    },
-    "KR-7": {
-        "algorithm": "JustReturn",
-        "sub": ["KR-OpenOpt"],
-        "next": ["KR-7@SideStoryStage", "KR-7@SwipeToStage"]
-    },
-    "KR-7@SideStoryStage": {
-        "text": ["KR-7"]
-    },
-    "KR-4": {
-        "algorithm": "JustReturn",
-        "sub": ["KR-OpenOpt"],
-        "next": ["KR-4@SideStoryStage", "KR-4@SwipeToStage"]
-    },
-    "KR-4@SideStoryStage": {
-        "text": ["KR-4"]
-    },
-    "KR-OpenOpt": {
-        "algorithm": "JustReturn",
-        "next": ["KR-OpenOcr", "KR-Open"]
-    },
-    "KR-Open": {
-        "baseTask": "SS-Open",
-        "template": "StageSideStory.png",
-        "next": ["KRChapterToKR"]
-    },
-    "KR-OpenOcr": {
-        "algorithm": "OcrDetect",
-        "baseTask": "SS-OpenOcr",
-        "text": ["카즈델리안", "레스큐", "이벤트", "개방"],
-        "next": ["KRChapterToKR"]
-    },
-    "KRChapterToKR": {
-        "algorithm": "OcrDetect",
-        "action": "ClickSelf",
-        "text": ["용광로", "오르기"],
-        "preDelay": 3000,
-        "roi": [786, 478, 201, 144],
-        "next": ["#self", "ChapterSwipeToTheRight"]
+    "ASChapterToAS": {
+        "text": ["시민", "정원"]
     }
 }

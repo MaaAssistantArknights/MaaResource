@@ -141,15 +141,54 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "KR-8",
-                "Value": "KR-8",
-                "Drop": "30063",
+                "Display": "AS-6",
+                "Value": "AS-6",
+                "Drop": "포도당, 원암 (합성옥 효율 34%)",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory「카즈델리안 레스큐」",
-                    "StageName": "KR",
+                    "Tip": "Sidestory「태양을 뿌리쳐라」",
+                    "StageName": "AS",
                     "UtcStartTime": "2025/01/16 16:00:00",
-                    "UtcExpireTime": "2025/04/06 03:59:59",
+                    "UtcExpireTime": "2025/02/06 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "AS-7",
+                "Value": "AS-7",
+                "Drop": "30043",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "Sidestory「태양을 뿌리쳐라」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2025/01/16 16:00:00",
+                    "UtcExpireTime": "2025/02/06 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "AS-8",
+                "Value": "AS-8",
+                "Drop": "30093",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "Sidestory「태양을 뿌리쳐라」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2025/01/16 16:00:00",
+                    "UtcExpireTime": "2025/02/06 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "AS-9",
+                "Value": "AS-9",
+                "Drop": "31083",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "Sidestory「태양을 뿌리쳐라」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2025/01/16 16:00:00",
+                    "UtcExpireTime": "2025/02/06 03:59:59",
                     "TimeZone": 9
                 }
             }
