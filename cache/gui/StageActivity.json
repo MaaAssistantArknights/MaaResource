@@ -65,54 +65,67 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
-                "Display": "AS-7",
-                "Value": "AS-7",
-                "Drop": "30043",
+                "Display": "SSReopen-CV",
+                "Value": "SSReopen-CV",
+                "Drop": "復刻代理1~8",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「太陽すらも追い越して」",
-                    "StageName": "AS",
-                    "UtcStartTime": "2025/01/16 16:00:00",
-                    "UtcExpireTime": "2025/02/06 03:59:59",
+                    "Tip": "サイドストーリー「ダーティマネー」復刻",
+                    "StageName": "CV",
+                    "UtcStartTime": "2025/02/28 16:00:00",
+                    "UtcExpireTime": "2025/03/10 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "AS-8",
-                "Value": "AS-8",
+                "Display": "CV-4",
+                "Value": "CV-4",
+                "Drop": "合成玉効率69%",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "サイドストーリー「ダーティマネー」復刻",
+                    "StageName": "CV",
+                    "UtcStartTime": "2025/02/28 16:00:00",
+                    "UtcExpireTime": "2025/03/10 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "CV-6",
+                "Value": "CV-6",
+                "Drop": "30023",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "サイドストーリー「ダーティマネー」復刻",
+                    "StageName": "CV",
+                    "UtcStartTime": "2025/02/28 16:00:00",
+                    "UtcExpireTime": "2025/03/10 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "CV-7",
+                "Value": "CV-7",
                 "Drop": "30093",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「太陽すらも追い越して」",
-                    "StageName": "AS",
-                    "UtcStartTime": "2025/01/16 16:00:00",
-                    "UtcExpireTime": "2025/02/06 03:59:59",
+                    "Tip": "サイドストーリー「ダーティマネー」復刻",
+                    "StageName": "CV",
+                    "UtcStartTime": "2025/02/28 16:00:00",
+                    "UtcExpireTime": "2025/03/10 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "AS-9",
-                "Value": "AS-9",
-                "Drop": "31083",
+                "Display": "CV-8",
+                "Value": "CV-8",
+                "Drop": "31063",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「太陽すらも追い越して」",
-                    "StageName": "AS",
-                    "UtcStartTime": "2025/01/16 16:00:00",
-                    "UtcExpireTime": "2025/02/06 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "AS-6",
-                "Value": "AS-6",
-                "Drop": "初級糖原、初級源岩（合成玉効率34%）",
-                "MinimumRequired": "v5.5.0",
-                "Activity": {
-                    "Tip": "サイドストーリー「太陽すらも追い越して」",
-                    "StageName": "AS",
-                    "UtcStartTime": "2025/01/16 16:00:00",
-                    "UtcExpireTime": "2025/02/06 03:59:59",
+                    "Tip": "サイドストーリー「ダーティマネー」復刻",
+                    "StageName": "CV",
+                    "UtcStartTime": "2025/02/28 16:00:00",
+                    "UtcExpireTime": "2025/03/10 03:59:59",
                     "TimeZone": 9
                 }
             }
@@ -128,54 +141,67 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "AS-6",
-                "Value": "AS-6",
-                "Drop": "포도당, 원암 (합성옥 효율 34%)",
+                "Display": "SSReopen-CV",
+                "Value": "SSReopen-CV",
+                "Drop": "복각대리 1~8",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory「태양을 뿌리쳐라」",
-                    "StageName": "AS",
-                    "UtcStartTime": "2025/01/16 16:00:00",
-                    "UtcExpireTime": "2025/02/06 03:59:59",
+                    "Tip": "SideStory「부정축재」재개방",
+                    "StageName": "CV",
+                    "UtcStartTime": "2025/02/28 16:00:00",
+                    "UtcExpireTime": "2025/03/10 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "AS-7",
-                "Value": "AS-7",
-                "Drop": "30043",
+                "Display": "CV-4",
+                "Value": "CV-4",
+                "Drop": "합성옥 효율 69%",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory「태양을 뿌리쳐라」",
-                    "StageName": "AS",
-                    "UtcStartTime": "2025/01/16 16:00:00",
-                    "UtcExpireTime": "2025/02/06 03:59:59",
+                    "Tip": "SideStory「부정축재」재개방",
+                    "StageName": "CV",
+                    "UtcStartTime": "2025/02/28 16:00:00",
+                    "UtcExpireTime": "2025/03/10 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "AS-8",
-                "Value": "AS-8",
+                "Display": "CV-6",
+                "Value": "CV-6",
+                "Drop": "30023",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "SideStory「부정축재」재개방",
+                    "StageName": "CV",
+                    "UtcStartTime": "2025/02/28 16:00:00",
+                    "UtcExpireTime": "2025/03/10 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "CV-7",
+                "Value": "CV-7",
                 "Drop": "30093",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory「태양을 뿌리쳐라」",
-                    "StageName": "AS",
-                    "UtcStartTime": "2025/01/16 16:00:00",
-                    "UtcExpireTime": "2025/02/06 03:59:59",
+                    "Tip": "SideStory「부정축재」재개방",
+                    "StageName": "CV",
+                    "UtcStartTime": "2025/02/28 16:00:00",
+                    "UtcExpireTime": "2025/03/10 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "AS-9",
-                "Value": "AS-9",
-                "Drop": "31083",
+                "Display": "CV-8",
+                "Value": "CV-8",
+                "Drop": "31063",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Sidestory「태양을 뿌리쳐라」",
-                    "StageName": "AS",
-                    "UtcStartTime": "2025/01/16 16:00:00",
-                    "UtcExpireTime": "2025/02/06 03:59:59",
+                    "Tip": "SideStory「부정축재」재개방",
+                    "StageName": "CV",
+                    "UtcStartTime": "2025/02/28 16:00:00",
+                    "UtcExpireTime": "2025/03/10 03:59:59",
                     "TimeZone": 9
                 }
             }
@@ -191,41 +217,67 @@
     "YoStarEN": {
         "sideStoryStage": [
             {
-                "Display": "AS-7",
-                "Value": "AS-7",
-                "Drop": "30043",
+                "Display": "SSReopen-CV",
+                "Value": "SSReopen-CV",
+                "Drop": "Auto Deploy 1~8",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": " Adventure That Cannot Wait for the Sun",
-                    "StageName": "AS",
-                    "UtcStartTime": "2025/01/16 10:00:00",
-                    "UtcExpireTime": "2025/02/06 03:59:59",
+                    "Tip": "Come Catastrophes or Wakes of Vultures - Rerun",
+                    "StageName": "CV",
+                    "UtcStartTime": "2025/02/28 10:00:00",
+                    "UtcExpireTime": "2025/03/10 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "AS-8",
-                "Value": "AS-8",
+                "Display": "CV-4",
+                "Value": "CV-4",
+                "Drop": "Orundum Eff. 69%",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "Come Catastrophes or Wakes of Vultures - Rerun",
+                    "StageName": "CV",
+                    "UtcStartTime": "2025/02/28 10:00:00",
+                    "UtcExpireTime": "2025/03/10 03:59:59",
+                    "TimeZone": -7
+                }
+            },
+            {
+                "Display": "CV-6",
+                "Value": "CV-6",
+                "Drop": "30023",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "Come Catastrophes or Wakes of Vultures - Rerun",
+                    "StageName": "CV",
+                    "UtcStartTime": "2025/02/28 10:00:00",
+                    "UtcExpireTime": "2025/03/10 03:59:59",
+                    "TimeZone": -7
+                }
+            },
+            {
+                "Display": "CV-7",
+                "Value": "CV-7",
                 "Drop": "30093",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": " Adventure That Cannot Wait for the Sun",
-                    "StageName": "AS",
-                    "UtcStartTime": "2025/01/16 10:00:00",
-                    "UtcExpireTime": "2025/02/06 03:59:59",
+                    "Tip": "Come Catastrophes or Wakes of Vultures - Rerun",
+                    "StageName": "CV",
+                    "UtcStartTime": "2025/02/28 10:00:00",
+                    "UtcExpireTime": "2025/03/10 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "AS-9",
-                "Value": "AS-9",
-                "Drop": "31083",
+                "Display": "CV-8",
+                "Value": "CV-8",
+                "Drop": "31063",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": " Adventure That Cannot Wait for the Sun",
-                    "StageName": "AS",
-                    "UtcStartTime": "2025/01/16 10:00:00",
-                    "UtcExpireTime": "2025/02/06 03:59:59",
+                    "Tip": "Come Catastrophes or Wakes of Vultures - Rerun",
+                    "StageName": "CV",
+                    "UtcStartTime": "2025/02/28 10:00:00",
+                    "UtcExpireTime": "2025/03/10 03:59:59",
                     "TimeZone": -7
                 }
             }
@@ -308,7 +360,7 @@
         ],
         "resourceCollection": {
             "Tip": "「資源收集」限時全天開放",
-            "UtcStartTime": "2025/02/06 16:00:00",
+            "UtcStartTime": "2025/03/10 16:00:00",
             "UtcExpireTime": "2025/02/20 03:59:59",
             "TimeZone": 8,
             "IsResourceCollection": true

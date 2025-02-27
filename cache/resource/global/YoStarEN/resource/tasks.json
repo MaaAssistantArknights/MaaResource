@@ -1,39 +1,9 @@
 {
-    "OrundumActivities": {
-        "text": [
-            "Lucky Strips",
-            "Wishing Wall",
-            "Bazaar"
-        ]
+    "CV-Open": {
+        "text": ["Catastrophes", "Vultures", "open"]
     },
-    "OrundumActivitiesChoose": {
-        "text": [
-            "Choose",
-            "spot",
-            "Please select",
-            "Wishing",
-            "Tickets"
-        ]
-    },
-    "AS-OpenOcr": {
-        "text": [
-            "Adventure",
-            "Cannot",
-            "Wait",
-            "Sun",
-            "Harvest",
-            "Gathering",
-            "Treasure",
-            "House"
-        ],
-        "roi": [0, 500, 500, 150]
-    },
-    "ASChapterToAS": {
-        "text": [
-            "Citizen",
-            "CITIZEN",
-            "Garden",
-            "GARDEN"
-        ]
+    "CVChapterToCV": {
+        "text": ["ANEMIC", "PLATFORM"],
+        "roi": [1087, 434, 128, 57]
     }
 }
