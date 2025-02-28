@@ -5,8 +5,7 @@ on:
     branches:
       - "main"
     paths:
-      - ".github/workflows/mirrorchyan.yml"
-      - "resource/**"
+      - "resource/version.json"
   workflow_dispatch:
 
 jobs:
