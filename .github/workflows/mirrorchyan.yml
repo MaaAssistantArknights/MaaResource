@@ -17,8 +17,29 @@ jobs:
       - name: Version Name
         id: version_name
         run: |
-          version=$(cat resource/version.json | jq -r .last_updated)
+          data=$(cat resource/version.json)
+          version=$(echo $data | jq -r .last_updated)
+          
+          activity_time=$(echo $data | jq -r .activity.time)
+          gacha_time=$(echo $data | jq -r .gacha.time)
+          if [ $activity_time -ge $gacha_time ]; then
+            release_note=$(echo $data | jq -r .activity.name)
+          else
+            release_note=$(echo $data | jq -r .gacha.pool)
+          fi
+          
           echo "version=$version" | tee -a "$GITHUB_OUTPUT"
+          echo "release_note=$release_note" | tee -a "$GITHUB_OUTPUT"
+
+      - uses: MirrorChyan/release-note-action@v1
+        with:
+          mirrorchyan_rid: MaaResource
+
+          version_name: ${{ steps.version_name.outputs.version }}
+          release_note: ${{ steps.version_name.outputs.release_note }}
+          
+          upload_token: ${{ secrets.MirrorChyanUploadToken }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: MirrorChyan/uploading-action@v1
         with:
