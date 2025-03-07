@@ -11,76 +11,68 @@
   "InfrastDormConfirmButton": {
     "specificRect": [1108, 667, 22, 22]
   },
-  "OR-9": {
+  "EA-8": {
     "algorithm": "JustReturn",
-    "sub": ["OR-OpenOpt"],
-    "next": ["OR-9@SideStoryStage", "OR-9@SwipeToStage"]
+    "sub": ["EA-OpenOpt"],
+    "next": ["EA-8@SideStoryStage", "EA-8@SwipeToStage"]
   },
-  "OR-9@SideStoryStage": {
-    "text": ["OR-9"]
+  "EA-8@SideStoryStage": {
+    "text": ["EA-8"]
   },
-  "OR-8": {
+  "EA-7": {
     "algorithm": "JustReturn",
-    "sub": ["OR-OpenOpt"],
-    "next": ["OR-8@SideStoryStage", "OR-8@SwipeToStage"]
+    "sub": ["EA-OpenOpt"],
+    "next": ["EA-7@SideStoryStage", "EA-7@SwipeToStage"]
   },
-  "OR-8@SideStoryStage": {
-    "text": ["OR-8"]
+  "EA-7@SideStoryStage": {
+    "text": ["EA-7"]
   },
-  "OR-7": {
+  "EA-6": {
     "algorithm": "JustReturn",
-    "sub": ["OR-OpenOpt"],
-    "next": ["OR-7@SideStoryStage", "OR-7@SwipeToStage"]
+    "sub": ["EA-OpenOpt"],
+    "next": ["EA-6@SideStoryStage", "EA-6@SwipeToStage"]
   },
-  "OR-7@SideStoryStage": {
-    "text": ["OR-7"]
+  "EA-6@SideStoryStage": {
+    "text": ["EA-6"]
   },
-  "OR-5": {
+  "EA-3": {
     "algorithm": "JustReturn",
-    "sub": ["OR-OpenOpt"],
-    "next": ["OR-5@SideStoryStage", "OR-5@SwipeToStage"]
+    "sub": ["EA-OpenOpt"],
+    "next": ["EA-3@SideStoryStage", "EA-3@SwipeToStage"]
   },
-  "OR-5@SideStoryStage": {
-    "text": ["OR-5"]
+  "EA-3@SideStoryStage": {
+    "text": ["EA-3"]
   },
-  "OR-4": {
+  "EA-OpenOpt": {
     "algorithm": "JustReturn",
-    "sub": ["OR-OpenOpt"],
-    "next": ["OR-4@SideStoryStage", "OR-4@SwipeToStage"]
+    "next": ["EA-OpenOcr", "EA-Open"]
   },
-  "OR-4@SideStoryStage": {
-    "text": ["OR-4"]
-  },
-  "OR-OpenOpt": {
-    "algorithm": "JustReturn",
-    "next": ["OR-OpenOcr", "OR-Open"]
-  },
-  "OR-Open": {
+  "EA-Open": {
     "baseTask": "SS-Open",
     "template": "StageSideStory.png",
-    "next": ["ORChapterToOR"]
+    "next": ["EAChapterToEA"]
   },
-  "OR-OpenOcr": {
+  "EA-OpenOcr": {
     "baseTask": "SS-OpenOcr",
-    "text": ["相见欢", "阅世情", "怅别离"],
-    "next": ["ORChapterToOR"]
+    "text": ["挽歌燃烧殆尽", "将熄的火"],
+    "next": ["EAChapterToEA"]
   },
-  "ORChapterToOR": {
+  "EAChapterToEA": {
     "algorithm": "OcrDetect",
     "action": "ClickSelf",
-    "text": ["识七味", "识七", "七味"],
+    "text": ["摇", "影"],
     "preDelay": 3000,
-    "roi": [786, 478, 201, 144],
+    "roi": [1097, 492, 115, 45],
     "next": ["#self", "ChapterSwipeToTheRight"]
   },
   "ClueGiveToNextPage": {
     "maxTimes": 5,
     "exceededNext": [
-        "ClueGiveTo1st",
-        "ClueGiveTo2nd",
-        "ClueGiveTo3rd",
-        "ClueGiveTo4th",
-        "ClueGiveTo1stConfirm"
+      "ClueGiveTo1st",
+      "ClueGiveTo2nd",
+      "ClueGiveTo3rd",
+      "ClueGiveTo4th",
+      "ClueGiveTo1stConfirm"
     ]
   }
 }

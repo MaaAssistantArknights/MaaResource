@@ -15,41 +15,54 @@
                 }
             },
             {
-                "Display": "HS-9",
-                "Value": "HS-9",
-                "Drop": "30103",
+                "Display": "EA-8",
+                "Value": "EA-8",
+                "Drop": "31073",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「怀黍离」复刻",
-                    "StageName": "怀黍离",
-                    "UtcStartTime": "2025/02/24 16:00:00",
-                    "UtcExpireTime": "2025/03/06 03:59:59",
+                    "Tip": "SideStory「挽歌燃烧殆尽」",
+                    "StageName": "挽歌燃烧殆尽",
+                    "UtcStartTime": "2025/03/07 12:00:00",
+                    "UtcExpireTime": "2025/03/21 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "HS-7",
-                "Value": "HS-7",
-                "Drop": "30013",
+                "Display": "EA-7",
+                "Value": "EA-7",
+                "Drop": "31043",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「怀黍离」复刻",
-                    "StageName": "怀黍离",
-                    "UtcStartTime": "2025/02/24 16:00:00",
-                    "UtcExpireTime": "2025/03/06 03:59:59",
+                    "Tip": "SideStory「挽歌燃烧殆尽」",
+                    "StageName": "挽歌燃烧殆尽",
+                    "UtcStartTime": "2025/03/07 12:00:00",
+                    "UtcExpireTime": "2025/03/21 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "HS-5",
-                "Value": "HS-5",
-                "Drop": "30012",
+                "Display": "EA-6",
+                "Value": "EA-6",
+                "Drop": "30093",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「怀黍离」复刻",
-                    "StageName": "怀黍离",
-                    "UtcStartTime": "2025/02/24 16:00:00",
-                    "UtcExpireTime": "2025/03/06 03:59:59",
+                    "Tip": "SideStory「挽歌燃烧殆尽」",
+                    "StageName": "挽歌燃烧殆尽",
+                    "UtcStartTime": "2025/03/07 12:00:00",
+                    "UtcExpireTime": "2025/03/21 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "EA-3",
+                "Value": "EA-3",
+                "Drop": "搓玉效率待定",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory「挽歌燃烧殆尽」",
+                    "StageName": "挽歌燃烧殆尽",
+                    "UtcStartTime": "2025/03/07 12:00:00",
+                    "UtcExpireTime": "2025/03/21 03:59:59",
                     "TimeZone": 8
                 }
             }
