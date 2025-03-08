@@ -154,67 +154,54 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-CV",
-                "Value": "SSReopen-CV",
-                "Drop": "복각대리 1~8",
+                "Display": "DT-3",
+                "Value": "DT-3",
+                "Drop": "합성옥 효율 32%",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory「부정축재」재개방",
-                    "StageName": "CV",
-                    "UtcStartTime": "2025/02/28 16:00:00",
-                    "UtcExpireTime": "2025/03/10 03:59:59",
+                    "Tip": "콜라보 이벤트「테라밥」",
+                    "StageName": "DT",
+                    "UtcStartTime": "2025/03/10 16:00:00",
+                    "UtcExpireTime": "2025/03/24 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "CV-4",
-                "Value": "CV-4",
-                "Drop": "합성옥 효율 69%",
+                "Display": "DT-6",
+                "Value": "DT-6",
+                "Drop": "30033",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory「부정축재」재개방",
-                    "StageName": "CV",
-                    "UtcStartTime": "2025/02/28 16:00:00",
-                    "UtcExpireTime": "2025/03/10 03:59:59",
+                    "Tip": "콜라보 이벤트「테라밥」",
+                    "StageName": "DT",
+                    "UtcStartTime": "2025/03/10 16:00:00",
+                    "UtcExpireTime": "2025/03/24 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "CV-6",
-                "Value": "CV-6",
-                "Drop": "30023",
+                "Display": "DT-7",
+                "Value": "DT-7",
+                "Drop": "31023",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory「부정축재」재개방",
-                    "StageName": "CV",
-                    "UtcStartTime": "2025/02/28 16:00:00",
-                    "UtcExpireTime": "2025/03/10 03:59:59",
+                    "Tip": "콜라보 이벤트「테라밥」",
+                    "StageName": "DT",
+                    "UtcStartTime": "2025/03/10 16:00:00",
+                    "UtcExpireTime": "2025/03/24 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "CV-7",
-                "Value": "CV-7",
-                "Drop": "30093",
+                "Display": "DT-8",
+                "Value": "DT-8",
+                "Drop": "31073",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory「부정축재」재개방",
-                    "StageName": "CV",
-                    "UtcStartTime": "2025/02/28 16:00:00",
-                    "UtcExpireTime": "2025/03/10 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "CV-8",
-                "Value": "CV-8",
-                "Drop": "31063",
-                "MinimumRequired": "v5.5.0",
-                "Activity": {
-                    "Tip": "SideStory「부정축재」재개방",
-                    "StageName": "CV",
-                    "UtcStartTime": "2025/02/28 16:00:00",
-                    "UtcExpireTime": "2025/03/10 03:59:59",
+                    "Tip": "콜라보 이벤트「테라밥」",
+                    "StageName": "DT",
+                    "UtcStartTime": "2025/03/10 16:00:00",
+                    "UtcExpireTime": "2025/03/24 03:59:59",
                     "TimeZone": 9
                 }
             }
