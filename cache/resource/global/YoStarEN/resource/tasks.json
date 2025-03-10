@@ -1,9 +1,11 @@
 {
-    "CV-Open": {
-        "text": ["Catastrophes", "Vultures", "open"]
+    "DT-Open": {
+        "text": ["Delicious", "Terra", "Culinary"]
     },
-    "CVChapterToCV": {
-        "text": ["ANEMIC", "PLATFORM"],
-        "roi": [1087, 434, 128, 57]
+    "DT-OpenOcr": {
+        "text": ["Delicious", "Terra", "Culinary"]
+    },
+    "DTChapterToDT": {
+        "text": ["MONSTER", "Monster", "GOURMAND", "Gourmand"]
     }
 }
