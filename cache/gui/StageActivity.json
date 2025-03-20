@@ -345,15 +345,15 @@
                 }
             },
             {
-                "Display": "HS-5",
-                "Value": "HS-5",
-                "Drop": "固源岩、糖（搓玉效率0.3）",
+                "Display": "CW-6",
+                "Value": "CW-6",
+                "Drop": "固源岩、糖（搓玉效率待定）",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「懷黍離」",
-                    "StageName": "HS",
-                    "UtcStartTime": "2025/01/20 16:00:00",
-                    "UtcExpireTime": "2025/02/10 03:59:59",
+                    "Tip": "SideStory「孤星」",
+                    "StageName": "CW",
+                    "UtcStartTime": "2025/03/20 16:00:00",
+                    "UtcExpireTime": "2025/03/30 03:59:59",
                     "TimeZone": 8
                 }
             }

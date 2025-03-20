@@ -40,6 +40,11 @@
     "sub": ["EA-OpenOpt"],
     "next": ["EA-3@SideStoryStage", "EA-3@SwipeToStage"]
   },
+  "CW-6": {
+    "algorithm": "JustReturn",
+    "sub": ["CW-Open"],
+    "next": ["CW-6@SideStoryStage", "CW-6@SwipeToStage"]
+  },
   "EA-3@SideStoryStage": {
     "text": ["EA-3"]
   },
@@ -64,6 +69,10 @@
     "preDelay": 3000,
     "roi": [1097, 492, 115, 45],
     "next": ["#self", "ChapterSwipeToTheRight"]
+  },
+  "CW-6@SideStoryStage": {
+    "text": ["CW-6"],
+    "roi": [0, 305, 1277, 38]
   },
   "ClueGiveToNextPage": {
     "maxTimes": 5,
