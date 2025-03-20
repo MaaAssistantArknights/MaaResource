@@ -293,54 +293,54 @@
     "txwy": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-OD",
-                "Value": "SSReopen-OD",
-                "Drop": "代理1~8",
+                "Display": "SSReopen-CW",
+                "Value": "SSReopen-CW",
+                "Drop": "代理1~10",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「源石塵行動」復刻",
-                    "StageName": "OD",
-                    "UtcStartTime": "2025/01/01 16:00:00",
-                    "UtcExpireTime": "2025/01/11 03:59:59",
+                    "Tip": "SideStory「孤星」復刻",
+                    "StageName": "CW",
+                    "UtcStartTime": "2025/03/20 16:00:00",
+                    "UtcExpireTime": "2025/03/30 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "BB-6",
-                "Value": "BB-6",
-                "Drop": "30013",
+                "Display": "CW-8",
+                "Value": "CW-8",
+                "Drop": "30053",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「巴別塔」",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/02/11 16:00:00",
-                    "UtcExpireTime": "2025/03/04 03:59:59",
+                    "Tip": "SideStory「孤星」復刻",
+                    "StageName": "CW",
+                    "UtcStartTime": "2025/03/20 16:00:00",
+                    "UtcExpireTime": "2025/03/30 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "BB-7",
-                "Value": "BB-7",
-                "Drop": "30043",
+                "Display": "CW-9",
+                "Value": "CW-9",
+                "Drop": "31043",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「巴別塔」",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/02/11 16:00:00",
-                    "UtcExpireTime": "2025/03/04 03:59:59",
+                    "Tip": "SideStory「孤星」復刻",
+                    "StageName": "CW",
+                    "UtcStartTime": "2025/03/20 16:00:00",
+                    "UtcExpireTime": "2025/03/30 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "BB-8",
-                "Value": "BB-8",
-                "Drop": "31013",
+                "Display": "CW-10",
+                "Value": "CW-10",
+                "Drop": "31023",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「巴別塔」",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/02/11 16:00:00",
-                    "UtcExpireTime": "2025/03/04 03:59:59",
+                    "Tip": "SideStory「孤星」復刻",
+                    "StageName": "CW",
+                    "UtcStartTime": "2025/03/20 16:00:00",
+                    "UtcExpireTime": "2025/03/30 03:59:59",
                     "TimeZone": 8
                 }
             },
