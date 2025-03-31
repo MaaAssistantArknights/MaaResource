@@ -306,54 +306,54 @@
                 }
             },
             {
-                "Display": "CW-8",
-                "Value": "CW-8",
-                "Drop": "30053",
+                "Display": "BP-5",
+                "Value": "BP-5",
+                "Drop": "31033",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「孤星」復刻",
-                    "StageName": "CW",
-                    "UtcStartTime": "2025/03/20 16:00:00",
-                    "UtcExpireTime": "2025/03/30 03:59:59",
+                    "Tip": "SideStory「生路」",
+                    "StageName": "BP",
+                    "UtcStartTime": "2025/03/31 16:00:00",
+                    "UtcExpireTime": "2025/04/14 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "CW-9",
-                "Value": "CW-9",
-                "Drop": "31043",
+                "Display": "BP-6",
+                "Value": "BP-6",
+                "Drop": "30023",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「孤星」復刻",
-                    "StageName": "CW",
-                    "UtcStartTime": "2025/03/20 16:00:00",
-                    "UtcExpireTime": "2025/03/30 03:59:59",
+                    "Tip": "SideStory「生路」",
+                    "StageName": "BP",
+                    "UtcStartTime": "2025/03/31 16:00:00",
+                    "UtcExpireTime": "2025/04/14 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "CW-10",
-                "Value": "CW-10",
-                "Drop": "31023",
+                "Display": "BP-7",
+                "Value": "BP-7",
+                "Drop": "30073",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「孤星」復刻",
-                    "StageName": "CW",
-                    "UtcStartTime": "2025/03/20 16:00:00",
-                    "UtcExpireTime": "2025/03/30 03:59:59",
+                    "Tip": "SideStory「生路」",
+                    "StageName": "BP",
+                    "UtcStartTime": "2025/03/31 16:00:00",
+                    "UtcExpireTime": "2025/04/14 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "CW-6",
-                "Value": "CW-6",
-                "Drop": "固源岩、糖（搓玉效率待定）",
+                "Display": "BP-4",
+                "Value": "BP-4",
+                "Drop": "搓玉（效率待定）",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「孤星」",
-                    "StageName": "CW",
-                    "UtcStartTime": "2025/03/20 16:00:00",
-                    "UtcExpireTime": "2025/03/30 03:59:59",
+                    "Tip": "SideStory「生路」",
+                    "StageName": "BP",
+                    "UtcStartTime": "2025/03/31 16:00:00",
+                    "UtcExpireTime": "2025/04/14 03:59:59",
                     "TimeZone": 8
                 }
             }
