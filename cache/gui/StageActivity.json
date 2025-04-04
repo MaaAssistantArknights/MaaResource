@@ -78,67 +78,54 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-CV",
-                "Value": "SSReopen-CV",
-                "Drop": "復刻代理1~8",
+                "Display": "GO-7",
+                "Value": "GO-7",
+                "Drop": "30013",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「ダーティマネー」復刻",
-                    "StageName": "CV",
-                    "UtcStartTime": "2025/02/28 16:00:00",
-                    "UtcExpireTime": "2025/03/10 03:59:59",
+                    "Tip": "サイドストーリー「落日の向こうへ」",
+                    "StageName": "GO",
+                    "UtcStartTime": "2025/04/08 16:00:00",
+                    "UtcExpireTime": "2025/04/22 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "DT-6",
-                "Value": "DT-6",
-                "Drop": "30033",
+                "Display": "GO-8",
+                "Value": "GO-8",
+                "Drop": "31013",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「テラ飯」",
-                    "StageName": "DT",
-                    "UtcStartTime": "2025/03/10 16:00:00",
-                    "UtcExpireTime": "2025/03/24 03:59:59",
+                    "Tip": "サイドストーリー「落日の向こうへ」",
+                    "StageName": "GO",
+                    "UtcStartTime": "2025/04/08 16:00:00",
+                    "UtcExpireTime": "2025/04/22 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "DT-7",
-                "Value": "DT-7",
-                "Drop": "31023",
+                "Display": "GO-9",
+                "Value": "GO-9",
+                "Drop": "31043",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「テラ飯」",
-                    "StageName": "DT",
-                    "UtcStartTime": "2025/03/10 16:00:00",
-                    "UtcExpireTime": "2025/03/24 03:59:59",
+                    "Tip": "サイドストーリー「落日の向こうへ」",
+                    "StageName": "GO",
+                    "UtcStartTime": "2025/04/08 16:00:00",
+                    "UtcExpireTime": "2025/04/22 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "DT-8",
-                "Value": "DT-8",
-                "Drop": "31073",
+                "Display": "GO-4",
+                "Value": "GO-4",
+                "Drop": "合成玉効率63%",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「テラ飯」",
-                    "StageName": "DT",
-                    "UtcStartTime": "2025/03/10 16:00:00",
-                    "UtcExpireTime": "2025/03/24 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "DT-3",
-                "Value": "DT-3",
-                "Drop": "合成玉効率32%",
-                "MinimumRequired": "v5.5.0",
-                "Activity": {
-                    "Tip": "サイドストーリー「テラ飯」",
-                    "StageName": "DT",
-                    "UtcStartTime": "2025/03/10 16:00:00",
-                    "UtcExpireTime": "2025/03/24 03:59:59",
+                    "Tip": "サイドストーリー「落日の向こうへ」",
+                    "StageName": "GO",
+                    "UtcStartTime": "2025/04/08 16:00:00",
+                    "UtcExpireTime": "2025/04/22 03:59:59",
                     "TimeZone": 9
                 }
             }
@@ -217,67 +204,54 @@
     "YoStarEN": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-CV",
-                "Value": "SSReopen-CV",
-                "Drop": "Auto Deploy 1~8",
+                "Display": "GO-4",
+                "Value": "GO-4",
+                "Drop": "Orundum Eff. 69%",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Come Catastrophes or Wakes of Vultures - Rerun",
-                    "StageName": "CV",
-                    "UtcStartTime": "2025/02/28 10:00:00",
-                    "UtcExpireTime": "2025/03/10 03:59:59",
+                    "Tip": "Ending a Grand Overture",
+                    "StageName": "GO",
+                    "UtcStartTime": "2025/04/08 10:00:00",
+                    "UtcExpireTime": "2025/04/22 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "DT-3",
-                "Value": "DT-3",
-                "Drop": "Orundum Eff. 32%",
+                "Display": "GO-7",
+                "Value": "GO-7",
+                "Drop": "30013",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Delicious on Terra",
-                    "StageName": "DT",
-                    "UtcStartTime": "2025/03/10 10:00:00",
-                    "UtcExpireTime": "2025/03/24 03:59:59",
+                    "Tip": "Ending a Grand Overture",
+                    "StageName": "GO",
+                    "UtcStartTime": "2025/04/08 10:00:00",
+                    "UtcExpireTime": "2025/04/22 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "DT-6",
-                "Value": "DT-6",
-                "Drop": "30033",
+                "Display": "GO-8",
+                "Value": "GO-8",
+                "Drop": "31013",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Delicious on Terra",
-                    "StageName": "DT",
-                    "UtcStartTime": "2025/03/10 10:00:00",
-                    "UtcExpireTime": "2025/03/24 03:59:59",
+                    "Tip": "Ending a Grand Overture",
+                    "StageName": "GO",
+                    "UtcStartTime": "2025/04/08 10:00:00",
+                    "UtcExpireTime": "2025/04/22 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "DT-7",
-                "Value": "DT-7",
-                "Drop": "31023",
+                "Display": "GO-9",
+                "Value": "GO-9",
+                "Drop": "31043",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Delicious on Terra",
-                    "StageName": "DT",
-                    "UtcStartTime": "2025/03/10 10:00:00",
-                    "UtcExpireTime": "2025/03/24 03:59:59",
-                    "TimeZone": -7
-                }
-            },
-            {
-                "Display": "DT-8",
-                "Value": "DT-8",
-                "Drop": "31073",
-                "MinimumRequired": "v5.5.0",
-                "Activity": {
-                    "Tip": "Delicious on Terra",
-                    "StageName": "DT",
-                    "UtcStartTime": "2025/03/10 10:00:00",
-                    "UtcExpireTime": "2025/03/24 03:59:59",
+                    "Tip": "Ending a Grand Overture",
+                    "StageName": "GO",
+                    "UtcStartTime": "2025/04/08 10:00:00",
+                    "UtcExpireTime": "2025/04/22 03:59:59",
                     "TimeZone": -7
                 }
             }
