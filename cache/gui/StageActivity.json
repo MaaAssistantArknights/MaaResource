@@ -154,54 +154,54 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "DT-3",
-                "Value": "DT-3",
-                "Drop": "합성옥 효율 32%",
+                "Display": "GO-4",
+                "Value": "GO-4",
+                "Drop": "합성옥 효율 69%",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "콜라보 이벤트「테라밥」",
-                    "StageName": "DT",
-                    "UtcStartTime": "2025/03/10 16:00:00",
-                    "UtcExpireTime": "2025/03/24 03:59:59",
+                    "Tip": "SideStory「위대한 서곡의 끝」",
+                    "StageName": "GO",
+                    "UtcStartTime": "2025/04/08 16:00:00",
+                    "UtcExpireTime": "2025/04/22 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "DT-6",
-                "Value": "DT-6",
-                "Drop": "30033",
+                "Display": "GO-7",
+                "Value": "GO-7",
+                "Drop": "30013",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "콜라보 이벤트「테라밥」",
-                    "StageName": "DT",
-                    "UtcStartTime": "2025/03/10 16:00:00",
-                    "UtcExpireTime": "2025/03/24 03:59:59",
+                    "Tip": "SideStory「위대한 서곡의 끝」",
+                    "StageName": "GO",
+                    "UtcStartTime": "2025/04/08 16:00:00",
+                    "UtcExpireTime": "2025/04/22 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "DT-7",
-                "Value": "DT-7",
-                "Drop": "31023",
+                "Display": "GO-8",
+                "Value": "GO-8",
+                "Drop": "31013",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "콜라보 이벤트「테라밥」",
-                    "StageName": "DT",
-                    "UtcStartTime": "2025/03/10 16:00:00",
-                    "UtcExpireTime": "2025/03/24 03:59:59",
+                    "Tip": "SideStory「위대한 서곡의 끝」",
+                    "StageName": "GO",
+                    "UtcStartTime": "2025/04/08 16:00:00",
+                    "UtcExpireTime": "2025/04/22 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "DT-8",
-                "Value": "DT-8",
-                "Drop": "31073",
+                "Display": "GO-9",
+                "Value": "GO-9",
+                "Drop": "31043",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "콜라보 이벤트「테라밥」",
-                    "StageName": "DT",
-                    "UtcStartTime": "2025/03/10 16:00:00",
-                    "UtcExpireTime": "2025/03/24 03:59:59",
+                    "Tip": "SideStory「위대한 서곡의 끝」",
+                    "StageName": "GO",
+                    "UtcStartTime": "2025/04/08 16:00:00",
+                    "UtcExpireTime": "2025/04/22 03:59:59",
                     "TimeZone": 9
                 }
             }
