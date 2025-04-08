@@ -1,4 +1,7 @@
 {
+    "BattleStartPre": {
+        "text": ["Start", "Start Challenge"]
+    },
     "StartButton1": {
         "text": ["Start"]
     },

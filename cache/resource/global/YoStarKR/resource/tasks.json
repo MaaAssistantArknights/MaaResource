@@ -1,4 +1,8 @@
 {
+    "BattleStartPre": {
+        "ocrReplace": [["개.+", "개시"]],
+        "text": ["작전개시", "하드모드개시"]
+    },
     "StartButton1": {
         "ocrReplace": [["개.+", "개시"]],
         "text": ["작전개시"]
