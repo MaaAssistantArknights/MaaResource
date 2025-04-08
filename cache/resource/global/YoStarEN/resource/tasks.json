@@ -1,4 +1,7 @@
 {
+    "StartButton1": {
+        "text": ["Start"]
+    },
     "StageResource": {
         "roi": [600, 600, 250, 110]
     },

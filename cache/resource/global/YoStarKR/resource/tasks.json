@@ -1,4 +1,8 @@
 {
+    "StartButton1": {
+        "ocrReplace": [["개.+", "개시"]],
+        "text": ["작전개시"]
+    },
     "StageResource": {
         "roi": [600, 600, 250, 110]
     },

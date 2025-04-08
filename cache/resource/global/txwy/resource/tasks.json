@@ -1,4 +1,7 @@
 {
+    "StartButton1": {
+        "text": ["開始行動"]
+    },
     "StageResource": {
         "roi": [600, 600, 250, 110]
     },
