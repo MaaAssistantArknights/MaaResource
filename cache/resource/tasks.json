@@ -1,4 +1,13 @@
 {
+    "ClickChapterNewOpenTime": {
+        "next": ["ClickChapterNewDefaultProgress"]
+    },
+    "ClickChapterNewDefaultProgress": {
+        "algorithm": "OcrDetect",
+        "action": "ClickSelf",
+        "roi": [695, 26, 85, 38],
+        "text": ["默认进度"]
+    },
     "ClickedCorrectStage": {
         "roi": [845, 72, 220, 50]
     },
