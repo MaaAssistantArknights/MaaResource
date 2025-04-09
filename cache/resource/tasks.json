@@ -1,4 +1,7 @@
 {
+    "ClickedCorrectStage": {
+        "roi": [845, 72, 220, 50]
+    },
     "BattleStartPre": {
         "text": ["开始行动", "开始作战", "开始推演", "开始突袭", "开始试炼", "开始测试"]
     },
