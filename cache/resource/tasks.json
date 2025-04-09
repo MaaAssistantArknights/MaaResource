@@ -1,4 +1,7 @@
 {
+    "FightSeries-Icon": {
+        "roi": [930, 570, 110, 50]
+    },
     "ClickChapterNewOpenTime": {
         "next": ["ClickChapterNewDefaultProgress"]
     },
