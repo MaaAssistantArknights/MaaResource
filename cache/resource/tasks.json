@@ -1,29 +1,5 @@
 {
-    "FightSeries-Icon": {
-        "roi": [930, 570, 110, 50]
-    },
-    "ClickChapterNewOpenTime": {
-        "next": ["ClickChapterNewDefaultProgress"]
-    },
-    "ClickChapterNewDefaultProgress": {
-        "algorithm": "OcrDetect",
-        "action": "ClickSelf",
-        "roi": [695, 26, 85, 38],
-        "text": ["默认进度"]
-    },
-    "ClickedCorrectStage": {
-        "roi": [845, 72, 220, 50]
-    },
-    "StartButton1": {
-        "text": ["开始行动", "开始作战", "开始推演"]
-    },
-    "StageResource": {
-        "roi": [462, 600, 140, 120]
-    },
-    "Roguelike@IntegratedStrategies": {
-        "roi": [884, 606, 146, 114]
-    },
-    "StageTheme": {
-        "roi": [243, 598, 147, 122]
+    "ClueSelected": {
+        "exceededNext": ["CloseSendClue"]
     }
 }
