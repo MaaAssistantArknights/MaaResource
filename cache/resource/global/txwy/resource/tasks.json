@@ -8,13 +8,12 @@
     "StageTheme": {
         "roi": [200, 640, 300, 60]
     },
-    "BP-Open": {
-        "text": ["生路", "防線鞏固", "防線", "線鞏", "鞏固"]
+    "HE-5@SideStoryStage": {
+        "text": ["HE-5"]
     },
-    "BP-OpenOcr": {
-        "text": ["生路", "防線鞏固", "防線", "線鞏", "鞏固"]
-    },
-    "BPChapterToBP": {
-        "text": ["信標投放", "信標", "標投", "投放"]
+    "HE-5": {
+        "algorithm": "JustReturn",
+        "sub": ["HE-Open"],
+        "next": ["HE-5@SideStoryStage", "HE-5@SwipeToStage"]
     }
 }

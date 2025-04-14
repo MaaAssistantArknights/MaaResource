@@ -267,67 +267,67 @@
     "txwy": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-CW",
-                "Value": "SSReopen-CW",
-                "Drop": "代理1~10",
+                "Display": "SSReopen-HE",
+                "Value": "SSReopen-HE",
+                "Drop": "代理1~8",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「孤星」復刻",
-                    "StageName": "CW",
-                    "UtcStartTime": "2025/03/20 16:00:00",
-                    "UtcExpireTime": "2025/03/30 03:59:59",
+                    "Tip": "SideStory「空想花庭」復刻",
+                    "StageName": "HE",
+                    "UtcStartTime": "2025/04/14 16:00:00",
+                    "UtcExpireTime": "2025/04/24 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "BP-5",
-                "Value": "BP-5",
-                "Drop": "31033",
+                "Display": "HE-6",
+                "Value": "HE-6",
+                "Drop": "30013",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「生路」",
-                    "StageName": "BP",
-                    "UtcStartTime": "2025/03/31 16:00:00",
-                    "UtcExpireTime": "2025/04/14 03:59:59",
+                    "Tip": "SideStory「空想花庭」復刻",
+                    "StageName": "HE",
+                    "UtcStartTime": "2025/04/14 16:00:00",
+                    "UtcExpireTime": "2025/04/24 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "BP-6",
-                "Value": "BP-6",
-                "Drop": "30023",
+                "Display": "HE-7",
+                "Value": "HE-7",
+                "Drop": "31013",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「生路」",
-                    "StageName": "BP",
-                    "UtcStartTime": "2025/03/31 16:00:00",
-                    "UtcExpireTime": "2025/04/14 03:59:59",
+                    "Tip": "SideStory「空想花庭」復刻",
+                    "StageName": "HE",
+                    "UtcStartTime": "2025/04/14 16:00:00",
+                    "UtcExpireTime": "2025/04/24 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "BP-7",
-                "Value": "BP-7",
-                "Drop": "30073",
+                "Display": "HE-8",
+                "Value": "HE-8",
+                "Drop": "30103",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「生路」",
-                    "StageName": "BP",
-                    "UtcStartTime": "2025/03/31 16:00:00",
-                    "UtcExpireTime": "2025/04/14 03:59:59",
+                    "Tip": "SideStory「空想花庭」復刻",
+                    "StageName": "HE",
+                    "UtcStartTime": "2025/04/14 16:00:00",
+                    "UtcExpireTime": "2025/04/24 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "BP-4",
-                "Value": "BP-4",
-                "Drop": "搓玉（效率待定）",
+                "Display": "HE-5",
+                "Value": "HE-5",
+                "Drop": "每理智可搓 0.27 玉",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「生路」",
-                    "StageName": "BP",
-                    "UtcStartTime": "2025/03/31 16:00:00",
-                    "UtcExpireTime": "2025/04/14 03:59:59",
+                    "Tip": "SideStory「空想花庭」復刻",
+                    "StageName": "HE",
+                    "UtcStartTime": "2025/04/14 16:00:00",
+                    "UtcExpireTime": "2025/04/24 03:59:59",
                     "TimeZone": 8
                 }
             }
