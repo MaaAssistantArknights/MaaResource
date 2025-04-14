@@ -1,13 +1,6 @@
 {
-    "BattleStartPre": {
-        "text": ["行動開始", "開始", "試練", "挑戦"]
-    },
     "StartToWakeUp": {
         "roi": [480, 480, 320, 60]
-    },
-    "StartButton1": {
-        "ocrReplace": [["行重動", "行動"]],
-        "text": ["行動開始"]
     },
     "StageResource": {
         "roi": [600, 600, 250, 110]
