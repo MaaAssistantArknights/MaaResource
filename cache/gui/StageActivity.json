@@ -2,67 +2,67 @@
     "Official": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-HS",
-                "Value": "SSReopen-HS",
-                "Drop": "代理1~9",
+                "Display": "SSReopen-BB",
+                "Value": "SSReopen-BB",
+                "Drop": "代理1~8",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「怀黍离」复刻",
-                    "StageName": "怀黍离",
-                    "UtcStartTime": "2025/02/24 16:00:00",
-                    "UtcExpireTime": "2025/03/06 03:59:59",
+                    "Tip": "SideStory「巴别塔」复刻",
+                    "StageName": "BB",
+                    "UtcStartTime": "2025/04/21 16:00:00",
+                    "UtcExpireTime": "2025/05/01 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "EA-8",
-                "Value": "EA-8",
-                "Drop": "31073",
+                "Display": "BB-6",
+                "Value": "BB-6",
+                "Drop": "30013",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「挽歌燃烧殆尽」",
-                    "StageName": "挽歌燃烧殆尽",
-                    "UtcStartTime": "2025/03/07 12:00:00",
-                    "UtcExpireTime": "2025/03/21 03:59:59",
+                    "Tip": "SideStory「巴别塔」复刻",
+                    "StageName": "BB",
+                    "UtcStartTime": "2025/04/21 16:00:00",
+                    "UtcExpireTime": "2025/05/01 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "EA-7",
-                "Value": "EA-7",
-                "Drop": "31043",
+                "Display": "BB-7",
+                "Value": "BB-7",
+                "Drop": "30043",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「挽歌燃烧殆尽」",
-                    "StageName": "挽歌燃烧殆尽",
-                    "UtcStartTime": "2025/03/07 12:00:00",
-                    "UtcExpireTime": "2025/03/21 03:59:59",
+                    "Tip": "SideStory「巴别塔」复刻",
+                    "StageName": "BB",
+                    "UtcStartTime": "2025/04/21 16:00:00",
+                    "UtcExpireTime": "2025/05/01 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "EA-6",
-                "Value": "EA-6",
-                "Drop": "30093",
+                "Display": "BB-8",
+                "Value": "BB-8",
+                "Drop": "31013",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「挽歌燃烧殆尽」",
-                    "StageName": "挽歌燃烧殆尽",
-                    "UtcStartTime": "2025/03/07 12:00:00",
-                    "UtcExpireTime": "2025/03/21 03:59:59",
+                    "Tip": "SideStory「巴别塔」复刻",
+                    "StageName": "BB",
+                    "UtcStartTime": "2025/04/21 16:00:00",
+                    "UtcExpireTime": "2025/05/01 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "EA-3",
-                "Value": "EA-3",
-                "Drop": "搓玉效率0.69",
+                "Display": "BB-4",
+                "Value": "BB-4",
+                "Drop": "糖、固原岩（搓玉效率0.3）",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「挽歌燃烧殆尽」",
-                    "StageName": "挽歌燃烧殆尽",
-                    "UtcStartTime": "2025/03/07 12:00:00",
-                    "UtcExpireTime": "2025/03/21 03:59:59",
+                    "Tip": "SideStory「巴别塔」复刻",
+                    "StageName": "BB",
+                    "UtcStartTime": "2025/04/21 16:00:00",
+                    "UtcExpireTime": "2025/05/01 03:59:59",
                     "TimeZone": 8
                 }
             }
