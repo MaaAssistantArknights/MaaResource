@@ -56,7 +56,7 @@
             {
                 "Display": "BB-4",
                 "Value": "BB-4",
-                "Drop": "糖、固原岩（搓玉效率0.3）",
+                "Drop": "糖、固源岩（搓玉效率0.35）",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
                     "Tip": "SideStory「巴别塔」复刻",
