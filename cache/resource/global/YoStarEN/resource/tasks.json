@@ -13,5 +13,11 @@
     },
     "GOChapterToGO": {
         "text": ["DIE", "HERO", "VILLAIN", "Die", "Hero", "Villain"]
+    },
+    "PV-OpenOcr": {
+        "text": ["Portatori", "Velluti", "Splendida", "Cavalcata", "Decadenza"]
+    },
+    "PVChapterToPV": {
+        "text": ["Quadriglia", "QUADRIGLIA"]
     }
 }
