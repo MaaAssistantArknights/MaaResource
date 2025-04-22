@@ -78,54 +78,54 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
-                "Display": "GO-7",
-                "Value": "GO-7",
-                "Drop": "30013",
+                "Display": "PV-8",
+                "Value": "PV-8",
+                "Drop": "30083",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「落日の向こうへ」",
-                    "StageName": "GO",
-                    "UtcStartTime": "2025/04/08 16:00:00",
-                    "UtcExpireTime": "2025/04/22 03:59:59",
+                    "Tip": "サイドストーリー「幕開く者たち」",
+                    "StageName": "PV",
+                    "UtcStartTime": "2025/04/24 16:00:00",
+                    "UtcExpireTime": "2025/05/15 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "GO-8",
-                "Value": "GO-8",
-                "Drop": "31013",
+                "Display": "PV-9",
+                "Value": "PV-9",
+                "Drop": "30103",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「落日の向こうへ」",
-                    "StageName": "GO",
-                    "UtcStartTime": "2025/04/08 16:00:00",
-                    "UtcExpireTime": "2025/04/22 03:59:59",
+                    "Tip": "サイドストーリー「幕開く者たち」",
+                    "StageName": "PV",
+                    "UtcStartTime": "2025/04/24 16:00:00",
+                    "UtcExpireTime": "2025/05/15 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "GO-9",
-                "Value": "GO-9",
-                "Drop": "31043",
+                "Display": "PV-10",
+                "Value": "PV-10",
+                "Drop": "31053",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「落日の向こうへ」",
-                    "StageName": "GO",
-                    "UtcStartTime": "2025/04/08 16:00:00",
-                    "UtcExpireTime": "2025/04/22 03:59:59",
+                    "Tip": "サイドストーリー「幕開く者たち」",
+                    "StageName": "PV",
+                    "UtcStartTime": "2025/04/24 16:00:00",
+                    "UtcExpireTime": "2025/05/15 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "GO-4",
-                "Value": "GO-4",
-                "Drop": "合成玉効率63%",
+                "Display": "PV-5",
+                "Value": "PV-5",
+                "Drop": "合成玉効率32%",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「落日の向こうへ」",
-                    "StageName": "GO",
-                    "UtcStartTime": "2025/04/08 16:00:00",
-                    "UtcExpireTime": "2025/04/22 03:59:59",
+                    "Tip": "サイドストーリー「幕開く者たち」",
+                    "StageName": "PV",
+                    "UtcStartTime": "2025/04/24 16:00:00",
+                    "UtcExpireTime": "2025/05/15 03:59:59",
                     "TimeZone": 9
                 }
             }
