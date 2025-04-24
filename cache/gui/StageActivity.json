@@ -56,7 +56,7 @@
             {
                 "Display": "BB-4",
                 "Value": "BB-4",
-                "Drop": "糖、固源岩（搓玉效率0.35）",
+                "Drop": "糖、固原岩（搓玉效率0.3）",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
                     "Tip": "SideStory「巴别塔」复刻",
@@ -332,54 +332,54 @@
                 }
             },
             {
-                "Display": "HE-6",
-                "Value": "HE-6",
-                "Drop": "30013",
+                "Display": "AS-9",
+                "Value": "AS-9",
+                "Drop": "31083",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「空想花庭」復刻",
-                    "StageName": "HE",
-                    "UtcStartTime": "2025/04/14 16:00:00",
-                    "UtcExpireTime": "2025/04/24 03:59:59",
+                    "Tip": "SideStory「太陽甩在身後」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2025/04/24 16:00:00",
+                    "UtcExpireTime": "2025/05/15 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "HE-7",
-                "Value": "HE-7",
-                "Drop": "31013",
+                "Display": "AS-8",
+                "Value": "AS-8",
+                "Drop": "30093",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「空想花庭」復刻",
-                    "StageName": "HE",
-                    "UtcStartTime": "2025/04/14 16:00:00",
-                    "UtcExpireTime": "2025/04/24 03:59:59",
+                    "Tip": "SideStory「太陽甩在身後」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2025/04/24 16:00:00",
+                    "UtcExpireTime": "2025/05/15 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "HE-8",
-                "Value": "HE-8",
-                "Drop": "30103",
+                "Display": "AS-7",
+                "Value": "AS-7",
+                "Drop": "30043",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「空想花庭」復刻",
-                    "StageName": "HE",
-                    "UtcStartTime": "2025/04/14 16:00:00",
-                    "UtcExpireTime": "2025/04/24 03:59:59",
+                    "Tip": "SideStory「太陽甩在身後」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2025/04/24 16:00:00",
+                    "UtcExpireTime": "2025/05/15 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "HE-5",
-                "Value": "HE-5",
-                "Drop": "每理智可搓 0.27 玉",
+                "Display": "AS-6",
+                "Value": "AS-6",
+                "Drop": "搓玉用",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「空想花庭」復刻",
-                    "StageName": "HE",
-                    "UtcStartTime": "2025/04/14 16:00:00",
-                    "UtcExpireTime": "2025/04/24 03:59:59",
+                    "Tip": "SideStory「太陽甩在身後」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2025/04/24 16:00:00",
+                    "UtcExpireTime": "2025/05/15 03:59:59",
                     "TimeZone": 8
                 }
             }
