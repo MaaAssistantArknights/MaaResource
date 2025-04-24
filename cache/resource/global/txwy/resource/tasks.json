@@ -8,6 +8,9 @@
     "StageTheme": {
         "roi": [200, 640, 300, 60]
     },
+    "OrundumActivities": {
+        "text": ["幸運牆", "幸運", "好運牆", "好運", "游樂", "許願牆", "願牆"]
+    },
     "AS-OpenOcr": {
         "text": [
             "太陽甩在身後",
