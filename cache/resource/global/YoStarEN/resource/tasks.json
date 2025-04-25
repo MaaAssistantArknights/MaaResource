@@ -19,5 +19,8 @@
     },
     "PVChapterToPV": {
         "text": ["Quadriglia", "QUADRIGLIA"]
+    },
+    "OrundumActivities": {
+        "text": ["Lucky Strips", "Wishing", "Lucky", "Wall", "Bazaar"]
     }
 }
