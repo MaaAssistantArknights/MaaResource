@@ -4,6 +4,10 @@
         "text": ["용문", "복권방", "소원"],
         "roi": [76, 151, 80, 18]
     },
+    "OrundumActivitiesConfirm": {
+        "ocrReplace": [["뽑.?", "뽑기"]],
+        "text": ["뽑기"]
+    },
     "StageResource": {
         "roi": [600, 600, 250, 110]
     },
