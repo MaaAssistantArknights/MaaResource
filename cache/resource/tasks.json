@@ -1,4 +1,12 @@
 {
+    "BB-Open": {
+        "baseTask": "#none",
+        "template": "StageSideStory.png",
+        "action": "ClickSelf",
+        "postDelay": 2000,
+        "roi": [505, 57, 462, 628],
+        "next": ["BBChapterToBB"]
+    },
     "ClueSelected": {
         "exceededNext": ["CloseSendClue"]
     }
