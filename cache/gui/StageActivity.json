@@ -15,54 +15,67 @@
                 }
             },
             {
-                "Display": "BB-6",
-                "Value": "BB-6",
-                "Drop": "30013",
+                "Display": "MT-10",
+                "Value": "MT-10",
+                "Drop": "31053",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「巴别塔」复刻",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/04/21 16:00:00",
-                    "UtcExpireTime": "2025/05/01 03:59:59",
+                    "Tip": "SideStory「众生行记」",
+                    "StageName": "众生行记",
+                    "UtcStartTime": "2025/05/01 12:00:00",
+                    "UtcExpireTime": "2025/05/22 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "BB-7",
-                "Value": "BB-7",
-                "Drop": "30043",
+                "Display": "MT-9",
+                "Value": "MT-9",
+                "Drop": "30093",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「巴别塔」复刻",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/04/21 16:00:00",
-                    "UtcExpireTime": "2025/05/01 03:59:59",
+                    "Tip": "SideStory「众生行记」",
+                    "StageName": "众生行记",
+                    "UtcStartTime": "2025/05/01 12:00:00",
+                    "UtcExpireTime": "2025/05/22 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "BB-8",
-                "Value": "BB-8",
-                "Drop": "31013",
+                "Display": "MT-8",
+                "Value": "MT-8",
+                "Drop": "30053",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「巴别塔」复刻",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/04/21 16:00:00",
-                    "UtcExpireTime": "2025/05/01 03:59:59",
+                    "Tip": "SideStory「众生行记」",
+                    "StageName": "众生行记",
+                    "UtcStartTime": "2025/05/01 12:00:00",
+                    "UtcExpireTime": "2025/05/22 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "BB-4",
-                "Value": "BB-4",
-                "Drop": "糖、固原岩（搓玉效率0.3）",
+                "Display": "MT-6",
+                "Value": "MT-6",
+                "Drop": "搓玉效率待定",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「巴别塔」复刻",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/04/21 16:00:00",
-                    "UtcExpireTime": "2025/05/01 03:59:59",
+                    "Tip": "SideStory「众生行记」",
+                    "StageName": "众生行记",
+                    "UtcStartTime": "2025/05/01 12:00:00",
+                    "UtcExpireTime": "2025/05/22 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "MT-4",
+                "Value": "MT-4",
+                "Drop": "搓玉效率待定",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory「众生行记」",
+                    "StageName": "众生行记",
+                    "UtcStartTime": "2025/05/01 12:00:00",
+                    "UtcExpireTime": "2025/05/22 03:59:59",
                     "TimeZone": 8
                 }
             }
