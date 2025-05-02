@@ -24,7 +24,8 @@
     "maxTimes": 3
   },
   "RecruitingActivitiesRecruit": {
-      "text": ["赠送一次", "赠送"]
+      "text": ["赠送一次", "赠送"],
+      "roi": [802, 619, 198, 61]
   },
   "MT-10": {
     "algorithm": "JustReturn",
