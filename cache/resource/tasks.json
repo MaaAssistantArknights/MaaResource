@@ -20,12 +20,11 @@
     "next": ["SpecialAccessActivitiesConfirm", "SpecialAccessActivitiesReturn"],
     "onErrorNext": ["Stop"]
   },
+  "RecruitingActivitiesConfirm": {
+    "maxTimes": 3
+  },
   "RecruitingActivitiesRecruit": {
-    "algorithm": "OcrDetect",
-    "action": "ClickSelf",
-    "text": ["寻访一次", "寻访"],
-    "roi": [770, 577, 267, 143],
-    "next": ["RecruitingActivitiesRecruitNowConfirm"]
+      "text": ["赠送一次", "赠送"]
   },
   "MT-10": {
     "algorithm": "JustReturn",
