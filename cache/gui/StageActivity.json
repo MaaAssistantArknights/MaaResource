@@ -56,7 +56,20 @@
             {
                 "Display": "MT-6",
                 "Value": "MT-6",
-                "Drop": "搓玉效率待定",
+                "Drop": "固源岩、异铁（每理智可搓0.69玉）",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory「众生行记」",
+                    "StageName": "众生行记",
+                    "UtcStartTime": "2025/05/01 12:00:00",
+                    "UtcExpireTime": "2025/05/22 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "MT-5",
+                "Value": "MT-5",
+                "Drop": "装置、糖（每理智可搓0.56玉）",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
                     "Tip": "SideStory「众生行记」",
@@ -69,7 +82,7 @@
             {
                 "Display": "MT-4",
                 "Value": "MT-4",
-                "Drop": "搓玉效率待定",
+                "Drop": "酮凝集、固源岩（每理智可搓0.35玉）",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
                     "Tip": "SideStory「众生行记」",
