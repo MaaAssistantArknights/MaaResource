@@ -1,4 +1,7 @@
 {
+  "StartButton1": {
+    "roi": [1010, 625, 260, 61]
+  }
   "ClueSelected": {
     "exceededNext": ["CloseSendClue"]
   },
