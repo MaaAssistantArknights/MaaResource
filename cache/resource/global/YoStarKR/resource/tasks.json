@@ -1,13 +1,4 @@
 {
-    "OrundumActivities": {
-        "ocrReplace": [[".*(복|권).*", "복권방"]],
-        "text": ["용문", "복권방", "소원"],
-        "roi": [76, 151, 80, 18]
-    },
-    "OrundumActivitiesConfirm": {
-        "ocrReplace": [["뽑.?", "뽑기"]],
-        "text": ["뽑기"]
-    },
     "StageResource": {
         "roi": [600, 600, 250, 110]
     },
@@ -17,11 +8,19 @@
     "StageTheme": {
         "roi": [200, 640, 300, 60]
     },
-    "PV-OpenOcr": {
-        "text": ["막을", "여는", "자들"]
+    "OrundumActivities": {
+        "ocrReplace": [[".*(복|권).*", "복권방"]],
+        "text": ["용문", "복권방", "소원"],
+        "roi": [76, 151, 80, 18]
     },
-    "PVChapterToPV": {
-        "ocrReplace": [[".+무$", "윤무"]],
-        "text": ["사중", "윤무"]
+    "OrundumActivitiesConfirm": {
+        "ocrReplace": [["뽑.?", "뽑기"]],
+        "text": ["뽑기"]
+    },
+    "ZT-OpenOcr": {
+        "text": ["츠빌링", "슈튀르메", "가을", "이벤트", "개방중"]
+    },
+    "ZTChapterToZT": {
+        "text": ["쌍둥이", "둥이탑", "탑알현"]
     }
 }

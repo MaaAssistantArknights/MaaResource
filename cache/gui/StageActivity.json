@@ -141,54 +141,67 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "PV-5",
-                "Value": "PV-5",
-                "Drop": "합성옥 효율 32%",
+                "Display": "SSReopen-ZT",
+                "Value": "SSReopen-ZT",
+                "Drop": "스테이지 대리지휘 1~10",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory「막을 여는 자들」",
-                    "StageName": "PV",
-                    "UtcStartTime": "2025/04/24 16:00:00",
-                    "UtcExpireTime": "2025/05/15 03:59:59",
+                    "Tip": "재개방 SideStory '츠빌링슈튀르메의 가을'",
+                    "StageName": "ZT",
+                    "UtcStartTime": "2025/05/22 16:00:00",
+                    "UtcExpireTime": "2025/06/01 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "PV-8",
-                "Value": "PV-8",
-                "Drop": "30083",
+                "Display": "ZT-4",
+                "Value": "ZT-4",
+                "Drop": "합성옥 효율 64%",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory「막을 여는 자들」",
-                    "StageName": "PV",
-                    "UtcStartTime": "2025/04/24 16:00:00",
-                    "UtcExpireTime": "2025/05/15 03:59:59",
+                    "Tip": "재개방 SideStory '츠빌링슈튀르메의 가을'",
+                    "StageName": "ZT",
+                    "UtcStartTime": "2025/05/22 16:00:00",
+                    "UtcExpireTime": "2025/06/01 03:59:59",
+                    "TimeZone": 9
+                }
+            }
+            {
+                "Display": "ZT-7",
+                "Value": "ZT-7",
+                "Drop": "30043",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "재개방 SideStory '츠빌링슈튀르메의 가을'",
+                    "StageName": "ZT",
+                    "UtcStartTime": "2025/05/22 16:00:00",
+                    "UtcExpireTime": "2025/06/01 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "PV-9",
-                "Value": "PV-9",
-                "Drop": "30103",
+                "Display": "ZT-8",
+                "Value": "ZT-8",
+                "Drop": "30063",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory「막을 여는 자들」",
-                    "StageName": "PV",
-                    "UtcStartTime": "2025/04/24 16:00:00",
-                    "UtcExpireTime": "2025/05/15 03:59:59",
+                    "Tip": "재개방 SideStory '츠빌링슈튀르메의 가을'",
+                    "StageName": "ZT",
+                    "UtcStartTime": "2025/05/22 16:00:00",
+                    "UtcExpireTime": "2025/06/01 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "PV-10",
-                "Value": "PV-10",
-                "Drop": "31053",
+                "Display": "ZT-9",
+                "Value": "ZT-9",
+                "Drop": "30073",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "SideStory「막을 여는 자들」",
-                    "StageName": "PV",
-                    "UtcStartTime": "2025/04/24 16:00:00",
-                    "UtcExpireTime": "2025/05/15 03:59:59",
+                    "Tip": "재개방 SideStory '츠빌링슈튀르메의 가을'",
+                    "StageName": "ZT",
+                    "UtcStartTime": "2025/05/22 16:00:00",
+                    "UtcExpireTime": "2025/06/01 03:59:59",
                     "TimeZone": 9
                 }
             }
