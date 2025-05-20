@@ -78,54 +78,67 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
-                "Display": "PV-8",
-                "Value": "PV-8",
-                "Drop": "30083",
+                "Display": "SSReopen-ZT",
+                "Value": "SSReopen-ZT",
+                "Drop": "SS「ツヴィリングトゥルムの黄金」復刻 1~10",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「幕開く者たち」",
-                    "StageName": "PV",
-                    "UtcStartTime": "2025/04/24 16:00:00",
-                    "UtcExpireTime": "2025/05/15 03:59:59",
+                    "Tip": "サイドストーリー「ツヴィリングトゥルムの黄金」復刻",
+                    "StageName": "ZT",
+                    "UtcStartTime": "2025/05/22 16:00:00",
+                    "UtcExpireTime": "2025/06/01 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "PV-9",
-                "Value": "PV-9",
-                "Drop": "30103",
+                "Display": "ZT-7",
+                "Value": "ZT-7",
+                "Drop": "30043",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「幕開く者たち」",
-                    "StageName": "PV",
-                    "UtcStartTime": "2025/04/24 16:00:00",
-                    "UtcExpireTime": "2025/05/15 03:59:59",
+                    "Tip": "サイドストーリー「ツヴィリングトゥルムの黄金」復刻",
+                    "StageName": "ZT",
+                    "UtcStartTime": "2025/05/22 16:00:00",
+                    "UtcExpireTime": "2025/06/01 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "PV-10",
-                "Value": "PV-10",
-                "Drop": "31053",
+                "Display": "ZT-8",
+                "Value": "ZT-8",
+                "Drop": "30063",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「幕開く者たち」",
-                    "StageName": "PV",
-                    "UtcStartTime": "2025/04/24 16:00:00",
-                    "UtcExpireTime": "2025/05/15 03:59:59",
+                    "Tip": "サイドストーリー「ツヴィリングトゥルムの黄金」復刻",
+                    "StageName": "ZT",
+                    "UtcStartTime": "2025/05/22 16:00:00",
+                    "UtcExpireTime": "2025/06/01 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "PV-5",
-                "Value": "PV-5",
-                "Drop": "合成玉効率32%",
+                "Display": "ZT-9",
+                "Value": "ZT-9",
+                "Drop": "30073",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「幕開く者たち」",
-                    "StageName": "PV",
-                    "UtcStartTime": "2025/04/24 16:00:00",
-                    "UtcExpireTime": "2025/05/15 03:59:59",
+                    "Tip": "サイドストーリー「ツヴィリングトゥルムの黄金」復刻",
+                    "StageName": "ZT",
+                    "UtcStartTime": "2025/05/22 16:00:00",
+                    "UtcExpireTime": "2025/06/01 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "ZT-4",
+                "Value": "ZT-4",
+                "Drop": "合成玉効率64%",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "サイドストーリー「ツヴィリングトゥルムの黄金」復刻",
+                    "StageName": "ZT",
+                    "UtcStartTime": "2025/05/22 16:00:00",
+                    "UtcExpireTime": "2025/06/01 03:59:59",
                     "TimeZone": 9
                 }
             }
