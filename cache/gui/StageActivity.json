@@ -230,106 +230,67 @@
     "YoStarEN": {
         "sideStoryStage": [
             {
-                "Display": "GO-4",
-                "Value": "GO-4",
-                "Drop": "Orundum Eff. 69%",
+                "Display": "SSReopen-ZT",
+                "Value": "SSReopen-ZT",
+                "Drop": "Auto-Deploy ZT1~10",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Ending a Grand Overture",
-                    "StageName": "GO",
-                    "UtcStartTime": "2025/04/08 10:00:00",
-                    "UtcExpireTime": "2025/04/22 03:59:59",
+                    "Tip": "Zwillingstürme im Herbst",
+                    "StageName": "ZT",
+                    "UtcStartTime": "2025/05/22 10:00:00",
+                    "UtcExpireTime": "2025/06/01 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "GO-7",
-                "Value": "GO-7",
-                "Drop": "30013",
+                "Display": "ZT-4",
+                "Value": "ZT-4",
+                "Drop": "Orundum efficiency 64%",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Ending a Grand Overture",
-                    "StageName": "GO",
-                    "UtcStartTime": "2025/04/08 10:00:00",
-                    "UtcExpireTime": "2025/04/22 03:59:59",
+                    "Tip": "Zwillingstürme im Herbst",
+                    "StageName": "ZT",
+                    "UtcStartTime": "2025/05/22 10:00:00",
+                    "UtcExpireTime": "2025/06/01 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "GO-8",
-                "Value": "GO-8",
-                "Drop": "31013",
+                "Display": "ZT-7",
+                "Value": "ZT-7",
+                "Drop": "30043",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Ending a Grand Overture",
-                    "StageName": "GO",
-                    "UtcStartTime": "2025/04/08 10:00:00",
-                    "UtcExpireTime": "2025/04/22 03:59:59",
+                    "Tip": "Zwillingstürme im Herbst",
+                    "StageName": "ZT",
+                    "UtcStartTime": "2025/05/22 10:00:00",
+                    "UtcExpireTime": "2025/06/01 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "GO-9",
-                "Value": "GO-9",
-                "Drop": "31043",
+                "Display": "ZT-8",
+                "Value": "ZT-8",
+                "Drop": "30063",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Ending a Grand Overture",
-                    "StageName": "GO",
-                    "UtcStartTime": "2025/04/08 10:00:00",
-                    "UtcExpireTime": "2025/04/22 03:59:59",
+                    "Tip": "Zwillingstürme im Herbst",
+                    "StageName": "ZT",
+                    "UtcStartTime": "2025/05/22 10:00:00",
+                    "UtcExpireTime": "2025/06/01 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "PV-5",
-                "Value": "PV-5",
-                "Drop": "Orundum Eff. 32%",
+                "Display": "ZT-9",
+                "Value": "ZT-9",
+                "Drop": "30073",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "Portatori dei Velluti",
-                    "StageName": "PV",
-                    "UtcStartTime": "2025/04/24 10:00:00",
-                    "UtcExpireTime": "2025/05/15 03:59:59",
-                    "TimeZone": -7
-                }
-            },
-            {
-                "Display": "PV-8",
-                "Value": "PV-8",
-                "Drop": "30083",
-                "MinimumRequired": "v5.5.0",
-                "Activity": {
-                    "Tip": "Portatori dei Velluti",
-                    "StageName": "PV",
-                    "UtcStartTime": "2025/04/24 10:00:00",
-                    "UtcExpireTime": "2025/05/15 03:59:59",
-                    "TimeZone": -7
-                }
-            },
-            {
-                "Display": "PV-9",
-                "Value": "PV-9",
-                "Drop": "30103",
-                "MinimumRequired": "v5.5.0",
-                "Activity": {
-                    "Tip": "Portatori dei Velluti",
-                    "StageName": "PV",
-                    "UtcStartTime": "2025/04/24 10:00:00",
-                    "UtcExpireTime": "2025/05/15 03:59:59",
-                    "TimeZone": -7
-                }
-            },
-            {
-                "Display": "PV-10",
-                "Value": "PV-10",
-                "Drop": "31053",
-                "MinimumRequired": "v5.5.0",
-                "Activity": {
-                    "Tip": "Portatori dei Velluti",
-                    "StageName": "PV",
-                    "UtcStartTime": "2025/04/24 10:00:00",
-                    "UtcExpireTime": "2025/05/15 03:59:59",
+                    "Tip": "Zwillingstürme im Herbst",
+                    "StageName": "ZT",
+                    "UtcStartTime": "2025/05/22 10:00:00",
+                    "UtcExpireTime": "2025/06/01 03:59:59",
                     "TimeZone": -7
                 }
             }

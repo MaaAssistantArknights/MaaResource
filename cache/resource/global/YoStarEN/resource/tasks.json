@@ -8,19 +8,10 @@
     "StageTheme": {
         "roi": [200, 640, 300, 60]
     },
-    "GO-OpenOcr": {
-        "text": ["Ending", "Grand", "Overture", "Once", "Upon", "Time"]
+    "ZT-OpenOcr": {
+        "text": ["Zwilling", "sturme", "Herbst", "open"]
     },
-    "GOChapterToGO": {
-        "text": ["DIE", "HERO", "VILLAIN", "Die", "Hero", "Villain"]
-    },
-    "PV-OpenOcr": {
-        "text": ["Portatori", "Velluti", "Splendida", "Cavalcata", "Decadenza"]
-    },
-    "PVChapterToPV": {
-        "text": ["Quadriglia", "QUADRIGLIA"]
-    },
-    "OrundumActivities": {
-        "text": ["Lucky Strips", "Wishing", "Lucky", "Wall", "Bazaar"]
+    "ZTChapterToZT": {
+        "text": ["Zwillingsturme", "ZWILLINGSTURME", "Anbeten", "ANBETEN"]
     }
 }
