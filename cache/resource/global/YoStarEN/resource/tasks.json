@@ -13,5 +13,13 @@
     },
     "ZTChapterToZT": {
         "text": ["Zwillingsturme", "ZWILLINGSTURME", "Anbeten", "ANBETEN"]
+    },
+    "ZT-4": {
+        "algorithm": "JustReturn",
+        "sub": ["ZT-OpenOcr"],
+        "next": ["ZT-4@SideStoryStage", "ZT-4@SwipeToStage"]
+    },
+    "ZT-4@SideStoryStage": {
+        "text": ["ZT-4"]
     }
 }
