@@ -17,18 +17,10 @@
         "ocrReplace": [["뽑.?", "뽑기"]],
         "text": ["뽑기"]
     },
-    "ZT-OpenOcr": {
-        "text": ["츠빌링", "슈튀르메", "가을", "이벤트", "개방중"]
+    "EP-OpenOcr": {
+        "text": ["창백한", "바다", "로부터의", "탈출", "이벤트", "개방중"]
     },
-    "ZTChapterToZT": {
-        "text": ["쌍둥이", "둥이탑", "탑알현"]
-    },
-    "ZT-4": {
-        "algorithm": "JustReturn",
-        "sub": ["ZT-OpenOcr"],
-        "next": ["ZT-4@SideStoryStage", "ZT-4@SwipeToStage"]
-    },
-    "ZT-4@SideStoryStage": {
-        "text": ["ZT-4"]
+    "EPChapterToEP": {
+        "text": ["소금", "사막", "항해"]
     }
 }

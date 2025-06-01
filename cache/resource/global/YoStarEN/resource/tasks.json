@@ -8,18 +8,10 @@
     "StageTheme": {
         "roi": [200, 640, 300, 60]
     },
-    "ZT-OpenOcr": {
-        "text": ["Zwilling", "sturme", "Herbst", "open"]
+    "EP-OpenOcr": {
+        "text": ["Exodus from the Pale Sea", "Open", "Skeletel", "Reef"]
     },
-    "ZTChapterToZT": {
-        "text": ["Zwillingsturme", "ZWILLINGSTURME", "Anbeten", "ANBETEN"]
-    },
-    "ZT-4": {
-        "algorithm": "JustReturn",
-        "sub": ["ZT-OpenOcr"],
-        "next": ["ZT-4@SideStoryStage", "ZT-4@SwipeToStage"]
-    },
-    "ZT-4@SideStoryStage": {
-        "text": ["ZT-4"]
+    "EPChapterToEP": {
+        "text": ["ACROSS", "SALT FLAT", "Across", "Salt Flat"]
     }
 }
