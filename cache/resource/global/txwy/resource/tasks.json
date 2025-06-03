@@ -1,35 +1,23 @@
 {
-    "StageResource": {
-        "roi": [600, 600, 250, 110]
+    "DT-Open": {
+        "text": ["泰拉飯", "走遍泰拉", "泰拉"]
     },
-    "Roguelike@IntegratedStrategies": {
-        "roi": [0, 600, 1280, 110]
+    "DT-OpenOcr": {
+        "text": ["泰拉飯", "走遍泰拉", "泰拉"]
     },
-    "StageTheme": {
-        "roi": [200, 640, 300, 60]
+    "DTChapterToDT": {
+        "text": ["品嚐魔物", "品嚐", "魔物"]
     },
-    "OrundumActivities": {
-        "text": ["幸運牆", "幸運", "好運牆", "好運", "游樂", "許願牆", "願牆"]
+    "DT-8@SideStoryStage": {
+        "text": ["羅", "德", "島"]
     },
-    "AS-OpenOcr": {
-        "text": [
-            "太陽甩在身後",
-            "太陽",
-            "甩在",
-            "用在",
-            "身後",
-            "市民花園",
-            "市民",
-            "花園",
-            "豐獲集會",
-            "豐獲",
-            "集會",
-            "藏珍寶庫",
-            "藏珍",
-            "寶庫"
-        ]
+    "DT-7@SideStoryStage": {
+        "text": ["健", "康"]
     },
-    "ASChapterToAS": {
-        "text": ["市民花園", "市民", "花園"]
+    "DT-6@SideStoryStage": {
+        "text": ["海", "鮮"]
+    },
+    "DT-3@SideStoryStage": {
+        "text": ["黃", "金"]
     }
 }

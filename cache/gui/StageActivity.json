@@ -280,54 +280,54 @@
                 }
             },
             {
-                "Display": "SL-8",
-                "Value": "SL-8",
-                "Drop": "30083",
+                "Display": "DT-8",
+                "Value": "DT-8",
+                "Drop": "31073",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「火山旅夢」復刻",
-                    "StageName": "火山旅夢",
-                    "UtcStartTime": "2025/05/22 16:00:00",
-                    "UtcExpireTime": "2025/06/01 03:59:59",
+                    "Tip": "SideStory「泰拉飯」",
+                    "StageName": "泰拉飯",
+                    "UtcStartTime": "2025/06/03 16:00:00",
+                    "UtcExpireTime": "2025/06/17 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "SL-7",
-                "Value": "SL-7",
-                "Drop": "31033",
+                "Display": "DT-7",
+                "Value": "DT-7",
+                "Drop": "31023",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「火山旅夢」復刻",
-                    "StageName": "火山旅夢",
-                    "UtcStartTime": "2025/05/22 16:00:00",
-                    "UtcExpireTime": "2025/06/01 03:59:59",
+                    "Tip": "SideStory「泰拉飯」",
+                    "StageName": "泰拉飯",
+                    "UtcStartTime": "2025/06/03 16:00:00",
+                    "UtcExpireTime": "2025/06/17 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "SL-6",
-                "Value": "SL-6",
-                "Drop": "30053",
+                "Display": "DT-6",
+                "Value": "DT-6",
+                "Drop": "30033",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「火山旅夢」復刻",
-                    "StageName": "火山旅夢",
-                    "UtcStartTime": "2025/05/22 16:00:00",
-                    "UtcExpireTime": "2025/06/01 03:59:59",
+                    "Tip": "SideStory「泰拉飯」",
+                    "StageName": "泰拉飯",
+                    "UtcStartTime": "2025/06/03 16:00:00",
+                    "UtcExpireTime": "2025/06/17 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "AS-6",
-                "Value": "AS-6",
+                "Display": "DT-3",
+                "Value": "DT-3",
                 "Drop": "搓玉用",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「太陽甩在身後」",
-                    "StageName": "AS",
-                    "UtcStartTime": "2025/04/24 16:00:00",
-                    "UtcExpireTime": "2025/05/15 03:59:59",
+                    "Tip": "SideStory「泰拉飯」",
+                    "StageName": "泰拉飯",
+                    "UtcStartTime": "2025/06/03 16:00:00",
+                    "UtcExpireTime": "2025/06/17 03:59:59",
                     "TimeZone": 8
                 }
             }
