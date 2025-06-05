@@ -31,6 +31,14 @@ jobs:
           echo "version=$version" | tee -a "$GITHUB_OUTPUT"
           echo "release_note=$release_note" | tee -a "$GITHUB_OUTPUT"
 
+      - uses: MirrorChyan/uploading-action@v1
+        with:
+          filetype: local
+          mirrorchyan_rid: MaaResource
+          pick_files: '["resource"]'
+          version_name: ${{ steps.version_name.outputs.version }}
+          upload_token: ${{ secrets.MirrorChyanUploadToken }}
+
       - uses: MirrorChyan/release-note-action@v1
         with:
           mirrorchyan_rid: MaaResource
@@ -40,12 +48,3 @@ jobs:
           
           upload_token: ${{ secrets.MirrorChyanUploadToken }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: MirrorChyan/uploading-action@v1
-        if: always()
-        with:
-          filetype: local
-          mirrorchyan_rid: MaaResource
-          pick_files: '["resource"]'
-          version_name: ${{ steps.version_name.outputs.version }}
-          upload_token: ${{ secrets.MirrorChyanUploadToken }}
