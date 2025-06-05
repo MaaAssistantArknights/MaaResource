@@ -15,54 +15,54 @@
                 }
             },
             {
-                "Display": "MT-10",
-                "Value": "MT-10",
-                "Drop": "31053",
+                "Display": "AD-8",
+                "Value": "AD-8",
+                "Drop": "31023",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「众生行记」",
-                    "StageName": "众生行记",
-                    "UtcStartTime": "2025/05/01 12:00:00",
-                    "UtcExpireTime": "2025/05/22 03:59:59",
+                    "Tip": "SideStory「红丝绒」",
+                    "StageName": "红丝绒",
+                    "UtcStartTime": "2025/06/05 12:00:00",
+                    "UtcExpireTime": "2025/06/19 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "MT-9",
-                "Value": "MT-9",
-                "Drop": "30093",
+                "Display": "AD-7",
+                "Value": "AD-7",
+                "Drop": "30033",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「众生行记」",
-                    "StageName": "众生行记",
-                    "UtcStartTime": "2025/05/01 12:00:00",
-                    "UtcExpireTime": "2025/05/22 03:59:59",
+                    "Tip": "SideStory「红丝绒」",
+                    "StageName": "红丝绒",
+                    "UtcStartTime": "2025/06/05 12:00:00",
+                    "UtcExpireTime": "2025/06/19 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "MT-8",
-                "Value": "MT-8",
-                "Drop": "30053",
+                "Display": "AD-6",
+                "Value": "AD-6",
+                "Drop": "30063",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「众生行记」",
-                    "StageName": "众生行记",
-                    "UtcStartTime": "2025/05/01 12:00:00",
-                    "UtcExpireTime": "2025/05/22 03:59:59",
+                    "Tip": "SideStory「红丝绒」",
+                    "StageName": "红丝绒",
+                    "UtcStartTime": "2025/06/05 12:00:00",
+                    "UtcExpireTime": "2025/06/19 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "MT-6",
-                "Value": "MT-6",
-                "Drop": "搓玉效率0.69",
+                "Display": "AD-3",
+                "Value": "AD-3",
+                "Drop": "搓玉效率待定",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「众生行记」",
-                    "StageName": "众生行记",
-                    "UtcStartTime": "2025/05/01 12:00:00",
-                    "UtcExpireTime": "2025/05/22 03:59:59",
+                    "Tip": "SideStory「红丝绒」",
+                    "StageName": "红丝绒",
+                    "UtcStartTime": "2025/06/05 12:00:00",
+                    "UtcExpireTime": "2025/06/19 03:59:59",
                     "TimeZone": 8
                 }
             }
