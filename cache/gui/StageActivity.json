@@ -56,7 +56,7 @@
             {
                 "Display": "AD-3",
                 "Value": "AD-3",
-                "Drop": "搓玉效率待定",
+                "Drop": "搓玉效率0.98",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
                     "Tip": "SideStory「红丝绒」",
