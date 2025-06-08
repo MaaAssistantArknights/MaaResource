@@ -1,14 +1,3 @@
 # MaaResource
 
-同步 [MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) 中与 MaaCore 版本无关，需要动态更新的文件
-
-## 文件列表
-
-### resource
-
-- [dynamic_list.txt](https://api.maa.plus/MaaAssistantArknights/MaaAssistantArknights/resource/dynamic_list.txt)
-- [MaaSingleFiles](https://github.com/MaaAssistantArknights/MaaAssistantArknights/blob/dev/src/MaaWpfGui/Models/ResourceUpdater.cs#L31)
-
-### cache
-
-- [api](https://api.maa.plus/MaaAssistantArknights/api/resource/)
+同步 [MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) 中与 MaaCore 版本无关，需要动态更新的文件（如新活动地图、公招数据等）
