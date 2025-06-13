@@ -17,6 +17,9 @@
         "ocrReplace": [["뽑.?", "뽑기"]],
         "text": ["뽑기"]
     },
+    "EP-OpenOcr": {
+        "text": ["창백한", "바다", "로부터의", "탈출"]
+    },
     "EP-OpenOpt": {
         "next": ["EP-Open"]
     },
