@@ -267,67 +267,67 @@
     "txwy": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-SL",
-                "Value": "SSReopen-SL",
+                "Display": "SSReopen-CV",
+                "Value": "SSReopen-CV",
                 "Drop": "代理1~8",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「火山旅夢」復刻",
-                    "StageName": "火山旅夢",
-                    "UtcStartTime": "2025/05/22 16:00:00",
-                    "UtcExpireTime": "2025/06/01 03:59:59",
+                    "Tip": "SideStory「不義之財」復刻",
+                    "StageName": "不義之財",
+                    "UtcStartTime": "2025/06/17 16:00:00",
+                    "UtcExpireTime": "2025/06/27 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "DT-8",
-                "Value": "DT-8",
-                "Drop": "31073",
+                "Display": "CV-8",
+                "Value": "CV-8",
+                "Drop": "30103",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「泰拉飯」",
-                    "StageName": "泰拉飯",
-                    "UtcStartTime": "2025/06/03 16:00:00",
-                    "UtcExpireTime": "2025/06/17 03:59:59",
+                    "Tip": "SideStory「不義之財」",
+                    "StageName": "不義之財",
+                    "UtcStartTime": "2025/06/17 16:00:00",
+                    "UtcExpireTime": "2025/06/27 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "DT-7",
-                "Value": "DT-7",
-                "Drop": "31023",
+                "Display": "CV-7",
+                "Value": "CV-7",
+                "Drop": "31013",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「泰拉飯」",
-                    "StageName": "泰拉飯",
-                    "UtcStartTime": "2025/06/03 16:00:00",
-                    "UtcExpireTime": "2025/06/17 03:59:59",
+                    "Tip": "SideStory「不義之財」",
+                    "StageName": "不義之財",
+                    "UtcStartTime": "2025/06/17 16:00:00",
+                    "UtcExpireTime": "2025/06/27 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "DT-6",
-                "Value": "DT-6",
-                "Drop": "30033",
+                "Display": "CV-6",
+                "Value": "CV-6",
+                "Drop": "30043",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「泰拉飯」",
-                    "StageName": "泰拉飯",
-                    "UtcStartTime": "2025/06/03 16:00:00",
-                    "UtcExpireTime": "2025/06/17 03:59:59",
+                    "Tip": "SideStory「不義之財」",
+                    "StageName": "不義之財",
+                    "UtcStartTime": "2025/06/17 16:00:00",
+                    "UtcExpireTime": "2025/06/27 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "DT-3",
-                "Value": "DT-3",
+                "Display": "CV-4",
+                "Value": "CV-4",
                 "Drop": "搓玉用",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「泰拉飯」",
-                    "StageName": "泰拉飯",
-                    "UtcStartTime": "2025/06/03 16:00:00",
-                    "UtcExpireTime": "2025/06/17 03:59:59",
+                    "Tip": "SideStory「不義之財」",
+                    "StageName": "不義之財",
+                    "UtcStartTime": "2025/06/17 16:00:00",
+                    "UtcExpireTime": "2025/06/27 03:59:59",
                     "TimeZone": 8
                 }
             }
