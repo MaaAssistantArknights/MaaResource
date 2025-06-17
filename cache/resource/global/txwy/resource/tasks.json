@@ -1,23 +1,11 @@
 {
-    "DT-Open": {
-        "text": ["泰拉飯", "走遍泰拉", "泰拉"]
+    "CV-Open": {
+        "text": ["不義之財", "之財"]
     },
-    "DT-OpenOcr": {
-        "text": ["泰拉飯", "走遍泰拉", "泰拉"]
+    "CV-OpenOcr": {
+        "text": ["不義之財", "之財"]
     },
-    "DTChapterToDT": {
-        "text": ["品嚐魔物", "品嚐", "魔物"]
-    },
-    "DT-8@SideStoryStage": {
-        "text": ["羅", "德", "島"]
-    },
-    "DT-7@SideStoryStage": {
-        "text": ["健", "康"]
-    },
-    "DT-6@SideStoryStage": {
-        "text": ["海", "鮮"]
-    },
-    "DT-3@SideStoryStage": {
-        "text": ["黃", "金"]
+    "CVChapterToCV": {
+        "text": ["蒼白平台", "蒼白", "平台"]
     }
 }
