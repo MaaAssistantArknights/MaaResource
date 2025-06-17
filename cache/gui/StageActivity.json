@@ -2,15 +2,67 @@
     "Official": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-BB",
-                "Value": "SSReopen-BB",
+                "Display": "SSReopen-BP",
+                "Value": "SSReopen-BP",
                 "Drop": "代理1~8",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「巴别塔」复刻",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/04/21 16:00:00",
-                    "UtcExpireTime": "2025/05/01 03:59:59",
+                    "Tip": "SideStory「生路」复刻",
+                    "StageName": "BP",
+                    "UtcStartTime": "2025/06/19 16:00:00",
+                    "UtcExpireTime": "2025/07/03 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "BP-7",
+                "Value": "BP-7",
+                "Drop": "扭转醇（无限池，不推荐刷）",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory「生路」",
+                    "StageName": "生路",
+                    "UtcStartTime": "2025/06/19 16:00:00",
+                    "UtcExpireTime": "2025/07/03 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "BP-6",
+                "Value": "BP-6",
+                "Drop": "30023",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory「生路」",
+                    "StageName": "生路",
+                    "UtcStartTime": "2025/06/19 16:00:00",
+                    "UtcExpireTime": "2025/07/03 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "BP-5",
+                "Value": "BP-5",
+                "Drop": "晶体元件（雑魚~雑魚~）",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory「生路」",
+                    "StageName": "生路",
+                    "UtcStartTime": "2025/06/19 16:00:00",
+                    "UtcExpireTime": "2025/07/03 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "BP-4",
+                "Value": "BP-4",
+                "Drop": "搓玉效率0.7",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory「生路」",
+                    "StageName": "生路",
+                    "UtcStartTime": "2025/06/19 16:00:00",
+                    "UtcExpireTime": "2025/07/03 03:59:59",
                     "TimeZone": 8
                 }
             },
