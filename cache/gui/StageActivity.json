@@ -358,6 +358,58 @@
                     "UtcExpireTime": "2025/06/19 03:59:59",
                     "TimeZone": -7
                 }
+            },
+            {
+                "Display": "SSReopen-RS",
+                "Value": "SSReopen-RS",
+                "Drop": "Auto-Deploy RS1~8",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "The Rides to Lake Silberneherze - Rerun",
+                    "StageName": "RS",
+                    "UtcStartTime": "2025/06/20 10:00:00",
+                    "UtcExpireTime": "2025/06/30 03:59:59",
+                    "TimeZone": -7
+                }
+            },
+            {
+                "Display": "RS-6",
+                "Value": "RS-6",
+                "Drop": "30033",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "The Rides to Lake Silberneherze - Rerun",
+                    "StageName": "RS",
+                    "UtcStartTime": "2025/06/20 10:00:00",
+                    "UtcExpireTime": "2025/06/30 03:59:59",
+                    "TimeZone": -7
+                }
+            },
+            {
+                "Display": "RS-7",
+                "Value": "RS-7",
+                "Drop": "30083",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "The Rides to Lake Silberneherze - Rerun",
+                    "StageName": "RS",
+                    "UtcStartTime": "2025/06/20 10:00:00",
+                    "UtcExpireTime": "2025/06/30 03:59:59",
+                    "TimeZone": -7
+                }
+            },
+            {
+                "Display": "RS-8",
+                "Value": "RS-8",
+                "Drop": "31033",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "The Rides to Lake Silberneherze - Rerun",
+                    "StageName": "RS",
+                    "UtcStartTime": "2025/06/20 10:00:00",
+                    "UtcExpireTime": "2025/06/30 03:59:59",
+                    "TimeZone": -7
+                }
             }
         ],
         "resourceCollection": {
