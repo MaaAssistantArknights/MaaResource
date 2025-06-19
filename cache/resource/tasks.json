@@ -77,5 +77,8 @@
   },
   "AD-3@SideStoryStage": {
     "text": ["AD-3"]
+  },
+  "SideStoryReopen": {
+    "text": ["活动已开放"]
   }
 }
