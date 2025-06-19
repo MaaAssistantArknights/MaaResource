@@ -130,54 +130,67 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
-                "Display": "EP-6",
-                "Value": "EP-6",
-                "Drop": "30023",
+                "Display": "SSReopen-RS",
+                "Value": "SSReopen-RS",
+                "Drop": "SS「銀心湖鉄道」復刻代理 1~8",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「白き海の彼方へ」",
-                    "StageName": "EP",
-                    "UtcStartTime": "2025/06/05 16:00:00",
-                    "UtcExpireTime": "2025/06/19 03:59:59",
+                    "Tip": "サイドストーリー「銀心湖鉄道」復刻",
+                    "StageName": "RS",
+                    "UtcStartTime": "2025/06/20 16:00:00",
+                    "UtcExpireTime": "2025/06/30 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "EP-7",
-                "Value": "EP-7",
-                "Drop": "30053",
+                "Display": "RS-6",
+                "Value": "RS-6",
+                "Drop": "30033",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「白き海の彼方へ」",
-                    "StageName": "EP",
-                    "UtcStartTime": "2025/06/05 16:00:00",
-                    "UtcExpireTime": "2025/06/19 03:59:59",
+                    "Tip": "サイドストーリー「銀心湖鉄道」復刻",
+                    "StageName": "RS",
+                    "UtcStartTime": "2025/06/20 16:00:00",
+                    "UtcExpireTime": "2025/06/30 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "EP-8",
-                "Value": "EP-8",
-                "Drop": "30093",
+                "Display": "RS-7",
+                "Value": "RS-7",
+                "Drop": "30083",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「白き海の彼方へ」",
-                    "StageName": "EP",
-                    "UtcStartTime": "2025/06/05 16:00:00",
-                    "UtcExpireTime": "2025/06/19 03:59:59",
+                    "Tip": "サイドストーリー「銀心湖鉄道」復刻",
+                    "StageName": "RS",
+                    "UtcStartTime": "2025/06/20 16:00:00",
+                    "UtcExpireTime": "2025/06/30 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "EP-4",
-                "Value": "EP-4",
+                "Display": "RS-8",
+                "Value": "RS-8",
+                "Drop": "31033",
+                "MinimumRequired": "v5.5.0",
+                "Activity": {
+                    "Tip": "サイドストーリー「銀心湖鉄道」復刻",
+                    "StageName": "RS",
+                    "UtcStartTime": "2025/06/20 16:00:00",
+                    "UtcExpireTime": "2025/06/30 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "RS-5",
+                "Value": "RS-5",
                 "Drop": "合成玉効率64%",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「白き海の彼方へ」",
-                    "StageName": "EP",
-                    "UtcStartTime": "2025/06/05 16:00:00",
-                    "UtcExpireTime": "2025/06/19 03:59:59",
+                    "Tip": "サイドストーリー「銀心湖鉄道」復刻",
+                    "StageName": "RS",
+                    "UtcStartTime": "2025/06/20 16:00:00",
+                    "UtcExpireTime": "2025/06/30 03:59:59",
                     "TimeZone": 9
                 }
             }

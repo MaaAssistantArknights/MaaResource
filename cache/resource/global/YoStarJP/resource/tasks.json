@@ -30,10 +30,10 @@
     "OrundumActivitiesConfirm": {
         "text": ["引く", "引<"]
     },
-    "EP-OpenOcr": {
-        "text": ["白き海の彼方へ", "白き海", "彼方へ", "骸礁突破", "ステージ開放中"]
+    "RS-OpenOcr": {
+        "text": ["銀心湖鉄道", "銀心湖", "鉄道", "イベント復刻開催中"]
     },
-    "EPChapterToEP": {
-        "text": ["塩海横断", "塩海", "横断"]
+    "RSChapterToRS": {
+        "text": ["3番線ホーム", "番線", "ホーム"]
     }
 }
