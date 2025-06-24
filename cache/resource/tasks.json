@@ -1,7 +1,9 @@
 {
   "BP-Open": {
-    "baseTask": "SS-Open",
+    "baseTask": "#none",
     "template": ["StageSideStory.png", "StageActivity.png"],
+    "action": "ClickSelf",
+    "postDelay": 2000,
     "roi": [505, 57, 462, 628],
     "next": ["BPChapterToBP"]
   },
