@@ -449,54 +449,54 @@
                 }
             },
             {
-                "Display": "CV-8",
-                "Value": "CV-8",
+                "Display": "PV-10",
+                "Value": "PV-10",
+                "Drop": "31053",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory「揭幕者們」",
+                    "StageName": "揭幕者們",
+                    "UtcStartTime": "2025/06/27 16:00:00",
+                    "UtcExpireTime": "2025/07/18 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "PV-9",
+                "Value": "PV-9",
                 "Drop": "30103",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「不義之財」",
-                    "StageName": "不義之財",
-                    "UtcStartTime": "2025/06/17 16:00:00",
-                    "UtcExpireTime": "2025/06/27 03:59:59",
+                    "Tip": "SideStory「揭幕者們」",
+                    "StageName": "揭幕者們",
+                    "UtcStartTime": "2025/06/27 16:00:00",
+                    "UtcExpireTime": "2025/07/18 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "CV-7",
-                "Value": "CV-7",
-                "Drop": "31013",
+                "Display": "PV-8",
+                "Value": "PV-8",
+                "Drop": "30083",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「不義之財」",
-                    "StageName": "不義之財",
-                    "UtcStartTime": "2025/06/17 16:00:00",
-                    "UtcExpireTime": "2025/06/27 03:59:59",
+                    "Tip": "SideStory「揭幕者們」",
+                    "StageName": "揭幕者們",
+                    "UtcStartTime": "2025/06/27 16:00:00",
+                    "UtcExpireTime": "2025/07/18 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "CV-6",
-                "Value": "CV-6",
-                "Drop": "30043",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "SideStory「不義之財」",
-                    "StageName": "不義之財",
-                    "UtcStartTime": "2025/06/17 16:00:00",
-                    "UtcExpireTime": "2025/06/27 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "CV-4",
-                "Value": "CV-4",
+                "Display": "PV-5",
+                "Value": "PV-5",
                 "Drop": "搓玉用",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「不義之財」",
-                    "StageName": "不義之財",
-                    "UtcStartTime": "2025/06/17 16:00:00",
-                    "UtcExpireTime": "2025/06/27 03:59:59",
+                    "Tip": "SideStory「揭幕者們」",
+                    "StageName": "揭幕者們",
+                    "UtcStartTime": "2025/06/27 16:00:00",
+                    "UtcExpireTime": "2025/07/18 03:59:59",
                     "TimeZone": 8
                 }
             }

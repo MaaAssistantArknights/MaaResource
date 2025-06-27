@@ -1,11 +1,11 @@
 {
-    "CV-Open": {
-        "text": ["不義之財", "之財"]
+    "PV-Open": {
+        "text": ["揭幕者們", "揭幕", "者們"]
     },
-    "CV-OpenOcr": {
-        "text": ["不義之財", "之財"]
+    "PV-OpenOcr": {
+        "text": ["揭幕者們", "揭幕", "者們"]
     },
-    "CVChapterToCV": {
-        "text": ["蒼白平台", "蒼白", "平台"]
+    "PVChapterToPV": {
+        "text": ["四幕匯演", "四幕", "匯演"]
     }
 }
