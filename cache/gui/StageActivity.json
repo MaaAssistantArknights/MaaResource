@@ -130,67 +130,54 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-RS",
-                "Value": "SSReopen-RS",
-                "Drop": "SS「銀心湖鉄道」復刻代理 1~8",
+                "Display": "SSReopen-HS",
+                "Value": "SSReopen-HS",
+                "Drop": "SS「懐黍離」復刻代理 1~9",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「銀心湖鉄道」復刻",
-                    "StageName": "RS",
-                    "UtcStartTime": "2025/06/20 16:00:00",
-                    "UtcExpireTime": "2025/06/30 03:59:59",
+                    "Tip": "サイドストーリー「懐黍離」復刻",
+                    "StageName": "HS",
+                    "UtcStartTime": "2025/07/03 16:00:00",
+                    "UtcExpireTime": "2025/07/13 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "RS-6",
-                "Value": "RS-6",
-                "Drop": "30033",
+                "Display": "HS-7",
+                "Value": "HS-7",
+                "Drop": "30013",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「銀心湖鉄道」復刻",
-                    "StageName": "RS",
-                    "UtcStartTime": "2025/06/20 16:00:00",
-                    "UtcExpireTime": "2025/06/30 03:59:59",
+                    "Tip": "サイドストーリー「懐黍離」復刻",
+                    "StageName": "HS",
+                    "UtcStartTime": "2025/07/03 16:00:00",
+                    "UtcExpireTime": "2025/07/13 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "RS-7",
-                "Value": "RS-7",
-                "Drop": "30083",
+                "Display": "HS-9",
+                "Value": "HS-9",
+                "Drop": "30103",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「銀心湖鉄道」復刻",
-                    "StageName": "RS",
-                    "UtcStartTime": "2025/06/20 16:00:00",
-                    "UtcExpireTime": "2025/06/30 03:59:59",
+                    "Tip": "サイドストーリー「懐黍離」復刻",
+                    "StageName": "HS",
+                    "UtcStartTime": "2025/07/03 16:00:00",
+                    "UtcExpireTime": "2025/07/13 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "RS-8",
-                "Value": "RS-8",
-                "Drop": "31033",
+                "Display": "HS-5",
+                "Value": "HS-5",
+                "Drop": "合成玉効率32%",
                 "MinimumRequired": "v5.5.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「銀心湖鉄道」復刻",
-                    "StageName": "RS",
-                    "UtcStartTime": "2025/06/20 16:00:00",
-                    "UtcExpireTime": "2025/06/30 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "RS-5",
-                "Value": "RS-5",
-                "Drop": "合成玉効率64%",
-                "MinimumRequired": "v5.5.0",
-                "Activity": {
-                    "Tip": "サイドストーリー「銀心湖鉄道」復刻",
-                    "StageName": "RS",
-                    "UtcStartTime": "2025/06/20 16:00:00",
-                    "UtcExpireTime": "2025/06/30 03:59:59",
+                    "Tip": "サイドストーリー「懐黍離」復刻",
+                    "StageName": "HS",
+                    "UtcStartTime": "2025/07/03 16:00:00",
+                    "UtcExpireTime": "2025/07/13 03:59:59",
                     "TimeZone": 9
                 }
             }

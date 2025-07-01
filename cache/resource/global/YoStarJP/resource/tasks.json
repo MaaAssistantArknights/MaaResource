@@ -30,10 +30,10 @@
     "OrundumActivitiesConfirm": {
         "text": ["引く", "引<"]
     },
-    "RS-OpenOcr": {
-        "text": ["銀心湖鉄道", "銀心湖", "鉄道", "イベント復刻開催中"]
+    "HS-OpenOcr": {
+        "text": ["懐黍離", "イベント復刻開催中"]
     },
-    "RSChapterToRS": {
-        "text": ["3番線ホーム", "番線", "ホーム"]
+    "HSChapterToHS": {
+        "text": ["栽培区画", "栽培", "区画"]
     }
 }
