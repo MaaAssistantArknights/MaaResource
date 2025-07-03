@@ -8,16 +8,10 @@
     "StageTheme": {
         "roi": [200, 640, 300, 60]
     },
-    "EP-OpenOcr": {
-        "text": ["Exodus from the Pale Sea", "Open", "Skeletel", "Reef"]
+    "HS-OpenOcr": {
+        "text": ["Here", "People", "Sows"]
     },
-    "EPChapterToEP": {
-        "text": ["ACROSS", "SALT", "FLAT"]
-    },
-    "RS-OpenOcr": {
-        "text": ["Rides", "Silberneherze", "Lake", "open"]
-    },
-    "RSChapterToRS": {
-        "text": ["PLATFORM", "NO", "3"]
+    "HSChapterToHS": {
+        "text": ["Agricultural", "Plate", "AGRICULTURAL", "PLATE"]
     }
 }

@@ -17,19 +17,10 @@
         "ocrReplace": [["뽑.?", "뽑기"]],
         "text": ["뽑기"]
     },
-    "RS-OpenOcr": {
-        "text": ["은심호", "열차", "승강장", "특급열차"]
+    "HS-OpenOcr": {
+        "text": ["회서리", "이벤트", "개방중"]
     },
-    "RSChapterToRS": {
-        "text": ["3번", "승강장"]
-    },
-    "EP-OpenOcr": {
-        "text": ["창백한", "바다", "로부터의", "탈출"]
-    },
-    "EP-OpenOpt": {
-        "next": ["EP-Open"]
-    },
-    "EPChapterToEP": {
-        "text": ["소금", "사막", "항해"]
+    "HSChapterToHS": {
+        "text": ["경작지"]
     }
 }
