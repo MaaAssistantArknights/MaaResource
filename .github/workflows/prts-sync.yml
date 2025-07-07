@@ -1,0 +1,28 @@
+name: prts sync
+
+on:
+  push:
+    branches:
+      - "main"
+    paths:
+      - "resource/Arknights-Tile-Pos/**"
+  workflow_dispatch:
+
+jobs:
+  sync-prts-levels:
+    runs-on: macos-latest
+    steps:
+      - name: Sync PRTS levels
+        run: |
+            curl -v -XPOST https://prts.maa.plus/webhook/levels/sync -H 'X-API-KEY: ${{ secrets.PRTS_API_KEY }}'
+      
+      - name: Create issue if failed
+        if: failure()
+        uses: actions-cool/issues-helper@v3
+        with:
+          actions: "create-issue"
+          title: "Failed to sync PRTS levels"
+          body: |
+            ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+            @MistEO @ABA2396 @dragove
