@@ -14,7 +14,15 @@ jobs:
     steps:
       - name: Sync PRTS levels
         run: |
-            curl -v -XPOST https://prts.maa.plus/webhook/levels/sync -H 'X-API-KEY: ${{ secrets.PRTS_API_KEY }}'
+            for i in {1..3}; do
+                curl -v -XPOST https://prts.maa.plus/webhook/levels/sync -H 'X-API-KEY: ${{ secrets.PRTS_API_KEY }}'
+                if [ $? -eq 0 ]; then
+                    exit 0
+                fi
+                sleep 30
+            done
+            echo "Failed to sync PRTS levels after 3 attempts"
+            exit 1
       
       - name: Create issue if failed
         if: failure()
