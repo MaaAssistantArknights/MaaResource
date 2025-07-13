@@ -2,6 +2,9 @@
 
 同步 [MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) 中与 MaaCore 版本无关，需要动态更新的文件（如新活动地图、公招数据等）
 
+## 手动更新资源文件方法 | Manual resource update
+https://github.com/MaaAssistantArknights/MaaAssistantArknights/issues/10033
+
 ## 鸣谢
 
 本项目 CDN 加速及安全防护由 Tencent EdgeOne 赞助
