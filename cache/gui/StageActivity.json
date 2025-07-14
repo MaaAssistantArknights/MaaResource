@@ -130,67 +130,54 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-HS",
-                "Value": "SSReopen-HS",
-                "Drop": "SS「懐黍離」復刻代理 1~9",
+                "Display": "OR-9",
+                "Value": "OR-9",
+                "Drop": "31063",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「懐黍離」復刻",
-                    "StageName": "HS",
-                    "UtcStartTime": "2025/07/03 16:00:00",
-                    "UtcExpireTime": "2025/07/13 03:59:59",
+                    "Tip": "サイドストーリー「相見歓」",
+                    "StageName": "OR",
+                    "UtcStartTime": "2025/07/17 16:00:00",
+                    "UtcExpireTime": "2025/08/07 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "HS-9",
-                "Value": "HS-9",
-                "Drop": "30103",
+                "Display": "OR-8",
+                "Value": "OR-8",
+                "Drop": "31023",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「懐黍離」復刻",
-                    "StageName": "HS",
-                    "UtcStartTime": "2025/07/03 16:00:00",
-                    "UtcExpireTime": "2025/07/13 03:59:59",
+                    "Tip": "サイドストーリー「相見歓」",
+                    "StageName": "OR",
+                    "UtcStartTime": "2025/07/17 16:00:00",
+                    "UtcExpireTime": "2025/08/07 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "HS-8",
-                "Value": "HS-8",
-                "Drop": "30073",
+                "Display": "OR-7",
+                "Value": "OR-7",
+                "Drop": "30063",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「懐黍離」復刻",
-                    "StageName": "HS",
-                    "UtcStartTime": "2025/07/03 16:00:00",
-                    "UtcExpireTime": "2025/07/13 03:59:59",
+                    "Tip": "サイドストーリー「相見歓」",
+                    "StageName": "OR",
+                    "UtcStartTime": "2025/07/17 16:00:00",
+                    "UtcExpireTime": "2025/08/07 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "HS-7",
-                "Value": "HS-7",
-                "Drop": "30013",
+                "Display": "OR-5",
+                "Value": "OR-5",
+                "Drop": "合成玉効率51%",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「懐黍離」復刻",
-                    "StageName": "HS",
-                    "UtcStartTime": "2025/07/03 16:00:00",
-                    "UtcExpireTime": "2025/07/13 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "HS-5",
-                "Value": "HS-5",
-                "Drop": "合成玉効率32%",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "サイドストーリー「懐黍離」復刻",
-                    "StageName": "HS",
-                    "UtcStartTime": "2025/07/03 16:00:00",
-                    "UtcExpireTime": "2025/07/13 03:59:59",
+                    "Tip": "サイドストーリー「相見歓」",
+                    "StageName": "OR",
+                    "UtcStartTime": "2025/07/17 16:00:00",
+                    "UtcExpireTime": "2025/08/07 03:59:59",
                     "TimeZone": 9
                 }
             }
@@ -206,68 +193,54 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-HS",
-                "Value": "SSReopen-HS",
-                "Drop": "복각대리 1~9",
+                "Display": "OR-9",
+                "Value": "OR-9",
+                "Drop": "31063",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory '회서리' 재개방",
-                    "StageName": "HS",
-                    "UtcStartTime": "2025/07/03 16:00:00",
-                    "UtcExpireTime": "2025/07/13 03:59:59",
+                    "Tip": "SideStory '상견환'",
+                    "StageName": "OR",
+                    "UtcStartTime": "2025/07/17 16:00:00",
+                    "UtcExpireTime": "2025/08/07 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "HS-9",
-                "Value": "HS-9",
-                "Drop": "30103",
+                "Display": "OR-8",
+                "Value": "OR-8",
+                "Drop": "31023",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory '회서리' 재개방",
-                    "StageName": "HS",
-                    "UtcStartTime": "2025/07/03 16:00:00",
-                    "UtcExpireTime": "2025/07/13 03:59:59",
+                    "Tip": "SideStory '상견환'",
+                    "StageName": "OR",
+                    "UtcStartTime": "2025/07/17 16:00:00",
+                    "UtcExpireTime": "2025/08/07 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "HS-8",
-                "Value": "HS-8",
-                "Drop": "30073",
+                "Display": "OR-7",
+                "Value": "OR-7",
+                "Drop": "30063",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory '회서리' 재개방",
-                    "StageName": "HS",
-                    "UtcStartTime": "2025/07/03 16:00:00",
-                    "UtcExpireTime": "2025/07/13 03:59:59",
+                    "Tip": "SideStory '상견환'",
+                    "StageName": "OR",
+                    "UtcStartTime": "2025/07/17 16:00:00",
+                    "UtcExpireTime": "2025/08/07 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "HS-7",
-                "Value": "HS-7",
-                "Drop": "30013",
+                "Display": "OR-5",
+                "Value": "OR-5",
+                "Drop": "합성옥 효율 51%",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory '회서리' 재개방",
-                    "StageName": "HS",
-                    "UtcStartTime": "2025/07/03 16:00:00",
-                    "UtcExpireTime": "2025/07/13 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "HS-5",
-                "Value": "HS-5",
-                "Drop": "합성옥 효율 32%",
-
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "SideStory '회서리' 재개방",
-                    "StageName": "HS",
-                    "UtcStartTime": "2025/07/03 16:00:00",
-                    "UtcExpireTime": "2025/07/13 03:59:59",
+                    "Tip": "SideStory '상견환'",
+                    "StageName": "OR",
+                    "UtcStartTime": "2025/07/17 16:00:00",
+                    "UtcExpireTime": "2025/08/07 03:59:59",
                     "TimeZone": 9
                 }
             }
@@ -283,68 +256,54 @@
     "YoStarEN": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-HS",
-                "Value": "SSReopen-HS",
-                "Drop": "Auto-Deploy HS1~9",
+                "Display": "OR-9",
+                "Value": "OR-9",
+                "Drop": "31063",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "Here A People Sows - Rerun",
-                    "StageName": "HS",
-                    "UtcStartTime": "2025/07/03 10:00:00",
-                    "UtcExpireTime": "2025/07/13 03:59:59",
+                    "Tip": "Such is the Joy of Our Reunion",
+                    "StageName": "OR",
+                    "UtcStartTime": "2025/07/17 10:00:00",
+                    "UtcExpireTime": "2025/08/07 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "HS-9",
-                "Value": "HS-9",
-                "Drop": "30103",
+                "Display": "OR-8",
+                "Value": "OR-8",
+                "Drop": "31023",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "Here A People Sows - Rerun",
-                    "StageName": "HS",
-                    "UtcStartTime": "2025/07/03 10:00:00",
-                    "UtcExpireTime": "2025/07/13 03:59:59",
+                    "Tip": "Such is the Joy of Our Reunion",
+                    "StageName": "OR",
+                    "UtcStartTime": "2025/07/17 10:00:00",
+                    "UtcExpireTime": "2025/08/07 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "HS-8",
-                "Value": "HS-8",
-                "Drop": "30073",
+                "Display": "OR-7",
+                "Value": "OR-7",
+                "Drop": "30063",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "Here A People Sows - Rerun",
-                    "StageName": "HS",
-                    "UtcStartTime": "2025/07/03 10:00:00",
-                    "UtcExpireTime": "2025/07/13 03:59:59",
+                    "Tip": "Such is the Joy of Our Reunion",
+                    "StageName": "OR",
+                    "UtcStartTime": "2025/07/17 10:00:00",
+                    "UtcExpireTime": "2025/08/07 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "HS-7",
-                "Value": "HS-7",
-                "Drop": "30013",
+                "Display": "OR-5",
+                "Value": "OR-5",
+                "Drop": "Orundum efficiency 51%",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "Here A People Sows - Rerun",
-                    "StageName": "HS",
-                    "UtcStartTime": "2025/07/03 10:00:00",
-                    "UtcExpireTime": "2025/07/13 03:59:59",
-                    "TimeZone": -7
-                }
-            },
-            {
-                "Display": "HS-5",
-                "Value": "HS-5",
-                "Drop": "Orundum efficiency 32%",
-
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "Here A People Sows - Rerun",
-                    "StageName": "HS",
-                    "UtcStartTime": "2025/07/03 10:00:00",
-                    "UtcExpireTime": "2025/07/13 03:59:59",
+                    "Tip": "Such is the Joy of Our Reunion",
+                    "StageName": "OR",
+                    "UtcStartTime": "2025/07/17 10:00:00",
+                    "UtcExpireTime": "2025/08/07 03:59:59",
                     "TimeZone": -7
                 }
             }
