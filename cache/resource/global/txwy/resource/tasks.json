@@ -1,14 +1,8 @@
 {
-    "SpecialAccessActivities": {
-        "text": ["周年", "專享", "活動", "月卡", "推薦"]
+    "GO-OpenOcr": {
+        "text": ["追跡日落以西", "未了", "往昔"]
     },
-    "SpecialAccessActivitiesConfirm": {
-        "text": ["立即", "立即領取"]
-    },
-    "PV-OpenOcr": {
-        "text": ["揭幕者們", "揭幕", "者們", "彩車", "遊行", "荒蕪", "之舞"]
-    },
-    "PVChapterToPV": {
-        "text": ["四幕匯演", "四幕", "匯演"]
+    "GOChapterToGO": {
+        "text": ["無名之勛", "名之", "之", "名"]
     }
 }
