@@ -319,54 +319,54 @@
     "txwy": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-CV",
-                "Value": "SSReopen-CV",
-                "Drop": "代理1~8",
+                "Display": "SSReopen-ZT",
+                "Value": "SSReopen-ZT",
+                "Drop": "代理1~10",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「不義之財」復刻",
-                    "StageName": "不義之財",
-                    "UtcStartTime": "2025/06/17 16:00:00",
-                    "UtcExpireTime": "2025/06/27 03:59:59",
+                    "Tip": "SideStory「崔林特爾梅之金」復刻",
+                    "StageName": "崔林特爾梅之金 復刻",
+                    "UtcStartTime": "2025/08/01 16:00:00",
+                    "UtcExpireTime": "2025/08/11 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "GO-9",
-                "Value": "GO-9",
-                "Drop": "31043",
+                "Display": "ZT-9",
+                "Value": "ZT-9",
+                "Drop": "扭轉醇（無限池，不推薦刷）",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「追跡日落以西」",
-                    "StageName": "追跡日落以西",
-                    "UtcStartTime": "2025/07/18 16:00:00",
-                    "UtcExpireTime": "2025/08/01 03:59:59",
+                    "Tip": "SideStory「崔林特爾梅之金」復刻",
+                    "StageName": "崔林特爾梅之金 復刻",
+                    "UtcStartTime": "2025/08/01 16:00:00",
+                    "UtcExpireTime": "2025/08/11 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "GO-8",
-                "Value": "GO-8",
-                "Drop": "31013",
+                "Display": "ZT-8",
+                "Value": "ZT-8",
+                "Drop": "30063",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「追跡日落以西」",
-                    "StageName": "追跡日落以西",
-                    "UtcStartTime": "2025/07/18 16:00:00",
-                    "UtcExpireTime": "2025/08/01 03:59:59",
+                    "Tip": "SideStory「崔林特爾梅之金」復刻",
+                    "StageName": "崔林特爾梅之金 復刻",
+                    "UtcStartTime": "2025/08/01 16:00:00",
+                    "UtcExpireTime": "2025/08/11 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "GO-7",
-                "Value": "GO-7",
-                "Drop": "30013",
+                "Display": "ZT-7",
+                "Value": "ZT-7",
+                "Drop": "30043",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「追跡日落以西」",
-                    "StageName": "追跡日落以西",
-                    "UtcStartTime": "2025/07/18 16:00:00",
-                    "UtcExpireTime": "2025/08/01 03:59:59",
+                    "Tip": "SideStory「崔林特爾梅之金」復刻",
+                    "StageName": "崔林特爾梅之金 復刻",
+                    "UtcStartTime": "2025/08/01 16:00:00",
+                    "UtcExpireTime": "2025/08/11 03:59:59",
                     "TimeZone": 8
                 }
             },
