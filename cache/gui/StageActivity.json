@@ -56,7 +56,7 @@
             {
                 "Display": "AT-4",
                 "Value": "AT-4",
-                "Drop": "搓玉效率待定",
+                "Drop": "每理智可搓0.91玉",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
                     "Tip": "SideStory「墟」",
