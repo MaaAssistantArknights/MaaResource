@@ -1,88 +1,4 @@
 {
-  "JieGarden@Roguelike@Stages_aggressive": {
-    "next": [
-      "JieGarden@Roguelike@NextLevel",
-      "JieGarden@Roguelike@RandomPickAfterNextLevel",
-      "JieGarden@Roguelike@CloseCollectionContinue",
-      "JieGarden@Roguelike@CloseCollectionClose",
-      "JieGarden@Roguelike@StageBoskyPassage",
-      "JieGarden@Roguelike@StageGuidance",
-      "JieGarden@Roguelike@StageEmergencyDps",
-      "JieGarden@Roguelike@StageCombatDps",
-      "JieGarden@Roguelike@StageSafeHouse",
-      "JieGarden@Roguelike@StageBoons",
-      "JieGarden@Roguelike@StageTrader",
-      "JieGarden@Roguelike@StageEncounter",
-      "JieGarden@Roguelike@StageConfrontation",
-      "JieGarden@Roguelike@StageWindAndRain",
-      "JieGarden@Roguelike@StageProphecy",
-      "JieGarden@Roguelike@StageEmergencyTransportation",
-      "JieGarden@Roguelike@StageDreadfulFoe",
-      "JieGarden@Roguelike@StageDreadfulFoe-5"
-    ]
-  },
-  "JieGarden@Roguelike@Stages_default": {
-    "next": [
-      "JieGarden@Roguelike@NextLevel",
-      "JieGarden@Roguelike@RandomPickAfterNextLevel",
-      "JieGarden@Roguelike@CloseCollectionContinue",
-      "JieGarden@Roguelike@CloseCollectionClose",
-      "JieGarden@Roguelike@StageBoskyPassage",
-      "JieGarden@Roguelike@StageGuidance",
-      "JieGarden@Roguelike@StageTrader",
-      "JieGarden@Roguelike@StageSafeHouse",
-      "JieGarden@Roguelike@StageBoons",
-      "JieGarden@Roguelike@StageEmergencyTransportation",
-      "JieGarden@Roguelike@StageProphecy",
-      "JieGarden@Roguelike@StageEncounter",
-      "JieGarden@Roguelike@StageWindAndRain",
-      "JieGarden@Roguelike@StageConfrontation",
-      "JieGarden@Roguelike@StageCombatDps",
-      "JieGarden@Roguelike@StageEmergencyDps",
-      "JieGarden@Roguelike@StageDreadfulFoe",
-      "JieGarden@Roguelike@StageDreadfulFoe-5"
-    ]
-  },
-  "JieGarden@Roguelike@Stages_fastInvestment": {
-    "next": [
-      "JieGarden@Roguelike@NextLevel",
-      "JieGarden@Roguelike@RandomPickAfterNextLevel",
-      "JieGarden@Roguelike@CloseCollectionContinue",
-      "JieGarden@Roguelike@CloseCollectionClose",
-      "JieGarden@Roguelike@Routing-FastInvestment"
-    ]
-  },
-  "JieGarden@Roguelike@Stages_pragmatic": {
-    "next": [
-      "JieGarden@Roguelike@NextLevel",
-      "JieGarden@Roguelike@RandomPickAfterNextLevel",
-      "JieGarden@Roguelike@CloseCollectionContinue",
-      "JieGarden@Roguelike@CloseCollectionClose",
-      "JieGarden@Roguelike@StageBoskyPassage",
-      "JieGarden@Roguelike@StageGuidance",
-      "JieGarden@Roguelike@StageCombatDps",
-      "JieGarden@Roguelike@StageSafeHouse",
-      "JieGarden@Roguelike@StageBoons",
-      "JieGarden@Roguelike@StageEncounter",
-      "JieGarden@Roguelike@StageConfrontation",
-      "JieGarden@Roguelike@StageTrader",
-      "JieGarden@Roguelike@StageProphecy",
-      "JieGarden@Roguelike@StageWindAndRain",
-      "JieGarden@Roguelike@StageEmergencyTransportation",
-      "JieGarden@Roguelike@StageEmergencyDps",
-      "JieGarden@Roguelike@StageDreadfulFoe",
-      "JieGarden@Roguelike@StageDreadfulFoe-5"
-    ]
-  },
-  "JieGarden@Roguelike@Stages_routing": {
-    "next": [
-      "JieGarden@Roguelike@NextLevel",
-      "JieGarden@Roguelike@RandomPickAfterNextLevel",
-      "JieGarden@Roguelike@CloseCollectionContinue",
-      "JieGarden@Roguelike@CloseCollectionClose",
-      "JieGarden@Roguelike@Routing"
-    ]
-  },
   "AT-8": {
     "algorithm": "JustReturn",
     "sub": ["AT-8@AT-OpenOpt"],
@@ -139,3 +55,4 @@
     "next": ["#self", "SideStoryStage", "ChapterSwipeToTheRight"]
   }
 }
+
