@@ -280,54 +280,67 @@
                 }
             },
             {
-                "Display": "ZT-9",
-                "Value": "ZT-9",
-                "Drop": "扭轉醇（無限池，不推薦刷）",
+                "Display": "EP-8",
+                "Value": "EP-8",
+                "Drop": "30093",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「崔林特爾梅之金」復刻",
-                    "StageName": "崔林特爾梅之金 復刻",
-                    "UtcStartTime": "2025/08/01 16:00:00",
-                    "UtcExpireTime": "2025/08/11 03:59:59",
+                    "Tip": "SideStory「出蒼白海」",
+                    "StageName": "出蒼白海",
+                    "UtcStartTime": "2025/08/11 16:00:00",
+                    "UtcExpireTime": "2025/08/25 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "ZT-8",
-                "Value": "ZT-8",
-                "Drop": "30063",
+                "Display": "EP-7",
+                "Value": "EP-7",
+                "Drop": "30053",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「崔林特爾梅之金」復刻",
-                    "StageName": "崔林特爾梅之金 復刻",
-                    "UtcStartTime": "2025/08/01 16:00:00",
-                    "UtcExpireTime": "2025/08/11 03:59:59",
+                    "Tip": "SideStory「出蒼白海」",
+                    "StageName": "出蒼白海",
+                    "UtcStartTime": "2025/08/11 16:00:00",
+                    "UtcExpireTime": "2025/08/25 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "ZT-7",
-                "Value": "ZT-7",
-                "Drop": "30043",
+                "Display": "EP-6",
+                "Value": "EP-6",
+                "Drop": "30023",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「崔林特爾梅之金」復刻",
-                    "StageName": "崔林特爾梅之金 復刻",
-                    "UtcStartTime": "2025/08/01 16:00:00",
-                    "UtcExpireTime": "2025/08/11 03:59:59",
+                    "Tip": "SideStory「出蒼白海」",
+                    "StageName": "出蒼白海",
+                    "UtcStartTime": "2025/08/11 16:00:00",
+                    "UtcExpireTime": "2025/08/25 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "GO-4",
-                "Value": "GO-4",
+                "Display": "EP-5",
+                "Value": "EP-5",
                 "Drop": "搓玉用",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「追跡日落以西」",
-                    "StageName": "追跡日落以西",
-                    "UtcStartTime": "2025/07/18 16:00:00",
-                    "UtcExpireTime": "2025/08/01 03:59:59",
+                    "Tip": "SideStory「出蒼白海」",
+                    "StageName": "出蒼白海",
+                    "UtcStartTime": "2025/08/11 16:00:00",
+                    "UtcExpireTime": "2025/08/25 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "EP-4",
+                "Value": "EP-4",
+                "Drop": "搓玉用",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory「出蒼白海」",
+                    "StageName": "出蒼白海",
+                    "UtcStartTime": "2025/08/11 16:00:00",
+                    "UtcExpireTime": "2025/08/25 03:59:59",
                     "TimeZone": 8
                 }
             }
