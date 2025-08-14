@@ -69,8 +69,8 @@
         ],
         "resourceCollection": {
             "Tip": "资源收集",
-            "UtcStartTime": "2025/05/15 16:00:00",
-            "UtcExpireTime": "2025/06/05 03:59:59",
+            "UtcStartTime": "2025/08/14 16:00:00",
+            "UtcExpireTime": "2025/08/28 03:59:59",
             "TimeZone": 8,
             "IsResourceCollection": true
         }
