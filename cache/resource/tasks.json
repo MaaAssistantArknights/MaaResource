@@ -1,4 +1,7 @@
 {
+  "Roguelike@StageTraderLeaveConfirm": {
+    "next": ["#self", "Roguelike@Stages#next"]
+  },
   "AT-8": {
     "algorithm": "JustReturn",
     "sub": ["AT-8@AT-OpenOpt"],
@@ -55,6 +58,7 @@
     "next": ["#self", "SideStoryStage", "ChapterSwipeToTheRight"]
   }
 }
+
 
 
 
