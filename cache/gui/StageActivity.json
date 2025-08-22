@@ -2,15 +2,15 @@
     "Official": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-BP",
-                "Value": "SSReopen-BP",
-                "Drop": "代理1~8",
+                "Display": "SSReopen-AS",
+                "Value": "SSReopen-AS",
+                "Drop": "代理1~9",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「生路」复刻",
-                    "StageName": "生路",
-                    "UtcStartTime": "2025/06/19 16:00:00",
-                    "UtcExpireTime": "2025/06/24 03:59:59",
+                    "Tip": "SideStory「太阳甩在身后」复刻",
+                    "StageName": "太阳甩在身后",
+                    "UtcStartTime": "2025/08/25 04:00:00",
+                    "UtcExpireTime": "2025/09/08 03:59:59",
                     "TimeZone": 8
                 }
             },
@@ -355,3 +355,4 @@
     }
 
 }
+
