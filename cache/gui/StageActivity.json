@@ -15,54 +15,54 @@
                 }
             },
             {
-                "Display": "AT-8",
-                "Value": "AT-8",
-                "Drop": "31093",
+                "Display": "AS-9",
+                "Value": "AS-9",
+                "Drop": "31083",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「墟」",
-                    "StageName": "墟",
-                    "UtcStartTime": "2025/08/02 12:00:00",
-                    "UtcExpireTime": "2025/08/23 03:59:59",
+                    "Tip": "SideStory「太阳甩在身后」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2025/08/25 04:00:00",
+                    "UtcExpireTime": "2025/09/08 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "AT-7",
-                "Value": "AT-7",
-                "Drop": "30053",
+                "Display": "AS-8",
+                "Value": "AS-8",
+                "Drop": "30093",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「墟」",
-                    "StageName": "墟",
-                    "UtcStartTime": "2025/08/02 12:00:00",
-                    "UtcExpireTime": "2025/08/23 03:59:59",
+                    "Tip": "SideStory「太阳甩在身后」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2025/08/25 04:00:00",
+                    "UtcExpireTime": "2025/09/08 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "AT-6",
-                "Value": "AT-6",
-                "Drop": "30013",
+                "Display": "AS-7",
+                "Value": "AS-7",
+                "Drop": "30043",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「墟」",
-                    "StageName": "墟",
-                    "UtcStartTime": "2025/08/02 12:00:00",
-                    "UtcExpireTime": "2025/08/23 03:59:59",
+                    "Tip": "SideStory「太阳甩在身后」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2025/08/25 04:00:00",
+                    "UtcExpireTime": "2025/09/08 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "AT-4",
-                "Value": "AT-4",
-                "Drop": "每理智0.91玉",
+                "Display": "AS-4",
+                "Value": "AS-4",
+                "Drop": "每理智0.34玉",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「墟」",
-                    "StageName": "墟",
-                    "UtcStartTime": "2025/08/02 12:00:00",
-                    "UtcExpireTime": "2025/08/23 03:59:59",
+                    "Tip": "SideStory「太阳甩在身后」",
+                    "StageName": "AS",
+                    "UtcStartTime": "2025/08/25 04:00:00",
+                    "UtcExpireTime": "2025/09/08 03:59:59",
                     "TimeZone": 8
                 }
             }
@@ -355,4 +355,5 @@
     }
 
 }
+
 
