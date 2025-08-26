@@ -1,9 +1,8 @@
 {
-    "OR-OpenOcr": {
-        "text": ["Joy", "Reunion", "Flavor", "Life", "Farewell", "Loved", "Ones"]
+    "EA-OpenOcr": {
+        "text": ["Elegies", "Ashes", "Dying", "Flames"]
     },
-    "ORChapterToOR": {
-        "text": ["FLAVOR"],
-        "roi": [850, 531, 71, 18]
+    "EAChapterToEA": {
+        "text": ["Flickering", "Shadows", "FLICKERING", "SHADOWS"]
     }
 }
