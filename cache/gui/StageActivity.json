@@ -54,8 +54,8 @@
                 }
             },
             {
-                "Display": "AS-4",
-                "Value": "AS-4",
+                "Display": "AS-6",
+                "Value": "AS-6",
                 "Drop": "每理智0.34玉",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
@@ -355,5 +355,6 @@
     }
 
 }
+
 
 
