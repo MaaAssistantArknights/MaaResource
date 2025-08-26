@@ -21,10 +21,10 @@
     "OrundumActivitiesConfirm": {
         "text": ["引く", "引<"]
     },
-    "OR-OpenOcr": {
-        "text": ["相見歓", "相見", "ステージ開放中", "閲世情", "世情", "悵別離", "別離"]
+    "EA-OpenOcr": {
+        "text": ["挽歌が灰に還る時", "挽歌", "灰に", "ステージ開放中", "消えゆく炎", "消え"]
     },
-    "ORChapterToOR": {
-        "text": ["識七味", "七味"]
+    "EAChapterToEA": {
+        "text": ["揺らめく影", "揺", "影"]
     }
 }

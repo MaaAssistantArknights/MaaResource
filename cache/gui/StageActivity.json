@@ -78,54 +78,54 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
-                "Display": "OR-9",
-                "Value": "OR-9",
-                "Drop": "31063",
+                "Display": "EA-8",
+                "Value": "EA-8",
+                "Drop": "31073",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「相見歓」",
-                    "StageName": "OR",
-                    "UtcStartTime": "2025/07/17 16:00:00",
-                    "UtcExpireTime": "2025/08/07 03:59:59",
+                    "Tip": "サイドストーリー「挽歌が灰に還る時」",
+                    "StageName": "EA",
+                    "UtcStartTime": "2025/08/28 16:00:00",
+                    "UtcExpireTime": "2025/09/04 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "OR-8",
-                "Value": "OR-8",
-                "Drop": "31023",
+                "Display": "EA-7",
+                "Value": "EA-7",
+                "Drop": "31043",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「相見歓」",
-                    "StageName": "OR",
-                    "UtcStartTime": "2025/07/17 16:00:00",
-                    "UtcExpireTime": "2025/08/07 03:59:59",
+                    "Tip": "サイドストーリー「挽歌が灰に還る時」",
+                    "StageName": "EA",
+                    "UtcStartTime": "2025/08/28 16:00:00",
+                    "UtcExpireTime": "2025/09/04 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "OR-7",
-                "Value": "OR-7",
-                "Drop": "30063",
+                "Display": "EA-6",
+                "Value": "EA-6",
+                "Drop": "30093",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「相見歓」",
-                    "StageName": "OR",
-                    "UtcStartTime": "2025/07/17 16:00:00",
-                    "UtcExpireTime": "2025/08/07 03:59:59",
+                    "Tip": "サイドストーリー「挽歌が灰に還る時」",
+                    "StageName": "EA",
+                    "UtcStartTime": "2025/08/28 16:00:00",
+                    "UtcExpireTime": "2025/09/04 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "OR-5",
-                "Value": "OR-5",
-                "Drop": "合成玉効率51%",
+                "Display": "EA-3",
+                "Value": "EA-3",
+                "Drop": "合成玉効率64%",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「相見歓」",
-                    "StageName": "OR",
-                    "UtcStartTime": "2025/07/17 16:00:00",
-                    "UtcExpireTime": "2025/08/07 03:59:59",
+                    "Tip": "サイドストーリー「挽歌が灰に還る時」",
+                    "StageName": "EA",
+                    "UtcStartTime": "2025/08/28 16:00:00",
+                    "UtcExpireTime": "2025/09/04 03:59:59",
                     "TimeZone": 9
                 }
             }
@@ -141,54 +141,54 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "OR-9",
-                "Value": "OR-9",
-                "Drop": "31063",
+                "Display": "EA-8",
+                "Value": "EA-8",
+                "Drop": "31073",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory '상견환'",
-                    "StageName": "OR",
-                    "UtcStartTime": "2025/07/17 16:00:00",
-                    "UtcExpireTime": "2025/08/07 03:59:59",
+                    "Tip": "SideStory '불타버린 엘레지여'",
+                    "StageName": "EA",
+                    "UtcStartTime": "2025/08/28 16:00:00",
+                    "UtcExpireTime": "2025/09/04 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "OR-8",
-                "Value": "OR-8",
-                "Drop": "31023",
+                "Display": "EA-7",
+                "Value": "EA-7",
+                "Drop": "31043",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory '상견환'",
-                    "StageName": "OR",
-                    "UtcStartTime": "2025/07/17 16:00:00",
-                    "UtcExpireTime": "2025/08/07 03:59:59",
+                    "Tip": "SideStory '불타버린 엘레지여'",
+                    "StageName": "EA",
+                    "UtcStartTime": "2025/08/28 16:00:00",
+                    "UtcExpireTime": "2025/09/04 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "OR-7",
-                "Value": "OR-7",
-                "Drop": "30063",
+                "Display": "EA-6",
+                "Value": "EA-6",
+                "Drop": "30093",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory '상견환'",
-                    "StageName": "OR",
-                    "UtcStartTime": "2025/07/17 16:00:00",
-                    "UtcExpireTime": "2025/08/07 03:59:59",
+                    "Tip": "SideStory '불타버린 엘레지여'",
+                    "StageName": "EA",
+                    "UtcStartTime": "2025/08/28 16:00:00",
+                    "UtcExpireTime": "2025/09/04 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "OR-5",
-                "Value": "OR-5",
-                "Drop": "합성옥 효율 51%",
+                "Display": "EA-3",
+                "Value": "EA-3",
+                "Drop": "합성옥 효율 64%",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory '상견환'",
-                    "StageName": "OR",
-                    "UtcStartTime": "2025/07/17 16:00:00",
-                    "UtcExpireTime": "2025/08/07 03:59:59",
+                    "Tip": "SideStory '불타버린 엘레지여'",
+                    "StageName": "EA",
+                    "UtcStartTime": "2025/08/28 16:00:00",
+                    "UtcExpireTime": "2025/09/04 03:59:59",
                     "TimeZone": 9
                 }
             }
@@ -204,54 +204,54 @@
     "YoStarEN": {
         "sideStoryStage": [
             {
-                "Display": "OR-9",
-                "Value": "OR-9",
-                "Drop": "31063",
+                "Display": "EA-8",
+                "Value": "EA-8",
+                "Drop": "31073",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "Such is the Joy of Our Reunion",
-                    "StageName": "OR",
-                    "UtcStartTime": "2025/07/17 10:00:00",
-                    "UtcExpireTime": "2025/08/07 03:59:59",
+                    "Tip": "When Elegies Are Ashes",
+                    "StageName": "EA",
+                    "UtcStartTime": "2025/08/28 10:00:00",
+                    "UtcExpireTime": "2025/09/04 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "OR-8",
-                "Value": "OR-8",
-                "Drop": "31023",
+                "Display": "EA-7",
+                "Value": "EA-7",
+                "Drop": "31043",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "Such is the Joy of Our Reunion",
-                    "StageName": "OR",
-                    "UtcStartTime": "2025/07/17 10:00:00",
-                    "UtcExpireTime": "2025/08/07 03:59:59",
+                    "Tip": "When Elegies Are Ashes",
+                    "StageName": "EA",
+                    "UtcStartTime": "2025/08/28 10:00:00",
+                    "UtcExpireTime": "2025/09/04 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "OR-7",
-                "Value": "OR-7",
-                "Drop": "30063",
+                "Display": "EA-6",
+                "Value": "EA-6",
+                "Drop": "30093",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "Such is the Joy of Our Reunion",
-                    "StageName": "OR",
-                    "UtcStartTime": "2025/07/17 10:00:00",
-                    "UtcExpireTime": "2025/08/07 03:59:59",
+                    "Tip": "When Elegies Are Ashes",
+                    "StageName": "EA",
+                    "UtcStartTime": "2025/08/28 10:00:00",
+                    "UtcExpireTime": "2025/09/04 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "OR-5",
-                "Value": "OR-5",
-                "Drop": "Orundum efficiency 51%",
+                "Display": "EA-3",
+                "Value": "EA-3",
+                "Drop": "Orundum efficiency 64%",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "Such is the Joy of Our Reunion",
-                    "StageName": "OR",
-                    "UtcStartTime": "2025/07/17 10:00:00",
-                    "UtcExpireTime": "2025/08/07 03:59:59",
+                    "Tip": "When Elegies Are Ashes",
+                    "StageName": "EA",
+                    "UtcStartTime": "2025/08/28 10:00:00",
+                    "UtcExpireTime": "2025/09/04 03:59:59",
                     "TimeZone": -7
                 }
             }
