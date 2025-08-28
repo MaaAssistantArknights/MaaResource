@@ -1,4 +1,17 @@
 {
+    "ClickChapterNew": {
+        "text": ["楽章一覧"]
+    },
+    "ClickChapterNewOpenTime": {
+        "text": ["開放時間"]
+    },
+    "ClickChapterNewDefaultProgress": {
+        "roi": [670, 26, 110, 38],
+        "text": ["デフォルト"]
+    },
+    "ClickChapterNewOverview": {
+        "text": ["楽章"]
+    },
     "StartToWakeUp": {
         "roi": [480, 480, 320, 60]
     },
