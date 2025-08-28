@@ -1,10 +1,14 @@
 {
+    "AS-OpenOpt": {
+        "next": ["AS-OpenOcr", "AS-Open"]
+    },
     "AS-Open": {
         "baseTask": "SS-Open",
         "template": ["StageSideStory.png", "StageActivity.png"],
         "next": ["ASChapterToAS"]
     }
 }
+
 
 
 
