@@ -3,8 +3,9 @@
         "baseTask": "SS-Open",
         "template": ["StageSideStory.png", "StageActivity.png"],
         "next": ["ASChapterToAS"]
-    },
+    }
 }
+
 
 
 
