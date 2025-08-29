@@ -4,10 +4,12 @@
     },
     "AS-Open": {
         "baseTask": "SS-Open",
+        "roi": [546, 98, 376, 181],
         "template": ["StageSideStory.png", "StageActivity.png"],
         "next": ["ASChapterToAS"]
     }
 }
+
 
 
 
