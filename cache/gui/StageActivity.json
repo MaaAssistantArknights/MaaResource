@@ -86,7 +86,7 @@
                     "Tip": "サイドストーリー「挽歌が灰に還る時」",
                     "StageName": "EA",
                     "UtcStartTime": "2025/08/28 16:00:00",
-                    "UtcExpireTime": "2025/09/04 03:59:59",
+                    "UtcExpireTime": "2025/09/11 03:59:59",
                     "TimeZone": 9
                 }
             },
@@ -99,7 +99,7 @@
                     "Tip": "サイドストーリー「挽歌が灰に還る時」",
                     "StageName": "EA",
                     "UtcStartTime": "2025/08/28 16:00:00",
-                    "UtcExpireTime": "2025/09/04 03:59:59",
+                    "UtcExpireTime": "2025/09/11 03:59:59",
                     "TimeZone": 9
                 }
             },
@@ -112,7 +112,7 @@
                     "Tip": "サイドストーリー「挽歌が灰に還る時」",
                     "StageName": "EA",
                     "UtcStartTime": "2025/08/28 16:00:00",
-                    "UtcExpireTime": "2025/09/04 03:59:59",
+                    "UtcExpireTime": "2025/09/11 03:59:59",
                     "TimeZone": 9
                 }
             },
@@ -125,7 +125,7 @@
                     "Tip": "サイドストーリー「挽歌が灰に還る時」",
                     "StageName": "EA",
                     "UtcStartTime": "2025/08/28 16:00:00",
-                    "UtcExpireTime": "2025/09/04 03:59:59",
+                    "UtcExpireTime": "2025/09/11 03:59:59",
                     "TimeZone": 9
                 }
             }
@@ -149,7 +149,7 @@
                     "Tip": "SideStory '불타버린 엘레지여'",
                     "StageName": "EA",
                     "UtcStartTime": "2025/08/28 16:00:00",
-                    "UtcExpireTime": "2025/09/04 03:59:59",
+                    "UtcExpireTime": "2025/09/11 03:59:59",
                     "TimeZone": 9
                 }
             },
@@ -162,7 +162,7 @@
                     "Tip": "SideStory '불타버린 엘레지여'",
                     "StageName": "EA",
                     "UtcStartTime": "2025/08/28 16:00:00",
-                    "UtcExpireTime": "2025/09/04 03:59:59",
+                    "UtcExpireTime": "2025/09/11 03:59:59",
                     "TimeZone": 9
                 }
             },
@@ -175,7 +175,7 @@
                     "Tip": "SideStory '불타버린 엘레지여'",
                     "StageName": "EA",
                     "UtcStartTime": "2025/08/28 16:00:00",
-                    "UtcExpireTime": "2025/09/04 03:59:59",
+                    "UtcExpireTime": "2025/09/11 03:59:59",
                     "TimeZone": 9
                 }
             },
@@ -188,7 +188,7 @@
                     "Tip": "SideStory '불타버린 엘레지여'",
                     "StageName": "EA",
                     "UtcStartTime": "2025/08/28 16:00:00",
-                    "UtcExpireTime": "2025/09/04 03:59:59",
+                    "UtcExpireTime": "2025/09/11 03:59:59",
                     "TimeZone": 9
                 }
             }
@@ -212,7 +212,7 @@
                     "Tip": "When Elegies Are Ashes",
                     "StageName": "EA",
                     "UtcStartTime": "2025/08/28 10:00:00",
-                    "UtcExpireTime": "2025/09/04 03:59:59",
+                    "UtcExpireTime": "2025/09/11 03:59:59",
                     "TimeZone": -7
                 }
             },
@@ -225,7 +225,7 @@
                     "Tip": "When Elegies Are Ashes",
                     "StageName": "EA",
                     "UtcStartTime": "2025/08/28 10:00:00",
-                    "UtcExpireTime": "2025/09/04 03:59:59",
+                    "UtcExpireTime": "2025/09/11 03:59:59",
                     "TimeZone": -7
                 }
             },
@@ -238,7 +238,7 @@
                     "Tip": "When Elegies Are Ashes",
                     "StageName": "EA",
                     "UtcStartTime": "2025/08/28 10:00:00",
-                    "UtcExpireTime": "2025/09/04 03:59:59",
+                    "UtcExpireTime": "2025/09/11 03:59:59",
                     "TimeZone": -7
                 }
             },
@@ -251,7 +251,7 @@
                     "Tip": "When Elegies Are Ashes",
                     "StageName": "EA",
                     "UtcStartTime": "2025/08/28 10:00:00",
-                    "UtcExpireTime": "2025/09/04 03:59:59",
+                    "UtcExpireTime": "2025/09/11 03:59:59",
                     "TimeZone": -7
                 }
             }
@@ -353,8 +353,4 @@
             "IsResourceCollection": true
         }
     }
-
 }
-
-
-
