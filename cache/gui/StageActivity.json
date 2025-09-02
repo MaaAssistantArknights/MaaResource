@@ -267,67 +267,67 @@
     "txwy": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-ZT",
-                "Value": "SSReopen-ZT",
-                "Drop": "代理1~10",
+                "Display": "SSReopen-RS",
+                "Value": "SSReopen-RS",
+                "Drop": "代理1~8",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「崔林特爾梅之金」復刻",
-                    "StageName": "崔林特爾梅之金 復刻",
-                    "UtcStartTime": "2025/08/01 16:00:00",
-                    "UtcExpireTime": "2025/08/11 03:59:59",
+                    "Tip": "SideStory「銀心湖列車」復刻",
+                    "StageName": "銀心湖列車 復刻",
+                    "UtcStartTime": "2025/09/02 16:00:00",
+                    "UtcExpireTime": "2025/09/12 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "EP-8",
-                "Value": "EP-8",
-                "Drop": "30093",
+                "Display": "RS-8",
+                "Value": "RS-8",
+                "Drop": "31033",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「出蒼白海」",
-                    "StageName": "出蒼白海",
-                    "UtcStartTime": "2025/08/11 16:00:00",
-                    "UtcExpireTime": "2025/08/25 03:59:59",
+                    "Tip": "SideStory「銀心湖列車」復刻",
+                    "StageName": "銀心湖列車 復刻",
+                    "UtcStartTime": "2025/09/02 16:00:00",
+                    "UtcExpireTime": "2025/09/12 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "EP-7",
-                "Value": "EP-7",
-                "Drop": "30053",
+                "Display": "RS-7",
+                "Value": "RS-7",
+                "Drop": "30083",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「出蒼白海」",
-                    "StageName": "出蒼白海",
-                    "UtcStartTime": "2025/08/11 16:00:00",
-                    "UtcExpireTime": "2025/08/25 03:59:59",
+                    "Tip": "SideStory「銀心湖列車」復刻",
+                    "StageName": "銀心湖列車 復刻",
+                    "UtcStartTime": "2025/09/02 16:00:00",
+                    "UtcExpireTime": "2025/09/12 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "EP-6",
-                "Value": "EP-6",
-                "Drop": "30023",
+                "Display": "RS-6",
+                "Value": "RS-6",
+                "Drop": "30033",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「出蒼白海」",
-                    "StageName": "出蒼白海",
-                    "UtcStartTime": "2025/08/11 16:00:00",
-                    "UtcExpireTime": "2025/08/25 03:59:59",
+                    "Tip": "SideStory「銀心湖列車」復刻",
+                    "StageName": "銀心湖列車 復刻",
+                    "UtcStartTime": "2025/09/02 16:00:00",
+                    "UtcExpireTime": "2025/09/12 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "EP-5",
-                "Value": "EP-5",
+                "Display": "RS-5",
+                "Value": "RS-5",
                 "Drop": "搓玉用",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「出蒼白海」",
-                    "StageName": "出蒼白海",
-                    "UtcStartTime": "2025/08/11 16:00:00",
-                    "UtcExpireTime": "2025/08/25 03:59:59",
+                    "Tip": "SideStory「銀心湖列車」復刻",
+                    "StageName": "銀心湖列車 復刻",
+                    "UtcStartTime": "2025/09/02 16:00:00",
+                    "UtcExpireTime": "2025/09/12 03:59:59",
                     "TimeZone": 8
                 }
             },
