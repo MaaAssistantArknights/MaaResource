@@ -21,7 +21,7 @@
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
                     "Tip": "SideStory「太阳甩在身后」",
-                    "StageName": "AS",
+                    "StageName": "太阳甩在身后",
                     "UtcStartTime": "2025/08/25 04:00:00",
                     "UtcExpireTime": "2025/09/04 03:59:59",
                     "TimeZone": 8
@@ -34,7 +34,7 @@
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
                     "Tip": "SideStory「太阳甩在身后」",
-                    "StageName": "AS",
+                    "StageName": "太阳甩在身后",
                     "UtcStartTime": "2025/08/25 04:00:00",
                     "UtcExpireTime": "2025/09/04 03:59:59",
                     "TimeZone": 8
@@ -47,7 +47,7 @@
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
                     "Tip": "SideStory「太阳甩在身后」",
-                    "StageName": "AS",
+                    "StageName": "太阳甩在身后",
                     "UtcStartTime": "2025/08/25 04:00:00",
                     "UtcExpireTime": "2025/09/04 03:59:59",
                     "TimeZone": 8
@@ -60,7 +60,7 @@
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
                     "Tip": "SideStory「太阳甩在身后」",
-                    "StageName": "AS",
+                    "StageName": "太阳甩在身后",
                     "UtcStartTime": "2025/08/25 04:00:00",
                     "UtcExpireTime": "2025/09/04 03:59:59",
                     "TimeZone": 8
@@ -354,3 +354,4 @@
         }
     }
 }
+
