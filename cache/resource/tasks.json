@@ -1,4 +1,13 @@
 {
+    "BattleQuickFormationSkill1": {
+        "specificRect": [150, 385, 1, 100]
+    },
+    "BattleQuickFormationSkill2": {
+        "specificRect": [150, 560, 1, 30]
+    },
+    "BattleQuickFormationSkill3": {
+        "specificRect": [150, 650, 1, 30]
+    },
     "AveMujica-3": {
         "algorithm": "JustReturn",
         "sub": ["AveMujica-3@AveMujica-OpenOpt"],
@@ -69,3 +78,4 @@
         "next": ["#self", "SideStoryStage", "ChapterSwipeToTheRight"]
     }
 }
+
