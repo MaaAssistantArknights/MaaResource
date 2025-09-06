@@ -15,7 +15,7 @@
                 }
             },
             {
-                "Display": "SS-8",
+                "Display": "AveMujica-8",
                 "Value": "AveMujica-8",
                 "Drop": "31073",
                 "MinimumRequired": "v5.10.0",
@@ -28,7 +28,7 @@
                 }
             },
             {
-                "Display": "SS-7",
+                "Display": "AveMujica-7",
                 "Value": "AveMujica-7",
                 "Drop": "31063",
                 "MinimumRequired": "v5.10.0",
@@ -41,7 +41,7 @@
                 }
             },
             {
-                "Display": "SS-6",
+                "Display": "AveMujica-6",
                 "Value": "AveMujica-6",
                 "Drop": "30033",
                 "MinimumRequired": "v5.10.0",
@@ -54,9 +54,9 @@
                 }
             },
             {
-                "Display": "SS-5",
+                "Display": "AveMujica-5",
                 "Value": "AveMujica-5",
-                "Drop": "搓玉效率待定",
+                "Drop": "每理智0.35玉",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
                     "Tip": "SideStory「无忧梦呓」",
@@ -353,4 +353,5 @@
             "IsResourceCollection": true
         }
     }
+
 }
