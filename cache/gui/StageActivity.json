@@ -2,67 +2,67 @@
     "Official": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-AS",
-                "Value": "SSReopen-AS",
+                "Display": "SSReopen-GO",
+                "Value": "SSReopen-GO",
                 "Drop": "代理1~9",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「太阳甩在身后」复刻",
-                    "StageName": "太阳甩在身后",
-                    "UtcStartTime": "2025/08/25 04:00:00",
-                    "UtcExpireTime": "2025/09/04 03:59:59",
+                    "Tip": "SideStory「追迹日落以西」复刻",
+                    "StageName": "追迹日落以西",
+                    "UtcStartTime": "2025/09/19 04:00:00",
+                    "UtcExpireTime": "2025/09/29 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "AveMujica-8",
-                "Value": "AveMujica-8",
-                "Drop": "31073",
+                "Display": "GO-9",
+                "Value": "GO-9",
+                "Drop": "31043",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「无忧梦呓」",
-                    "StageName": "无忧梦呓",
-                    "UtcStartTime": "2025/09/04 12:00:00",
-                    "UtcExpireTime": "2025/09/18 03:59:59",
+                    "Tip": "SideStory「追迹日落以西」",
+                    "StageName": "追迹日落以西",
+                    "UtcStartTime": "2025/09/19 04:00:00",
+                    "UtcExpireTime": "2025/09/29 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "AveMujica-7",
-                "Value": "AveMujica-7",
-                "Drop": "31063",
+                "Display": "GO-8",
+                "Value": "GO-8",
+                "Drop": "31013",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「无忧梦呓」",
-                    "StageName": "无忧梦呓",
-                    "UtcStartTime": "2025/09/04 12:00:00",
-                    "UtcExpireTime": "2025/09/18 03:59:59",
+                    "Tip": "SideStory「追迹日落以西」",
+                    "StageName": "追迹日落以西",
+                    "UtcStartTime": "2025/09/19 04:00:00",
+                    "UtcExpireTime": "2025/09/29 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "AveMujica-6",
-                "Value": "AveMujica-6",
-                "Drop": "30033",
+                "Display": "GO-7",
+                "Value": "GO-7",
+                "Drop": "30013",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「无忧梦呓」",
-                    "StageName": "无忧梦呓",
-                    "UtcStartTime": "2025/09/04 12:00:00",
-                    "UtcExpireTime": "2025/09/18 03:59:59",
+                    "Tip": "SideStory「追迹日落以西」",
+                    "StageName": "追迹日落以西",
+                    "UtcStartTime": "2025/09/19 04:00:00",
+                    "UtcExpireTime": "2025/09/29 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "AveMujica-5",
-                "Value": "AveMujica-5",
-                "Drop": "每理智0.35玉",
+                "Display": "GO-4",
+                "Value": "GO-4",
+                "Drop": "搓玉效率待测",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「无忧梦呓」",
-                    "StageName": "无忧梦呓",
-                    "UtcStartTime": "2025/09/04 12:00:00",
-                    "UtcExpireTime": "2025/09/18 03:59:59",
+                    "Tip": "SideStory「追迹日落以西」",
+                    "StageName": "追迹日落以西",
+                    "UtcStartTime": "2025/09/19 04:00:00",
+                    "UtcExpireTime": "2025/09/29 03:59:59",
                     "TimeZone": 8
                 }
             }
