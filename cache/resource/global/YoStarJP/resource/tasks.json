@@ -22,6 +22,13 @@
     "EnterChapterDifficultyNormal": {
         "text": ["作戦へ"]
     },
+    "StartButton1": {
+        "ocrReplace": [["行重動", "行動"]],
+        "text": ["行動開始", "作戦開始", "推論開始"]
+    },
+    "BattleStartPre": {
+        "text": ["行動開始", "開始", "試練", "挑戦", "作戦", "推論"]
+    },
     "RecruitSupportConfirm": {
         "text": ["サ.*ート", "サポー", "招集", "召集", "確定"]
     },
