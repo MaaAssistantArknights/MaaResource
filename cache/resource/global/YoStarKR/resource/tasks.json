@@ -1,10 +1,8 @@
 {
-    "EA-OpenOcr": {
-        "text": ["불타", "버린", "엘레", "지여", "꺼져", "가는", "불꽃"]
+    "BB-OpenOcr": {
+        "text": ["바벨", "미래", "선사"]
     },
-    "EAChapterToEA": {
-        "withoutDet": true,
-        "roi": [1045, 495, 160, 30],
-        "text": ["일렁이는", "그림자"]
+    "BBChapterToBB": {
+        "text": ["미래", "선사", "하리라"]
     }
 }
