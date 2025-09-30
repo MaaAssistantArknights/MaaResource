@@ -1,9 +1,9 @@
 {
-    "EA-OpenOcr": {
-        "text": ["Elegies", "Ashes", "Dying", "Flames"]
+    "BB-OpenOcr": {
+        "text": ["Babel", "open", "event", "Past", "Ward", "Constant", "stages"]
     },
-    "EAChapterToEA": {
-        "text": ["FLICKERIE", "Flickering", "Shadows", "FLICKERING", "SHADOWS"],
-        "roi": [1070, 498, 134, 26]
+    "BBChapterToBB": {
+        "text": ["Future", "FUTURE", "Gifts", "Gifts"],
+        "roi": [1000, 589, 209, 131]
     }
 }
