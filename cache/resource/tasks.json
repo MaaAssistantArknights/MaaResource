@@ -13,8 +13,10 @@
         "withoutDet": true,
         "useRaw": false,
         "binThreshold": [200, 255]
+    },
+    "MiniGame@RM-1@Wait": {
+        "algorithm": "JustReturn",
+        "postDelay": 1000,
+        "next": ["MiniGame@RM-1@DoNotApply", "MiniGame@RM-1@WaitForMax", "MiniGame@RM-1@BattleFailedClick", "#self"]
     }
 }
-
-
-
