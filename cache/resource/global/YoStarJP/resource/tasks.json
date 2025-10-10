@@ -34,7 +34,7 @@
     },
     "OrundumActivities": {
         "doc": "幸运墙领合成玉",
-        "text": ["開運", "おみくじ", "バザール", "カルネヴァ", "スクラッチ", "スクラツ"]
+        "text": ["開運", "おみくじ", "バザール", "カルネヴァ", "ラテラーノ", "スクラッチ", "スクラツ"]
     },
     "OrundumActivitiesChoose": {
         "text": ["開運くじ", "おみくじ", "を選択", "してくだ"]
@@ -42,12 +42,25 @@
     "OrundumActivitiesConfirm": {
         "text": ["引く", "引<"]
     },
-    "BB-OpenOcr": {
-        "text": ["バベル", "イベント復刻開催中"],
-        "roi": [0, 500, 500, 150]
+    "MT-OpenOcr": {
+        "text": ["命ある者の旅", "主への謁見", "主へ", "安息の地", "ステージ開放中"]
     },
-    "BBChapterToBB": {
-        "text": ["未来を贈らん", "未来", "贈"],
-        "roi": [937, 600, 200, 50]
+    "MTChapterToMT": {
+        "text": ["聖堂を望む", "聖堂", "望む"]
+    },
+    "MiniGame@ALL@GreenGrass@DuelChannel@Begin": {
+        "text": ["試合観戦"]
+    },
+    "MiniGame@ALL@GreenGrass@DuelChannel@ChooseMode": {
+        "text": ["一人で観戦"]
+    },
+    "MiniGame@ALL@GreenGrass@DuelChannel@Enter": {
+        "text": ["試合", "開始"]
+    },
+    "MiniGame@ALL@GreenGrass@DuelChannel@ChooseFlag": {
+        "text": ["ギフト所持数"]
+    },
+    "MiniGame@ALL@GreenGrass@DuelChannel@End": {
+        "text": ["ホーム画面へ"]
     }
 }

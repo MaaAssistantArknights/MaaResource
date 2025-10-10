@@ -78,6 +78,58 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
+                "Display": "MT-6",
+                "Value": "MT-6",
+                "Drop": "合成玉効率64%",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "サイドストーリー「命ある者の旅」",
+                    "StageName": "MT",
+                    "UtcStartTime": "2025/10/14 16:00:00",
+                    "UtcExpireTime": "2025/11/04 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "MT-8",
+                "Value": "MT-8",
+                "Drop": "30053",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "サイドストーリー「命ある者の旅」",
+                    "StageName": "MT",
+                    "UtcStartTime": "2025/10/14 16:00:00",
+                    "UtcExpireTime": "2025/11/04 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "MT-9",
+                "Value": "MT-9",
+                "Drop": "30093",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "サイドストーリー「命ある者の旅」",
+                    "StageName": "MT",
+                    "UtcStartTime": "2025/10/14 16:00:00",
+                    "UtcExpireTime": "2025/11/04 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "MT-10",
+                "Value": "MT-10",
+                "Drop": "31053",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "サイドストーリー「命ある者の旅」",
+                    "StageName": "MT",
+                    "UtcStartTime": "2025/10/14 16:00:00",
+                    "UtcExpireTime": "2025/11/04 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
                 "Display": "SSReopen-BB",
                 "Value": "SSReopen-BB",
                 "Drop": "SS「バベル」復刻代理 1~8",
@@ -154,6 +206,58 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
+                "Display": "MT-6",
+                "Value": "MT-6",
+                "Drop": "합성옥 효율 64%",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory - 중생의 여정",
+                    "StageName": "MT",
+                    "UtcStartTime": "2025/10/14 16:00:00",
+                    "UtcExpireTime": "2025/11/04 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "MT-8",
+                "Value": "MT-8",
+                "Drop": "30053",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory - 중생의 여정",
+                    "StageName": "MT",
+                    "UtcStartTime": "2025/10/14 16:00:00",
+                    "UtcExpireTime": "2025/11/04 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "MT-9",
+                "Value": "MT-9",
+                "Drop": "30093",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory - 중생의 여정",
+                    "StageName": "MT",
+                    "UtcStartTime": "2025/10/14 16:00:00",
+                    "UtcExpireTime": "2025/11/04 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "MT-10",
+                "Value": "MT-10",
+                "Drop": "31053",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory - 중생의 여정",
+                    "StageName": "MT",
+                    "UtcStartTime": "2025/10/14 16:00:00",
+                    "UtcExpireTime": "2025/11/04 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
                 "Display": "SSReopen-BB",
                 "Value": "SSReopen-BB",
                 "Drop": "재개방 대리지휘 1~8",
@@ -229,6 +333,58 @@
     },
     "YoStarEN": {
         "sideStoryStage": [
+            {
+                "Display": "MT-6",
+                "Value": "MT-6",
+                "Drop": "Orundum efficiency 64%",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "The Masses' Travels",
+                    "StageName": "MT",
+                    "UtcStartTime": "2025/10/14 08:00:00",
+                    "UtcExpireTime": "2025/11/04 03:59:59",
+                    "TimeZone": -7
+                }
+            },
+            {
+                "Display": "MT-8",
+                "Value": "MT-8",
+                "Drop": "30053",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "The Masses' Travels",
+                    "StageName": "MT",
+                    "UtcStartTime": "2025/10/14 08:00:00",
+                    "UtcExpireTime": "2025/11/04 03:59:59",
+                    "TimeZone": -7
+                }
+            },
+            {
+                "Display": "MT-9",
+                "Value": "MT-9",
+                "Drop": "30093",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "The Masses' Travels",
+                    "StageName": "MT",
+                    "UtcStartTime": "2025/10/14 08:00:00",
+                    "UtcExpireTime": "2025/11/04 03:59:59",
+                    "TimeZone": -7
+                }
+            },
+            {
+                "Display": "MT-10",
+                "Value": "MT-10",
+                "Drop": "31053",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "The Masses' Travels",
+                    "StageName": "MT",
+                    "UtcStartTime": "2025/10/14 08:00:00",
+                    "UtcExpireTime": "2025/11/04 03:59:59",
+                    "TimeZone": -7
+                }
+            },
             {
                 "Display": "SSReopen-BB",
                 "Value": "SSReopen-BB",
