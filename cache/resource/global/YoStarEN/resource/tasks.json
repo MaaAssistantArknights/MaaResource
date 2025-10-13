@@ -19,5 +19,14 @@
     },
     "MTChapterToMT": {
         "text": ["Glance", "Shrine", "GLANCE", "SHRINE"]
+    },
+    "SpecialAccessActivities": {
+        "doc_preDelay": "Sometimes a loading will appear after entering the home.",
+        "preDelay": 500,
+        "text": ["Exclusive", "Monthly", "Card"],
+        "roi": [66, 79, 103, 151]
+    },
+    "SpecialAccessActivitiesConfirm": {
+        "text": ["CLAIM", "Claim", "NOW", "Now"]
     }
 }
