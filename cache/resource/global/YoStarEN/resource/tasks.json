@@ -14,6 +14,9 @@
     "MiniGame@ALL@GreenGrass@DuelChannel@End": {
         "text": ["Return to Home"]
     },
+    "OrundumActivities": {
+        "text": ["Lucky Strips", "Wishing", "Lucky", "Wall", "Bazaar", "Shrine", "Nurtury", "Wish", "Board"]
+    },
     "MT-OpenOcr": {
         "text": ["Masses", "Travels", "Audience", "God", "Rest", "Peace"]
     },
