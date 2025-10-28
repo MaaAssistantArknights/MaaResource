@@ -197,8 +197,8 @@
         ],
         "resourceCollection": {
             "Tip": "「資源調達」全ステージ開放",
-            "UtcStartTime": "2025/08/14 16:00:00",
-            "UtcExpireTime": "2025/08/28 03:59:59",
+            "UtcStartTime": "2025/10/30 16:00:00",
+            "UtcExpireTime": "2025/11/13 03:59:59",
             "TimeZone": 9,
             "IsResourceCollection": true
         }
@@ -325,8 +325,8 @@
         ],
         "resourceCollection": {
             "Tip": "[자원 수집] 제한 시간 상시 오픈",
-            "UtcStartTime": "2025/08/14 16:00:00",
-            "UtcExpireTime": "2025/08/28 03:59:59",
+            "UtcStartTime": "2025/10/30 16:00:00",
+            "UtcExpireTime": "2025/11/13 03:59:59",
             "TimeZone": 9,
             "IsResourceCollection": true
         }
@@ -453,8 +453,8 @@
         ],
         "resourceCollection": {
             "Tip": "SUPPLIES & CHIPS EVERYDAY ACCESS",
-            "UtcStartTime": "2025/08/14 10:00:00",
-            "UtcExpireTime": "2025/08/28 03:59:59",
+            "UtcStartTime": "2025/10/30 10:00:00",
+            "UtcExpireTime": "2025/11/13 03:59:59",
             "TimeZone": -7,
             "IsResourceCollection": true
         }
