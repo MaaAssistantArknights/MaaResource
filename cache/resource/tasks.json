@@ -1,22 +1,16 @@
 {
-    "BattleQuickFormationSkill1": {
-        "specificRect": [110, 385, 1, 100]
-    },
-    "BattleQuickFormationSkill2": {
-        "specificRect": [110, 560, 1, 30]
-    },
-    "BattleQuickFormationSkill3": {
-        "specificRect": [110, 650, 1, 30]
-    },
-    "GOChapterToGO": {
-        "text": ["无名之勋", "之", "名"],
-        "withoutDet": true,
-        "useRaw": false,
-        "binThreshold": [200, 255]
-    },
-    "MiniGame@RM-1@Wait": {
-        "algorithm": "JustReturn",
-        "postDelay": 1000,
-        "next": ["MiniGame@RM-1@DoNotApply", "MiniGame@RM-1@WaitForMax", "MiniGame@RM-1@BattleFailedClick", "#self"]
+    "ClickedCorrectStage": {
+        "ocrReplace": [
+            ["OPERATION", ""],
+            [" ", ""],
+            ["s", "S"],
+            ["c", "C"],
+            ["o", "O"],
+            [":", ""],
+            ["'", ""],
+            ["(H\\d+)O(?=-)", "$010"],
+            ["(-\\d+)O", "$010"]
+        ]
     }
 }
+
