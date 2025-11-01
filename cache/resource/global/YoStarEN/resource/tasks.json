@@ -35,5 +35,13 @@
     },
     "SS-Open": {
         "roi": [505, 57, 462, 222]
+    },
+    "BattleQuickFormationClear": {
+        "algorithm": "OcrDetect",
+        "text": ["Deselect All", "Clear Selection"],
+        "action": "ClickSelf",
+        "roi": [334, 605, 286, 115],
+        "postDelay": 500,
+        "next": ["BattleQuickFormationExpandRole", "Stop"]
     }
 }
