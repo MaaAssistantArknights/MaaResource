@@ -34,7 +34,7 @@
         "next": ["OS-4@SideStoryStage", "OS-4@SwipeToStage"]
     },
     "OS-4@SideStoryStage": {
-        "text": ["OS-4"]
+        "text": ["OS-4", "oS-4"]
     },
     "OS-7": {
         "algorithm": "JustReturn",
@@ -42,7 +42,7 @@
         "next": ["OS-7@SideStoryStage", "OS-7@SwipeToStage"]
     },
     "OS-7@SideStoryStage": {
-        "text": ["OS-7"]
+        "text": ["OS-7", "oS-7"]
     },
     "OS-8": {
         "algorithm": "JustReturn",
@@ -50,7 +50,7 @@
         "next": ["OS-8@SideStoryStage", "OS-8@SwipeToStage"]
     },
     "OS-8@SideStoryStage": {
-        "text": ["OS-8"]
+        "text": ["OS-8", "oS-8"]
     },
     "OS-9": {
         "algorithm": "JustReturn",
@@ -58,7 +58,7 @@
         "next": ["OS-9@SideStoryStage", "OS-9@SwipeToStage"]
     },
     "OS-9@SideStoryStage": {
-        "text": ["OS-9"]
+        "text": ["OS-9", "oS-9"]
     },
     "OS-OpenOpt": {
         "algorithm": "JustReturn",
@@ -73,7 +73,7 @@
     "OS-OpenOcr": {
         "baseTask": "SS-OpenOcr",
         "postDelay": 3000,
-        "text": ["雪山降临1101", "变革之路", "喀兰之心"],
+        "text": ["雪山降临", "变革之路", "喀兰之心"],
         "next": ["OSChapterToOS"]
     },
     "OSChapterToOS": {
@@ -85,5 +85,6 @@
         "next": ["#self", "SideStoryStage", "ChapterSwipeToTheRight"]
     }
 }
+
 
 
