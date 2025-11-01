@@ -15,54 +15,54 @@
                 }
             },
             {
-                "Display": "GO-9",
-                "Value": "GO-9",
-                "Drop": "31043",
+                "Display": "OS-9",
+                "Value": "OS-9",
+                "Drop": "31053",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「追迹日落以西」",
-                    "StageName": "追迹日落以西",
-                    "UtcStartTime": "2025/09/19 04:00:00",
-                    "UtcExpireTime": "2025/09/29 03:59:59",
+                    "Tip": "SideStory「雪山降临1101」",
+                    "StageName": "雪山降临1101",
+                    "UtcStartTime": "2025/11/01 07:00:00",
+                    "UtcExpireTime": "2025/11/22 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "GO-8",
-                "Value": "GO-8",
-                "Drop": "31013",
+                "Display": "OS-8",
+                "Value": "OS-8",
+                "Drop": "30103",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「追迹日落以西」",
-                    "StageName": "追迹日落以西",
-                    "UtcStartTime": "2025/09/19 04:00:00",
-                    "UtcExpireTime": "2025/09/29 03:59:59",
+                    "Tip": "SideStory「雪山降临1101」",
+                    "StageName": "雪山降临1101",
+                    "UtcStartTime": "2025/11/01 07:00:00",
+                    "UtcExpireTime": "2025/11/22 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "GO-7",
-                "Value": "GO-7",
-                "Drop": "30013",
+                "Display": "OS-7",
+                "Value": "OS-7",
+                "Drop": "30023",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「追迹日落以西」",
-                    "StageName": "追迹日落以西",
-                    "UtcStartTime": "2025/09/19 04:00:00",
-                    "UtcExpireTime": "2025/09/29 03:59:59",
+                    "Tip": "SideStory「雪山降临1101」",
+                    "StageName": "雪山降临1101",
+                    "UtcStartTime": "2025/11/01 07:00:00",
+                    "UtcExpireTime": "2025/11/22 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "GO-4",
-                "Value": "GO-4",
-                "Drop": "搓玉效率待测",
+                "Display": "OS-4",
+                "Value": "OS-4",
+                "Drop": "搓玉效率待定",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「追迹日落以西」",
-                    "StageName": "追迹日落以西",
-                    "UtcStartTime": "2025/09/19 04:00:00",
-                    "UtcExpireTime": "2025/09/29 03:59:59",
+                    "Tip": "SideStory「雪山降临1101」",
+                    "StageName": "雪山降临1101",
+                    "UtcStartTime": "2025/11/01 07:00:00",
+                    "UtcExpireTime": "2025/11/22 03:59:59",
                     "TimeZone": 8
                 }
             }
