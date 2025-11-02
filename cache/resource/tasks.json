@@ -1,4 +1,11 @@
 {
+    "MiniGame@OS@EndTurn": {
+        "baseTask": "#none",
+        "action": "ClickSelf",
+        "roi": [1026, 341, 249, 142],
+        "postDelay": 4000,
+        "next": ["MiniGame@OS@CheckPointsUsed", "MiniGame@OS@ClickToContinue", "MiniGame@OS@PlayFirstCard"]
+    },
     "ClickStageName": {
         "ocrReplace": [
             ["-\\]", "-1"],
@@ -85,6 +92,7 @@
         "next": ["#self", "SideStoryStage", "ChapterSwipeToTheRight"]
     }
 }
+
 
 
 
