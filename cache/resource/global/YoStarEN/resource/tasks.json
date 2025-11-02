@@ -33,9 +33,6 @@
     "SpecialAccessActivitiesConfirm": {
         "text": ["CLAIM", "Claim", "NOW", "Now"]
     },
-    "SS-Open": {
-        "roi": [505, 57, 462, 222]
-    },
     "BattleQuickFormationClear": {
         "algorithm": "OcrDetect",
         "text": ["Deselect All", "Clear Selection"],
