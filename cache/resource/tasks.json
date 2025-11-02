@@ -1,4 +1,8 @@
 {
+    "MiniGame@OS@CheckPointsUsed": {
+        "algorithm": "OcrDetect",
+        "text": ["所有点数", "结束本回合"]
+    },
     "MiniGame@OS@EndTurn": {
         "baseTask": "#none",
         "action": "ClickSelf",
@@ -92,6 +96,7 @@
         "next": ["#self", "SideStoryStage", "ChapterSwipeToTheRight"]
     }
 }
+
 
 
 
