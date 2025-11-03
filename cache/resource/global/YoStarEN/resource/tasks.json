@@ -35,7 +35,7 @@
     },
     "BattleQuickFormationClear": {
         "algorithm": "OcrDetect",
-        "text": ["Deselect All", "Clear Selection"],
+        "text": ["Deselect All", "Clear selection"],
         "action": "ClickSelf",
         "roi": [334, 605, 286, 115],
         "postDelay": 500,
