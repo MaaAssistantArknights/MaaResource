@@ -56,7 +56,7 @@
             {
                 "Display": "OS-4",
                 "Value": "OS-4",
-                "Drop": "搓玉效率待定",
+                "Drop": "每理智0.69玉",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
                     "Tip": "SideStory「雪山降临1101」",
@@ -548,4 +548,5 @@
             "IsResourceCollection": true
         }
     }
+
 }
