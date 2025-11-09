@@ -1,4 +1,7 @@
 {
+    "BattleSwipeOper": {
+        "specialParams": [400, 100, 2, 0, 300]
+    },
     "MiniGame@OS@CheckPointsUsed": {
         "algorithm": "OcrDetect",
         "text": ["所有点数", "结束本回合"]
@@ -96,6 +99,7 @@
         "next": ["#self", "SideStoryStage", "ChapterSwipeToTheRight"]
     }
 }
+
 
 
 
