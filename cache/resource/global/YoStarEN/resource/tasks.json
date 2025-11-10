@@ -40,5 +40,11 @@
         "roi": [334, 605, 286, 115],
         "postDelay": 500,
         "next": ["BattleQuickFormationExpandRole", "Stop"]
+    },
+    "AD-OpenOcr": {
+        "text": ["Act", "Die", "Drama", "Eternity"]
+    },
+    "ADChapterToAD": {
+        "text": ["Performance", "PERFORMANCE", "Begins", "BEGINS"]
     }
 }

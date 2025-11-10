@@ -16,12 +16,6 @@
     "StartToWakeUp": {
         "roi": [480, 480, 320, 60]
     },
-    "EnterChapterDifficultyHard": {
-        "text": ["作戦へ"]
-    },
-    "EnterChapterDifficultyNormal": {
-        "text": ["作戦へ"]
-    },
     "StartButton1": {
         "ocrReplace": [["行重動", "行動"]],
         "text": ["行動開始", "作戦開始", "推論開始"]
@@ -36,31 +30,10 @@
         "doc": "幸运墙领合成玉",
         "text": ["開運", "おみくじ", "バザール", "カルネヴァ", "ラテラーノ", "スクラッチ", "スクラツ"]
     },
-    "OrundumActivitiesChoose": {
-        "text": ["開運くじ", "おみくじ", "を選択", "してくだ"]
+    "AD-OpenOcr": {
+        "text": ["緋染め", "ビロード", "舞台へ", "永遠へ", "ステージ開放中"]
     },
-    "OrundumActivitiesConfirm": {
-        "text": ["引く", "引<"]
-    },
-    "MT-OpenOcr": {
-        "text": ["命ある者の旅", "主への謁見", "主へ", "安息の地", "ステージ開放中"]
-    },
-    "MTChapterToMT": {
-        "text": ["聖堂を望む", "聖堂", "望む"]
-    },
-    "MiniGame@ALL@GreenGrass@DuelChannel@Begin": {
-        "text": ["試合観戦"]
-    },
-    "MiniGame@ALL@GreenGrass@DuelChannel@ChooseMode": {
-        "text": ["一人で観戦"]
-    },
-    "MiniGame@ALL@GreenGrass@DuelChannel@Enter": {
-        "text": ["試合", "開始"]
-    },
-    "MiniGame@ALL@GreenGrass@DuelChannel@ChooseFlag": {
-        "text": ["ギフト所持"]
-    },
-    "MiniGame@ALL@GreenGrass@DuelChannel@End": {
-        "text": ["ホーム", "面へ"]
+    "ADChapterToAD": {
+        "text": ["幕を上げる", "幕を", "上げる"]
     }
 }

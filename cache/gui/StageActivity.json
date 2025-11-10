@@ -78,119 +78,54 @@
     "YoStarJP": {
         "sideStoryStage": [
             {
-                "Display": "MT-6",
-                "Value": "MT-6",
-                "Drop": "合成玉効率64%",
+                "Display": "AD-6",
+                "Value": "AD-6",
+                "Drop": "30063",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「命ある者の旅」",
-                    "StageName": "MT",
-                    "UtcStartTime": "2025/10/14 16:00:00",
-                    "UtcExpireTime": "2025/11/04 03:59:59",
+                    "Tip": "サイドストーリー「緋染めのビロード」",
+                    "StageName": "AD",
+                    "UtcStartTime": "2025/11/13 16:00:00",
+                    "UtcExpireTime": "2025/11/27 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "MT-8",
-                "Value": "MT-8",
-                "Drop": "30053",
+                "Display": "AD-7",
+                "Value": "AD-7",
+                "Drop": "30033",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「命ある者の旅」",
-                    "StageName": "MT",
-                    "UtcStartTime": "2025/10/14 16:00:00",
-                    "UtcExpireTime": "2025/11/04 03:59:59",
+                    "Tip": "サイドストーリー「緋染めのビロード」",
+                    "StageName": "AD",
+                    "UtcStartTime": "2025/11/13 16:00:00",
+                    "UtcExpireTime": "2025/11/27 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "MT-9",
-                "Value": "MT-9",
-                "Drop": "30093",
+                "Display": "AD-8",
+                "Value": "AD-8",
+                "Drop": "31023",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「命ある者の旅」",
-                    "StageName": "MT",
-                    "UtcStartTime": "2025/10/14 16:00:00",
-                    "UtcExpireTime": "2025/11/04 03:59:59",
+                    "Tip": "サイドストーリー「緋染めのビロード」",
+                    "StageName": "AD",
+                    "UtcStartTime": "2025/11/13 16:00:00",
+                    "UtcExpireTime": "2025/11/27 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "MT-10",
-                "Value": "MT-10",
-                "Drop": "31053",
+                "Display": "AD-3",
+                "Value": "AD-3",
+                "Drop": "合成玉効率89%",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "サイドストーリー「命ある者の旅」",
-                    "StageName": "MT",
-                    "UtcStartTime": "2025/10/14 16:00:00",
-                    "UtcExpireTime": "2025/11/04 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "SSReopen-BB",
-                "Value": "SSReopen-BB",
-                "Drop": "SS「バベル」復刻代理 1~8",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "サイドストーリー「バベル」復刻",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/09/30 16:00:00",
-                    "UtcExpireTime": "2025/10/10 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "BB-6",
-                "Value": "BB-6",
-                "Drop": "30013",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "サイドストーリー「バベル」復刻",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/09/30 16:00:00",
-                    "UtcExpireTime": "2025/10/10 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "BB-7",
-                "Value": "BB-7",
-                "Drop": "30043",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "サイドストーリー「バベル」復刻",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/09/30 16:00:00",
-                    "UtcExpireTime": "2025/10/10 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "BB-8",
-                "Value": "BB-8",
-                "Drop": "31013",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "サイドストーリー「バベル」復刻",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/09/30 16:00:00",
-                    "UtcExpireTime": "2025/10/10 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "BB-4",
-                "Value": "BB-4",
-                "Drop": "合成玉効率32%",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "サイドストーリー「バベル」復刻",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/09/30 16:00:00",
-                    "UtcExpireTime": "2025/10/10 03:59:59",
+                    "Tip": "サイドストーリー「緋染めのビロード」",
+                    "StageName": "AD",
+                    "UtcStartTime": "2025/11/13 16:00:00",
+                    "UtcExpireTime": "2025/11/27 03:59:59",
                     "TimeZone": 9
                 }
             }
@@ -198,7 +133,7 @@
         "resourceCollection": {
             "Tip": "「資源調達」全ステージ開放",
             "UtcStartTime": "2025/10/30 16:00:00",
-            "UtcExpireTime": "2025/11/13 03:59:59",
+            "UtcExpireTime": "2025/11/20 03:59:59",
             "TimeZone": 9,
             "IsResourceCollection": true
         }
@@ -206,119 +141,54 @@
     "YoStarKR": {
         "sideStoryStage": [
             {
-                "Display": "MT-6",
-                "Value": "MT-6",
-                "Drop": "합성옥 효율 64%",
+                "Display": "AD-6",
+                "Value": "AD-6",
+                "Drop": "30063",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory - 중생의 여정",
-                    "StageName": "MT",
-                    "UtcStartTime": "2025/10/14 16:00:00",
-                    "UtcExpireTime": "2025/11/04 03:59:59",
+                    "Tip": "SideStory - 붉게 물든 벨벳",
+                    "StageName": "AD",
+                    "UtcStartTime": "2025/11/13 16:00:00",
+                    "UtcExpireTime": "2025/11/27 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "MT-8",
-                "Value": "MT-8",
-                "Drop": "30053",
+                "Display": "AD-7",
+                "Value": "AD-7",
+                "Drop": "30033",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory - 중생의 여정",
-                    "StageName": "MT",
-                    "UtcStartTime": "2025/10/14 16:00:00",
-                    "UtcExpireTime": "2025/11/04 03:59:59",
+                    "Tip": "SideStory - 붉게 물든 벨벳",
+                    "StageName": "AD",
+                    "UtcStartTime": "2025/11/13 16:00:00",
+                    "UtcExpireTime": "2025/11/27 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "MT-9",
-                "Value": "MT-9",
-                "Drop": "30093",
+                "Display": "AD-8",
+                "Value": "AD-8",
+                "Drop": "31023",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory - 중생의 여정",
-                    "StageName": "MT",
-                    "UtcStartTime": "2025/10/14 16:00:00",
-                    "UtcExpireTime": "2025/11/04 03:59:59",
+                    "Tip": "SideStory - 붉게 물든 벨벳",
+                    "StageName": "AD",
+                    "UtcStartTime": "2025/11/13 16:00:00",
+                    "UtcExpireTime": "2025/11/27 03:59:59",
                     "TimeZone": 9
                 }
             },
             {
-                "Display": "MT-10",
-                "Value": "MT-10",
-                "Drop": "31053",
+                "Display": "AD-3",
+                "Value": "AD-3",
+                "Drop": "합성옥 효율 89%",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory - 중생의 여정",
-                    "StageName": "MT",
-                    "UtcStartTime": "2025/10/14 16:00:00",
-                    "UtcExpireTime": "2025/11/04 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "SSReopen-BB",
-                "Value": "SSReopen-BB",
-                "Drop": "재개방 대리지휘 1~8",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "SideStory '바벨' 재개방",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/09/30 16:00:00",
-                    "UtcExpireTime": "2025/10/10 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "BB-4",
-                "Value": "BB-4",
-                "Drop": "합성옥 효율 32%",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "SideStory '바벨' 재개방",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/09/30 16:00:00",
-                    "UtcExpireTime": "2025/10/10 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "BB-6",
-                "Value": "BB-6",
-                "Drop": "30013",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "SideStory '바벨' 재개방",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/09/30 16:00:00",
-                    "UtcExpireTime": "2025/10/10 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "BB-7",
-                "Value": "BB-7",
-                "Drop": "30043",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "SideStory '바벨' 재개방",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/09/30 16:00:00",
-                    "UtcExpireTime": "2025/10/10 03:59:59",
-                    "TimeZone": 9
-                }
-            },
-            {
-                "Display": "BB-8",
-                "Value": "BB-8",
-                "Drop": "31013",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "SideStory '바벨' 재개방",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/09/30 16:00:00",
-                    "UtcExpireTime": "2025/10/10 03:59:59",
+                    "Tip": "SideStory - 붉게 물든 벨벳",
+                    "StageName": "AD",
+                    "UtcStartTime": "2025/11/13 16:00:00",
+                    "UtcExpireTime": "2025/11/27 03:59:59",
                     "TimeZone": 9
                 }
             }
@@ -326,7 +196,7 @@
         "resourceCollection": {
             "Tip": "[자원 수집] 제한 시간 상시 오픈",
             "UtcStartTime": "2025/10/30 16:00:00",
-            "UtcExpireTime": "2025/11/13 03:59:59",
+            "UtcExpireTime": "2025/11/20 03:59:59",
             "TimeZone": 9,
             "IsResourceCollection": true
         }
@@ -334,119 +204,54 @@
     "YoStarEN": {
         "sideStoryStage": [
             {
-                "Display": "MT-6",
-                "Value": "MT-6",
-                "Drop": "Orundum efficiency 64%",
+                "Display": "AD-6",
+                "Value": "AD-6",
+                "Drop": "30063",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "The Masses' Travels",
-                    "StageName": "MT",
-                    "UtcStartTime": "2025/10/14 08:00:00",
-                    "UtcExpireTime": "2025/11/04 03:59:59",
+                    "Tip": "Act or Die",
+                    "StageName": "AD",
+                    "UtcStartTime": "2025/11/13 08:00:00",
+                    "UtcExpireTime": "2025/11/27 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "MT-8",
-                "Value": "MT-8",
-                "Drop": "30053",
+                "Display": "AD-7",
+                "Value": "AD-7",
+                "Drop": "30033",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "The Masses' Travels",
-                    "StageName": "MT",
-                    "UtcStartTime": "2025/10/14 08:00:00",
-                    "UtcExpireTime": "2025/11/04 03:59:59",
+                    "Tip": "Act or Die",
+                    "StageName": "AD",
+                    "UtcStartTime": "2025/11/13 08:00:00",
+                    "UtcExpireTime": "2025/11/27 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "MT-9",
-                "Value": "MT-9",
-                "Drop": "30093",
+                "Display": "AD-8",
+                "Value": "AD-8",
+                "Drop": "31023",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "The Masses' Travels",
-                    "StageName": "MT",
-                    "UtcStartTime": "2025/10/14 08:00:00",
-                    "UtcExpireTime": "2025/11/04 03:59:59",
+                    "Tip": "Act or Die",
+                    "StageName": "AD",
+                    "UtcStartTime": "2025/11/13 08:00:00",
+                    "UtcExpireTime": "2025/11/27 03:59:59",
                     "TimeZone": -7
                 }
             },
             {
-                "Display": "MT-10",
-                "Value": "MT-10",
-                "Drop": "31053",
+                "Display": "AD-3",
+                "Value": "AD-3",
+                "Drop": "Orundum efficiency 89%",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "The Masses' Travels",
-                    "StageName": "MT",
-                    "UtcStartTime": "2025/10/14 08:00:00",
-                    "UtcExpireTime": "2025/11/04 03:59:59",
-                    "TimeZone": -7
-                }
-            },
-            {
-                "Display": "SSReopen-BB",
-                "Value": "SSReopen-BB",
-                "Drop": "Sidestory Babel - Rerun Auto-Deploy 1~8",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "Sidestory Babel - Rerun",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/09/30 10:00:00",
-                    "UtcExpireTime": "2025/10/10 03:59:59",
-                    "TimeZone": -7
-                }
-            },
-            {
-                "Display": "BB-4",
-                "Value": "BB-4",
-                "Drop": "Orundum efficiency 32%",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "Sidestory Babel - Rerun",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/09/30 10:00:00",
-                    "UtcExpireTime": "2025/10/10 03:59:59",
-                    "TimeZone": -7
-                }
-            },
-            {
-                "Display": "BB-6",
-                "Value": "BB-6",
-                "Drop": "30013",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "Sidestory Babel - Rerun",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/09/30 10:00:00",
-                    "UtcExpireTime": "2025/10/10 03:59:59",
-                    "TimeZone": -7
-                }
-            },
-            {
-                "Display": "BB-7",
-                "Value": "BB-7",
-                "Drop": "30043",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "Sidestory Babel - Rerun",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/09/30 10:00:00",
-                    "UtcExpireTime": "2025/10/10 03:59:59",
-                    "TimeZone": -7
-                }
-            },
-            {
-                "Display": "BB-8",
-                "Value": "BB-8",
-                "Drop": "31013",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "Sidestory Babel - Rerun",
-                    "StageName": "BB",
-                    "UtcStartTime": "2025/09/30 10:00:00",
-                    "UtcExpireTime": "2025/10/10 03:59:59",
+                    "Tip": "Act or Die",
+                    "StageName": "AD",
+                    "UtcStartTime": "2025/11/13 08:00:00",
+                    "UtcExpireTime": "2025/11/27 03:59:59",
                     "TimeZone": -7
                 }
             }
@@ -454,7 +259,7 @@
         "resourceCollection": {
             "Tip": "SUPPLIES & CHIPS EVERYDAY ACCESS",
             "UtcStartTime": "2025/10/30 10:00:00",
-            "UtcExpireTime": "2025/11/13 03:59:59",
+            "UtcExpireTime": "2025/11/20 03:59:59",
             "TimeZone": -7,
             "IsResourceCollection": true
         }
