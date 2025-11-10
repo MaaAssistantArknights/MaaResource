@@ -1,6 +1,6 @@
 {
-    "BattleSwipeOper": {
-        "specialParams": [400, 100, 2, 0, 300]
+    "BattleCancelSelection": {
+        "specificRect": [630, 0, 20, 20]
     },
     "MiniGame@OS@CheckPointsUsed": {
         "algorithm": "OcrDetect",
@@ -99,6 +99,7 @@
         "next": ["#self", "SideStoryStage", "ChapterSwipeToTheRight"]
     }
 }
+
 
 
 
