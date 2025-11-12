@@ -1,6 +1,6 @@
 {
-    "BattleCancelSelection": {
-        "specificRect": [630, 0, 20, 20]
+    "Roguelike@ClickToDrops": {
+        "specificRect": [600, 600, 50, 50]
     },
     "MiniGame@OS@CheckPointsUsed": {
         "algorithm": "OcrDetect",
@@ -99,6 +99,7 @@
         "next": ["#self", "SideStoryStage", "ChapterSwipeToTheRight"]
     }
 }
+
 
 
 
