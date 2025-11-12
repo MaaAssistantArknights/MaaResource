@@ -1,6 +1,6 @@
 {
     "Roguelike@ClickToDrops": {
-        "specificRect": [600, 600, 50, 50]
+        "specificRect": [630, 630, 1, 1]
     },
     "MiniGame@OS@CheckPointsUsed": {
         "algorithm": "OcrDetect",
@@ -99,6 +99,7 @@
         "next": ["#self", "SideStoryStage", "ChapterSwipeToTheRight"]
     }
 }
+
 
 
 
