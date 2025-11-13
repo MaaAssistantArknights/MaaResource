@@ -2,6 +2,16 @@
     "Roguelike@ClickToDrops": {
         "specificRect": [630, 630, 1, 1]
     },
+    "Roguelike@StageTraderInvestSystemEnter": {
+        "postDelay": 500,
+        "next": [
+            "Roguelike@StageTraderInvestSystemError",
+            "Roguelike@StageTraderInvestConfirm",
+            "Roguelike@StageTraderInvestCancel"
+            "Roguelike@StageTraderInvestCancel",
+            "#self"
+        ]
+    },
     "MiniGame@OS@CheckPointsUsed": {
         "algorithm": "OcrDetect",
         "text": ["所有点数", "结束本回合"]
@@ -101,6 +111,7 @@
         "next": ["#self", "SideStoryStage", "ChapterSwipeToTheRight"]
     }
 }
+
 
 
 
