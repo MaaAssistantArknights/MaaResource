@@ -7,7 +7,6 @@
         "next": [
             "Roguelike@StageTraderInvestSystemError",
             "Roguelike@StageTraderInvestConfirm",
-            "Roguelike@StageTraderInvestCancel"
             "Roguelike@StageTraderInvestCancel",
             "#self"
         ]
@@ -111,6 +110,7 @@
         "next": ["#self", "SideStoryStage", "ChapterSwipeToTheRight"]
     }
 }
+
 
 
 
