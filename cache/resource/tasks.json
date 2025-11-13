@@ -2,6 +2,9 @@
     "Roguelike@ClickToDrops": {
         "specificRect": [630, 630, 1, 1]
     },
+    "Roguelike@GetDropCompleted": {
+        "specificRect": [630, 630, 1, 1]
+    },
     "Roguelike@StageTraderInvestSystemEnter": {
         "postDelay": 500,
         "next": [
@@ -110,6 +113,7 @@
         "next": ["#self", "SideStoryStage", "ChapterSwipeToTheRight"]
     }
 }
+
 
 
 
