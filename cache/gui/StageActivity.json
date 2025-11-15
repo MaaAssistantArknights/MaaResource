@@ -267,80 +267,66 @@
     "txwy": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-HS",
-                "Value": "SSReopen-HS",
-                "Drop": "代理1~9",
+                "Display": "SSReopen-BB",
+                "Value": "SSReopen-BB",
+                "Drop": "代理1~8",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「懷黍離」復刻",
-                    "StageName": "懷黍離 復刻",
-                    "UtcStartTime": "2025/10/07 16:00:00",
-                    "UtcExpireTime": "2025/10/17 03:59:59",
+                    "Tip": "SideStory「巴别塔」復刻",
+                    "StageName": "巴别塔 復刻",
+                    "UtcStartTime": "2025/11/14 16:00:00",
+                    "UtcExpireTime": "2025/11/24 03:59:59",
+                    "TimeZone": 8
+                }
+            },            {
+                "Display": "BB-6",
+                "Value": "BB-6",
+                "Drop": "30013",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory「巴別塔」復刻",
+                    "StageName": "BB",
+                    "UtcStartTime": "2025/11/14 16:00:00",
+                    "UtcExpireTime": "2025/11/24 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "EA-8",
-                "Value": "EA-8",
-                "Drop": "31073",
+                "Display": "BB-7",
+                "Value": "BB-7",
+                "Drop": "30043",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「輓歌燃燒殆盡」",
-                    "StageName": "輓歌燃燒殆盡",
-                    "UtcStartTime": "2025/10/17 16:00:00",
-                    "UtcExpireTime": "2025/10/31 03:59:59",
+                    "Tip": "SideStory「巴別塔」復刻",
+                    "StageName": "BB",
+                    "UtcStartTime": "2025/11/14 16:00:00",
+                    "UtcExpireTime": "2025/11/24 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "EA-7",
-                "Value": "EA-7",
-                "Drop": "31043",
+                "Display": "BB-8",
+                "Value": "BB-8",
+                "Drop": "31013",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「輓歌燃燒殆盡」",
-                    "StageName": "輓歌燃燒殆盡",
-                    "UtcStartTime": "2025/10/17 16:00:00",
-                    "UtcExpireTime": "2025/10/31 03:59:59",
+                    "Tip": "SideStory「巴別塔」復刻",
+                    "StageName": "BB",
+                    "UtcStartTime": "2025/11/14 16:00:00",
+                    "UtcExpireTime": "2025/11/24 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "EA-6",
-                "Value": "EA-6",
-                "Drop": "30093",
+                "Display": "BB-4",
+                "Value": "BB-4",
+                "Drop": "糖、固原岩（搓玉效率0.3）",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
-                    "Tip": "SideStory「輓歌燃燒殆盡」",
-                    "StageName": "輓歌燃燒殆盡",
-                    "UtcStartTime": "2025/10/17 16:00:00",
-                    "UtcExpireTime": "2025/10/31 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "EA-3",
-                "Value": "EA-3",
-                "Drop": "搓玉用",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "SideStory「輓歌燃燒殆盡」",
-                    "StageName": "輓歌燃燒殆盡",
-                    "UtcStartTime": "2025/10/17 16:00:00",
-                    "UtcExpireTime": "2025/10/31 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "OR-4",
-                "Value": "OR-4",
-                "Drop": "搓玉用",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "SideStory「相見歡」",
-                    "StageName": "相見歡",
-                    "UtcStartTime": "2025/09/16 16:00:00",
-                    "UtcExpireTime": "2025/10/07 03:59:59",
+                    "Tip": "SideStory「巴别塔」复刻",
+                    "StageName": "BB",
+                    "UtcStartTime": "2025/11/14 16:00:00",
+                    "UtcExpireTime": "2025/11/24 03:59:59",
                     "TimeZone": 8
                 }
             }
