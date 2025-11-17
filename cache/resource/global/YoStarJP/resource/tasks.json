@@ -21,6 +21,7 @@
         "text": ["行動開始", "作戦開始", "推論開始"]
     },
     "BattleStartPre": {
+        "ocrReplace": [["算.*", ""]],
         "text": ["行動開始", "開始", "試練", "挑戦", "作戦", "推論"]
     },
     "RecruitSupportConfirm": {
