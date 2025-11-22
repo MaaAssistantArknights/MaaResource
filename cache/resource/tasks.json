@@ -1,6 +1,8 @@
 {
     "StartUp": {
-        "sub": []
+        "sub": [],
+        "postDelay": 1000,
+        "maxTimes": 3
     },
     "Home": {
         "sub": []
@@ -119,6 +121,7 @@
         "next": ["#self", "SideStoryStage", "ChapterSwipeToTheRight"]
     }
 }
+
 
 
 
