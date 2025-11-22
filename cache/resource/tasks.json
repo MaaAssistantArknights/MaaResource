@@ -1,4 +1,10 @@
 {
+    "StartUp": {
+        "sub": []
+    },
+    "Home": {
+        "sub": []
+    }, 
     "Roguelike@ClickToDrops": {
         "specificRect": [630, 630, 1, 1]
     },
@@ -113,6 +119,7 @@
         "next": ["#self", "SideStoryStage", "ChapterSwipeToTheRight"]
     }
 }
+
 
 
 
