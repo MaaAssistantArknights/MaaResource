@@ -180,6 +180,71 @@
                     "UtcExpireTime": "2025/11/27 03:59:59",
                     "TimeZone": 9
                 }
+            },
+            {
+                "Display": "SSReopen-BP",
+                "Value": "SSReopen-BP",
+                "Drop": "SS「生存航路」復刻代理 1~8",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "サイドストーリー「生存航路」復刻",
+                    "StageName": "BP",
+                    "UtcStartTime": "2025/11/27 16:00:00",
+                    "UtcExpireTime": "2025/12/07 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "BP-5",
+                "Value": "BP-5",
+                "Drop": "31033",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "サイドストーリー「生存航路」復刻",
+                    "StageName": "BP",
+                    "UtcStartTime": "2025/11/27 16:00:00",
+                    "UtcExpireTime": "2025/12/07 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "BP-6",
+                "Value": "BP-6",
+                "Drop": "30023",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "サイドストーリー「生存航路」復刻",
+                    "StageName": "BP",
+                    "UtcStartTime": "2025/11/27 16:00:00",
+                    "UtcExpireTime": "2025/12/07 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "BP-7",
+                "Value": "BP-7",
+                "Drop": "30073",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "サイドストーリー「生存航路」復刻",
+                    "StageName": "BP",
+                    "UtcStartTime": "2025/11/27 16:00:00",
+                    "UtcExpireTime": "2025/12/07 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "BP-4",
+                "Value": "BP-4",
+                "Drop": "初級源岩、初級エステル（合成玉効率64%）",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "サイドストーリー「生存航路」復刻",
+                    "StageName": "BP",
+                    "UtcStartTime": "2025/11/27 16:00:00",
+                    "UtcExpireTime": "2025/12/07 03:59:59",
+                    "TimeZone": 9
+                }
             }
         ],
         "resourceCollection": {
@@ -241,6 +306,71 @@
                     "StageName": "AD",
                     "UtcStartTime": "2025/11/13 16:00:00",
                     "UtcExpireTime": "2025/11/27 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "SSReopen-BP",
+                "Value": "SSReopen-BP",
+                "Drop": "재개방 대리지휘 1~8",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory '삶의 길' 재개방",
+                    "StageName": "BP",
+                    "UtcStartTime": "2025/11/27 16:00:00",
+                    "UtcExpireTime": "2025/12/07 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "BP-5",
+                "Value": "BP-5",
+                "Drop": "31033",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory '삶의 길' 재개방",
+                    "StageName": "BP",
+                    "UtcStartTime": "2025/11/27 16:00:00",
+                    "UtcExpireTime": "2025/12/07 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "BP-6",
+                "Value": "BP-6",
+                "Drop": "30023",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory '삶의 길' 재개방",
+                    "StageName": "BP",
+                    "UtcStartTime": "2025/11/27 16:00:00",
+                    "UtcExpireTime": "2025/12/07 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "BP-7",
+                "Value": "BP-7",
+                "Drop": "30073",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory '삶의 길' 재개방",
+                    "StageName": "BP",
+                    "UtcStartTime": "2025/11/27 16:00:00",
+                    "UtcExpireTime": "2025/12/07 03:59:59",
+                    "TimeZone": 9
+                }
+            },
+            {
+                "Display": "BP-4",
+                "Value": "BP-4",
+                "Drop": "합성옥 효율 64%",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "SideStory '삶의 길' 재개방",
+                    "StageName": "BP",
+                    "UtcStartTime": "2025/11/27 16:00:00",
+                    "UtcExpireTime": "2025/12/07 03:59:59",
                     "TimeZone": 9
                 }
             }
@@ -306,6 +436,71 @@
                     "UtcExpireTime": "2025/11/27 03:59:59",
                     "TimeZone": -7
                 }
+            },
+            {
+                "Display": "SSReopen-BP",
+                "Value": "SSReopen-BP",
+                "Drop": "Path of Life - Rerun Auto-Deploy 1~8",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "Path of Life - Rerun",
+                    "StageName": "BP",
+                    "UtcStartTime": "2025/11/27 08:00:00",
+                    "UtcExpireTime": "2025/12/07 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "BP-5",
+                "Value": "BP-5",
+                "Drop": "31033",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "Path of Life - Rerun",
+                    "StageName": "BP",
+                    "UtcStartTime": "2025/11/27 08:00:00",
+                    "UtcExpireTime": "2025/12/07 03:59:59",
+                    "TimeZone": -7
+                }
+            },
+            {
+                "Display": "BP-6",
+                "Value": "BP-6",
+                "Drop": "30023",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "Path of Life - Rerun",
+                    "StageName": "BP",
+                    "UtcStartTime": "2025/11/27 08:00:00",
+                    "UtcExpireTime": "2025/12/07 03:59:59",
+                    "TimeZone": -7
+                }
+            },
+            {
+                "Display": "BP-7",
+                "Value": "BP-7",
+                "Drop": "30073",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "Path of Life - Rerun",
+                    "StageName": "BP",
+                    "UtcStartTime": "2025/11/27 08:00:00",
+                    "UtcExpireTime": "2025/12/07 03:59:59",
+                    "TimeZone": -7
+                }
+            },
+            {
+                "Display": "BP-4",
+                "Value": "BP-4",
+                "Drop": "Orundum efficiency 64%",
+                "MinimumRequired": "v5.10.0",
+                "Activity": {
+                    "Tip": "Path of Life - Rerun",
+                    "StageName": "BP",
+                    "UtcStartTime": "2025/11/27 08:00:00",
+                    "UtcExpireTime": "2025/12/07 03:59:59",
+                    "TimeZone": -7
+                }
             }
         ],
         "resourceCollection": {
@@ -330,7 +525,8 @@
                     "UtcExpireTime": "2025/11/24 03:59:59",
                     "TimeZone": 8
                 }
-            },            {
+            },
+            {
                 "Display": "BB-6",
                 "Value": "BB-6",
                 "Drop": "30013",
