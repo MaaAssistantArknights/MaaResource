@@ -2,15 +2,67 @@
     "Official": {
         "sideStoryStage": [
             {
-                "Display": "SSReopen-GO",
-                "Value": "SSReopen-GO",
-                "Drop": "代理1~9",
-                "MinimumRequired": "v5.10.0",
+                "Display": "SSReopen-PV",
+                "Value": "SSReopen-PV",
+                "Drop": "代理1~10",
+                "MinimumRequired": "v5.28.0",
                 "Activity": {
-                    "Tip": "SideStory「追迹日落以西」复刻",
-                    "StageName": "追迹日落以西",
-                    "UtcStartTime": "2025/09/19 04:00:00",
-                    "UtcExpireTime": "2025/09/29 03:59:59",
+                    "Tip": "SideStory「揭幕者们」复刻",
+                    "StageName": "揭幕者们",
+                    "UtcStartTime": "2025/11/25 16:00:00",
+                    "UtcExpireTime": "2025/12/05 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "PV-10",
+                "Value": "PV-10",
+                "Drop": "31053",
+                "MinimumRequired": "v5.28.0",
+                "Activity": {
+                    "Tip": "SideStory「揭幕者们」复刻",
+                    "StageName": "揭幕者们",
+                    "UtcStartTime": "2025/11/25 16:00:00",
+                    "UtcExpireTime": "2025/12/05 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "PV-9",
+                "Value": "PV-9",
+                "Drop": "30103",
+                "MinimumRequired": "v5.28.0",
+                "Activity": {
+                    "Tip": "SideStory「揭幕者们」复刻",
+                    "StageName": "揭幕者们",
+                    "UtcStartTime": "2025/11/25 16:00:00",
+                    "UtcExpireTime": "2025/12/05 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "PV-8",
+                "Value": "PV-8",
+                "Drop": "30083",
+                "MinimumRequired": "v5.28.0",
+                "Activity": {
+                    "Tip": "SideStory「揭幕者们」复刻",
+                    "StageName": "揭幕者们",
+                    "UtcStartTime": "2025/11/25 16:00:00",
+                    "UtcExpireTime": "2025/12/05 03:59:59",
+                    "TimeZone": 8
+                }
+            },
+            {
+                "Display": "PV-5",
+                "Value": "PV-5",
+                "Drop": "搓玉",
+                "MinimumRequired": "v5.28.0",
+                "Activity": {
+                    "Tip": "SideStory「揭幕者们」复刻",
+                    "StageName": "揭幕者们",
+                    "UtcStartTime": "2025/11/25 16:00:00",
+                    "UtcExpireTime": "2025/12/05 03:59:59",
                     "TimeZone": 8
                 }
             },
@@ -339,5 +391,5 @@
             "IsResourceCollection": true
         }
     }
-
 }
+
