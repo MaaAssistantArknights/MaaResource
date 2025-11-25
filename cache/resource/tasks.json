@@ -7,21 +7,9 @@
     "Home": {
         "sub": []
     }, 
-    "Roguelike@ClickToDrops": {
-        "specificRect": [630, 630, 1, 1]
-    },
-    "Roguelike@GetDropCompleted": {
-        "specificRect": [630, 630, 1, 1]
-    },
-    "Roguelike@StageTraderInvestSystemEnter": {
-        "postDelay": 500,
-        "next": [
-            "Roguelike@StageTraderInvestSystemError",
-            "Roguelike@StageTraderInvestConfirm",
-            "Roguelike@StageTraderInvestCancel",
-            "#self"
-        ]
-    },
+    "TaskDefault": {
+        "postDelay": 500
+    }, 
     "MiniGame@OS@CheckPointsUsed": {
         "algorithm": "OcrDetect",
         "text": ["所有点数", "结束本回合"]
@@ -121,6 +109,7 @@
         "next": ["#self", "SideStoryStage", "ChapterSwipeToTheRight"]
     }
 }
+
 
 
 
