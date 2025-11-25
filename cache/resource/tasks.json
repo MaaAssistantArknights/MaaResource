@@ -1,4 +1,7 @@
 {
+    "StartToVisit": {
+        "templThreshold": 0.8
+    },
     "StartUp": {
         "sub": [],
         "postDelay": 1000,
@@ -109,6 +112,7 @@
         "next": ["#self", "SideStoryStage", "ChapterSwipeToTheRight"]
     }
 }
+
 
 
 
