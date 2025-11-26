@@ -16,16 +16,8 @@
     "TaskDefault": {
         "postDelay": 1000
     }, 
-    "MiniGame@OS@CheckPointsUsed": {
-        "algorithm": "OcrDetect",
-        "text": ["所有点数", "结束本回合"]
-    },
-    "MiniGame@OS@EndTurn": {
-        "baseTask": "#none",
-        "action": "ClickSelf",
-        "roi": [1026, 341, 249, 142],
-        "postDelay": 4000,
-        "next": ["MiniGame@OS@CheckPointsUsed", "MiniGame@OS@ClickToContinue", "MiniGame@OS@PlayFirstCard"]
+    "MiniGame@SPA@ReadyAgain": {
+        "postDelay": 1000
     },
     "ClickStageName": {
         "ocrReplace": [
@@ -115,19 +107,6 @@
         "next": ["#self", "SideStoryStage", "ChapterSwipeToTheRight"]
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
