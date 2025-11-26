@@ -10,8 +10,11 @@
     "Home": {
         "sub": []
     }, 
+    "FriendsDefault": {
+        "postDelay": 1000
+    }, 
     "TaskDefault": {
-        "postDelay": 500
+        "postDelay": 1000
     }, 
     "MiniGame@OS@CheckPointsUsed": {
         "algorithm": "OcrDetect",
@@ -112,6 +115,7 @@
         "next": ["#self", "SideStoryStage", "ChapterSwipeToTheRight"]
     }
 }
+
 
 
 
