@@ -15,20 +15,6 @@
     }, 
     "TaskDefault": {
         "postDelay": 1000
-    }, 
-    "MiniGame@SPA@ReadyAgain": {
-        "postDelay": 1000
-    },
-    "MiniGame@PV@01": {
-        "templThreshold": 0.7
-    },
-    "MiniGame@PV@06": {
-        "templThreshold": 0.7
-    },
-    "MiniGame@PV@15": {
-        "templThreshold": 0.7
-    },
-    "MiniGame@PV@19": {
-        "templThreshold": 0.7
     }
 }
+
