@@ -1,4 +1,14 @@
 {
+    "MiniGame@SPA@ConfirmResult": {
+        "next": ["MiniGame@SPA@ReturnHome", "MiniGame@SPA@LoadingText", "MiniGame@SPA@LoadingIcon"]
+    },
+    "MiniGame@SPA@LoadingText": {
+        "next": ["MiniGame@SPA@ReturnHome", "MiniGame@SPA@LoadingText", "MiniGame@SPA@LoadingIcon"]
+    },
+    "MiniGame@SPA@LoadingIcon": {
+        "template": "LoadingIcon.png",
+        "next": ["MiniGame@SPA@ReturnHome", "MiniGame@SPA@LoadingText", "MiniGame@SPA@LoadingIcon"]
+    },
     "StartToVisit": {
         "templThreshold": 0.8
     },
@@ -17,4 +27,5 @@
         "postDelay": 1000
     }
 }
+
 
