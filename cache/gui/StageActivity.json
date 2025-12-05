@@ -15,106 +15,54 @@
                 }
             },
             {
-                "Display": "PV-10",
-                "Value": "PV-10",
-                "Drop": "31053",
+                "Display": "UR-8",
+                "Value": "UR-8",
+                "Drop": "31033",
                 "MinimumRequired": "v5.28.0",
                 "Activity": {
-                    "Tip": "SideStory「揭幕者们」复刻",
-                    "StageName": "揭幕者们",
-                    "UtcStartTime": "2025/11/25 16:00:00",
-                    "UtcExpireTime": "2025/12/05 03:59:59",
+                    "Tip": "SideStory「未许之地」",
+                    "StageName": "未许之地",
+                    "UtcStartTime": "2025/12/05 12:00:00",
+                    "UtcExpireTime": "2025/12/19 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "PV-9",
-                "Value": "PV-9",
-                "Drop": "30103",
+                "Display": "UR-7",
+                "Value": "UR-7",
+                "Drop": "31023",
                 "MinimumRequired": "v5.28.0",
                 "Activity": {
-                    "Tip": "SideStory「揭幕者们」复刻",
-                    "StageName": "揭幕者们",
-                    "UtcStartTime": "2025/11/25 16:00:00",
-                    "UtcExpireTime": "2025/12/05 03:59:59",
+                    "Tip": "SideStory「未许之地」",
+                    "StageName": "未许之地",
+                    "UtcStartTime": "2025/12/05 12:00:00",
+                    "UtcExpireTime": "2025/12/19 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "PV-8",
-                "Value": "PV-8",
-                "Drop": "30083",
+                "Display": "UR-6",
+                "Value": "UR-6",
+                "Drop": "30033",
                 "MinimumRequired": "v5.28.0",
                 "Activity": {
-                    "Tip": "SideStory「揭幕者们」复刻",
-                    "StageName": "揭幕者们",
-                    "UtcStartTime": "2025/11/25 16:00:00",
-                    "UtcExpireTime": "2025/12/05 03:59:59",
+                    "Tip": "SideStory「未许之地」",
+                    "StageName": "未许之地",
+                    "UtcStartTime": "2025/12/05 12:00:00",
+                    "UtcExpireTime": "2025/12/19 03:59:59",
                     "TimeZone": 8
                 }
             },
             {
-                "Display": "PV-5",
-                "Value": "PV-5",
+                "Display": "UR-5",
+                "Value": "UR-5",
                 "Drop": "搓玉",
                 "MinimumRequired": "v5.28.0",
                 "Activity": {
-                    "Tip": "SideStory「揭幕者们」复刻",
-                    "StageName": "揭幕者们",
-                    "UtcStartTime": "2025/11/25 16:00:00",
-                    "UtcExpireTime": "2025/12/05 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "OS-9",
-                "Value": "OS-9",
-                "Drop": "31053",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "SideStory「雪山降临1101」",
-                    "StageName": "雪山降临1101",
-                    "UtcStartTime": "2025/11/01 07:00:00",
-                    "UtcExpireTime": "2025/11/22 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "OS-8",
-                "Value": "OS-8",
-                "Drop": "30103",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "SideStory「雪山降临1101」",
-                    "StageName": "雪山降临1101",
-                    "UtcStartTime": "2025/11/01 07:00:00",
-                    "UtcExpireTime": "2025/11/22 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "OS-7",
-                "Value": "OS-7",
-                "Drop": "30023",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "SideStory「雪山降临1101」",
-                    "StageName": "雪山降临1101",
-                    "UtcStartTime": "2025/11/01 07:00:00",
-                    "UtcExpireTime": "2025/11/22 03:59:59",
-                    "TimeZone": 8
-                }
-            },
-            {
-                "Display": "OS-4",
-                "Value": "OS-4",
-                "Drop": "每理智0.69玉",
-                "MinimumRequired": "v5.10.0",
-                "Activity": {
-                    "Tip": "SideStory「雪山降临1101」",
-                    "StageName": "雪山降临1101",
-                    "UtcStartTime": "2025/11/01 07:00:00",
-                    "UtcExpireTime": "2025/11/22 03:59:59",
+                    "Tip": "SideStory「未许之地」",
+                    "StageName": "未许之地",
+                    "UtcStartTime": "2025/12/05 12:00:00",
+                    "UtcExpireTime": "2025/12/19 03:59:59",
                     "TimeZone": 8
                 }
             }
