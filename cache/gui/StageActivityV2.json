@@ -1,0 +1,243 @@
+{
+  "Official": {
+    "sideStoryStage": {
+      "SSReopen": {
+        "MinimumRequired": "v6.0.0-beta.1",
+        "Activity": {
+          "Tip": "SideStory「揭幕者们」复刻",
+          "StageName": "揭幕者们",
+          "UtcStartTime": "2025/11/25 16:00:00",
+          "UtcExpireTime": "2025/12/05 03:59:59",
+          "TimeZone": 8
+        },
+        "Stages": [
+          { "Display": "SSReopen-PV", "Value": "SSReopen-PV", "Drop": "代理1~10" }
+        ]
+      },
+      "UR": {
+        "MinimumRequired": "v6.0.0-beta.1",
+        "Activity": {
+          "Tip": "SideStory「未许之地」",
+          "StageName": "未许之地",
+          "UtcStartTime": "2025/12/05 12:00:00",
+          "UtcExpireTime": "2025/12/19 03:59:59",
+          "TimeZone": 8
+        },
+        "Stages": [
+          { "Display": "UR-8", "Value": "UR-8", "Drop": "31033" },
+          { "Display": "UR-7", "Value": "UR-7", "Drop": "31023" },
+          { "Display": "UR-6", "Value": "UR-6", "Drop": "30033" },
+          { "Display": "UR-5", "Value": "UR-5", "Drop": "每理智0.7玉" }
+        ]
+      }
+    },
+    "resourceCollection": {
+      "Tip": "资源收集",
+      "UtcStartTime": "2025/08/14 16:00:00",
+      "UtcExpireTime": "2025/08/28 03:59:59",
+      "TimeZone": 8,
+      "IsResourceCollection": true
+    },
+    "miniGame": [
+      {
+        "MinimumRequired": "v6.0.0-beta.1",
+        "DisplayKey": "MiniGame@SPA",
+        "Display": "卫戍协议：盟约",
+        "Value": "MiniGame@SPA@Begin",
+        "TipKey": "MiniGame@SPATip",
+        "UtcStartTime": "2025/12/01 16:00:00",
+        "UtcExpireTime": "2025/12/12 03:59:59",
+        "TimeZone": 8
+      }
+    ]
+  },
+
+  "YoStarJP": {
+    "sideStoryStage": {
+      "AD": {
+        "MinimumRequired": "v6.0.0-beta.1",
+        "Activity": {
+          "Tip": "サイドストーリー「緋染めのビロード」",
+          "StageName": "AD",
+          "UtcStartTime": "2025/11/13 16:00:00",
+          "UtcExpireTime": "2025/11/27 03:59:59",
+          "TimeZone": 9
+        },
+        "Stages": [
+          { "Display": "AD-6", "Value": "AD-6", "Drop": "30063" },
+          { "Display": "AD-7", "Value": "AD-7", "Drop": "30033" },
+          { "Display": "AD-8", "Value": "AD-8", "Drop": "31023" },
+          { "Display": "AD-3", "Value": "AD-3", "Drop": "合成玉効率89%" }
+        ]
+      },
+      "BP": {
+        "MinimumRequired": "v6.0.0-beta.1",
+        "Activity": {
+          "Tip": "サイドストーリー「生存航路」復刻",
+          "StageName": "BP",
+          "UtcStartTime": "2025/11/27 16:00:00",
+          "UtcExpireTime": "2025/12/07 03:59:59",
+          "TimeZone": 9
+        },
+        "Stages": [
+          { "Display": "SSReopen-BP", "Value": "SSReopen-BP", "Drop": "SS「生存航路」復刻代理 1~8" },
+          { "Display": "BP-5", "Value": "BP-5", "Drop": "31033" },
+          { "Display": "BP-6", "Value": "BP-6", "Drop": "30023" },
+          { "Display": "BP-7", "Value": "BP-7", "Drop": "30073" },
+          { "Display": "BP-4", "Value": "BP-4", "Drop": "初級源岩、初級エステル（合成玉効率64%）" }
+        ]
+      }
+    },
+    "resourceCollection": {
+      "Tip": "「資源調達」全ステージ開放",
+      "UtcStartTime": "2025/10/30 16:00:00",
+      "UtcExpireTime": "2025/11/20 03:59:59",
+      "TimeZone": 9,
+      "IsResourceCollection": true
+    }
+  },
+
+  "YoStarKR": {
+    "sideStoryStage": {
+      "AD": {
+        "MinimumRequired": "v6.0.0-beta.1",
+        "Activity": {
+          "Tip": "SideStory - 붉게 물든 벨벳",
+          "StageName": "AD",
+          "UtcStartTime": "2025/11/13 16:00:00",
+          "UtcExpireTime": "2025/11/27 03:59:59",
+          "TimeZone": 9
+        },
+        "Stages": [
+          { "Display": "AD-6", "Value": "AD-6", "Drop": "30063" },
+          { "Display": "AD-7", "Value": "AD-7", "Drop": "30033" },
+          { "Display": "AD-8", "Value": "AD-8", "Drop": "31023" },
+          { "Display": "AD-3", "Value": "AD-3", "Drop": "합성옥 효율 89%" }
+        ]
+      },
+      "BP": {
+        "MinimumRequired": "v6.0.0-beta.1",
+        "Activity": {
+          "Tip": "SideStory '삶의 길' 재개방",
+          "StageName": "BP",
+          "UtcStartTime": "2025/11/27 16:00:00",
+          "UtcExpireTime": "2025/12/07 03:59:59",
+          "TimeZone": 9
+        },
+        "Stages": [
+          { "Display": "SSReopen-BP", "Value": "SSReopen-BP", "Drop": "재개방 대리지휘 1~8" },
+          { "Display": "BP-5", "Value": "BP-5", "Drop": "31033" },
+          { "Display": "BP-6", "Value": "BP-6", "Drop": "30023" },
+          { "Display": "BP-7", "Value": "BP-7", "Drop": "30073" },
+          { "Display": "BP-4", "Value": "BP-4", "Drop": "합성옥 효율 64%" }
+        ]
+      }
+    },
+    "resourceCollection": {
+      "Tip": "[자원 수집] 제한 시간 상시 오픈",
+      "UtcStartTime": "2025/10/30 16:00:00",
+      "UtcExpireTime": "2025/11/20 03:59:59",
+      "TimeZone": 9,
+      "IsResourceCollection": true
+    }
+  },
+
+  "YoStarEN": {
+    "sideStoryStage": {
+      "AD": {
+        "MinimumRequired": "v6.0.0-beta.1",
+        "Activity": {
+          "Tip": "Act or Die",
+          "StageName": "AD",
+          "UtcStartTime": "2025/11/13 08:00:00",
+          "UtcExpireTime": "2025/11/27 03:59:59",
+          "TimeZone": -7
+        },
+        "Stages": [
+          { "Display": "AD-6", "Value": "AD-6", "Drop": "30063" },
+          { "Display": "AD-7", "Value": "AD-7", "Drop": "30033" },
+          { "Display": "AD-8", "Value": "AD-8", "Drop": "31023" },
+          { "Display": "AD-3", "Value": "AD-3", "Drop": "Orundum efficiency 89%" }
+        ]
+      },
+      "BP": {
+        "MinimumRequired": "v6.0.0-beta.1",
+        "Activity": {
+          "Tip": "Path of Life - Rerun",
+          "StageName": "BP",
+          "UtcStartTime": "2025/11/27 08:00:00",
+          "UtcExpireTime": "2025/12/07 03:59:59",
+          "TimeZone": -7
+        },
+        "Stages": [
+          { "Display": "SSReopen-BP", "Value": "SSReopen-BP", "Drop": "Path of Life - Rerun Auto-Deploy 1~8" },
+          { "Display": "BP-5", "Value": "BP-5", "Drop": "31033" },
+          { "Display": "BP-6", "Value": "BP-6", "Drop": "30023" },
+          { "Display": "BP-7", "Value": "BP-7", "Drop": "30073" },
+          { "Display": "BP-4", "Value": "BP-4", "Drop": "Orundum efficiency 64%" }
+        ]
+      }
+    },
+    "resourceCollection": {
+      "Tip": "SUPPLIES & CHIPS EVERYDAY ACCESS",
+      "UtcStartTime": "2025/10/30 10:00:00",
+      "UtcExpireTime": "2025/11/20 03:59:59",
+      "TimeZone": -7,
+      "IsResourceCollection": true
+    }
+  },
+
+  "txwy": {
+    "sideStoryStage": {
+      "巴别塔 復刻": {
+        "MinimumRequired": "v6.0.0-beta.1",
+        "Activity": {
+          "Tip": "SideStory「巴别塔」復刻",
+          "StageName": "巴别塔 復刻",
+          "UtcStartTime": "2025/11/14 16:00:00",
+          "UtcExpireTime": "2025/11/24 03:59:59",
+          "TimeZone": 8
+        },
+        "Stages": [
+          { "Display": "SSReopen-BB", "Value": "SSReopen-BB", "Drop": "代理1~8" }
+        ]
+      },
+      "眾生行記": {
+        "MinimumRequired": "v6.0.0-beta.1",
+        "Activity": {
+          "Tip": "SideStory「眾生行記」",
+          "StageName": "眾生行記",
+          "UtcStartTime": "2025/11/28 16:00:00",
+          "UtcExpireTime": "2025/12/19 03:59:59",
+          "TimeZone": 8
+        },
+        "Stages": [
+          { "Display": "MT-10", "Value": "MT-10", "Drop": "31053" },
+          { "Display": "MT-9", "Value": "MT-9", "Drop": "30093" },
+          { "Display": "MT-8", "Value": "MT-8", "Drop": "30053" },
+          { "Display": "MT-6", "Value": "MT-6", "Drop": "搓玉用" },
+          { "Display": "MT-4", "Value": "MT-4", "Drop": "搓玉用" }
+        ]
+      }
+    },
+    "resourceCollection": {
+      "Tip": "資源收集全天開放",
+      "UtcStartTime": "2025/09/29 16:00:00",
+      "UtcExpireTime": "2025/10/13 03:59:59",
+      "TimeZone": 8,
+      "IsResourceCollection": true
+    },
+    "miniGame": [
+      {
+        "MinimumRequired": "v6.0.0-beta.1",
+        "DisplayKey": "MiniGame@ALL@GreenGrass",
+        "Display": "爭鋒頻道：青草城",
+        "Value": "MiniGame@ALL@GreenGrass@DuelChannel@Begin",
+        "TipKey": "MiniGame@ALL@GreenGrassTip",
+        "UtcStartTime": "2025/11/28 16:00:00",
+        "UtcExpireTime": "2025/12/14 03:59:59",
+        "TimeZone": 8
+      }
+    ]
+  }
+}
