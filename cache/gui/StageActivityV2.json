@@ -4,14 +4,18 @@
       "SSReopen": {
         "MinimumRequired": "v6.0.0-beta.1",
         "Activity": {
-          "Tip": "SideStory「揭幕者们」复刻",
-          "StageName": "揭幕者们",
-          "UtcStartTime": "2025/11/25 16:00:00",
-          "UtcExpireTime": "2025/12/05 03:59:59",
+          "Tip": "SideStory「出苍白海」复刻",
+          "StageName": "出苍白海",
+          "UtcStartTime": "2025/12/19 16:00:00",
+          "UtcExpireTime": "2026/01/02 03:59:59",
           "TimeZone": 8
         },
         "Stages": [
-          { "Display": "SSReopen-PV", "Value": "SSReopen-PV", "Drop": "代理1~10" }
+          { "Display": "SSReopen-EP", "Value": "SSReopen-EP", "Drop": "代理1~8" },
+          { "Display": "EP-8", "Value": "EP-8", "Drop": "30093" },
+          { "Display": "EP-7", "Value": "EP-7", "Drop": "30053" },
+          { "Display": "EP-6", "Value": "EP-6", "Drop": "30023" },
+          { "Display": "EP-4", "Value": "EP-4", "Drop": "每理智0.7玉" }
         ]
       },
       "UR": {
@@ -222,8 +226,8 @@
     },
     "resourceCollection": {
       "Tip": "資源收集全天開放",
-      "UtcStartTime": "2025/09/29 16:00:00",
-      "UtcExpireTime": "2025/10/13 03:59:59",
+      "UtcStartTime": "2025/12/15 16:00:00",
+      "UtcExpireTime": "2026/01/05 03:59:59",
       "TimeZone": 8,
       "IsResourceCollection": true
     },
