@@ -3919,8 +3919,7 @@
         },
         "char_4204_mantra": {
             "name": "真言",
-            "name_en": "真言",
-            "name_en_unavailable": true,
+            "name_en": "Mantra",
             "name_jp": "マントラ",
             "name_kr": "만트라",
             "name_tw": "真言",
@@ -3932,8 +3931,7 @@
         },
         "char_4207_branch": {
             "name": "折桠",
-            "name_en": "折桠",
-            "name_en_unavailable": true,
+            "name_en": "Vetochki",
             "name_jp": "ヴェトチキ",
             "name_kr": "베토치키",
             "name_tw": "折桠",
@@ -3945,8 +3943,7 @@
         },
         "char_4208_wintim": {
             "name": "冬时",
-            "name_en": "冬时",
-            "name_en_unavailable": true,
+            "name_en": "Snegurochka",
             "name_jp": "スネグーラチカ",
             "name_kr": "스네구로치카",
             "name_tw": "冬时",
@@ -10489,8 +10486,7 @@
         },
         "trap_258_rgcssm": {
             "name": "古雕伥",
-            "name_en": "古雕伥",
-            "name_en_unavailable": true,
+            "name_en": "Ancient Statuegeist",
             "name_jp": "いにしえの彫像器鬼",
             "name_kr": "고대 디오창",
             "name_tw": "古雕伥",
@@ -10652,8 +10648,7 @@
         },
         "trap_270_spawnp": {
             "name": "隐蔽矿道",
-            "name_en": "隐蔽矿道",
-            "name_en_unavailable": true,
+            "name_en": "Hidden Tunnel",
             "name_jp": "隠された坑道",
             "name_kr": "비밀 갱도",
             "name_tw": "隐蔽矿道",
@@ -10665,8 +10660,7 @@
         },
         "trap_271_fowstn": {
             "name": "严重污染设施",
-            "name_en": "严重污染设施",
-            "name_en_unavailable": true,
+            "name_en": "Heavily Polluted Facility",
             "name_jp": "重度汚染施設",
             "name_kr": "고위험 오염 시설",
             "name_tw": "严重污染设施",
@@ -10678,8 +10672,7 @@
         },
         "trap_272_nomstn": {
             "name": "阻道岩壁",
-            "name_en": "阻道岩壁",
-            "name_en_unavailable": true,
+            "name_en": "Rock Wall",
             "name_jp": "道を塞ぐ岩壁",
             "name_kr": "차단암벽",
             "name_tw": "阻道岩壁",
@@ -10691,8 +10684,7 @@
         },
         "trap_278_dyfgdd": {
             "name": "狭路相逢",
-            "name_en": "狭路相逢",
-            "name_en_unavailable": true,
+            "name_en": "Face to Face",
             "name_jp": "隘路の衝突",
             "name_kr": "외나무다리",
             "name_tw": "狭路相逢",

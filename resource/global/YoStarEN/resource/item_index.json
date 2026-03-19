@@ -1231,6 +1231,22 @@
         "sortId": 40003,
         "usage": "A batch headhunting permit issued by the Rhodes Island HR Department; Can be used at a certain time to recruit talented Operators, 10 rolls at once."
     },
+    "SINGLE_66_0_1_GACHA": {
+        "classifyType": "NORMAL",
+        "description": "In order to ensure the available talent pool can be scaled upwards to satisfy the Doctor's emergency preparation request, this batch of headhunting items carries specificity, time-sensitivity, and of course, a degree of risk.",
+        "icon": "SINGLE_66_0_1_GACHA.png",
+        "name": "The Silent Wavelengths Headhunting Permit",
+        "sortId": 40003,
+        "usage": "A special permit from Rhodes Island HR for recruiting special talents at special points in time. Can be used to recruit one operator."
+    },
+    "SINGLE_66_0_1_GACHA_10": {
+        "classifyType": "NORMAL",
+        "description": "In order to ensure the available talent pool can be scaled upwards to satisfy the Doctor's emergency preparation request, this batch of headhunting items carries specificity, time-sensitivity, and of course, a degree of risk.",
+        "icon": "SINGLE_66_0_1_GACHA_10.png",
+        "name": "Exclusive Ten-roll Headhunting Permit",
+        "sortId": 40003,
+        "usage": "A batch headhunting permit issued by the Rhodes Island HR Department; Can be used at a certain time to recruit talented Operators, 10 rolls at once."
+    },
     "SOCIAL_PT": {
         "classifyType": "NONE",
         "description": "Credit holds communities together and stands as a symbol of social stability. Sometimes it's even more valuable than money, so do please cherish it.",
@@ -2135,6 +2151,14 @@
         "sortId": -10000,
         "usage": "Can be exchanged for the corresponding event stage reward."
     },
+    "act3mainss_token": {
+        "classifyType": "NONE",
+        "description": "The sound of hitting flint fades into the vast snow. The darkness is boundless, with only a tiny speck of flame to illuminate it, quietly flickering and melting the ice and snow, and waiting for the sun to rise again.",
+        "icon": "act3mainss_token.png",
+        "name": "Flint",
+        "sortId": -10000,
+        "usage": "An indispensable tool in the wilderness of Ursus, lighting the flame that drives back the cold and darkness. Fire is banned in the mines, but that has not stopped the miners from sharing flints."
+    },
     "act40side_token_yumyum": {
         "classifyType": "NONE",
         "description": "Fragrant meals fear not alleys deep. While invisible to the eye on most days, there is a faint aroma lining the streets, at least until it hits you face-first in front of the restaurant it leads to. You need only follow the scent of food to paint a grand picture of Baizao's streets.",
@@ -2615,6 +2639,14 @@
         "sortId": -10000,
         "usage": "Contains an Emergency Sanity Sampler and some Rhodes Island Supplies."
     },
+    "itempack_main_2": {
+        "classifyType": "NONE",
+        "description": "A materials supply crate issued alongside Sanity samplers, giving you a random material as you restore your Sanity.",
+        "icon": "itempack_main_2.png",
+        "name": "Rhodes Island Supply Crate",
+        "sortId": -10000,
+        "usage": "Contains an Emergency Sanity Sampler and some Rhodes Island Supplies."
+    },
     "itempack_mod_10": {
         "classifyType": "CONSUME",
         "description": "Faced with the issue of insufficient training data, the Engineering Department has produced an all-new chip etching apparatus to provide Operators with a self-printing service.",
@@ -2694,6 +2726,38 @@
         "name": "Defender Chip Pack Etcher",
         "sortId": -10000,
         "usage": "A disposable chip pack etching apparatus, storing large quantities of training records and data. Can print chip packs hassle-free, in accordance with Defender Operators' needs."
+    },
+    "main16_spitem_1": {
+        "classifyType": "NORMAL",
+        "description": "Once, they said it was the origin of suffering. Now, they say its disappearance was the beginning of tragedy.",
+        "icon": "main16_spitem_1.png",
+        "name": "Dull Originium",
+        "sortId": 10601,
+        "usage": "A piece of deactivated Originium that no longer has any practical value, even if it is polished into the shape of an Originite Prime."
+    },
+    "main16_spitem_2": {
+        "classifyType": "NORMAL",
+        "description": "People speculate as to who its master was. It has been passed from one person to another, carrying more and more stories, the culmination of the miners' lives.",
+        "icon": "main16_spitem_2.png",
+        "name": "Ownerless Mining Lamp",
+        "sortId": 10602,
+        "usage": "An abandoned mining lamp that still works, though the name tag has been torn off."
+    },
+    "main16_spitem_3": {
+        "classifyType": "NORMAL",
+        "description": "The nobles of Grypherburg see this symbol as a grave threat, but it was from their hubris that it came about in the first place.",
+        "icon": "main16_spitem_3.png",
+        "name": "Altered Flag",
+        "sortId": 10603,
+        "usage": "The flag of Ursus with the mark of Reunion painted over it. Defacing the national flag is punishable by death according to the Flag Law of Ursus."
+    },
+    "main16_spitem_4": {
+        "classifyType": "NORMAL",
+        "description": "The corruption of the empire may not have begun with Grypherburg, but its decline surely started with a dud from Tulskaya.",
+        "icon": "main16_spitem_4.png",
+        "name": "Unexploded Dud",
+        "sortId": 10604,
+        "usage": "An unexploded dud. It must be handed over to relevant authorities once disarmed and disassembled."
     },
     "mcardVoucher": {
         "classifyType": "NONE",
@@ -2884,6 +2948,14 @@
         "description": "Rhodes Island purchases and stores boxes of supplies from various places. However, due to the lack of an organized storage system, each box contains seemingly random materials.",
         "icon": "randomMaterial_11.png",
         "name": "Rhodes Island Supplies VIII",
+        "sortId": 60110,
+        "usage": "Filled with an assortment of supplies and materials."
+    },
+    "randomMaterial_12": {
+        "classifyType": "CONSUME",
+        "description": "Rhodes Island purchases and stores boxes of supplies from various places. However, due to the lack of an organized storage system, each box contains seemingly random materials.",
+        "icon": "randomMaterial_12.png",
+        "name": "Rhodes Island Supplies IX",
         "sortId": 60110,
         "usage": "Filled with an assortment of supplies and materials."
     },
