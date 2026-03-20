@@ -2319,6 +2319,134 @@
         "sortId": -10000,
         "usage": "提高幹員U-Official的信賴。"
     },
+    "giftPackageTicket_1_1": {
+        "classifyType": "NORMAL",
+        "description": "為了配合可露希爾採購工作的您準備的特殊票券，可用於兌換一些搶手資源。羅德島的重建或許對採購部門造成了一定的影響，但你永遠可以相信可露希爾。",
+        "icon": "giftPackageTicket_1_1.png",
+        "name": "可露希爾補給券I",
+        "sortId": 10135,
+        "usage": "可兌換一個組合包商店正在販售且符合兌換條件的$33 組合包。"
+    },
+    "giftPackageTicket_1_2": {
+        "classifyType": "NORMAL",
+        "description": "為了配合可露希爾採購工作的您準備的特殊票券，可用於兌換一些搶手資源。羅德島的重建或許對採購部門造成了一定的影響，但你永遠可以相信可露希爾。",
+        "icon": "giftPackageTicket_1_2.png",
+        "name": "可露希爾補給券II",
+        "sortId": 10134,
+        "usage": "可兌換一個組合包商店正在販售且符合兌換條件的$70 組合包。"
+    },
+    "giftPackageTicket_1_3": {
+        "classifyType": "NORMAL",
+        "description": "為了配合可露希爾採購工作的您準備的特殊票券，可用於兌換一些搶手資源。羅德島的重建或許對採購部門造成了一定的影響，但你永遠可以相信可露希爾。",
+        "icon": "giftPackageTicket_1_3.png",
+        "name": "可露希爾補給券III",
+        "sortId": 10133,
+        "usage": "可兌換一個組合包商店正在販售且符合兌換條件的$100 組合包。"
+    },
+    "giftPackageTicket_1_4": {
+        "classifyType": "NORMAL",
+        "description": "為了配合可露希爾採購工作的您準備的特殊票券，可用於兌換一些搶手資源。羅德島的重建或許對採購部門造成了一定的影響，但你永遠可以相信可露希爾。",
+        "icon": "giftPackageTicket_1_4.png",
+        "name": "可露希爾補給券IV",
+        "sortId": 10132,
+        "usage": "可兌換一個組合包商店正在販售且符合兌換條件的$130 組合包。"
+    },
+    "giftPackageTicket_1_5": {
+        "classifyType": "NORMAL",
+        "description": "為了配合可露希爾採購工作的您準備的特殊票券，可用於兌換一些搶手資源。羅德島的重建或許對採購部門造成了一定的影響，但你永遠可以相信可露希爾。",
+        "icon": "giftPackageTicket_1_5.png",
+        "name": "可露希爾補給券V",
+        "sortId": 10131,
+        "usage": "可兌換一個組合包商店正在販售且符合兌換條件的$170 組合包。"
+    },
+    "giftPackageTicket_2_1": {
+        "classifyType": "NORMAL",
+        "description": "為了配合可露希爾採購工作的您準備的特殊票券，可用於兌換一些搶手資源。羅德島的重建或許對採購部門造成了一定的影響，但你永遠可以相信可露希爾。",
+        "icon": "giftPackageTicket_2_1.png",
+        "name": "可露希爾精選券I",
+        "sortId": 10126,
+        "usage": "可兌換一個組合包商店正在販售且符合兌換條件的$230 組合包。"
+    },
+    "giftPackageTicket_2_2": {
+        "classifyType": "NORMAL",
+        "description": "為了配合可露希爾採購工作的您準備的特殊票券，可用於兌換一些搶手資源。羅德島的重建或許對採購部門造成了一定的影響，但你永遠可以相信可露希爾。",
+        "icon": "giftPackageTicket_2_2.png",
+        "name": "可露希爾精選券II",
+        "sortId": 10125,
+        "usage": "可兌換一個組合包商店正在販售且符合兌換條件的$250 組合包。"
+    },
+    "giftPackageTicket_2_3": {
+        "classifyType": "NORMAL",
+        "description": "為了配合可露希爾採購工作的您準備的特殊票券，可用於兌換一些搶手資源。羅德島的重建或許對採購部門造成了一定的影響，但你永遠可以相信可露希爾。",
+        "icon": "giftPackageTicket_2_3.png",
+        "name": "可露希爾精選券III",
+        "sortId": 10124,
+        "usage": "可兌換一個組合包商店正在販售且符合兌換條件的$270 組合包。"
+    },
+    "giftPackageTicket_2_4": {
+        "classifyType": "NORMAL",
+        "description": "為了配合可露希爾採購工作的您準備的特殊票券，可用於兌換一些搶手資源。羅德島的重建或許對採購部門造成了一定的影響，但你永遠可以相信可露希爾。",
+        "icon": "giftPackageTicket_2_4.png",
+        "name": "可露希爾精選券IV",
+        "sortId": 10123,
+        "usage": "可兌換一個組合包商店正在販售且符合兌換條件的$310 組合包。"
+    },
+    "giftPackageTicket_2_5": {
+        "classifyType": "NORMAL",
+        "description": "為了配合可露希爾採購工作的您準備的特殊票券，可用於兌換一些搶手資源。羅德島的重建或許對採購部門造成了一定的影響，但你永遠可以相信可露希爾。",
+        "icon": "giftPackageTicket_2_5.png",
+        "name": "可露希爾精選券V",
+        "sortId": 10122,
+        "usage": "可兌換一個組合包商店正在販售且符合兌換條件的$370 組合包。"
+    },
+    "giftPackageTicket_2_6": {
+        "classifyType": "NORMAL",
+        "description": "為了配合可露希爾採購工作的您準備的特殊票券，可用於兌換一些搶手資源。羅德島的重建或許對採購部門造成了一定的影響，但你永遠可以相信可露希爾。",
+        "icon": "giftPackageTicket_2_6.png",
+        "name": "可露希爾精選券VI",
+        "sortId": 10121,
+        "usage": "可兌換一個組合包商店正在販售且符合兌換條件的$390 組合包。"
+    },
+    "giftPackageTicket_3_1": {
+        "classifyType": "NORMAL",
+        "description": "為了配合可露希爾採購工作的您準備的特殊票券，可用於兌換一些搶手資源。羅德島的重建或許對採購部門造成了一定的影響，但你永遠可以相信可露希爾。",
+        "icon": "giftPackageTicket_3_1.png",
+        "name": "可露希爾特需券I",
+        "sortId": 10114,
+        "usage": "可兌換一個組合包商店正在販售且符合兌換條件的$530 組合包。"
+    },
+    "giftPackageTicket_3_2": {
+        "classifyType": "NORMAL",
+        "description": "為了配合可露希爾採購工作的您準備的特殊票券，可用於兌換一些搶手資源。羅德島的重建或許對採購部門造成了一定的影響，但你永遠可以相信可露希爾。",
+        "icon": "giftPackageTicket_3_2.png",
+        "name": "可露希爾特需券II",
+        "sortId": 10113,
+        "usage": "可兌換一個組合包商店正在販售且符合兌換條件的$670 組合包。"
+    },
+    "giftPackageTicket_3_3": {
+        "classifyType": "NORMAL",
+        "description": "為了配合可露希爾採購工作的您準備的特殊票券，可用於兌換一些搶手資源。羅德島的重建或許對採購部門造成了一定的影響，但你永遠可以相信可露希爾。",
+        "icon": "giftPackageTicket_3_3.png",
+        "name": "可露希爾特需券III",
+        "sortId": 10112,
+        "usage": "可兌換一個組合包商店正在販售且符合兌換條件的$790 組合包。"
+    },
+    "giftPackageTicket_3_4": {
+        "classifyType": "NORMAL",
+        "description": "為了配合可露希爾採購工作的您準備的特殊票券，可用於兌換一些搶手資源。羅德島的重建或許對採購部門造成了一定的影響，但你永遠可以相信可露希爾。",
+        "icon": "giftPackageTicket_3_4.png",
+        "name": "可露希爾特需券IV",
+        "sortId": 10111,
+        "usage": "可兌換一個組合包商店正在販售且符合兌換條件的$1170 組合包。"
+    },
+    "giftPackageTicket_4_1": {
+        "classifyType": "NORMAL",
+        "description": "為了配合可露希爾採購工作的您準備的特殊票券，可用於兌換一些搶手資源。羅德島的重建或許對採購部門造成了一定的影響，但你永遠可以相信可露希爾。",
+        "icon": "giftPackageTicket_4_1.png",
+        "name": "可露希爾珍藏券I",
+        "sortId": 10101,
+        "usage": "可兌換一個組合包商店正在販售且符合兌換條件的$1320 組合包。"
+    },
     "itempack_gacha_1": {
         "classifyType": "CONSUME",
         "description": "在露華村的特色祈願活動中取得的禮袋，寄寓著對你未來道路的美好祝願。",
