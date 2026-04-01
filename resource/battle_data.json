@@ -10465,8 +10465,7 @@
         },
         "trap_257_muulct": {
             "name": "迷幻反射镜",
-            "name_en": "迷幻反射镜",
-            "name_en_unavailable": true,
+            "name_en": "Illusion Reflector",
             "name_jp": "夢幻の鏡",
             "name_kr": "미혹의 거울",
             "name_tw": "迷幻反射镜",
@@ -10490,8 +10489,7 @@
         },
         "trap_259_murjet": {
             "name": "全手动推进器",
-            "name_en": "全手动推进器",
-            "name_en_unavailable": true,
+            "name_en": "Manual Booster",
             "name_jp": "手動推進機",
             "name_kr": "수동 프로펠러",
             "name_tw": "全手动推进器",
@@ -10503,8 +10501,7 @@
         },
         "trap_260_murbas": {
             "name": "基础浮板",
-            "name_en": "基础浮板",
-            "name_en_unavailable": true,
+            "name_en": "Basic Floater",
             "name_jp": "基礎フロート",
             "name_kr": "기본 부력판",
             "name_tw": "基础浮板",
@@ -10516,8 +10513,7 @@
         },
         "trap_261_murmag": {
             "name": "引力浮板",
-            "name_en": "引力浮板",
-            "name_en_unavailable": true,
+            "name_en": "Gravity Floater",
             "name_jp": "重力フロート",
             "name_kr": "인력 부력판",
             "name_tw": "引力浮板",
@@ -10529,8 +10525,7 @@
         },
         "trap_262_murtre": {
             "name": "物资浮板",
-            "name_en": "物资浮板",
-            "name_en_unavailable": true,
+            "name_en": "Supplies Floater",
             "name_jp": "物資フロート",
             "name_kr": "물자 부력판",
             "name_tw": "物资浮板",
@@ -10542,8 +10537,7 @@
         },
         "trap_263_murbox": {
             "name": "防水物资箱",
-            "name_en": "防水物资箱",
-            "name_en_unavailable": true,
+            "name_en": "Waterproof Supply Crate",
             "name_jp": "防水物資箱",
             "name_kr": "방수 물자함",
             "name_tw": "防水物资箱",
