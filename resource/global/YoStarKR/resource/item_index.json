@@ -1687,6 +1687,14 @@
         "sortId": -10000,
         "usage": "이정표에서 보상 교환할 때 사용된다."
     },
+    "act1teamquest_point": {
+        "classifyType": "NONE",
+        "description": "협동 경기가 성황을 이룰 수 있었던 건 당신의 전폭적인 지원이 있었기 때문이다.",
+        "icon": "act1teamquest_point.png",
+        "name": "협동 포인트",
+        "sortId": -10000,
+        "usage": "상응하는 단계별 이벤트 보상을 교환하는 데 사용된다."
+    },
     "act1vautochess_token_chess": {
         "classifyType": "NONE",
         "description": "로도스 아일랜드 공방에서 위수 협의에 참여한 오퍼레이터를 위해 준비한 훈장. 자성이 있으며, 일정 수량을 모으면 룩 기물로 조립할 수 있다고 한다.",
@@ -2030,6 +2038,14 @@
         "name": "'용기'의 배지",
         "sortId": -10000,
         "usage": "라이디언이 제작한 배지 모양의 통신기. 회수하면 통신망이 받는 신호 방해를 줄일 수 있으며, 클로저에게서 각종 물자와 교환할 수 있다."
+    },
+    "act2multi_token_cap": {
+        "classifyType": "NONE",
+        "description": "로도스 아일랜드 협동 경기의 참여 인증. “경기장에 남는 것은 땀이요, 경기장에서 가져가는 것은 우정일지니.”",
+        "icon": "act2multi_token_cap.png",
+        "name": "참여 인증 - S2",
+        "sortId": -10000,
+        "usage": "쌓여가는 참여 인증은 경기 열기의 상승을 의미한다. 열기가 일정 레벨에 도달하면 그에 상응하는 보상을 받을 수 있다."
     },
     "act2vmulti_token_cap": {
         "classifyType": "NONE",
@@ -2727,6 +2743,14 @@
         "sortId": -10000,
         "usage": "일회용 선택형 칩셋 각인 기기. 대량의 훈련 기록과 재료가 저장되어 있어, 디펜더 오퍼레이터의 요구 사항에 따라 칩셋을 쉽게 각인할 수 있다."
     },
+    "itempack_recruit_1": {
+        "classifyType": "NONE",
+        "description": "행사는 곧 홍보다. 이것 때문에 인사부가 업무로 바쁜 건 어찌 보면 당연한 일이다. ■■■에게 진 신세를 잊지 마시길.",
+        "icon": "itempack_recruit_1.png",
+        "name": "감사 축제 모집 보급",
+        "sortId": -10000,
+        "usage": "모집 수요를 충족시키기 위해 준비한 인적 자원 패키지. 공개적인 루트를 통한 오퍼레이터를 대량 채용할 수 있다."
+    },
     "main16_spitem_1": {
         "classifyType": "NORMAL",
         "description": "과거에 이것 때문에 고난이 시작되었다고 했지만, 지금은 이것 때문에 비극이 시작되었다고 한다.",
@@ -3005,6 +3029,14 @@
         "icon": "randomMaterial_6.png",
         "name": "로도스 아일랜드 물자 보급 III",
         "sortId": 60106,
+        "usage": "각종 보급 물자가 들어있다. 다양한 재료를 랜덤으로 획득할 수 있다."
+    },
+    "randomMaterial_6d5": {
+        "classifyType": "CONSUME",
+        "description": "로도스 아일랜드가 방방곡곡에서 조달하여 준비한 보급 상자. 하지만 시스템적으로 정리 수납이 잘 되지 않아, 상자에는 각기 다른 자재가 들어가 있다.",
+        "icon": "randomMaterial_6d5.png",
+        "name": "감사 축제 보급 물자",
+        "sortId": 60117,
         "usage": "각종 보급 물자가 들어있다. 다양한 재료를 랜덤으로 획득할 수 있다."
     },
     "randomMaterial_7": {
