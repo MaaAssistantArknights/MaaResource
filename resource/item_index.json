@@ -2567,6 +2567,30 @@
         "sortId": 10006,
         "usage": "代表干员拥有中坚能力的凭证，可用于兑换稀有物资。"
     },
+    "emoticon_foolsday_amiya": {
+        "classifyType": "NONE",
+        "description": "“可能乍一看不相信，但也是代表希望的人。”",
+        "icon": "emoticon_foolsday_amiya.png",
+        "name": "表情套组：米米子",
+        "sortId": 2000004,
+        "usage": "用于协作者之间的沟通交流。"
+    },
+    "emoticon_foolsday_doctor": {
+        "classifyType": "NONE",
+        "description": "“虽然看起来不太像，但也是充满勇气的人。”",
+        "icon": "emoticon_foolsday_doctor.png",
+        "name": "表情套组：博士士",
+        "sortId": 2000003,
+        "usage": "用于协作者之间的沟通交流。"
+    },
+    "emoticon_foolsday_wisdel": {
+        "classifyType": "NONE",
+        "description": "“也许第一眼看不出，但也是完美无缺的人。”",
+        "icon": "emoticon_foolsday_wisdel.png",
+        "name": "表情套组：维维美",
+        "sortId": 2000005,
+        "usage": "用于协作者之间的沟通交流。"
+    },
     "emoticon_originium_slug": {
         "classifyType": "NONE",
         "description": "“不要再扯着嘴角摆出这个僵硬的微笑了，试着像源石虫那样，敞开甲壳，舒展软体组织......相信我，只要这么做，你们很快就不会再尴尬了。”",
