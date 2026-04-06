@@ -1287,6 +1287,22 @@
         "sortId": 40003,
         "usage": "罗德岛人事部特别批发的许可书，在特殊的时间点上招揽特殊的人才，一次可招聘十位干员。"
     },
+    "SINGLE_72_0_1_GACHA": {
+        "classifyType": "NORMAL",
+        "description": "为了确保人才扩展而应博士要求准备的应急手段，该批寻访条目具有一定的针对性与时效性，以及，小小的风险。",
+        "icon": "SINGLE_72_0_1_GACHA.png",
+        "name": "辟路之人寻访凭证",
+        "sortId": 40003,
+        "usage": "罗德岛人事部特别批发的许可书，在特殊的时间点上招揽特殊的人才，一次可招聘一位干员。"
+    },
+    "SINGLE_72_0_1_GACHA_10": {
+        "classifyType": "NORMAL",
+        "description": "为了确保人才扩展而应博士要求准备的应急手段，该批寻访条目具有一定的针对性与时效性，以及，小小的风险。",
+        "icon": "SINGLE_72_0_1_GACHA_10.png",
+        "name": "辟路之人十连寻访凭证",
+        "sortId": 40003,
+        "usage": "罗德岛人事部特别批发的许可书，在特殊的时间点上招揽特殊的人才，一次可招聘十位干员。"
+    },
     "SOCIAL_PT": {
         "classifyType": "NONE",
         "description": "信用维系着各个群体间的关系，也是社会稳定的象征，有时候甚至比金钱还有用哦，请好好珍惜。",
@@ -2318,6 +2334,14 @@
         "name": "KFC积分",
         "sortId": -10000,
         "usage": "积累此积分以获取相应的阶段性活动奖励。"
+    },
+    "act51side_token_poem": {
+        "classifyType": "NONE",
+        "description": "“这封信写给所有依然保有明天的人，我将仅剩的生命和希望赠予每一个追求自由幸福的灵魂，我将在天亮前死去......妈妈，我呼唤你的名字，你是乌萨斯，可我是谁？”",
+        "icon": "act51side_token_poem.png",
+        "name": "破碎诗行",
+        "sortId": -10000,
+        "usage": "未寄出信件的残片。捡到它们的人，可以选择将其作为证据封存，也可以选择将它们投入尚未熄灭的火堆，换取片刻的温暖。"
     },
     "act5bossrush_milestone_point": {
         "classifyType": "NONE",

@@ -16739,6 +16739,87 @@
         "stageId": "act4bossrush_tm04",
         "width": 28
     },
+    "act51side_01-activities/act51side/level_act51side_01": {
+        "code": "PA-1",
+        "filename": "act51side_01-activities-act51side-level_act51side_01.json",
+        "height": 7,
+        "levelId": "activities/act51side/level_act51side_01",
+        "name": "“卡托加区欢迎你”",
+        "stageId": "act51side_01",
+        "width": 9
+    },
+    "act51side_02-activities/act51side/level_act51side_02": {
+        "code": "PA-2",
+        "filename": "act51side_02-activities-act51side-level_act51side_02.json",
+        "height": 8,
+        "levelId": "activities/act51side/level_act51side_02",
+        "name": "枷锁之中",
+        "stageId": "act51side_02",
+        "width": 9
+    },
+    "act51side_03-activities/act51side/level_act51side_03": {
+        "code": "PA-3",
+        "filename": "act51side_03-activities-act51side-level_act51side_03.json",
+        "height": 7,
+        "levelId": "activities/act51side/level_act51side_03",
+        "name": "阳光照耀圣骏堡",
+        "stageId": "act51side_03",
+        "width": 10
+    },
+    "act51side_04-activities/act51side/level_act51side_04": {
+        "code": "PA-4",
+        "filename": "act51side_04-activities-act51side-level_act51side_04.json",
+        "height": 8,
+        "levelId": "activities/act51side/level_act51side_04",
+        "name": "一墙之隔",
+        "stageId": "act51side_04",
+        "width": 10
+    },
+    "act51side_05-activities/act51side/level_act51side_05": {
+        "code": "PA-5",
+        "filename": "act51side_05-activities-act51side-level_act51side_05.json",
+        "height": 8,
+        "levelId": "activities/act51side/level_act51side_05",
+        "name": "高尚的背叛",
+        "stageId": "act51side_05",
+        "width": 10
+    },
+    "act51side_06-activities/act51side/level_act51side_06": {
+        "code": "PA-6",
+        "filename": "act51side_06-activities-act51side-level_act51side_06.json",
+        "height": 7,
+        "levelId": "activities/act51side/level_act51side_06",
+        "name": "各自流亡",
+        "stageId": "act51side_06",
+        "width": 9
+    },
+    "act51side_07-activities/act51side/level_act51side_07": {
+        "code": "PA-7",
+        "filename": "act51side_07-activities-act51side-level_act51side_07.json",
+        "height": 8,
+        "levelId": "activities/act51side/level_act51side_07",
+        "name": "死结两端",
+        "stageId": "act51side_07",
+        "width": 12
+    },
+    "act51side_08-activities/act51side/level_act51side_08": {
+        "code": "PA-8",
+        "filename": "act51side_08-activities-act51side-level_act51side_08.json",
+        "height": 9,
+        "levelId": "activities/act51side/level_act51side_08",
+        "name": "一千年后",
+        "stageId": "act51side_08",
+        "width": 13
+    },
+    "act51side_tr01-activities/act51side/level_act51side_tr01": {
+        "code": "PA-TR-1",
+        "filename": "act51side_tr01-activities-act51side-level_act51side_tr01.json",
+        "height": 7,
+        "levelId": "activities/act51side/level_act51side_tr01",
+        "name": "卑劣与繁荣",
+        "stageId": "act51side_tr01",
+        "width": 9
+    },
     "act5bossrush_01-activities/act5bossrush/level_bossrush5_01": {
         "code": "TN-1",
         "filename": "act5bossrush_01-activities-act5bossrush-level_bossrush5_01.json",
@@ -24695,6 +24776,15 @@
         "stageId": "mem_bpipe_1",
         "width": 12
     },
+    "mem_branch_1-obt/memory/level_memory_branch_1": {
+        "code": "mem_branch_1",
+        "filename": "mem_branch_1-obt-memory-level_memory_branch_1.json",
+        "height": 7,
+        "levelId": "obt/memory/level_memory_branch_1",
+        "name": "极夜的尽头",
+        "stageId": "mem_branch_1",
+        "width": 11
+    },
     "mem_breeze_1-obt/memory/level_memory_breeze_1": {
         "code": "mem_breeze_1",
         "filename": "mem_breeze_1-obt-memory-level_memory_breeze_1.json",
@@ -24936,6 +25026,15 @@
         "levelId": "obt/memory/level_memory_coldst_1",
         "name": "保持清醒",
         "stageId": "mem_coldst_1",
+        "width": 11
+    },
+    "mem_crosly_1-obt/memory/level_memory_crosly_1": {
+        "code": "mem_crosly_1",
+        "filename": "mem_crosly_1-obt-memory-level_memory_crosly_1.json",
+        "height": 8,
+        "levelId": "obt/memory/level_memory_crosly_1",
+        "name": "吹过冰原的风",
+        "stageId": "mem_crosly_1",
         "width": 11
     },
     "mem_crow_1-obt/memory/level_memory_crow_1": {
@@ -26899,6 +26998,15 @@
         "name": "身后支援",
         "stageId": "mem_windft_1",
         "width": 11
+    },
+    "mem_wintim_1-obt/memory/level_memory_wintim_1": {
+        "code": "mem_wintim_1",
+        "filename": "mem_wintim_1-obt-memory-level_memory_wintim_1.json",
+        "height": 7,
+        "levelId": "obt/memory/level_memory_wintim_1",
+        "name": "漫长的冬日",
+        "stageId": "mem_wintim_1",
+        "width": 9
     },
     "mem_wscoot_1-obt/memory/level_memory_wscoot_1": {
         "code": "mem_wscoot_1",
