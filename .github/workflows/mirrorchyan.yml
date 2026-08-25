@@ -2,10 +2,10 @@ name: mirrorchyan
 
 on:
   push:
-    branches:
-      - "main"
-    paths:
-      - "resource/version.json"
+    # branches:
+    #   - "main"
+    # paths:
+    #   - "resource/version.json"
   workflow_dispatch:
 
 jobs:
