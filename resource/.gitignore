@@ -14,6 +14,10 @@
 !/template/infrast/
 !/template/items/
 
+!/tasks/
+/tasks/*
+!/tasks/hotfix/
+
 !/Arknights-Tile-Pos
 
 !/global
