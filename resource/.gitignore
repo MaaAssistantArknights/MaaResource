@@ -25,3 +25,6 @@
 !/global/*/resource/recruitment.json
 !/global/*/resource/item_index.json
 !/global/*/resource/version.json
+!/global/*/resource/tasks/
+/global/*/resource/tasks/*
+!/global/*/resource/tasks/hotfix/
