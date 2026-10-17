@@ -2,6 +2,7 @@
 
 !/.gitignore
 
+!/activity_navigation.json
 !/stages.json
 !/recruitment.json
 !/item_index.json
@@ -13,6 +14,7 @@
 /template/*
 !/template/infrast/
 !/template/items/
+!/template/StageNavigation/
 
 !/tasks/
 /tasks/*
@@ -25,6 +27,10 @@
 !/global/*/resource/recruitment.json
 !/global/*/resource/item_index.json
 !/global/*/resource/version.json
+!/global/*/resource/activity_navigation.json
+!/global/*/resource/template/
+/global/*/resource/template/*
+!/global/*/resource/template/StageNavigation/
 !/global/*/resource/tasks/
 /global/*/resource/tasks/*
 !/global/*/resource/tasks/hotfix/
