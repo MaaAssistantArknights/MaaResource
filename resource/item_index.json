@@ -1605,6 +1605,14 @@
         "sortId": 10326,
         "usage": "新型招聘合约所约定的一种时限货币，累积一定数量后可在指定时期内招聘指定干员。"
     },
+    "LMTGS_COIN_7901": {
+        "classifyType": "NORMAL",
+        "description": "与猎头公司长久且稳定的合作关系带来的回报，可有效控制支出。不过，但愿不是每次都需要用到这个手段。",
+        "icon": "LMTGS_COIN_7901.png",
+        "name": "寻访数据契约",
+        "sortId": 10327,
+        "usage": "新型招聘合约所约定的一种时限货币，累积一定数量后可在指定时期内招聘指定干员。"
+    },
     "LMTGS_COIN_903": {
         "classifyType": "NORMAL",
         "description": "与猎头公司长久且稳定的合作关系带来的回报，可有效控制支出。不过，但愿不是每次都需要用到这个手段。",
@@ -2877,6 +2885,14 @@
         "sortId": -10000,
         "usage": "记录着曾在拉特兰风靡一时的音乐。如今的拉特兰人更习惯使用网络流媒体服务听新歌，但仍有人钟情于这些旧东西，愿意用你需要的物品来交换。"
     },
+    "act55side_token_record": {
+        "classifyType": "NONE",
+        "description": "它曾在这里目睹一场人类重复过无数次的斗争，也见证了一次人类前所未有的创举。从上面的灰迹和裂痕来看，那夜的火光只是不断、不断地被抓取成远非永恒的瞬间。",
+        "icon": "act55side_token_record.png",
+        "name": "失效的记录",
+        "sortId": -10000,
+        "usage": "圣骏堡事变期间，于战火中记录影像的记者所使用的传统底片，上面曾留存过许多无名之人。他们之中有的还活着，有的已经死去。无论如何，这些都已经是在废弃底片上无法看见的过往。"
+    },
     "act5bossrush_milestone_point": {
         "classifyType": "NONE",
         "description": "模拟中的对错并不重要，它们只是种辅助，帮助你在实战中做出正确的选择。",
@@ -3373,6 +3389,22 @@
         "sortId": -10000,
         "usage": "装有一个应急理智小样与一份罗德岛物资补给。"
     },
+    "itempack_material_t1": {
+        "classifyType": "NONE",
+        "description": "为了能帮助博士尽快完成基础工作事务，后勤部将可用材料进行了收纳整理供博士使用。",
+        "icon": "itempack_material_t1.png",
+        "name": "罗德岛基础物资补给I",
+        "sortId": -10000,
+        "usage": "由罗德岛后勤部打包整理的材料箱，打开后可获得各类材料。"
+    },
+    "itempack_material_t2": {
+        "classifyType": "NONE",
+        "description": "为了能帮助博士尽快完成基础工作事务，后勤部将可用材料进行了收纳整理供博士使用。",
+        "icon": "itempack_material_t2.png",
+        "name": "罗德岛基础物资补给II",
+        "sortId": -10000,
+        "usage": "由罗德岛后勤部打包整理的材料箱，打开后可获得各类材料。"
+    },
     "itempack_mod_10": {
         "classifyType": "CONSUME",
         "description": "面对训练数据不足的问题，工程部生产了全新的芯片印刻仪以供干员们自行打印。",
@@ -3604,6 +3636,14 @@
         "name": "数据增补仪",
         "sortId": 90002,
         "usage": "用于升级干员的模组。"
+    },
+    "openserver3_point_token": {
+        "classifyType": "NONE",
+        "description": "密密麻麻的字迹记录着如今的情况，也寄托着对罗德岛美好未来的期许。",
+        "icon": "openserver3_point_token.png",
+        "name": "见习笔记",
+        "sortId": -10000,
+        "usage": "记录着见习任务心得的笔记。日常中的点点积累，总有一天能带来丰厚的回报。"
     },
     "precious_material_voucher_perm": {
         "classifyType": "CONSUME",
@@ -3909,6 +3949,14 @@
         "sortId": 60123,
         "usage": "由热心播客乌露露倾情赞助的大礼包，包含红砂镇杂货铺卖剩的各种物资。"
     },
+    "randomMaterial_act55side": {
+        "classifyType": "CONSUME",
+        "description": "人们终于能够自由地选择什么该被记录。在翻阅时，你发现纸张中夹着一面小小的、鲜红的旗帜。",
+        "icon": "randomMaterial_act55side.png",
+        "name": "乌萨斯汇编集",
+        "sortId": 60123,
+        "usage": "由新闻委员会制作的汇编集，记录着乌萨斯发生的大小事件。附带的收纳箱里除了报纸汇编，也包含各种物资。"
+    },
     "randomMaterial_amiya": {
         "classifyType": "CONSUME",
         "description": "里面不仅装着各种物资，还有大家对小寿星最真诚的祝愿。",
@@ -3956,6 +4004,14 @@
         "name": "“神秘动物的口袋”",
         "sortId": 60124,
         "usage": "一个以某种神秘动物为原型制作的背包，可兑换龙门币。"
+    },
+    "randomMaterial_message5": {
+        "classifyType": "CONSUME",
+        "description": "一把质朴的匕首，原来的主人故意没有将它打磨得过分锋利。作为礼物，它更像是一种钢铁历经烈火淬炼的证明。塔露拉将它交给了你，邀请你见证这一段属于无数无名者的历史。",
+        "icon": "randomMaterial_message5.png",
+        "name": "“雪烬”",
+        "sortId": 60126,
+        "usage": "一把用她长剑的残片锻造的匕首，可兑换龙门币。"
     },
     "randomMaterial_rhine2": {
         "classifyType": "CONSUME",

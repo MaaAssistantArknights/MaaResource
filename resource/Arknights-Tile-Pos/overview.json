@@ -19043,6 +19043,105 @@
         "stageId": "act54side_tr01",
         "width": 9
     },
+    "act55side_01-activities/act55side/level_act55side_01": {
+        "code": "TL-1",
+        "filename": "act55side_01-activities-act55side-level_act55side_01.json",
+        "height": 7,
+        "levelId": "activities/act55side/level_act55side_01",
+        "name": "庸俗的实践",
+        "stageId": "act55side_01",
+        "width": 10
+    },
+    "act55side_02-activities/act55side/level_act55side_02": {
+        "code": "TL-2",
+        "filename": "act55side_02-activities-act55side-level_act55side_02.json",
+        "height": 7,
+        "levelId": "activities/act55side/level_act55side_02",
+        "name": "孑遗的道路",
+        "stageId": "act55side_02",
+        "width": 11
+    },
+    "act55side_03-activities/act55side/level_act55side_03": {
+        "code": "TL-3",
+        "filename": "act55side_03-activities-act55side-level_act55side_03.json",
+        "height": 7,
+        "levelId": "activities/act55side/level_act55side_03",
+        "name": "苦难的历程",
+        "stageId": "act55side_03",
+        "width": 11
+    },
+    "act55side_04-activities/act55side/level_act55side_04": {
+        "code": "TL-4",
+        "filename": "act55side_04-activities-act55side-level_act55side_04.json",
+        "height": 7,
+        "levelId": "activities/act55side/level_act55side_04",
+        "name": "刻板的争论",
+        "stageId": "act55side_04",
+        "width": 10
+    },
+    "act55side_05-activities/act55side/level_act55side_05": {
+        "code": "TL-5",
+        "filename": "act55side_05-activities-act55side-level_act55side_05.json",
+        "height": 7,
+        "levelId": "activities/act55side/level_act55side_05",
+        "name": "轰鸣的沉默",
+        "stageId": "act55side_05",
+        "width": 11
+    },
+    "act55side_06-activities/act55side/level_act55side_06": {
+        "code": "TL-6",
+        "filename": "act55side_06-activities-act55side-level_act55side_06.json",
+        "height": 8,
+        "levelId": "activities/act55side/level_act55side_06",
+        "name": "元音的长度",
+        "stageId": "act55side_06",
+        "width": 11
+    },
+    "act55side_07-activities/act55side/level_act55side_07": {
+        "code": "TL-7",
+        "filename": "act55side_07-activities-act55side-level_act55side_07.json",
+        "height": 7,
+        "levelId": "activities/act55side/level_act55side_07",
+        "name": "滚烫的双眸",
+        "stageId": "act55side_07",
+        "width": 11
+    },
+    "act55side_08-activities/act55side/level_act55side_08": {
+        "code": "TL-8",
+        "filename": "act55side_08-activities-act55side-level_act55side_08.json",
+        "height": 7,
+        "levelId": "activities/act55side/level_act55side_08",
+        "name": "潮湿的火焰",
+        "stageId": "act55side_08",
+        "width": 12
+    },
+    "act55side_09-activities/act55side/level_act55side_09": {
+        "code": "TL-9",
+        "filename": "act55side_09-activities-act55side-level_act55side_09.json",
+        "height": 7,
+        "levelId": "activities/act55side/level_act55side_09",
+        "name": "自由的黄昏",
+        "stageId": "act55side_09",
+        "width": 11
+    },
+    "act55side_10-activities/act55side/level_act55side_10": {
+        "code": "TL-10",
+        "filename": "act55side_10-activities-act55side-level_act55side_10.json",
+        "height": 8,
+        "levelId": "activities/act55side/level_act55side_10",
+        "name": "活着的重量",
+        "stageId": "act55side_10",
+        "width": 50
+    },
+    "act55side_tr01-activities/act55side/level_act55side_tr01": {
+        "code": "TL-TR-1",
+        "filename": "act55side_tr01-activities-act55side-level_act55side_tr01.json",
+        "height": 7,
+        "levelId": "activities/act55side/level_act55side_tr01",
+        "name": "战争的艺术",
+        "stageId": "act55side_tr01",
+        "width": 9
+    },
     "act5bossrush_01-activities/act5bossrush/level_bossrush5_01": {
         "code": "TN-1",
         "filename": "act5bossrush_01-activities-act5bossrush-level_bossrush5_01.json",
@@ -28214,6 +28313,15 @@
         "stageId": "mem_haini_1",
         "width": 11
     },
+    "mem_halo2_1-obt/memory/level_memory_halo2_1": {
+        "code": "mem_halo2_1",
+        "filename": "mem_halo2_1-obt-memory-level_memory_halo2_1.json",
+        "height": 7,
+        "levelId": "obt/memory/level_memory_halo2_1",
+        "name": "单相的追索者",
+        "stageId": "mem_halo2_1",
+        "width": 10
+    },
     "mem_halo_1-obt/memory/level_memory_halo_1": {
         "code": "mem_halo_1",
         "filename": "mem_halo_1-obt-memory-level_memory_halo_1.json",
@@ -28402,6 +28510,15 @@
         "name": "危机现场",
         "stageId": "mem_jaksel_1",
         "width": 13
+    },
+    "mem_jcinta_1-obt/memory/level_memory_jcinta_1": {
+        "code": "mem_jcinta_1",
+        "filename": "mem_jcinta_1-obt-memory-level_memory_jcinta_1.json",
+        "height": 7,
+        "levelId": "obt/memory/level_memory_jcinta_1",
+        "name": "淑女的实力",
+        "stageId": "mem_jcinta_1",
+        "width": 10
     },
     "mem_jesca2_1-obt/memory/level_memory_jesca2_1": {
         "code": "mem_jesca2_1",
@@ -29393,6 +29510,15 @@
         "stageId": "mem_snakek_1",
         "width": 9
     },
+    "mem_snhunt_1-obt/memory/level_memory_snhunt_1": {
+        "code": "mem_snhunt_1",
+        "filename": "mem_snhunt_1-obt-memory-level_memory_snhunt_1.json",
+        "height": 7,
+        "levelId": "obt/memory/level_memory_snhunt_1",
+        "name": "裂云兽的狩猎特训",
+        "stageId": "mem_snhunt_1",
+        "width": 11
+    },
     "mem_snsant_1-obt/memory/level_memory_snsant_1": {
         "code": "mem_snsant_1",
         "filename": "mem_snsant_1-obt-memory-level_memory_snsant_1.json",
@@ -29535,6 +29661,15 @@
         "levelId": "obt/memory/level_memory_takila_1",
         "name": "沙滩假期",
         "stageId": "mem_takila_1",
+        "width": 10
+    },
+    "mem_talr_1-obt/memory/level_memory_talr_1": {
+        "code": "mem_talr_1",
+        "filename": "mem_talr_1-obt-memory-level_memory_talr_1.json",
+        "height": 7,
+        "levelId": "obt/memory/level_memory_talr_1",
+        "name": "剪刀的用途",
+        "stageId": "mem_talr_1",
         "width": 10
     },
     "mem_tecno_1-obt/memory/level_memory_tecno_1": {
